@@ -1,6 +1,6 @@
 # Melius
 
-Melius is a modlist based on Starborn Royalty. Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+Melius is a modlist based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966) . Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
 ## Pre-installation Steps
 
@@ -41,4 +41,9 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 Include:
 achiement enabler error messages
 restart to enable sounds
-Don not skip to Lodge if using skip start mod
+Dont not skip to Lodge if using skip start mod
+Start using SFSE only via MO2
+Support, use Discord server
+
+Root Builder
+The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
