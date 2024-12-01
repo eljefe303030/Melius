@@ -36,3 +36,9 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 8. Choose the Mod Installation Location and Resource Download Location paths you set earlier for the installation and mod download folders.
 9. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
 10. Once completed it's installed.
+
+
+Include:
+achiement enabler error messages
+restart to enable sounds
+Don not skip to Lodge if using skip start mod
