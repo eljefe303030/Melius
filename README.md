@@ -77,7 +77,7 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
 1.0 This is the initial release.
 
 ## Support
-Use the [Discord server](https://discord.com/channels/1312851961342726164/1312855086984200252)
+Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
 ## Credits and Thanks
 * The mod authors for all their hard work, skill and imagination.
