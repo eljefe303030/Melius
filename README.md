@@ -6,7 +6,7 @@ I created this list based on my persoanl preferenes and I am sharing this so oth
 
 ## Requirements
 
-I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticable drops in FPS.
+I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticable drops in FPS. However, planet textures can take a second to load, this may be mitigated with a faster SSD.
 
 Your computer will need to meet at least the [minimum requirements specificed by Bethesda](https://help.bethesda.net/#en/answer/60442) 
 
@@ -45,13 +45,24 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 9. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
 10. Once completed it's installed.
 
+## Post-installation Steps
 
-Include:
+### Root Builder
+The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+
 achiement enabler error messages
 restart to enable sounds
 Dont not skip to Lodge if using skip start mod
 Start using SFSE only via MO2
+
+## Important mods you should know about
+
+## Changelog
+
+This is the initial release.
+
+Include:
+
 Support, use Discord server
 
-Root Builder
-The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+
