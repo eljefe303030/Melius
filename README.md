@@ -6,13 +6,13 @@
 
 Melius is a modlist heavily based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
-I created this list based on my persoanl preferenes and I am sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared, I have tested this is much as possible but there is a risk this might not work for everyone. I will endevour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
+I created this list based on my personal preferences and I am sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared. I have tested this as much as possible but there is a risk this might not work for everyone. I will endeavour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
 
 ## Requirements
 
-I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticable drops in FPS. However, planet textures can take a second to load, this may be mitigated with a faster SSD.
+I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. However, planet textures can take a second to load, this may be mitigated with a faster SSD.
 
-Your computer will need to meet at least the [minimum requirements specificed by Bethesda](https://help.bethesda.net/#en/answer/60442) 
+Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442) 
 
 ## Pre-installation Steps
 
@@ -40,7 +40,7 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 ## Using Wabbajack
 
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
-2. 3. Create the installatioin folder e.g. C:\Melius
+2. 3. Create the installation folder e.g. C:\Melius
 4. Create the mod download folder e.g. C:\Melius mod downloads. The download folder can be on a different drive. This can be deleted after the installation has completed but is not advised, as if you want to update or reinstall, you'll need to redownload all the mods again.
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
@@ -54,7 +54,7 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 ### Root Builder
 The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
 
-achiement enabler error messages
+achievement enabler error messages
 restart to enable sounds
 Dont not skip to Lodge if using skip start mod
 Start using SFSE only via MO2
@@ -68,5 +68,6 @@ This is the initial release.
 Include:
 
 Support, use Discord server
+
 
 
