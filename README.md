@@ -1,6 +1,6 @@
 # **Melius**
 
-![Melius](https://github.com/user-attachments/assets/564c1d12-939a-47d0-be26-aad2127f79ba)
+![Melius wide](https://github.com/user-attachments/assets/826eab34-021d-4c22-8322-4e7ac6c02e96)
 
 # Preamble
 
