@@ -1,6 +1,14 @@
-# Melius
+# Preamble
 
-Melius is a modlist based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966) . Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+Melius is a modlist hevily based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+
+I created this list based on my persoanl preferenes and I am sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared, I have tested this is much as possible but there is a risk this might not work for everyone. I will endevour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
+
+## Requirements
+
+I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticable drops in FPS.
+
+Your computer will need to meet at least the [minimum requirements specificed by Bethesda](https://help.bethesda.net/#en/answer/60442) 
 
 ## Pre-installation Steps
 
