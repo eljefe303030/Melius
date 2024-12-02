@@ -51,8 +51,8 @@ If there are any issues with the installation, start Wabbajack again and it will
 ### Root Builder
 The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
 
-1. Launch ModOrganizer.exe in the Meluis installation folder. If you get a popup asking about nxm links. Click Yes.
-2. Only launch Meluis through MO2 via the sfse_loader. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
+1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
+2. Only launch Melius through MO2 via the sfse_loader. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/5d642779-2ff4-426b-9d7a-45bf9276cc71)
 4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
 5. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
