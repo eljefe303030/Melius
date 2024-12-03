@@ -1,0 +1,42 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Melius",
+    "description": "Melius is a modlist heavily based on JaeDL's excellent Starborn Royalty and includes graphic mods and settings by Luxor. Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.",
+    "author": "eljefe",
+    "maintainers": [
+      "github/eljefe303030"
+    ],
+    "game": "starfield",
+    "tags": [
+      "testing",
+      "Total Overhaul",
+      "Visual Overhaul",
+      "Balanced",
+      "Vanilla Plus",
+      "Royal Galaxy"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/Melius.jpeg",
+      "readme": "https://raw.githubusercontent.com/eljefe303030/Melius/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_a1ac134a-be1e-4dc2-a7ff-9428ac28fb89",
+      "machineURL": "eljefe/Melius",
+      "discordURL": "https://discord.gg/ZyakMg7CGN"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "kftfXrO1lTs=",
+      "Size": 735689,
+      "NumberOfArchives": 169,
+      "SizeOfArchives": 92896505352,
+      "NumberOfInstalledFiles": 3358,
+      "SizeOfInstalledFiles": 98413489
+    },
+    "version": "1.0"
+  }
+]
+
