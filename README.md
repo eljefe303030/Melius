@@ -6,6 +6,10 @@ Melius is a modlist heavily based on [JaeDL's](https://next.nexusmods.com/profil
 
 I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared, I have tested this as much as possible but there is a risk this might not work for everyone. I will endeavour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
 
+## Modlist
+
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
+
 ## Requirements
 I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 
