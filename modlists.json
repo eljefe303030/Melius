@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/Melius.jpeg",
+      "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/meliuswide.jpeg",
       "readme": "https://raw.githubusercontent.com/eljefe303030/Melius/main/README.md",
       "download": "https://authored-files.wabbajack.org/Melius.wabbajack_a1ac134a-be1e-4dc2-a7ff-9428ac28fb89",
       "machineURL": "melius",
