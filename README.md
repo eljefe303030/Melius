@@ -21,7 +21,7 @@ Installation folder takes up approx 95GB and the download folder takes up anothe
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime) (both console apps and desktop apps x64).
 3. Fully disable OneDrive and any other programs that affect user file areas.
-4. Reinstall Starfield into a location that is not Program Files. Somewhere like C:\Games is a good location. You MUST have the latest version of Starfield, version 1.14.74.0 and it MUST be a clean install.
+4. Reinstall Starfield into a location that is not Program Files. Somewhere like C:\Games is a good location. You MUST have the latest version Steam of Starfield, version 1.14.74.0 and it MUST be a clean install.
 5. Set Starfield to not automatically update.
 6. Right click Starfield in Steam, click Properties, disable Enable the Steam overlay while in-game.
 4. Language set to English. You can check translations of the modes on NexusMods but I cannot support you with that.
