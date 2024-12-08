@@ -15,7 +15,7 @@ I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800
 
 Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442) 
 
-Installation folder takes up approx 95GB and the download folder takes up another 90GB.
+Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
 
 ## Pre-installation Steps
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
@@ -84,6 +84,10 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 3. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
 4. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy.
 
+## Known Issues
+
+1. MO2 will report SFBGS004.esm and ShatteredSpace.esm as unmanaged. This is not something that will affect you, the game will run correctly. This is due to the version of MO2 we are allowed to use. The latest MO2 dev build fixes this but we are unable to include that in a Wabbajack list. 
+2. The Explorer Spacesuit Replacer - Starborn Mesh Swap mod causes the Explorer spacesuit, helmet, and boostpack meshes to not show. For example, Dr Percial Walker when wearing a spacesuit will have a missing body. Disable this mod to fix this, this can be done safely without starting a new save. I will remove this mod in the next version.
 
 ## Changelog
 
@@ -93,8 +97,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
 ## Credits and Thanks
+* JaeDL for permission to use Starborn Royalty as a basis for this list.
 * The mod authors for all their hard work, skill and imagination.
 * The Wabbajack team for making a tool that makes this possible.
 * Anyone who tries this list.
-
-
