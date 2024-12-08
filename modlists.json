@@ -21,7 +21,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/meliuswide.png",
-      "readme": "https://raw.githubusercontent.com/eljefe303030/Melius/main/README.md",
+      "readme": "https://github.com/eljefe303030/Melius/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Melius.wabbajack_a1ac134a-be1e-4dc2-a7ff-9428ac28fb89",
       "machineURL": "melius",
       "discordURL": "https://discord.gg/ZyakMg7CGN"
