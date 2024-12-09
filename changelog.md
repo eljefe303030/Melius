@@ -9,6 +9,8 @@
 
 ### Fixed 
 * Explorer spacesuit, helmet, and boostpack meshes not showing
+
+<details open>
   
 ### Added
 * Muse (sonorous mix) Main Menu music replacer
@@ -43,6 +45,8 @@
 ### Removed
 * Gripe Fixes
 * Explorer Spacesuit Replacer - Starborn Mesh Swap
+
+</details>
 
 ## Version 1.0
 
