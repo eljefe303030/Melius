@@ -1,7 +1,7 @@
 # Changelog
 
 * Version 1.1 (realeased TBC)
-* [Version 1.0 released 04/12/2024](#version-10)
+* [Version 1.0 (released 04/12/2024)](#version-10)
 
 
 ## Version 1.1
@@ -10,7 +10,7 @@
 ### Fixed 
 * Explorer spacesuit, helmet, and boostpack meshes not showing
 
-<details open>
+<details>
   
 ### Added
 * Muse (sonorous mix) Main Menu music replacer
