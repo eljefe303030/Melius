@@ -1,6 +1,6 @@
 # Changelog
 
-* Version 1.1 (realeased TBC)
+* [Version 1.1 (realeased TBC)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
 
