@@ -12,6 +12,9 @@
 
 <details>
   
+### Updated
+* Starfield Engine Fixes - SFSE
+  
 ### Added
 * Muse (sonorous mix) Main Menu music replacer
 * Advanced Hand Scanner
