@@ -35,6 +35,7 @@
 ### Removed
 * Gripe Fixes
 * Explorer Spacesuit Replacer - Starborn Mesh Swap
+* PopcornTime - Cinematic Combat and Ambient Music Overhaul
 
 </details>
 
