@@ -129,6 +129,15 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 1.0 This is the initial release.
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
+## Updating the Modlist
+
+Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new save after certain updates.
+
+Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
+
+Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
+![NoDelete prefix](https://github.com/user-attachments/assets/e9d88441-20be-45a2-a4dc-ad59a7a9a385)
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
