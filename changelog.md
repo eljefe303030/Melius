@@ -9,11 +9,13 @@
 
 ### Fixed 
 * Explorer spacesuit, helmet, and boostpack meshes not showing
+* MO2 reporting SFBGS004.esm and ShatteredSpace.esm as unmanaged and changing the load order.
 
 <details>
   
 ### Updated
 * Starfield Engine Fixes - SFSE
+* MO2
   
 ### Added
 * Muse (sonorous mix) Main Menu music replacer
