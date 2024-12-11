@@ -23,8 +23,16 @@ Please read all of this document before playing the list.
 * [Modlist](#modlist)
 * [Requirements](#requirements)
 * [Pre-installation Steps](#pre-installation-steps)
+* [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
+* [Using Wabbajack](#using-wabbajack)
+* [Post-installation Steps](#post-installation-steps)
+  * [Root Builder](#root-builder)
+* [Important mods you should know about](#important-mods-you-should-know-about)
+* [Optional Mods](#optional-mods)
+* [Known Issues](#known-issues)
 * [Changelog](#changelog)
-* 
+* [Support](#support) 
+* [Credits and Thanks](#credits-and-thanks)
 
 </details>
  
