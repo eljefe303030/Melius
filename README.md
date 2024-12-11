@@ -44,11 +44,10 @@ I created this list based on my personal preferences and I'm sharing this so oth
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
 
 ## Requirements
-I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
-
-Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442) 
-
-Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
+* I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
+* Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442) 
+* Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
+* You need the latest Steam version (1.14.74.0) of the game. You are not required to have the Shattered Space DLC, mods that use this DLC will automatically be disabled when you start the game through MO2.
 
 ## Pre-installation Steps
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
@@ -121,6 +120,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 
 1. MO2 will report SFBGS004.esm and ShatteredSpace.esm as unmanaged. This is not something that will affect you, the game will run correctly. This is due to the version of MO2 we are allowed to use. The latest MO2 dev build fixes this but we are unable to include that in a Wabbajack list. 
 2. The Explorer Spacesuit Replacer - Starborn Mesh Swap mod causes the Explorer spacesuit, helmet, and boostpack meshes to not show. For example, Dr Percial Walker when wearing a spacesuit will have a missing body. Disable this mod to fix this, this can be done safely without starting a new save. I will remove this mod in the next version.
+3. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 
 ## Changelog
 
