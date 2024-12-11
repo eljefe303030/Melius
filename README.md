@@ -1,10 +1,31 @@
 # **Melius**
 ![Melius wide](https://github.com/user-attachments/assets/826eab34-021d-4c22-8322-4e7ac6c02e96)
 
-[This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
 
-[Nexus Page](https://www.nexusmods.com/starfield/mods/12658) / [Discord](https://discord.gg/ZyakMg7CGN) / [Full Modlist](https://loadorderlibrary.com/lists/melius-2) / [Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
+<p align="center">
+  <a href="https://www.nexusmods.com/starfield/mods/12658">Nexus Page</a> |
+  <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
+  <a href="https://loadorderlibrary.com/lists/melius-2">Full Modlist</a> |
+  <a href="https://github.com/eljefe303030/Melius/blob/main/changelog.md">Changelog</a>
+ </p>
 
+<p align="center">
+Please read all of this document before playing the list.
+</p>
+
+# Contents List
+
+<details>
+
+* [Preamble](#preamble)
+* [Modlist](#modlist)
+* [Changelog](changelog)
+* 
+
+</details>
+ 
 # Preamble
 Melius is a modlist heavily based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
