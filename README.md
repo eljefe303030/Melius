@@ -21,7 +21,7 @@ Please read all of this document before playing the list.
 
 * [Preamble](#preamble)
 * [Modlist](#modlist)
-* [Changelog](changelog)
+* [Changelog](#changelog)
 * 
 
 </details>
