@@ -11,9 +11,7 @@
   <a href="https://github.com/eljefe303030/Melius/blob/main/changelog.md">Changelog</a>
  </p>
 
-<p align="center">
-Please read all of this document before playing the list.
-</p>
+## Please read ALL of this document before playing the list.
 
 # Contents List
 
