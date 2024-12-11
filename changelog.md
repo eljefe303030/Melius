@@ -29,13 +29,10 @@
 * Spacers EIT Z Distributed
 * Show Date When Waking Up
 * Sarah Morgan Dialogue Enhanced
-* Stellar Soundtrack
-* City Background Music
 
 ### Removed
 * Gripe Fixes
 * Explorer Spacesuit Replacer - Starborn Mesh Swap
-* PopcornTime - Cinematic Combat and Ambient Music Overhaul
 
 </details>
 
