@@ -29,10 +29,13 @@
 * Spacers EIT Z Distributed
 * Show Date When Waking Up
 * Sarah Morgan Dialogue Enhanced
+* Simple Immersive Looting
+* Winds of Akila
 
 ### Removed
 * Gripe Fixes
 * Explorer Spacesuit Replacer - Starborn Mesh Swap
+* Shades Immersive Looting (strip and loot equipped armor)
 
 </details>
 
