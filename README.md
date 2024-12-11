@@ -118,9 +118,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 
 ## Known Issues
 
-1. MO2 will report SFBGS004.esm and ShatteredSpace.esm as unmanaged. This is not something that will affect you, the game will run correctly. This is due to the version of MO2 we are allowed to use. The latest MO2 dev build fixes this but we are unable to include that in a Wabbajack list. 
-2. The Explorer Spacesuit Replacer - Starborn Mesh Swap mod causes the Explorer spacesuit, helmet, and boostpack meshes to not show. For example, Dr Percial Walker when wearing a spacesuit will have a missing body. Disable this mod to fix this, this can be done safely without starting a new save. I will remove this mod in the next version.
-3. Planet textures can take a second to load, this may be mitigated with a faster SSD.
+1. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 
 ## Changelog
 
