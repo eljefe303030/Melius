@@ -21,6 +21,8 @@ Please read all of this document before playing the list.
 
 * [Preamble](#preamble)
 * [Modlist](#modlist)
+* [Requirements](#requirements)
+* [Pre-installation Steps](preinstallation-Steps)
 * [Changelog](#changelog)
 * 
 
@@ -117,6 +119,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 ## Changelog
 
 1.0 This is the initial release.
+[Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
