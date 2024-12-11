@@ -124,7 +124,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 
 ## Changelog
 
-1.0 This is the initial release.
+1.1 Small update that fixes a couple of small issues and adds a few cosmetic extras. This is a save game safe update.
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
 ## Updating the Modlist
