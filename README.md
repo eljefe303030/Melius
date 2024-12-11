@@ -22,7 +22,7 @@ Please read all of this document before playing the list.
 * [Preamble](#preamble)
 * [Modlist](#modlist)
 * [Requirements](#requirements)
-* [Pre-installation Steps](#preinstallation-Steps)
+* [Pre-installation Steps](#pre-installation-steps)
 * [Changelog](#changelog)
 * 
 
