@@ -125,7 +125,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 ## Known Issues
 
 1. Planet textures can take a second to load, this may be mitigated with a faster SSD.
-2. Main music on NG plus is a mess. I will make a fix for this.
+2. Main menu music on NG plus is vanilla. I am working on a fix for this.
 
 ## Changelog
 
