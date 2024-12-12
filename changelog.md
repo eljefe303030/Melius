@@ -1,8 +1,14 @@
 # Changelog
 
+*
 * [Version 1.1 (released 11/12/2024)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
+## Version 1.1.1
+* Fixed some installation errors that some people were getting.
+
+### Removed 
+* Companions Conversations Fix
 
 ## Version 1.1
 **This update is save-safe.**
