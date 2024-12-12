@@ -54,7 +54,6 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 3. RoyalLeveledEnemiesSS.esm
 4. RoyalWeathersVaRuunkai2.esm
 5. SmarterSpacesuitAutohide_SFBGS001.esm
-6. Recycler patch
 
 ## Pre-installation Steps
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
