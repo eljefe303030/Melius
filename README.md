@@ -49,7 +49,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
-* If you do not have the Shattered Space DLC and have errors installing the list, try the 1.0 version of Melius from Nexus. If you are still having issues, please report this on my Discord server so I can try and make a work around. Once installed, you will need to disable the following mods before playing if you don't have the DLC:
+* If you do not have the Shattered Space DLC and have errors installing the list, try the [1.0 version](https://www.nexusmods.com/starfield/mods/12658?tab=files&file_id=48085) of Melius from [Nexus](https://www.nexusmods.com/starfield/mods/12658). If you are still having issues, please report this on my Discord server so I can try and make a work around. Once installed, you will need to disable the following mods before playing if you don't have the DLC:
 1. Aurie_StayPutShatteredSpace.esm
 2. RRLD - Rabbit's Real Lights Dazra.esm
 3. RoyalLeveledEnemiesSS.esm
