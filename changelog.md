@@ -6,7 +6,7 @@
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
 ## Verstion 1.1.2
-* Improved installation so compatible whether you have the Shattered Space DLC or not.
+* Improved installation that is compatible whether you have the Shattered Space DLC or not.
 
 ## Version 1.1.1
 * Fixed some installation errors that some people were getting.
