@@ -127,6 +127,8 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 
 1. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 2. Main menu music on NG plus is vanilla. I am working on a fix for this.
+3. Controller Vibration for Maelstrom and Grendel guns is low to non-existant.
+4. The larger your inventory contents the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 
 ## Changelog
 
