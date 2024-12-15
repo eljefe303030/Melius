@@ -49,12 +49,6 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
-* If you do not have the Shattered Space DLC and have errors installing the list, try the [1.0 version](https://www.nexusmods.com/starfield/mods/12658?tab=files&file_id=48085) of Melius from [Nexus](https://www.nexusmods.com/starfield/mods/12658). If you are still having issues, please report this on my Discord server so I can try and make a work around. Once installed, you will need to disable the following mods before playing if you don't have the DLC:
-1. Aurie_StayPutShatteredSpace.esm
-2. RRLD - Rabbit's Real Lights Dazra.esm
-3. RoyalLeveledEnemiesSS.esm
-4. RoyalWeathersVaRuunkai2.esm
-5. SmarterSpacesuitAutohide_SFBGS001.esm
 
 ## Pre-installation Steps
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
@@ -95,13 +89,28 @@ If there are any issues with the installation, start Wabbajack again and it will
 The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
 
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
+
+### Shattered Space DLC
+* If you do not have the Shattered Space DLC, keep the 'Melius No DLC' profile selected and **do not** enable any of the following mods:
+  
+  ![Melius No DLC profile](https://github.com/user-attachments/assets/25cc32a3-1b07-4c3f-896f-8e9a435ba683)
+  1. Aurie_StayPutShatteredSpace.esm
+  2. RRLD - Rabbit's Real Lights Dazra.esm
+  3. RoyalLeveledEnemiesSS.esm
+  4. RoyalWeathersVaRuunkai2.esm
+  5. SmarterSpacesuitAutohide_SFBGS001.esm
+ 
+* If you do have the Shattered Space DLC, change to the 'Melius Shattered Space' profile.
+
+  ![Melius Shattered Space profile](https://github.com/user-attachments/assets/a7c54e28-8684-4f87-8fcf-c3835d8134b8)
+
 2. Only launch Melius through MO2 via the sfse_loader. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/5d642779-2ff4-426b-9d7a-45bf9276cc71)
-4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
-5. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
-6. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works.
-7. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
-8. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
+3. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
+4. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
+5. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works.
+6. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+7. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
 
 ## Important mods you should know about
 
@@ -128,11 +137,17 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 1. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 2. Main menu music on NG plus is vanilla. I am working on a fix for this.
 3. Controller Vibration for Maelstrom and Grendel guns is low to non-existant.
-4. The larger your inventory contents the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
+4. The larger your inventory contents, the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
+* If you do not have the Shattered Space DLC and have errors installing the list, try the [1.0 version](https://www.nexusmods.com/starfield/mods/12658?tab=files&file_id=48085) of Melius from [Nexus](https://www.nexusmods.com/starfield/mods/12658). If you are still having issues, please report this on my Discord server so I can try and make a work around. Once installed, you will need to disable the following mods before playing if you don't have the DLC:
+  1. Aurie_StayPutShatteredSpace.esm
+  2. RRLD - Rabbit's Real Lights Dazra.esm
+  3. RoyalLeveledEnemiesSS.esm
+  4. RoyalWeathersVaRuunkai2.esm
+  5. SmarterSpacesuitAutohide_SFBGS001.esm
 
 ## Changelog
 
-1.1.1 Small update that fixes an instalklation issue some people had. This is a save game safe update.
+1.1.2 Small update that provides an improved installation that is compatible whether you have the Shattered Space DLC or not. This is a save game safe update.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
