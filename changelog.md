@@ -18,6 +18,12 @@
 * Improved NAT Lettering
 * Immersive Contraband - Stolen Artwork
 * Rabbit's Real Lights Eleos Retreat
+* Light in the Dark - Akila City
+* Light in the Dark - New Atlantis
+* Freestar Space Encounter Hostility Fix
+* Undelayed Menus
+* Responsive Grabbing
+* 
 
 ### Updated
 * Muse (sonorous mix) Main Menu music replacer
