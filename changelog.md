@@ -1,16 +1,34 @@
 # Changelog
 
+* [Version 1.2.0 (released TBC)](#version-120)
 * [Version 1.1.2 (released 15/12/2024)](#version-112)
 * [Version 1.1.1 (released 12/12/2024)](#version-111)
 * [Version 1.1 (released 11/12/2024)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
-## Verstion 1.1.2
+## Version 1.2.0
+**This update is save-safe.**
+* Adds a number of mods that...
+
+<details>
+
+### Added
+* All Cockpits Have Nav Consoles
+* Immersive Shell Casings
+* Improved NAT Lettering
+* Immersive Contraband - Stolen Artwork
+* Rabbit's Real Lights Eleos Retreat
+
+### Updated
+* Muse (sonorous mix) Main Menu music replacer
+
+</details>
+
+## Version 1.1.2
 **This update is save-safe.**
 * Improved installation that is compatible whether you have the Shattered Space DLC or not.
 
 ### Added
-
 * Companions Conversations Fix
 
 ## Version 1.1.1
