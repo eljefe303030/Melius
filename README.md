@@ -31,6 +31,7 @@
 * [Modifications to the modlist](#modifications-to-the-modlist)
 * [Known Issues](#known-issues)
 * [Changelog](#changelog)
+* [Updating the Modlist](#updating-the-modlist)
 * [Support](#support) 
 * [Credits and Thanks](#credits-and-thanks)
 
