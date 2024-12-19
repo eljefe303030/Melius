@@ -157,6 +157,8 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 
 Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new save after certain updates.
 
+It is recommended that before updating to save the game whilst you are in space, standing in your spaceship, doing nothing.
+
 Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
 
 Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
