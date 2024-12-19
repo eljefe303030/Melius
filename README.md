@@ -25,6 +25,7 @@
 * [Using Wabbajack](#using-wabbajack)
 * [Post-installation Steps](#post-installation-steps)
   * [Root Builder](#root-builder)
+  * [Shattered Space DLC](#shattered-space-dlc)
 * [Important mods you should know about](#important-mods-you-should-know-about)
 * [Optional Mods](#optional-mods)
 * [Known Issues](#known-issues)
