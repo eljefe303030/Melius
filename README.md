@@ -28,6 +28,7 @@
   * [Shattered Space DLC](#shattered-space-dlc)
 * [Important mods you should know about](#important-mods-you-should-know-about)
 * [Optional Mods](#optional-mods)
+* [Modifications to the modlist](#modifications-to-the-modlist)
 * [Known Issues](#known-issues)
 * [Changelog](#changelog)
 * [Support](#support) 
