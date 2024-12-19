@@ -9,6 +9,10 @@
 **This update is save-safe.**
 * Improved installation that is compatible whether you have the Shattered Space DLC or not.
 
+### Added
+
+* Companions Conversations Fix
+
 ## Version 1.1.1
 **This update is save-safe.**
 * Fixed some installation errors that some people were getting.
