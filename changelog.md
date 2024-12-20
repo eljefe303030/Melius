@@ -23,7 +23,7 @@
 * Freestar Space Encounter Hostility Fix
 * Undelayed Menus
 * Responsive Grabbing
-* 
+* Retina - Photorealistic Eyes Overhaul
 
 ### Updated
 * Muse (sonorous mix) Main Menu music replacer
