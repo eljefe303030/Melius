@@ -28,6 +28,7 @@
 * Proper Companion Previews
 * Summoning of Ship - Ship Remote Control - Land - Take off - Set gravity
 * Immersive New Atlantis City Map
+* Improved Transit Signs for New Atlantis
 
 ### Updated
 * Muse (sonorous mix) Main Menu music replacer
