@@ -12,6 +12,9 @@
 
 <details>
 
+### Fixed
+* Crosshair issue if playing with a female character in third person and aiming down sights
+
 ### Added
 * All Cockpits Have Nav Consoles
 * Immersive Shell Casings
@@ -22,12 +25,15 @@
 * Light in the Dark - New Atlantis
 * Freestar Space Encounter Hostility Fix
 * Undelayed Menus
-* Responsive Grabbing
+* Responsive Grabbing (ini tweak)
 * Retina - Photorealistic Eyes Overhaul
 * Improved Follower Behavior
 * Summoning of Ship - Ship Remote Control - Land - Take off - Set gravity
 * Immersive New Atlantis City Map
 * Improved Transit Signs for New Atlantis
+* NPC Female Height Patch
+* Winds of New Atlantis (Vanila)
+* Vanilla Flashlight Improved (VFI) (optional mod)
 
 ### Updated
 * Muse (sonorous mix) Main Menu music replacer
