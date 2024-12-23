@@ -177,6 +177,7 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
 ## Credits and Thanks
 * JaeDL for permission to use Starborn Royalty as a basis for this list.
+* [Seb263](https://www.nexusmods.com/starfield/users/825950) for the [Responsive Grabbing](https://www.nexusmods.com/starfield/mods/289) ini setting.
 * The mod authors for all their hard work, skill and imagination.
 * The Wabbajack team for making a tool that makes this possible.
 * Anyone who tries this list.
