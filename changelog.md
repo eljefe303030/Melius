@@ -37,6 +37,7 @@
 
 ### Updated
 * Muse (sonorous mix) Main Menu music replacer
+* Console Command Runner Updated
 
 </details>
 
