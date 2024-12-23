@@ -83,10 +83,11 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 4. Create the mod download folder e.g. C:\Melius mod downloads. The download folder can be on a different drive. This can be deleted after the installation has completed but is not advised, as if you want to update or reinstall, you'll need to redownload all the mods again.
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
-7. Browse the [Starfield modlists](https://www.wabbajack.org/gallery?selectedGame=Starfield) to choose Melius. You may need to filter by unoffical lists.
-8. Choose the Mod Installation Location and Resource Download Location paths you set earlier for the installation and mod download folders.
-9. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
-10. Once completed, it's installed.
+7. Make sure you are logged into Nexus. Click on the gear icon in the top right hand corner and click login to Nexus Mods.
+8. Browse the [Starfield modlists](https://www.wabbajack.org/gallery?selectedGame=Starfield) to choose Melius. You may need to filter by unoffical lists.
+9. Choose the Mod Installation Location and Resource Download Location paths you set earlier for the installation and mod download folders.
+10. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
+11. Once completed, it's installed.
 
 If there are any issues with the installation, start Wabbajack again and it will continue from where it left off.
 
