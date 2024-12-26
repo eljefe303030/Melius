@@ -111,7 +111,7 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
 
   ![Melius Shattered Space profile](https://github.com/user-attachments/assets/a7c54e28-8684-4f87-8fcf-c3835d8134b8)
 
-2. Only launch Melius through MO2 via the sfse_loader. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
+2. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
 5. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
