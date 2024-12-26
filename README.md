@@ -170,6 +170,13 @@ It is recommended that before updating to save the game whilst you are in space,
 
 Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
 
+If you have the Shattered Space DLC, remember to select the 'Melius Shattered Space' profile in MO2, as it will default to the 'Melius No DLC' profile.
+
+If you get a message like the below, choose 'No'
+![Missing content](https://github.com/user-attachments/assets/60522711-6dde-46b1-a8e6-c006d28eca17)
+
+If the update has removed any mods, you'll get the following message, choose 'Yes'
+
 Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
 ![NoDelete prefix](https://github.com/user-attachments/assets/e9d88441-20be-45a2-a4dc-ad59a7a9a385)
 
