@@ -33,11 +33,22 @@
 * Improved Transit Signs for New Atlantis
 * NPC Female Height Patch
 * Winds of New Atlantis (Vanila)
+* Neon Entertainer's Outfit
+* Some Alternate Akila Sign Text
 * Vanilla Flashlight Improved (VFI) (optional mod)
+* DualSense - PS5 Icons (optional mod)
 
 ### Updated
 * Muse (sonorous mix) Main Menu music replacer
 * Console Command Runner Updated
+* HiVis Scope Crosshair Replacement - Ultrawide Compatible - Shattered Space Compatible
+* Variable Contraband Prices - Redux
+* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
+* Skip Intro
+* Reverted some UI colours back to vanilla
+
+### Removed
+* Auto Hide HUD - SFSE
 
 </details>
 
