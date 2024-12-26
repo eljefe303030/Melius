@@ -153,20 +153,12 @@ Any modifications you make to the modlist, other than the optional mods listed a
 ## Known Issues
 
 1. Planet textures can take a second to load, this may be mitigated with a faster SSD.
-2. Main menu music on NG plus is vanilla. I am working on a fix for this.
-3. Playing as a female character in third person, crosshair jumps upwards when aiming down sight. This will be fixed in next update but you can disable the 'NPC Height Variation Toolkit' mod in the meantime if this affects you.
-4. Controller Vibration for Maelstrom and Grendel guns is low to non-existant.
-5. The larger your inventory contents, the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
-* If you do not have the Shattered Space DLC and have errors installing the list, try the [1.0 version](https://www.nexusmods.com/starfield/mods/12658?tab=files&file_id=48085) of Melius from [Nexus](https://www.nexusmods.com/starfield/mods/12658). If you are still having issues, please report this on my Discord server so I can try and make a work around. Once installed, you will need to disable the following mods before playing if you don't have the DLC:
-  1. Aurie_StayPutShatteredSpace.esm
-  2. RRLD - Rabbit's Real Lights Dazra.esm
-  3. RoyalLeveledEnemiesSS.esm
-  4. RoyalWeathersVaRuunkai2.esm
-  5. SmarterSpacesuitAutohide_SFBGS001.esm
+2. Controller Vibration for Maelstrom and Grendel guns is low to non-existant.
+3. The larger your inventory contents, the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 
 ## Changelog
 
-1.1.2 Small update that provides an improved installation that is compatible whether you have the Shattered Space DLC or not. This is a save game safe update.
+1.2.0 Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes. This is a save game safe update.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
