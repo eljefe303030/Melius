@@ -50,7 +50,10 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 ## Requirements
 * I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
-* Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442) 
+* Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
+* Your graphics card should have at least:
+    For full HD and 1440p = 8GB
+    For UWQHD and 4k = 16GB
 * Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
