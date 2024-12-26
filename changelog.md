@@ -49,6 +49,7 @@
 
 ### Removed
 * Auto Hide HUD - SFSE
+* Starfield Billboards and Posters
 
 </details>
 
