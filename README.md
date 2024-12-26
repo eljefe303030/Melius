@@ -57,7 +57,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
   For UWQHD and 4k = 16GB
   
-* Installation folder takes up approx 95GB and the download folder takes up another 90GB. A total of 179GB is needed, including temporary installation files, if both folders are on one drive.
+* Installation folder takes up approx 93GB and the download folder takes up another 88GB. A total of 181GB is needed, including temporary installation files, if both folders are on one drive.
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
 
