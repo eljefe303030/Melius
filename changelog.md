@@ -8,7 +8,7 @@
 
 ## Version 1.2.0
 **This update is save-safe.**
-* Adds a number of mods that...
+* Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes.
 
 <details>
 
@@ -32,7 +32,7 @@
 * Immersive New Atlantis City Map
 * Improved Transit Signs for New Atlantis
 * NPC Female Height Patch
-* * Neon Entertainer's Outfit
+* Neon Entertainer's Outfit
 * Some Alternate Akila Sign Text
 * Vanilla Flashlight Improved (VFI) (optional mod)
 * DualSense - PS5 Icons (optional mod)
