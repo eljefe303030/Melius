@@ -32,8 +32,7 @@
 * Immersive New Atlantis City Map
 * Improved Transit Signs for New Atlantis
 * NPC Female Height Patch
-* Winds of New Atlantis (Vanila)
-* Neon Entertainer's Outfit
+* * Neon Entertainer's Outfit
 * Some Alternate Akila Sign Text
 * Vanilla Flashlight Improved (VFI) (optional mod)
 * DualSense - PS5 Icons (optional mod)
