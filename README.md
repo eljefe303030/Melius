@@ -112,12 +112,12 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
   ![Melius Shattered Space profile](https://github.com/user-attachments/assets/a7c54e28-8684-4f87-8fcf-c3835d8134b8)
 
 2. Only launch Melius through MO2 via the sfse_loader. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
-![start SFSE](https://github.com/user-attachments/assets/5d642779-2ff4-426b-9d7a-45bf9276cc71)
-3. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
-4. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
-5. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works.
-6. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
-7. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
+![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
+4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
+5. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
+6. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works.
+7. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+8. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
 
 ## Important mods you should know about
 
