@@ -6,6 +6,19 @@
 * [Version 1.1 (released 11/12/2024)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
+## Version ???
+No release date planned for the next update unless any significant bugs are found. Allowing time for the current version to be checked for any issues first.
+
+### Fixed
+* White Dwarf 2000 engine having different thrust values when installed on the left or right side of a ship.
+
+### Added
+* Immersive Landing Ramps
+* White Dwarf 2000 Patch for Royal Skies Space Combat
+
+### Removed
+* Winds of Akila
+
 ## Version 1.2.0
 **This update is save-safe.**
 * Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes.
