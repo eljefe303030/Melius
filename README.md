@@ -90,7 +90,7 @@ To prevent crashes, you will need to set the pagefile to a minimum and maximum s
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
 7. Make sure you are logged into Nexus. Click on the gear icon in the top right hand corner and click login to Nexus Mods.
-8. Browse the [Starfield modlists](https://www.wabbajack.org/gallery?selectedGame=Starfield) to choose Melius. You may need to filter by unoffical lists.
+8. Browse the [Starfield modlists](https://www.wabbajack.org/gallery?selectedGame=Starfield) to choose Melius. You may need to filter by unofficial lists.
 9. Choose the Mod Installation Location and Resource Download Location paths you set earlier for the installation and mod download folders.
 10. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
 11. Once completed, it's installed.
@@ -146,15 +146,15 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 3. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
 4. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy.
 5. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller
-6. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlist. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
+6. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
 
 ### Modifications to the modlist
-Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Dicord server.
+Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Discord server.
 
-## Gamplay Guide
+## Gameplay Guide
 
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
-* [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, whcih means you will have more saves and will need to peridoically delete saves as and when needed.
+* [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
 * Multiple mods change UI elements to 60 fps.
 * [Fast Travel To Unknown](https://www.nexusmods.com/starfield/mods/6663) means you can fast travel to unknown POIs when using the hand scanner.
 * [Auto Unlock SFSE](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.
@@ -176,8 +176,8 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 1. White Dwarf 2000 engine has different thrust values for left and right engines in the ship builder. This will be fixed in the next release. In the meantime you can install my [patch](https://www.nexusmods.com/starfield/mods/12836) and set it to load immediately after Royal Skies - Complete (aka Royal Skiles Space Combat) (right hand pane of MO2).
 2. Planet textures can take a second to load, this may be mitigated with a faster SSD.
-3. Controller Vibration for Maelstrom and Grendel guns is low to non-existant.
-4. The larger your inventory contents, the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
+3. Controller Vibration for Maelstrom and Grendel guns is low to non-existent.
+4. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 
 ## Changelog
 
