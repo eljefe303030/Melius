@@ -9,6 +9,8 @@
 ## Version ???
 No release date planned for the next update unless any significant bugs are found. Allowing time for the current version to be checked for any issues first.
 
+<details>
+
 ### Fixed
 * White Dwarf 2000 engine having different thrust values when installed on the left or right side of a ship.
 
@@ -18,6 +20,8 @@ No release date planned for the next update unless any significant bugs are foun
 
 ### Removed
 * Winds of Akila
+
+</details>
 
 ## Version 1.2.0
 **This update is save-safe.**
