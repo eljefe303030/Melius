@@ -138,7 +138,6 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
 7. Various mods to change the transitions and animations to make them more immersive and less annoying
 8. [Rabbit’s suite of mods](https://next.nexusmods.com/profile/RabbitDoesStuff?gameId=4187) to make area lighting more realistic and playable i.e. not having to walk around in the dark when there are lights around you!
 9. [Simple Immersive Helmets](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.
-10. Plus lots more.
 
 ## Optional Mods
 
