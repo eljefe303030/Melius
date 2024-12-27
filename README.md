@@ -29,6 +29,8 @@
 * [Important mods you should know about](#important-mods-you-should-know-about)
 * [Optional Mods](#optional-mods)
 * [Modifications to the modlist](#modifications-to-the-modlist)
+* [Gameplay Guide](gameplay-guide)
+* [Note for Content Creators](note-for-content-creators)
 * [Known Issues](#known-issues)
 * [Changelog](#changelog)
 * [Updating the Modlist](#updating-the-modlist)
