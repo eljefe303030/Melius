@@ -152,7 +152,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 
 ## Known Issues
 
-1. White Dwarf 2000 engine has different thrust values for left and right engines in the ship builder. This will be fixed in the next release.
+1. White Dwarf 2000 engine has different thrust values for left and right engines in the ship builder. This will be fixed in the next release. In the meantime you can install my [patch](https://www.nexusmods.com/starfield/mods/12836) and set it to load immediately after Royal Skies - Complete (aka Royal Skiles Space Combat) (right hand pane of MO2).
 2. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 3. Controller Vibration for Maelstrom and Grendel guns is low to non-existant.
 4. The larger your inventory contents, the more lag you will experiance when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
