@@ -17,9 +17,17 @@ No release date planned for the next update unless any significant bugs are foun
 ### Added
 * Immersive Landing Ramps
 * White Dwarf 2000 Patch for Royal Skies Space Combat
+* Bottles Labels Overhaul
+* Supervisor Lin Clean
+* Heller Had A Shower CLEAN Version
+* HQ - DigiPick and CreditStick
+* Marked Landmark Books
+* Landing Animation Reloaded
+* Stellar Glass
 
 ### Removed
 * Winds of Akila
+* Precious Metal Credsticks
 
 </details>
 
