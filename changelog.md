@@ -6,7 +6,7 @@
 * [Version 1.1 (released 11/12/2024)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
-## Version ???
+## Version 1.3 (release date: T-minus whenever it feels right)
 No release date planned for the next update unless any significant bugs are found. Allowing time for the current version to be checked for any issues first.
 
 <details>
