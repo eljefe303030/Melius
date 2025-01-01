@@ -13,6 +13,7 @@ No release date planned for the next update unless any significant bugs are foun
 
 ### Fixed
 * White Dwarf 2000 engine having different thrust values when installed on the left or right side of a ship.
+* Headshot sponginess at higher levels
 
 ### Added
 * Immersive Landing Ramps
@@ -24,6 +25,11 @@ No release date planned for the next update unless any significant bugs are foun
 * Marked Landmark Books
 * Landing Animation Reloaded
 * Stellar Glass
+* Livelier Lodge Indoor Garden
+* More Books II
+
+### Updated
+* Human Damage (Just a Flesh Wound - Bullet in the Head)
 
 ### Removed
 * Winds of Akila
