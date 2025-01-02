@@ -27,6 +27,7 @@ No release date planned for the next update unless any significant bugs are foun
 * Stellar Glass
 * Livelier Lodge Indoor Garden
 * More Books II
+* Starfield Menu Background
 
 ### Updated
 * Human Damage (Just a Flesh Wound - Bullet in the Head)
@@ -34,6 +35,7 @@ No release date planned for the next update unless any significant bugs are foun
 ### Removed
 * Winds of Akila
 * Precious Metal Credsticks
+* Constellation Menu Backgrounds (Starfield Edition)
 
 </details>
 
