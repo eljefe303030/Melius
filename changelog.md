@@ -15,6 +15,9 @@ No release date planned for the next update unless any significant bugs are foun
 * White Dwarf 2000 engine having different thrust values when installed on the left or right side of a ship.
 * Headshot sponginess at higher levels
 
+### Changed
+* Adjusted StarUI Hud to not show enemy levels and health to make comabt more immersive.
+
 ### Added
 * Immersive Landing Ramps
 * White Dwarf 2000 Patch for Royal Skies Space Combat
@@ -23,11 +26,15 @@ No release date planned for the next update unless any significant bugs are foun
 * Heller Had A Shower CLEAN Version
 * HQ - DigiPick and CreditStick
 * Marked Landmark Books
-* Landing Animation Reloaded
 * Stellar Glass
 * Livelier Lodge Indoor Garden
 * More Books II
 * Starfield Menu Background
+* Magic Boost Disabler
+* Hide Show Helmet And Spacesuit Switch
+* Starfield Performance BOOST
+* Urban Eagle - Skin Pack 1
+* Pacifier - Skin Pack 1
 
 ### Updated
 * Human Damage (Just a Flesh Wound - Bullet in the Head)
@@ -36,6 +43,7 @@ No release date planned for the next update unless any significant bugs are foun
 * Winds of Akila
 * Precious Metal Credsticks
 * Constellation Menu Backgrounds (Starfield Edition)
+* Smarter Spacesuit Auto-Hide
 
 </details>
 
