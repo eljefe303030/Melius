@@ -58,8 +58,8 @@ No release date planned for the next update unless any significant bugs are foun
 * HDTP - Actors - Swimmers 0.1
 
 When updating, if you want to keep the HD textures, prefix them with [NoDelete] in the left hand pane of MO2 as in below:
-![keep HD textures](https://github.com/user-attachments/assets/174bd570-0634-4331-918d-9cc953c51268)
 
+![keep HD textures](https://github.com/user-attachments/assets/174bd570-0634-4331-918d-9cc953c51268)
 
 </details>
 
