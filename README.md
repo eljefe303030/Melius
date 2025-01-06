@@ -42,7 +42,7 @@
 # Preamble
 Melius is a Starfield Wabbajack modlist heavily based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
-Stability and a list that works irrespective of whether you the Shattered Space DLC, is another key aim of this list.
+Stability and a list that works irrespective of whether you the Shattered Space DLC and is performance friendly, is another key aim of this list.
 
 I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared, I have tested this as much as possible but there is a risk this might not work for everyone. I will endeavour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
 
@@ -53,12 +53,6 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 ## Requirements
 * I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
-* Your graphics card should have at least:
-
-  For full HD and 1440p = 8GB
-
-  For UWQHD and 4k = 16GB
-  
 * Installation folder takes up approx 93GB and the download folder takes up another 88GB. A total of 181GB is needed, including temporary installation files, if both folders are on one drive.
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
