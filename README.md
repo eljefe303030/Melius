@@ -141,7 +141,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 4. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy.
 5. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller
 6. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
-7. [Royal Skies Space Combat - Default Boost Patch](https://www.nexusmods.com/starfield/mods/12917/) Sets the enemey spaceship boost to default levels.
+7. [Royal Skies Space Combat - Default Boost Patch](https://www.nexusmods.com/starfield/mods/12917/) Sets the enemy spaceship boost to default levels.
 
 Since version 1.3.0, HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
 
@@ -158,7 +158,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 * [Short Temple Puzzles](https://www.nexusmods.com/starfield/mods/1139) changes the number of puzzles to 3.
 * [Build Outpost Items with Credits](https://www.nexusmods.com/starfield/mods/11890) Allows you to build all outpost/ship objects with credits instead of resources.
 * [Sit To Add Ship to Fleet](https://www.nexusmods.com/starfield/mods/6493) Sit in pilot seat to add captured ship to your fleet. No need to make it your home ship.
-* [Magic Boost Disabler](https://www.nexusmods.com/starfield/mods/12776) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) are used to ensure boost packs do not become visable when your spacesuit is not visable and gives you control over when your spacesuit is visable. Add the spacesuit add/hide switch as a favourite item for ease and use in conjunction with the toggle to show/hide suits in settlements option within your inventory screen. 
+* [Magic Boost Disabler](https://www.nexusmods.com/starfield/mods/12776) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) are used to ensure boost packs do not become visible when your spacesuit is not visible and gives you control over when your spacesuit is visible. Add the spacesuit add/hide switch as a favourite item for ease and use in conjunction with the toggle to show/hide suits in settlements option within your inventory screen. 
 * [Leave No Witnesses](https://www.nexusmods.com/starfield/mods/12000) Reworks player bounties so that killing all witnesses to a crime you commit in space removes the bounties incurred while committing that crime.
 * [Landing Bay Cargo Access](https://www.nexusmods.com/starfield/mods/11972) Adds an interactive cargo panel to each landing bay module, allowing you to access your ship's cargo hold remotely - at your ship, but outside your ship. If the cargo panel doesn't show up on your ship, you may have to refresh your ship's landing bay cell by modifying your ship in the ship builder.
 * [Polyamory - Remove single romance limit](https://www.nexusmods.com/starfield/mods/10687) Removes the restriction on multiple companion romances.
