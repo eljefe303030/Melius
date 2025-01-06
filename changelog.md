@@ -40,6 +40,7 @@ No release date planned for the next update unless any significant bugs are foun
 * Eon Pistol Skin - Skin Pack 1
 * AA99 Rifle - Skin Pack 1
 * Old Earth Assault Rifle - Skin Pack 1
+* Royal Skies Space Combat - Default Boost Patch (optional mod)
 
 ### Updated
 * Human Damage (Just a Flesh Wound - Bullet in the Head)
