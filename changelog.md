@@ -44,6 +44,7 @@
 
 ### Updated
 * Human Damage (Just a Flesh Wound - Bullet in the Head)
+* Starfield Engine Fixes - SFSE
 
 ### Removed
 * Winds of Akila
