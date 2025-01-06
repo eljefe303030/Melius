@@ -6,8 +6,9 @@
 * [Version 1.1 (released 11/12/2024)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
-## Future Version X (release date: T-minus whenever it feels right)
-No release date planned for the next update unless any significant bugs are found. Allowing time for the current version to be checked for any issues first.
+## Version 1.3.0 (release date: T-minus whenever it feels right)
+**This update is save-safe.**
+* Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes.
 
 <details>
 
