@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/meliuswide.png",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_f19bc409-c54d-46f5-af85-9889498ff82a",
+      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_509fa932-29bc-4b34-8ed7-6b013ebbe6b0",
       "machineURL": "melius",
       "discordURL": "https://discord.gg/ZyakMg7CGN"
     },
     "download_metadata": {
-      "Hash": "2dPqS3wgmnI=",
-      "Size": 1996752,
-      "NumberOfArchives": 196,
-      "SizeOfArchives": 93690250452,
-      "NumberOfInstalledFiles": 3502,
-      "SizeOfInstalledFiles": 99818040516
+      "Hash": "dPC68cLiQWg=",
+      "Size": 1923734,
+      "NumberOfArchives": 186,
+      "SizeOfArchives": 5138363707,
+      "NumberOfInstalledFiles": 3478,
+      "SizeOfInstalledFiles": 6721779262
     },
-    "version": "1.2.0",
+    "version": "1.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-26T17:11:30.39539Z",
+    "dateUpdated": "2025-01-06T22:28:21.1083934Z",
     "repositoryName": ""
   }
 ]
