@@ -18,7 +18,7 @@
 * Performance issues for some people, depending on PC specifications, by removing HD textures and as a result, reducing downloads by 84GB
   
 ### Changed
-* Adjusted StarUI Hud to not show enemy levels and health to make comabt more immersive.
+* Adjusted StarUI Hud to not show enemy levels and health to make combat more immersive.
 
 ### Added
 * Immersive Landing Ramps
