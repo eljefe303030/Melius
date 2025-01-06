@@ -28,7 +28,6 @@
 * Heller Had A Shower CLEAN Version
 * HQ - DigiPick and CreditStick
 * Marked Landmark Books
-* Stellar Glass
 * Livelier Lodge Indoor Garden
 * More Books II
 * Starfield Menu Background
@@ -58,6 +57,7 @@
 * HDTP - Actors - Mech and Robots 0.1
 * HDTP - Actors - Quad and Bipeds 0.1
 * HDTP - Actors - Swimmers 0.1
+* Immersive Shell Casings
 
 When updating, if you want to keep the HD textures, prefix them with [NoDelete] in the left hand pane of MO2 as in below:
 
