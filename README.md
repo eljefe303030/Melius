@@ -118,8 +118,11 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
 4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
 5. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
 6. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works.
-7. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
-8. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
+
+![Achievements initial message](https://github.com/user-attachments/assets/04b7f127-2afb-4e5f-9701-0a0c7ff1cc95)
+   
+8. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+9. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
 
 ## Important mods you should know about
 
