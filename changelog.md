@@ -1,5 +1,6 @@
 # Changelog
 
+* [Version 1.3.0 (released 06/01/2025)](#version-130)
 * [Version 1.2.0 (released 26/12/2024)](#version-120)
 * [Version 1.1.2 (released 15/12/2024)](#version-112)
 * [Version 1.1.1 (released 12/12/2024)](#version-111)
