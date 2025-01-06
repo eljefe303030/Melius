@@ -159,7 +159,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
 * [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
-* Multiple mods change UI elements to 60 fps.
+* Multiple mods change UI elements to 60 fps. Reinstall the UI mods by right clicking on them in the left hand pane of MO2 to choose your own preferences and settings.
 * [Fast Travel To Unknown](https://www.nexusmods.com/starfield/mods/6663) means you can fast travel to unknown POIs when using the hand scanner.
 * [Auto Unlock SFSE](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.
 * [Short Temple Puzzles](https://www.nexusmods.com/starfield/mods/1139) changes the number of puzzles to 3.
@@ -172,6 +172,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 * [Auto Transfer Mined and Harvested Resources to Your Ship - SFSE](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. Some quests that involve collecting resources will mean you then have to collect them from your ship instead of your inventory.
 * [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming.
 * [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) Landing ramps now stay closed when arriving somewhere new, and can be controlled via a panel in the landing bay, a remote, or by talking to Vasco. Best to set the Landing Ramp Remote as a favourite item for ease.
+* [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.  
 
 ## Note for Content Creators
 
