@@ -14,8 +14,8 @@ No release date planned for the next update unless any significant bugs are foun
 ### Fixed
 * White Dwarf 2000 engine having different thrust values when installed on the left or right side of a ship.
 * Headshot sponginess at higher levels
-* Performance issues for some people, depending on PC specifications
-
+* Performance issues for some people, depending on PC specifications, by removing HD textures and as a result, reducing downloads by 84GB
+  
 ### Changed
 * Adjusted StarUI Hud to not show enemy levels and health to make comabt more immersive.
 
