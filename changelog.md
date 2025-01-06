@@ -14,6 +14,7 @@ No release date planned for the next update unless any significant bugs are foun
 ### Fixed
 * White Dwarf 2000 engine having different thrust values when installed on the left or right side of a ship.
 * Headshot sponginess at higher levels
+* Performance issues for some people, depending on PC specifications
 
 ### Changed
 * Adjusted StarUI Hud to not show enemy levels and health to make comabt more immersive.
@@ -48,6 +49,17 @@ No release date planned for the next update unless any significant bugs are foun
 * Precious Metal Credsticks
 * Constellation Menu Backgrounds (Starfield Edition)
 * Smarter Spacesuit Auto-Hide
+* Starfield HD Overhaul
+* Spacesuits Redone - MonstrrMagic Texture Series
+* Water Redone - MonstrrMagic Texture Series
+* HDTP - Actors - Critters and Crawlers 0.1.1
+* HDTP - Actors - Mech and Robots 0.1
+* HDTP - Actors - Quad and Bipeds 0.1
+* HDTP - Actors - Swimmers 0.1
+
+When updating, if you want to keep the HD textures, prefix them with [NoDelete] in the left hand pane of MO2 as in below:
+![keep HD textures](https://github.com/user-attachments/assets/174bd570-0634-4331-918d-9cc953c51268)
+
 
 </details>
 
