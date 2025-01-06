@@ -150,7 +150,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Put a tic
 6. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
 7. [Royal Skies Space Combat - Default Boost Patch](https://www.nexusmods.com/starfield/mods/12917/) Sets the enemey spaceship boost to default levels.
 
-Since version 1.2.0, HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124).
+Since version 1.2.0, HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
 
 ### Modifications to the modlist
 Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Discord server.
