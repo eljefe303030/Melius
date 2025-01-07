@@ -40,7 +40,7 @@
 </details>
  
 # Preamble
-Melius is a Starfield Wabbajack modlist heavily based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes graphic mods and settings by [Luxor](https://www.nexusmods.com/starfield/users/50525966). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes visual mods and settings. Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
 Stability and a list that works irrespective of whether you the Shattered Space DLC and is performance friendly, are other key aims of this list.
 
