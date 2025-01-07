@@ -180,6 +180,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 2. Controller Vibration for Maelstrom and Grendel guns is low to non-existent.
 3. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
+4. MO2 will flag an error about files being in the Overwrite folder. You can safely ignore this, it doesn't cause any issues and this will be addressed in the next update.
 
 ## Changelog
 
