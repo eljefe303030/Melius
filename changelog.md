@@ -9,6 +9,9 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 
+### Fixed
+* MO2 flagging error related to files in the overwrite folder.
+
 ## Version 1.3.0
 **This update is save-safe.**
 * Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes.
