@@ -12,6 +12,9 @@
 ### Fixed
 * MO2 flagging error related to files in the overwrite folder.
 
+### Updated
+* HiVis Scope Crosshair Replacement v2 - New Crosshair Designs
+
 ## Version 1.3.0
 **This update is save-safe.**
 * Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes.
