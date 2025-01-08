@@ -15,6 +15,12 @@
 ### Updated
 * HiVis Scope Crosshair Replacement v2 - New Crosshair Designs
 
+### Added
+* No Rescale on Interact
+* New-Updated-Fixed- True Ragdoll - No Death Animations
+* Stop Yannick - No More Endless Xenofresh Shifts
+* Ryujin Outfits
+
 ## Version 1.3.0
 **This update is save-safe.**
 * Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes.
