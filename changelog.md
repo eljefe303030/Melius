@@ -9,6 +9,8 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 
+Changing modlist to include stock game folder to prevent list from breaking if game updated.
+
 ### Fixed
 * MO2 flagging error related to files in the overwrite folder.
 
