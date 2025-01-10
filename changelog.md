@@ -20,6 +20,8 @@
 * New-Updated-Fixed- True Ragdoll - No Death Animations
 * Stop Yannick - No More Endless Xenofresh Shifts
 * Ryujin Outfits
+* Better NPCs
+* Binoculars restored to working condition
 
 ## Version 1.3.0
 **This update is save-safe.**
