@@ -13,6 +13,7 @@ Changing modlist to include stock game folder to prevent list from breaking if g
 
 ### Fixed
 * MO2 flagging error related to files in the overwrite folder.
+* Clipping of clothing and hats for crowds
 
 ### Updated
 * HiVis Scope Crosshair Replacement v2 - New Crosshair Designs
@@ -24,6 +25,14 @@ Changing modlist to include stock game folder to prevent list from breaking if g
 * Ryujin Outfits
 * Better NPCs
 * Binoculars restored to working condition
+* Into the Grindfield - GRiNDTerra Framework Mod & DLC patch
+* The Grindfield- a GRiNDTerra mod & DLC patch
+* Gorefield - A Starfield Gore Framework (optional)
+* Souls of Cities - SFSE
+* Stop Staring at Me - Less NPC Headtracking (plus CCR)
+
+### Removed
+* Better Crowd Citizens & HaiTan95's Compatibility Patch 
 
 ## Version 1.3.0
 **This update is save-safe.**
