@@ -1,5 +1,4 @@
 # **Melius**
-![Melius wide](https://github.com/user-attachments/assets/826eab34-021d-4c22-8322-4e7ac6c02e96)
 ![meliuswide169](https://github.com/user-attachments/assets/a3f62092-26f5-4bc9-829a-93da5f6daa41)
 
 <p align="center">
