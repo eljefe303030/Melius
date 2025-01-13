@@ -17,6 +17,8 @@ Changing modlist to include stock game folder to prevent list from breaking if g
 
 ### Updated
 * HiVis Scope Crosshair Replacement v2 - New Crosshair Designs
+* Sarah Morgan Dialogue Enhanced
+* Bedlam - Dungeon Randomizer
 
 ### Added
 * No Rescale on Interact
@@ -32,7 +34,8 @@ Changing modlist to include stock game folder to prevent list from breaking if g
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
 
 ### Removed
-* Better Crowd Citizens & HaiTan95's Compatibility Patch 
+* Better Crowd Citizens & HaiTan95's Compatibility Patch
+* Immersive Contraband - Stolen Artwork
 
 ## Version 1.3.0
 **This update is save-safe.**
