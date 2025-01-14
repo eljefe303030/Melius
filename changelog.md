@@ -10,6 +10,7 @@
 ## Version x (release date: T-minus whenever it feels right)
 
 Changing modlist to include stock game folder to prevent list from breaking if game updated.
+Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whilst using the scanner. Note: reloading and melee actions are not enabled whilst using the scanner.
 
 ### Fixed
 * MO2 flagging error related to files in the overwrite folder.
@@ -19,6 +20,7 @@ Changing modlist to include stock game folder to prevent list from breaking if g
 * HiVis Scope Crosshair Replacement v2 - New Crosshair Designs
 * Sarah Morgan Dialogue Enhanced
 * Bedlam - Dungeon Randomizer
+* Starfield Engine Fixes - SFSE
 
 ### Added
 * No Rescale on Interact
@@ -30,8 +32,14 @@ Changing modlist to include stock game folder to prevent list from breaking if g
 * Into the Grindfield - GRiNDTerra Framework Mod & DLC patch
 * The Grindfield- a GRiNDTerra mod & DLC patch
 * Gorefield - A Starfield Gore Framework (optional)
-* Souls of Cities - SFSE
+* SavrenX HD Crowd Optimized V1
+* Crowd NPC eye Ambient occlusion Fix
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
+* Luxor's Freckles HD
+* Luxor's Lip Wrinkles HD
+* Female Eyelashes HD
+* Pause Menu Milky Way Background
+* Landing Animation Reloaded
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
