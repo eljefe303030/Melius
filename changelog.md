@@ -47,6 +47,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Starfield Shader Injector and ReShade Helper
 * Luma - Native HDR and more
 * Resource Descriptions
+* Better Motivational Posters
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
