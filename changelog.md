@@ -33,6 +33,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * The Grindfield- a GRiNDTerra mod & DLC patch
 * Gorefield - A Starfield Gore Framework (optional)
 * SavrenX HD Crowd Optimized V1
+* SavrenX Hair 1K
 * Crowd NPC eye Ambient occlusion Fix
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
 * Luxor's Freckles HD
@@ -40,10 +41,17 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Female Eyelashes HD
 * Pause Menu Milky Way Background
 * Landing Animation Reloaded
+* Keelo's Sleek Ship HUD
+* Craft Adhesive from Vacuum Tape
+* Coin Pusher Arcade Machine
+* Starfield Shader Injector and ReShade Helper
+* Luma - Native HDR and more
+* Resource Descriptions
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
 * Immersive Contraband - Stolen Artwork
+* Spicy Clean Ship HUD
 
 ## Version 1.3.0
 **This update is save-safe.**
