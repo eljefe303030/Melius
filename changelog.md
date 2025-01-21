@@ -50,6 +50,10 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Better Motivational Posters
 * EXE - Effect Textures Enhanced
 * EXE Laser Beam FIx
+* The Lodge Re-Imagined
+* Starwanderer Spacesuit
+* HPE Better NA Waterfall
+* Stellar Water
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
