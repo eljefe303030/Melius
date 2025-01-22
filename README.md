@@ -181,6 +181,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
 4. MO2 will flag an error about files being in the Overwrite folder. You can safely ignore this, it doesn't cause any issues and this will be addressed in the next update.
+5. NPCs not wearing helmets when they should i.e. in non-breathable atmospheres. This is a vanilla bug but is fixed in the next version of this modlist.
 
 ## Changelog
 
