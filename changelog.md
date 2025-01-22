@@ -54,6 +54,8 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Starwanderer Spacesuit
 * HPE Better NA Waterfall
 * Stellar Water
+* Linked Companion Spacesuit
+* NPCs Take Environmental Damage
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
