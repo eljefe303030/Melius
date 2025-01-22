@@ -138,13 +138,16 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
 ## Optional Mods
 
 Within the left hand pane of MO2 there is a section for optional mods. Put a tick next to any of these that you want to enable:
-1. [Skip Intro](https://www.nexusmods.com/starfield/mods/10494) skips past the mining intro to the character creation point. **Do not** skip to the lodge, it will break the game!
-2. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more.
+1. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more.
+2. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller
 3. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
-4. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy.
-5. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller
-6. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
-7. [Royal Skies Space Combat - Default Boost Patch](https://www.nexusmods.com/starfield/mods/12917/) Sets the enemy spaceship boost to default levels.
+4. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
+5. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
+6. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
+7. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy.
+8. [Royal Skies Space Combat - Default Boost Patch](https://www.nexusmods.com/starfield/mods/12917/) Sets the enemy spaceship boost to default levels.
+9. [Skip Intro](https://www.nexusmods.com/starfield/mods/10494) skips past the mining intro to the character creation point. **Do not** skip to the lodge, it will break the game!
+10. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'. 
 
 Since version 1.3.0, HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
 
