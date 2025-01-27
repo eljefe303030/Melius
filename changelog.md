@@ -21,6 +21,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Sarah Morgan Dialogue Enhanced
 * Bedlam - Dungeon Randomizer
 * Starfield Engine Fixes - SFSE
+* Starfield Menu Background
 
 ### Added
 * No Rescale on Interact
@@ -56,6 +57,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Stellar Water
 * Linked Companion Spacesuit
 * NPCs Take Environmental Damage
+* Death Echoes
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
