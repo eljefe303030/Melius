@@ -30,8 +30,6 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Ryujin Outfits
 * Better NPCs
 * Binoculars restored to working condition
-* Into the Grindfield - GRiNDTerra Framework Mod & DLC patch
-* The Grindfield- a GRiNDTerra mod & DLC patch
 * Gorefield - A Starfield Gore Framework (optional)
 * SavrenX HD Crowd Optimized V1
 * SavrenX Hair 1K
@@ -58,6 +56,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Linked Companion Spacesuit
 * NPCs Take Environmental Damage
 * Death Echoes
+* Plated not Crated
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
