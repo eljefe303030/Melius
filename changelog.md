@@ -22,6 +22,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Bedlam - Dungeon Randomizer
 * Starfield Engine Fixes - SFSE
 * Starfield Menu Background
+* Rabbit's REAL LIGHTS New Atlantis
 
 ### Added
 * No Rescale on Interact
