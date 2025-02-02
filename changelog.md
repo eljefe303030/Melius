@@ -24,7 +24,6 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Starfield Menu Background
 * Rabbit's REAL LIGHTS New Atlantis
 * Melius Main Menu music replacer
-* Bedlam - Dungeon Randomizer
 * Eit Clothiers Plus - Clothes jackets belts gloves glasses necklace
 
 ### Added
