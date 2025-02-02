@@ -35,7 +35,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Ryujin Outfits
 * Better NPCs
 * Binoculars restored to working condition
-* Gorefield - A Starfield Gore Framework (optional)
+* Gorefield - A Starfield Gore Framework
 * SavrenX HD Crowd Optimized V1
 * SavrenX Hair 1K
 * Crowd NPC eye Ambient occlusion Fix
