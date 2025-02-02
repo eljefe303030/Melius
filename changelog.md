@@ -25,7 +25,6 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Rabbit's REAL LIGHTS New Atlantis
 * Melius Main Menu music replacer
 * Bedlam - Dungeon Randomizer
-* Gorefield - A Starfield Gore Framework
 * Eit Clothiers Plus - Clothes jackets belts gloves glasses necklace
 
 ### Added
@@ -33,6 +32,7 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * New-Updated-Fixed- True Ragdoll - No Death Animations
 * Stop Yannick - No More Endless Xenofresh Shifts
 * Ryujin Outfits
+* Gorefield - A Starfield Gore Framework
 * Better NPCs
 * Binoculars restored to working condition
 * Gorefield - A Starfield Gore Framework
