@@ -62,6 +62,8 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * NPCs Take Environmental Damage
 * Death Echoes
 * Plated not Crated
+* Reduced Background Ambient Bass Rumble (Starfield)
+* 
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
