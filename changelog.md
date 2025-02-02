@@ -63,7 +63,11 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Death Echoes
 * Plated not Crated
 * Reduced Background Ambient Bass Rumble (Starfield)
-* 
+* Increased Weapon and Combat Audio Bass with Enhanced Fidelity (Starfield)
+* No REV-8 Lens Flare
+* STARQUEEN - Female Skin Textures - Lace underwear
+* KZ Aggregation of Scraps
+* KZ Tachyonic Core Arsenal
 
 ### Removed
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
