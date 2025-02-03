@@ -53,7 +53,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 ## Requirements
 * I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
-* Installation folder takes up approx 7GB and the download folder takes up another 5GB. A total of 12GB is needed, including temporary installation files, if both folders are on one drive.
+* Installation folder takes up approx 152GB and the download folder takes up another 17GB. A total of 12GB is needed, including temporary installation files, if both folders are on one drive.
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
 
@@ -95,7 +95,9 @@ If there are any issues with the installation, start Wabbajack again and it will
 
 ## Post-installation Steps
 ### Root Builder
-The list also uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+### Stock Game 
+Nordic Souls uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game.
 
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
 
@@ -116,7 +118,6 @@ The list also uses Kezyma's Root Builder to keep the game root folder clean. Any
 2. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
-5. Recommend to set brightness to 2.62 and contrast to 0.90 in the game menu.
 6. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works. Click 'yes' when the below is shown on first starting your playthrough.
 
 ![Achievements initial message](https://github.com/user-attachments/assets/04b7f127-2afb-4e5f-9701-0a0c7ff1cc95)
@@ -172,6 +173,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 * [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) Landing ramps now stay closed when arriving somewhere new, and can be controlled via a panel in the landing bay, a remote, or by talking to Vasco. Best to set the Landing Ramp Remote as a favourite item for ease. The remote control item will be automatically deposited into your ship's cargo hold 
 * [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Starfield Performance BOOST](https://www.nexusmods.com/starfield/mods/290) has been used to update the low, medium, high and ultra graphic settings profiles. To use these, select the profile you need. If the profile you want to use is already selected, select another one and then select the one you want e.g. if you want to use the 'high' profile and that is already selected, choose a different one and then select 'high' to enable it.
+*[Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options.
 
 ## Note for Content Creators
 
@@ -182,12 +184,14 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
-4. MO2 will flag an error about files being in the Overwrite folder. You can safely ignore this, it doesn't cause any issues and this will be addressed in the next update.
-5. NPCs not wearing helmets when they should i.e. in non-breathable atmospheres. This is a vanilla bug but is fixed in the next version of this modlist.
+4. Not all the additional new clothing mods are fully compatible with each other. If you are using clothing items from different mods together e.g. KZ Aggregation of Scraps and Eit Clothiers Plus - Clothes jackets belts gloves glasses necklace, you may see missing body parts on your character or the companion you are dressing. Remove the items and re-add one by one to identify the conflict.
 
 ## Changelog
 
-1.3.0 Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes. This update is save-safe.
+1.4.0 Changing modlist to include stock game folder to prevent list from breaking if game updated.
+Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whilst using the scanner. Note: reloading and melee actions are not enabled whilst using the scanner.
+
+Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes, as well as some gameplay changes such as new death effects, new items and clothing. This update is save-safe.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
@@ -199,7 +203,18 @@ It is recommended that before updating to save the game whilst you are in space,
 
 Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
 
+### Shattered Space DLC
 If you have the Shattered Space DLC, remember to select the 'Melius Shattered Space' profile in MO2, as it will default to the 'Melius No DLC' profile.
+
+Copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
+
+1. ShatteredSpace - Main01.ba2
+2. ShatteredSpace - Main02.ba2
+3. ShatteredSpace - Textures.ba2
+4. ShatteredSpace - Voices_en.ba2
+5. ShatteredSpace.esm
+
+To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Game\Data
 
 If you get a message like the below, choose 'No'
 ![Missing content](https://github.com/user-attachments/assets/60522711-6dde-46b1-a8e6-c006d28eca17)
