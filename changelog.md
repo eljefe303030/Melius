@@ -1,5 +1,6 @@
 # Changelog
 
+* [Version 1.4.0 (released 03/02/2025)](#version-140)
 * [Version 1.3.0 (released 06/01/2025)](#version-130)
 * [Version 1.2.0 (released 26/12/2024)](#version-120)
 * [Version 1.1.2 (released 15/12/2024)](#version-112)
@@ -9,8 +10,17 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 
+## Version 1.4.0
+
+**This update is save-safe.**
 Changing modlist to include stock game folder to prevent list from breaking if game updated.
 Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whilst using the scanner. Note: reloading and melee actions are not enabled whilst using the scanner.
+
+IMPORTANT: Read the Updating the Modlist section of the readme document before updating, as there are additional instructions, especially if you have the Shattered Space DLC.
+
+Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes, as well as some gameplay changes such as new death effects, new items and clothing. This update is save-safe.
+
+<details>
 
 ### Fixed
 * MO2 flagging error related to files in the overwrite folder.
@@ -71,6 +81,8 @@ Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whi
 * Better Crowd Citizens & HaiTan95's Compatibility Patch
 * Immersive Contraband - Stolen Artwork
 * Spicy Clean Ship HUD
+
+</details>
 
 ## Version 1.3.0
 **This update is save-safe.**
@@ -232,3 +244,4 @@ When updating, if you want to keep the HD textures, prefix them with [NoDelete] 
 ## Version 1.0
 
 **Initial Release**
+
