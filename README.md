@@ -110,6 +110,7 @@ Copy the following 5 files from your Starfield Steam installation folder folder 
 
 To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Game\Data
 
+### Starting MOd Organizer 2
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
 
 ### Shattered Space DLC
