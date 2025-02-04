@@ -96,8 +96,19 @@ If there are any issues with the installation, start Wabbajack again and it will
 ## Post-installation Steps
 ### Root Builder
 The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+
 ### Stock Game 
 Nordic Souls uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game.
+### Shattered Space DLC
+Copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
+
+1. ShatteredSpace - Main01.ba2
+2. ShatteredSpace - Main02.ba2
+3. ShatteredSpace - Textures.ba2
+4. ShatteredSpace - Voices_en.ba2
+5. ShatteredSpace.esm
+
+To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Game\Data
 
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
 
