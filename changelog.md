@@ -10,6 +10,12 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 
+### Added
+* Royal - Hard Mode Patch (optional mod)
+
+### Removed
+* KZ Aggregation of Scraps
+
 ## Version 1.4.0
 
 **This update is save-safe.**
