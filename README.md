@@ -99,7 +99,7 @@ The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod 
 
 ### Stock Game 
 Nordic Souls uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game.
-### Shattered Space DLC
+### If you have the Shattered Space DLC
 Copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
 
 1. ShatteredSpace - Main01.ba2
@@ -113,7 +113,7 @@ To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Ga
 ### Starting MOd Organizer 2
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
 
-### Shattered Space DLC
+### Mod Orgaizer 2 Profiles (DLC and Non DLC)
 * If you do not have the Shattered Space DLC, keep the 'Melius No DLC' profile selected and **do not** enable any of the following mods:
   
   ![Melius No DLC profile](https://github.com/user-attachments/assets/25cc32a3-1b07-4c3f-896f-8e9a435ba683)
