@@ -10,6 +10,8 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 
+Running commentry of what I am planning for the next version.
+
 ### Added
 * Royal - Hard Mode Patch (optional mod)
 
