@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * KZ Aggregation of Scraps
+* KZ Tachyonic Core Arsenal
 
 ## Version 1.4.0
 
