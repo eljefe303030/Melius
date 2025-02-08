@@ -15,6 +15,9 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Landing Animation Reloaded (LAR)
 * Starfield Engine Fixes - SFSE
+* Crimson X - Clothing Jackets Glasses Masks Belts Gloves Gear
+* Gorefield - A Starfield Gore Framework
+* Human Damage (Just a Flesh Wound - Bullet in the Head)
 
 ### Added
 * Royal - Hard Mode Patch (optional mod)
