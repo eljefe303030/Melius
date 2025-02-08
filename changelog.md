@@ -27,8 +27,7 @@ Running commentary of what I am planning for the next version.
 * NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
 * Shattered Space Delayed Start
 * The Trackers Alliance Delayed Start
-* POI Cooldown - Fewer repeated POIs and the Battens Wrecks patch
-* 
+* POI Cooldown - Fewer repeated POIs and the Battens Wrecks patch* 
 
 ### Removed
 * KZ Aggregation of Scraps
