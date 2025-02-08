@@ -14,6 +14,7 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Landing Animation Reloaded (LAR)
+* Starfield Engine Fixes - SFSE
 
 ### Added
 * Royal - Hard Mode Patch (optional mod)
