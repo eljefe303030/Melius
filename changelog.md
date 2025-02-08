@@ -12,8 +12,19 @@
 
 Running commentary of what I am planning for the next version.
 
+### Updated
+* Landing Animation Reloaded (LAR)
+
 ### Added
 * Royal - Hard Mode Patch (optional mod)
+* El Jefe Combat AI
+* Alternate Paradiso Solution - Eat The Rich
+* Weapon Reticles Enhanced
+* NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
+* Shattered Space Delayed Start
+* The Trackers Alliance Delayed Start
+* POI Cooldown - Fewer repeated POIs and the Battens Wrecks patch
+* 
 
 ### Removed
 * KZ Aggregation of Scraps
