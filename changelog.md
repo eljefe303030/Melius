@@ -23,11 +23,14 @@ Running commentary of what I am planning for the next version.
 * Royal - Hard Mode Patch (optional mod)
 * El Jefe Combat AI
 * Alternate Paradiso Solution - Eat The Rich
-* Weapon Reticles Enhanced
 * NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
 * Shattered Space Delayed Start
 * The Trackers Alliance Delayed Start
-* POI Cooldown - Fewer repeated POIs and the Battens Wrecks patch* 
+* POI Cooldown - Fewer repeated POIs and the Battens Wrecks patch
+* Milkdrinker's New Atlantis Mesa Trees Reborn
+* Luxor's Vine Remover
+* HPE Better Bullet Hit Metal Spark
+* SKK Fast Start New Game (Starfield) (optional mod)
 
 ### Removed
 * KZ Aggregation of Scraps
