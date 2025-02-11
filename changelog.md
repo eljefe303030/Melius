@@ -37,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * KZ Tachyonic Core Arsenal
 * Reduced Background Ambient Bass Rumble (Starfield)
 * Increased Weapon and Combat Audio Bass with Enhanced Fidelity (Starfield)
+* NPCs Take Environmental Damage
 
 ## Version 1.4.0
 
