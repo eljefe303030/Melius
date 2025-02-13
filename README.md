@@ -197,7 +197,8 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
 4. Not all the additional new clothing mods are fully compatible with each other. If you are using clothing items from different mods together e.g. KZ Aggregation of Scraps and Eit Clothiers Plus - Clothes jackets belts gloves glasses necklace, you may see missing body parts on your character or the companion you are dressing. Remove the items and re-add one by one to identify the conflict.
-5. Some people have reported the latest Nvidia driver (572.16), from 30th Jan, causes a black screen on loading, this is related to the *Luma - Native HDR and more* mod. Rolling back the driver to the previous version or disabling the mod fixes this.
+5. Some people have reported the latest Nvidia driver (572.16), from 30th Jan, causes a black screen on loading, this is related to the **Luma - Native HDR and more** mod. Rolling back the driver to the previous version or disabling the mod fixes this.
+6. If you experience strange visual effects, such as your vison becoming blurry, disable the mod **Starfield Shader Injector and ReShade Helper**.
 
 ## Changelog
 
