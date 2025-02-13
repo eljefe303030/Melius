@@ -32,6 +32,12 @@ Running commentary of what I am planning for the next version.
 * HPE Better Bullet Hit Metal Spark
 * SKK Fast Start New Game (Starfield) (optional mod)
 * Pause Menu Melius
+* Hair Overhaul
+* Clear (Not Invisible) Glass and Reflections
+* Ecliptic Mercenary (Replacer)
+* DA - Muscular Male Tone Body Texture - Normal Map 4k
+* Hairy Men for Starfield
+* Starfield Extended - New Outfits & Shattered Space addon
 
 ### Removed
 * KZ Aggregation of Scraps
@@ -40,6 +46,7 @@ Running commentary of what I am planning for the next version.
 * Increased Weapon and Combat Audio Bass with Enhanced Fidelity (Starfield)
 * NPCs Take Environmental Damage
 * Pause Menu Milky Way Background
+* SavrenX Hair
 
 ## Version 1.4.0
 
