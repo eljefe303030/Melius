@@ -11,6 +11,10 @@
 ## Version x (release date: T-minus whenever it feels right)
 
 Running commentary of what I am planning for the next version.
+Next version will include additional and replacement spacesuits/outfits, updated combat AI, improved visuals & improvements to POI generation. 
+
+### Fixed
+* Some missing body parts when using some combinations of outfits.
 
 ### Updated
 * Landing Animation Reloaded (LAR)
