@@ -31,6 +31,7 @@ Running commentary of what I am planning for the next version.
 * Luxor's Vine Remover
 * HPE Better Bullet Hit Metal Spark
 * SKK Fast Start New Game (Starfield) (optional mod)
+* Pause Menu Melius
 
 ### Removed
 * KZ Aggregation of Scraps
@@ -38,6 +39,7 @@ Running commentary of what I am planning for the next version.
 * Reduced Background Ambient Bass Rumble (Starfield)
 * Increased Weapon and Combat Audio Bass with Enhanced Fidelity (Starfield)
 * NPCs Take Environmental Damage
+* Pause Menu Milky Way Background
 
 ## Version 1.4.0
 
