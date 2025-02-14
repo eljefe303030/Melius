@@ -210,7 +210,10 @@ This update is save-safe.
 
 Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new save after certain updates.
 
-It is recommended that before updating to save the game whilst you are in space, standing in your spaceship, doing nothing.
+It is recommended that before updating to save the game whilst you are in space, doing nothing, sat in the cockpit doing zero speed.
+
+Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
+![NoDelete prefix](https://github.com/user-attachments/assets/e9d88441-20be-45a2-a4dc-ad59a7a9a385)
 
 Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
 
@@ -233,8 +236,7 @@ If you get a message like the below, choose 'No'
 If the update has removed any mods, you'll get the following message, choose 'Yes'
 ![Content not present](https://github.com/user-attachments/assets/d66fafc1-2c54-4adf-9b72-a52b55667c1b)
 
-Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
-![NoDelete prefix](https://github.com/user-attachments/assets/e9d88441-20be-45a2-a4dc-ad59a7a9a385)
+
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
