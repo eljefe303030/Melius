@@ -10,7 +10,6 @@
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
 ## Version x (release date: T-minus whenever it feels right)
-
 Running commentary of what I am planning for the next version.
 
 ## Version 1.4.1
