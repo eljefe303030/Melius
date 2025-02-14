@@ -196,16 +196,12 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
-4. Not all the additional new clothing mods are fully compatible with each other. If you are using clothing items from different mods together e.g. KZ Aggregation of Scraps and Eit Clothiers Plus - Clothes jackets belts gloves glasses necklace, you may see missing body parts on your character or the companion you are dressing. Remove the items and re-add one by one to identify the conflict.
-5. Some people have reported the latest Nvidia driver (572.16), from 30th Jan, causes a black screen on loading, this is related to the **Luma - Native HDR and more** mod. Rolling back the driver to the previous version or disabling the mod fixes this.
-6. If you experience strange visual effects, such as your vison becoming blurry, disable the mod **Starfield Shader Injector and ReShade Helper**.
 
 ## Changelog
 
-1.4.0 Changing modlist to include stock game folder to prevent list from breaking if game updated.
-Ini setting of Starfield Engine Fixes changed to allow you to use any weapon whilst using the scanner. Note: reloading and melee actions are not enabled whilst using the scanner.
+1.4.1 I wasn't planning on releasing an update so soon but two mods have introduced game breaking issues and this update fixes them. In addition; includes additional and replacement spacesuits/outfits, updated combat AI, improved visuals & improvements to POI generation.
 
-Adds a number of mods that provide some visual improvements/changes, minor changes to UI and bug fixes, as well as some gameplay changes such as new death effects, new items and clothing. This update is save-safe.
+This update is save-safe.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
