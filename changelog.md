@@ -1,5 +1,6 @@
 # Changelog
 
+* [Version 1.4.1 (released 14/02/2025)](#version-141)
 * [Version 1.4.0 (released 03/02/2025)](#version-140)
 * [Version 1.3.0 (released 06/01/2025)](#version-130)
 * [Version 1.2.0 (released 26/12/2024)](#version-120)
@@ -11,7 +12,12 @@
 ## Version x (release date: T-minus whenever it feels right)
 
 Running commentary of what I am planning for the next version.
-Next version will include additional and replacement spacesuits/outfits, updated combat AI, improved visuals & improvements to POI generation. 
+
+## Version 1.4.1
+**This update is save-safe.**
+I wasn't planning on releasing an update so soon but two mods have introduced game breaking issues and this update fixes them. In addition; includes additional and replacement spacesuits/outfits, updated combat AI, improved visuals & improvements to POI generation. 
+
+<details>
 
 ### Fixed
 * Some missing body parts when using some combinations of outfits.
@@ -36,7 +42,7 @@ Next version will include additional and replacement spacesuits/outfits, updated
 * Milkdrinker's New Atlantis Mesa Trees Reborn
 * Luxor's Vine Remover
 * HPE Better Bullet Hit Metal Spark
-* * Pause Menu Melius
+* Pause Menu Melius
 * Hair Overhaul
 * Clear (Not Invisible) Glass and Reflections
 * Ecliptic Mercenary (Replacer)
@@ -55,6 +61,8 @@ Next version will include additional and replacement spacesuits/outfits, updated
 * SavrenX Hair
 * Starfield Shader Injector and ReShade Helper
 * Luma - Native HDR and more
+
+</details>
 
 ## Version 1.4.0
 
