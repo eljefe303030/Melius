@@ -34,8 +34,7 @@ Next version will include additional and replacement spacesuits/outfits, updated
 * Milkdrinker's New Atlantis Mesa Trees Reborn
 * Luxor's Vine Remover
 * HPE Better Bullet Hit Metal Spark
-* SKK Fast Start New Game (Starfield) (optional mod)
-* Pause Menu Melius
+* * Pause Menu Melius
 * Hair Overhaul
 * Clear (Not Invisible) Glass and Reflections
 * Ecliptic Mercenary (Replacer)
