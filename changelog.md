@@ -42,6 +42,7 @@ Next version will include additional and replacement spacesuits/outfits, updated
 * DA - Muscular Male Tone Body Texture - Normal Map 4k
 * Hairy Men for Starfield
 * Starfield Extended - New Outfits & Shattered Space addon
+* Starfield Neuroamps
 
 ### Removed
 * KZ Aggregation of Scraps
@@ -51,6 +52,8 @@ Next version will include additional and replacement spacesuits/outfits, updated
 * NPCs Take Environmental Damage
 * Pause Menu Milky Way Background
 * SavrenX Hair
+* Starfield Shader Injector and ReShade Helper
+* Luma - Native HDR and more
 
 ## Version 1.4.0
 
