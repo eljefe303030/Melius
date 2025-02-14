@@ -15,6 +15,8 @@ Next version will include additional and replacement spacesuits/outfits, updated
 
 ### Fixed
 * Some missing body parts when using some combinations of outfits.
+* Black screen when starting with latest Nvidia driver
+* Unintended and lasting visual effects related to Starfield Shader Injector and ReShade Helper
 
 ### Updated
 * Landing Animation Reloaded (LAR)
