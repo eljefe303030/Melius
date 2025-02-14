@@ -51,7 +51,7 @@ I created this list based on my personal preferences and I'm sharing this so oth
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
 
 ## Requirements
-* I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS. Planet textures can take a second to load, this may be mitigated with a faster SSD.
+* I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
 * You need the latest Steam version (1.14.74.0) of the game.
