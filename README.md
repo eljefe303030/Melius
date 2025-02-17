@@ -196,6 +196,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
+4. If you experience CTDs when dying, disable the mod **Death Echoes** (no. 201 in the Gameplay Changes section.)
 
 ## Changelog
 
