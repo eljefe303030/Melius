@@ -12,6 +12,31 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
 
+### Fixed
+* Possible crash to desktop on death
+
+### Updated
+* Starfield Engine Fixes - SFSE
+* El Jefe Combat AI
+
+### Added
+* KZ Mantis 2.0
+* Londinion Revamped
+* POI Variations - No More Duplicates & POI Cooldown - Fewer repeated POIs patch
+* Expanded Dossier
+* Realistic Ragdoll and Force
+* HPE Better Old Earth Gun Fire Smoke
+* Believable Crime Report Radius
+* FOMOD Plus - A Mod Installation Overhaul for Mod Organizer 2
+* Drink Pack Redone
+* Show Me Those Chunks
+* Faster Airlock and Hatch and Door Animations - Sound Fix
+* Starfield Hair and Beards - RTFP
+
+### Removed
+* Death Echoes
+* NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
+
 ## Version 1.4.1
 **This update is save-safe.**
 I wasn't planning on releasing an update so soon but two mods have introduced game breaking issues and this update fixes them. In addition; includes additional and replacement spacesuits/outfits, updated combat AI, improved visuals & improvements to POI generation. 
