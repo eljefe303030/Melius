@@ -187,6 +187,10 @@ Any modifications you make to the modlist, other than the optional mods listed a
 * [Starfield Performance BOOST](https://www.nexusmods.com/starfield/mods/290) has been used to update the low, medium, high and ultra graphic settings profiles. To use these, select the profile you need. If the profile you want to use is already selected, select another one and then select the one you want e.g. if you want to use the 'high' profile and that is already selected, choose a different one and then select 'high' to enable it.
 * [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options.
 
+# Recommended Settings
+* Brightness set to 2.62 and contrast to 0.90
+* Film Grain Intensity set to zero
+
 ## Note for Content Creators
 
 Some of the added music in the list cannot be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend either disabling the mod PopcornTime or disabling in-game music by lowering the volume to 0% in the audio settings.
@@ -196,7 +200,8 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
-4. If you experience CTDs when dying, disable the mod **Death Echoes** (no. 201 in the Gameplay Changes section.)
+4. If you kill and enemey and their head explodes, stripping them of their armour will result in a gap of textures around their neck.
+5. If you experience CTDs when dying, disable the mod **Death Echoes** (no. 201 in the Gameplay Changes section.)
 
 ## Changelog
 
