@@ -32,10 +32,19 @@ Running commentary of what I am planning for the next version.
 * Show Me Those Chunks
 * Faster Airlock and Hatch and Door Animations - Sound Fix
 * Starfield Hair and Beards - RTFP
+* We Were Once Here
+* Ryujin Dataslate
+* Dataslate Dark
+* Lucky Strike And Camel Cigarettes
+* Increased Asteroid Field Density
+* Galactic Mesh Fixes
+* SKK Fast Start New Game (Starfield) (optional mod)
 
 ### Removed
 * Death Echoes
 * NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
+* Skill Fixes
+* The Lodge Re-Imagined
 
 ## Version 1.4.1
 **This update is save-safe.**
