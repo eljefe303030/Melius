@@ -21,7 +21,6 @@
 * [Modlist](#modlist)
 * [Requirements](#requirements)
 * [Pre-installation Steps](#pre-installation-steps)
-* [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
 * [Using Wabbajack](#using-wabbajack)
 * [Post-installation Steps](#post-installation-steps)
   * [Root Builder](#root-builder)
@@ -65,18 +64,6 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 6. Right click Starfield in Steam, click Properties, disable Enable the Steam overlay while in-game.
 4. Language set to English. You can check translations of the modes on NexusMods but I cannot support you with that.
 5. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
-
-## Pagefile and Crash Prevention
-To prevent crashes, you will need to set the pagefile to a minimum and maximum size of 40000
-1. Press Win + R and enter sysdm.cpl
-2. On the Advanced tab, select Settings under the Performance section
-3. On the Advanced tab and press Change... under the Virtual Memory section
-4. Disable Automatically manage paging file size for all drives
-5. Select your disk drive, ideally your fastest SSD
-6. Under the Custom Size: option, change Initial Size (MB) and Maximum Size (MB) to 40000
-7. Click Set
-8. Click OK, then Apply and OK
-9. Restart your computer
 
 ## Using Wabbajack
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
