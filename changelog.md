@@ -44,6 +44,7 @@ Running commentary of what I am planning for the next version.
 * SKK Fast Start New Game (Starfield) (optional mod)
 * High Quality Mission Boards
 * EXE - Effect Textures Enhanced (optional blood textures)
+* ReShade
 
 ### Removed
 * Death Echoes
