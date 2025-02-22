@@ -18,6 +18,9 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Starfield Engine Fixes - SFSE
 * El Jefe Combat AI
+* Gorefield - A Starfield Gore Framework
+* Walk With Me
+* Power Nap - Faster Sleeping and Waiting
 
 ### Added
 * KZ Mantis 2.0
@@ -39,12 +42,15 @@ Running commentary of what I am planning for the next version.
 * Increased Asteroid Field Density
 * Galactic Mesh Fixes
 * SKK Fast Start New Game (Starfield) (optional mod)
+* High Quality Mission Boards
+* EXE - Effect Textures Enhanced (optional blood textures)
 
 ### Removed
 * Death Echoes
 * NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
 * Skill Fixes
 * The Lodge Re-Imagined
+* Bullet hole Impact VERSION 3.0
 
 ## Version 1.4.1
 **This update is save-safe.**
