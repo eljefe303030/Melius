@@ -12,6 +12,8 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
 
+Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC.
+
 ### Fixed
 * Possible crash to desktop on death
 
@@ -44,7 +46,7 @@ Running commentary of what I am planning for the next version.
 * SKK Fast Start New Game (Starfield) (optional mod)
 * High Quality Mission Boards
 * EXE - Effect Textures Enhanced (optional blood textures)
-* ReShade
+* ReShade (optional mod)
 
 ### Removed
 * Death Echoes
