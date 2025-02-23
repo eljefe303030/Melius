@@ -12,7 +12,7 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
 
-Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC.
+Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC. Possibly will add an additional profile with a more hardcore gameplay style, need to test this a bit more first.
 
 ### Fixed
 * Possible crash to desktop on death
@@ -26,7 +26,7 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 
 ### Added
 * KZ Mantis 2.0
-* Londinion Revamped
+* Londinion Revamped (optional mod, you will need to start a new save if using this mod).
 * POI Variations - No More Duplicates & POI Cooldown - Fewer repeated POIs patch
 * Expanded Dossier
 * Realistic Ragdoll and Force
