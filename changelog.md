@@ -14,6 +14,8 @@ Running commentary of what I am planning for the next version.
 
 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC. Possibly will add an additional profile with a more hardcore gameplay style, need to test this a bit more first.
 
+Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
+
 ### Fixed
 * Possible crash to desktop on death
 
