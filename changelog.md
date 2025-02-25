@@ -55,6 +55,8 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * Shut Up Cora - Less Chatter While Flying
 * Spacesuit Container - Typo-Free Edition
 * Backpack Display Mesh Fix
+* UC Military Overhaul - Complete Edition
+* Varuun Spacesuit Remade (Dark Visor version)
 
 ### Removed
 * Death Echoes
