@@ -48,7 +48,13 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * SKK Fast Start New Game (Starfield) (optional mod)
 * High Quality Mission Boards
 * EXE - Effect Textures Enhanced (optional blood textures)
+* Upgraded Companions and SS patch
 * ReShade (optional mod)
+* Rug Seam Fix
+* Configurable Limited Fast Travel
+* Shut Up Cora - Less Chatter While Flying
+* Spacesuit Container - Typo-Free Edition
+* Backpack Display Mesh Fix
 
 ### Removed
 * Death Echoes
@@ -56,6 +62,7 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * Skill Fixes
 * The Lodge Re-Imagined
 * Bullet hole Impact VERSION 3.0
+* Mantis Spacesuit - My Starborn replacer by Xtudo
 
 ## Version 1.4.1
 **This update is save-safe.**
