@@ -25,6 +25,8 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * Gorefield - A Starfield Gore Framework
 * Walk With Me
 * Power Nap - Faster Sleeping and Waiting
+* Galactic Mesh Fixes
+* Craftable Weapon Skins - CWS
 
 ### Added
 * KZ Mantis 2.0
@@ -56,7 +58,9 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * Spacesuit Container - Typo-Free Edition
 * Backpack Display Mesh Fix
 * UC Military Overhaul - Complete Edition
+* UC Surplus Stores Expanded - Spacesuits and Uniforms
 * Varuun Spacesuit Remade (Dark Visor version)
+* Vasco Recognizes More Player Names
 
 ### Removed
 * Death Echoes
