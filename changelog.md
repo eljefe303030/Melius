@@ -14,9 +14,7 @@ Running commentary of what I am planning for the next version.
 
 **This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
 
-Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC. Possibly will add an additional profile with a more hardcore gameplay style, need to test this a bit more first.
-
-Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
+Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
 
 ### Fixed
 * Possible crash to desktop on death
@@ -29,6 +27,10 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * Power Nap - Faster Sleeping and Waiting
 * Galactic Mesh Fixes
 * Craftable Weapon Skins - CWS
+* More Recon Laser Sights - MRLS
+* Upgraded Companions
+* Compact Mission UI
+* HPE Better Metal Impact Effects
 
 ### Added
 * KZ Mantis 2.0
@@ -63,6 +65,7 @@ Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully f
 * UC Surplus Stores Expanded - Spacesuits and Uniforms
 * Varuun Spacesuit Remade (Dark Visor version)
 * Vasco Recognizes More Player Names
+* Clear Glass for Bookshelves
 
 ### Removed
 * Death Echoes
