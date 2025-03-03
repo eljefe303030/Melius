@@ -33,6 +33,7 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * HPE Better Metal Impact Effects
 
 ### Added
+* Ascension - Gameplay Overhaul (this is on a seperate profile to Royal Galaxy)
 * KZ Mantis 2.0
 * Londinion Revamped (optional mod, you will need to start a new save if using this mod).
 * POI Variations - No More Duplicates & POI Cooldown - Fewer repeated POIs patch
