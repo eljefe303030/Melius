@@ -14,7 +14,7 @@ Running commentary of what I am planning for the next version.
 
 **This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
 
-Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
+Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed seperate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style based on Ascension instead of Royal Galaxy. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
 
 ### Fixed
 * Possible crash to desktop on death
