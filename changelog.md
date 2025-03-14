@@ -25,17 +25,17 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * Gorefield - A Starfield Gore Framework
 * Walk With Me
 * Power Nap - Faster Sleeping and Waiting
-* Galactic Mesh Fixes
 * Craftable Weapon Skins - CWS
 * More Recon Laser Sights - MRLS
 * Upgraded Companions
 * Compact Mission UI
 * HPE Better Metal Impact Effects
+* Human Damage (Just a Flesh Wound - Bullet in the Head)
 
 ### Added
 * Ascension - Gameplay Overhaul (this is on a seperate profile to Royal Galaxy)
 * KZ Mantis 2.0
-* Londinion Revamped (optional mod, you will need to start a new save if using this mod).
+* Londinion Revamped
 * POI Variations - No More Duplicates & POI Cooldown - Fewer repeated POIs patch
 * Expanded Dossier
 * Realistic Ragdoll and Force
@@ -67,6 +67,8 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * Varuun Spacesuit Remade (Dark Visor version)
 * Vasco Recognizes More Player Names
 * Clear Glass for Bookshelves
+* Simple Immersive Helmets Shattered Space Patch
+* Slightly Hairy Men and Comfy Underwear
 
 ### Removed
 * Death Echoes
@@ -75,6 +77,11 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * The Lodge Re-Imagined
 * Bullet hole Impact VERSION 3.0
 * Mantis Spacesuit - My Starborn replacer by Xtudo
+* DA - Muscular Male Tone Body Texture - Normal Map 4k
+* Hairy Men for Starfield
+* STARQUEEN 5 - Starfield Female Skin Textures (SFST) Lace underwear (base mod remains)
+* PEAK - Enemy Combat AI
+* Skip Intro
 
 ## Version 1.4.1
 **This update is save-safe.**
