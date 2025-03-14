@@ -69,6 +69,8 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * Clear Glass for Bookshelves
 * Simple Immersive Helmets Shattered Space Patch
 * Slightly Hairy Men and Comfy Underwear
+* Better Standing Mirror with Reflection
+* HPE Better Pistol Fire Smoke
 
 ### Removed
 * Death Echoes
@@ -368,6 +370,3 @@ When updating, if you want to keep the HD textures, prefix them with [NoDelete] 
 ## Version 1.0
 
 **Initial Release**
-
-
-
