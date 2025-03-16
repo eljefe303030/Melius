@@ -115,7 +115,7 @@ There are two profiles:
 
 Choose which profile you want to use but do not change profile mid playthrough, as it will cause major issues. Keep separate saves for each profile, MO2 will do this for you.
 
-INSERT MO2 Profiles Image here
+![MO2 Profiles](https://github.com/user-attachments/assets/7db394ae-e2f7-403d-bc73-231424d3e1c9)
 
 * If you do not have the Shattered Space DLC, on first starting the game…………….:
  
