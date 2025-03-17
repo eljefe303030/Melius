@@ -75,7 +75,7 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 ### Removed
 * Death Echoes
 * NSFNA ULTIMATE - No Scanner Filter - No Animation - Full Screen Scanning
-* Skill Fixes
+* Royal Called by The Stars
 * The Lodge Re-Imagined
 * Bullet hole Impact VERSION 3.0
 * Mantis Spacesuit - My Starborn replacer by Xtudo
