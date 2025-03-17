@@ -59,7 +59,6 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * ReShade (optional mod)
 * Rug Seam Fix
 * Configurable Limited Fast Travel
-* Shut Up Cora - Less Chatter While Flying
 * Spacesuit Container - Typo-Free Edition
 * Backpack Display Mesh Fix
 * UC Military Overhaul - Complete Edition
