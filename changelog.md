@@ -83,6 +83,7 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * STARQUEEN 5 - Starfield Female Skin Textures (SFST) Lace underwear (base mod remains)
 * PEAK - Enemy Combat AI
 * Skip Intro
+* Shut up Cora
 
 ## Version 1.4.1
 **This update is save-safe.**
