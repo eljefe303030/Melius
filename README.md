@@ -1,5 +1,5 @@
 # **Melius**
-![Melius pause](https://github.com/user-attachments/assets/c74eb1a9-30cb-43d6-8fd1-a8736459c066)
+![Melius pause](https://github.com/user-attachments/assets/3f1b2395-d243-4476-aa3d-7df0adadfdb4)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
@@ -24,11 +24,15 @@
 * [Using Wabbajack](#using-wabbajack)
 * [Post-installation Steps](#post-installation-steps)
   * [Root Builder](#root-builder)
-  * [Shattered Space DLC](#shattered-space-dlc)
+  * [Stock Game](#stock-game)
+  * [If you have the Shattered Space DLC](#if-you-have-the-shattered-space-dlc)
+  * [Starting Mod Organizer 2](#starting-mod-organizer-2)
+  * [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
 * [Important mods you should know about](#important-mods-you-should-know-about)
 * [Optional Mods](#optional-mods)
   * [Modifications to the modlist](#modifications-to-the-modlist)
-* [Gameplay Guide](gameplay-guide)
+* [Gameplay Guide](#gameplay-guide)
+* [Recommended Settings](#recommended-settings)
 * [Note for Content Creators](note-for-content-creators)
 * [Known Issues](#known-issues)
 * [Changelog](#changelog)
@@ -39,9 +43,9 @@
 </details>
  
 # Preamble
-Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) and includes visual mods and settings. Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) but now also has an optional profile based on [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
-Stability and a list that works irrespective of whether you the Shattered Space DLC and is performance friendly, are other key aims of this list.
+Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list.
 
 I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared, I have tested this as much as possible but there is a risk this might not work for everyone. I will endeavour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
 
@@ -61,8 +65,8 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 3. Fully disable OneDrive and any other programs that affect user file areas.
 4. Reinstall Starfield into a location that is not Program Files. Somewhere like C:\Games is a good location. You MUST have the latest version Steam of Starfield, version 1.14.74.0 and it MUST be a clean install.
 5. Set Starfield to not automatically update.
-6. Right click Starfield in Steam, click Properties, disable Enable the Steam overlay while in-game.
-4. Language set to English. You can check translations of the modes on NexusMods but I cannot support you with that.
+6. Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
+4. Language set to English. You can check translations of the mods on NexusMods but I cannot support you with that.
 5. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
 
 ## Using Wabbajack
@@ -96,38 +100,45 @@ Copy the following 5 files from your Starfield Steam installation folder folder 
 
 To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Game\Data
 
+If your version of Starfield came with the Constellation and Old Mars skins, you can copy these files over too into the stock game folder, these files if you have them are as follows:
+
+1. Constellation - Localization.ba2
+2. Constellation - Textures.ba2
+3. Constellation.esm
+4. OldMars - Localization.ba2
+5. OldMars - Textures.ba2
+6. OldMars.esm
+
 ### Starting Mod Organizer 2
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
 
-### Mod Organizer 2 Profiles (DLC and Non DLC)
-* If you do not have the Shattered Space DLC, keep the 'Melius No DLC' profile selected and **do not** enable any of the following mods:
-  
-  ![Melius No DLC profile](https://github.com/user-attachments/assets/25cc32a3-1b07-4c3f-896f-8e9a435ba683)
-  1. Aurie_StayPutShatteredSpace.esm
-  2. RRLD - Rabbit's Real Lights Dazra.esm
-  3. RoyalLeveledEnemiesSS.esm
-  4. RoyalWeathersVaRuunkai2.esm
-  5. SmarterSpacesuitAutohide_SFBGS001.esm
+### Mod Organizer 2 Profiles
+There are three profiles:
+* DO NOT USE THIS PROFILE - do as it says!
+* Melius - this is the original version based around Royal Galaxy
+* Melius Hardcore - this is based around Ascension
+
+Choose which profile you want to use but do not change profile mid playthrough, as it will cause major issues. Keep separate saves for each profile, MO2 will do this for you.
+
+![MO2 Profiles](https://github.com/user-attachments/assets/7db394ae-e2f7-403d-bc73-231424d3e1c9)
+
+* If you do not have the Shattered Space DLC, on first starting MO2: it will display a warning that there are missing masters ![MO2 warning icon](https://github.com/user-attachments/assets/cb59bebe-af62-430f-9a4b-0f79a2bf593a). This is normal and the warning message will disappear after you have run the game the first time.
  
-* If you do have the Shattered Space DLC, change to the 'Melius Shattered Space' profile.
-
-  ![Melius Shattered Space profile](https://github.com/user-attachments/assets/a7c54e28-8684-4f87-8fcf-c3835d8134b8)
-
 2. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 4. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
-6. Messages saying achievements will be disabled can be ignored. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works. Click 'yes' when the below is shown on first starting your playthrough.
+6. Messages saying achievements will be disabled can be ignored, they won't be disabled. See [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=posts) description on why this is the case and how it works. Click 'yes' when the below is shown on first starting your playthrough.
 
 ![Achievements initial message](https://github.com/user-attachments/assets/04b7f127-2afb-4e5f-9701-0a0c7ff1cc95)
    
 8. After starting the game for the first time, the sound will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
-9. If using the Skip Intro mod, **do not** choose to skip to the lodge, as this will break your playthrough.
 
 ## Important mods you should know about
 
-1. [PEAK AI](https://www.nexusmods.com/starfield/mods/7120), [El Jefe Combat AI](https://www.nexusmods.com/starfield/mods/13194) and [Bedlam](https://www.nexusmods.com/starfield/mods/10717) to make combat more fun and interesting
+1. [El Jefe Combat AI](https://www.nexusmods.com/starfield/mods/13194) and [Bedlam](https://www.nexusmods.com/starfield/mods/10717) to make combat more fun and interesting
 2. [Royal Galaxy](https://www.nexusmods.com/starfield/mods/8222) changes a large number of things, including bug fixes, QOL improvements, stronger Terrormorphs and Ashta, increased enemy spawns, and potent Starborn magic. Diversifies encounters, Points of Interest, Weathers, and Climates.
 3. [Royal Skies Space Combat](https://www.nexusmods.com/starfield/mods/7890) Overhaul of spaceship combat. Enemies will occasionally fly into you, either because they cannot get out of the way or deliberately.
+4. [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) overhauls the gameplay in many ways.
 5. [CINE FIDELITY LUTS](https://www.nexusmods.com/starfield/mods/3767) & [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323) changes the LUTs of the game to remove the colour filters and make the game look a lot better. Thanks to [Luxor for the guide](https://www.nexusmods.com/starfield/mods/11413) on how to use these to best effect.
 6. [StarUI suite of mods](https://next.nexusmods.com/profile/m8r98a4f2/mods?gameId=4187) to change the UI to make it easier and nicer to use.
 7. Various mods to change the transitions and animations to make them more immersive and less annoying
@@ -136,17 +147,20 @@ To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Ga
 
 ## Optional Mods
 
-Within the left hand pane of MO2 there is a section for optional mods. Put a tick next to any of these that you want to enable:
+Within the left hand pane of MO2 there is a section for optional mods. Click on the mod you want to enable and it will highlight it in the right hand pane. Put a tick next to it in the right hand pane to enable it: 
 1. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more.
 2. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller
-3. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
-4. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
-5. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
-6. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
-7. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed.
+3. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) highly recommended you enable this, changes the landing ramps for your spaceships to manual control. Read the mod page before enabling to see how it works.
+4. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
+5. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
+6. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
+7. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
 8. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy.
-9. [Skip Intro](https://www.nexusmods.com/starfield/mods/10494) skips past the mining intro to the character creation point. **Do not** skip to the lodge, it will break the game!
-10. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'. 
+9. [ReShade](https://reshade.me/) - adds visual effects that increase the contrast between light and dark. Does have some FPS impact. Can cause some visual effects to get stuck, if this happens, reload your save. Worth the downsides in my opinion. Enable this mod by putting a tick next to it in the left hand pane, in the *'Disabled'* section. The 'Home' key is used to access the settings and the 'End' key is used to disable/enable the mod. 
+10. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed.
+11. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the next of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off.
+12. [SKK Fast Start New Game (Starfield)](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. If you use this mod, read the mod pages for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) as the items you need for these mods will need to be acquired within the game for the mods to be useable. When you start a new game with this mod the Ships Controls mod screen will appear, press the 'tab' key to go out of this screen and to continue. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.
+13. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
 
 Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
 
@@ -169,10 +183,8 @@ Any modifications you make to the modlist, other than the optional mods listed a
 * [Polyamory - Remove single romance limit](https://www.nexusmods.com/starfield/mods/10687) Removes the restriction on multiple companion romances.
 * [Auto Transfer Mined and Harvested Resources to Your Ship - SFSE](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. Some quests that involve collecting resources will mean you then have to collect them from your ship instead of your inventory.
 * [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming.
-* [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) Landing ramps now stay closed when arriving somewhere new, and can be controlled via a panel in the landing bay, a remote, or by talking to Vasco. Best to set the Landing Ramp Remote as a favourite item for ease. The remote control item will be automatically deposited into your ship's cargo hold 
 * [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Starfield Performance BOOST](https://www.nexusmods.com/starfield/mods/290) has been used to update the low, medium, high and ultra graphic settings profiles. To use these, select the profile you need. If the profile you want to use is already selected, select another one and then select the one you want e.g. if you want to use the 'high' profile and that is already selected, choose a different one and then select 'high' to enable it.
-* [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options.
 
 # Recommended Settings
 * Brightness set to 2.62 and contrast to 0.90
@@ -187,14 +199,12 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
-4. If you kill and enemey and their head explodes, stripping them of their armour will result in a gap of textures around their neck.
-5. If you experience CTDs when dying, disable the mod **Death Echoes** (no. 201 in the Gameplay Changes section.)
 
 ## Changelog
 
-1.4.1 I wasn't planning on releasing an update so soon but two mods have introduced game breaking issues and this update fixes them. In addition; includes additional and replacement spacesuits/outfits, updated combat AI, improved visuals & improvements to POI generation.
+2.0 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed separate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style based on Ascension instead of Royal Galaxy. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
 
-This update is save-safe.
+**This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
@@ -210,9 +220,7 @@ Any mods you have added to the list will be deleted and other changes you have m
 Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
 
 ### Shattered Space DLC
-If you have the Shattered Space DLC, remember to select the 'Melius Shattered Space' profile in MO2, as it will default to the 'Melius No DLC' profile.
-
-Copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
+If you have the Shattered Space DLC, copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
 
 1. ShatteredSpace - Main01.ba2
 2. ShatteredSpace - Main02.ba2
@@ -222,13 +230,20 @@ Copy the following 5 files from your Starfield Steam installation folder folder 
 
 To inside the Data folder of your Stock Game folder e.g. into C:\Melius\Stock Game\Data
 
+If your version of Starfield came with the Constellation and Old Mars skins, you can copy these files over too into the stock game folder, these files if you have them are as follows:
+
+1. Constellation - Localization.ba2
+2. Constellation - Textures.ba2
+3. Constellation.esm
+4. OldMars - Localization.ba2
+5. OldMars - Textures.ba2
+6. OldMars.esm
+
 If you get a message like the below, choose 'No'
 ![Missing content](https://github.com/user-attachments/assets/60522711-6dde-46b1-a8e6-c006d28eca17)
 
 If the update has removed any mods, you'll get the following message, choose 'Yes'
 ![Content not present](https://github.com/user-attachments/assets/d66fafc1-2c54-4adf-9b72-a52b55667c1b)
-
-
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
