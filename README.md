@@ -1,5 +1,5 @@
 # **Melius**
-![Melius pause](https://github.com/user-attachments/assets/3f1b2395-d243-4476-aa3d-7df0adadfdb4)
+![MeliusPause720](https://github.com/user-attachments/assets/db6c5804-591d-4977-8edd-6eaeceb566d2)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
