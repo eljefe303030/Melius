@@ -18,6 +18,8 @@ Running commentary of what I am planning for the next version.
 
 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed separate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style based on Ascension instead of Royal Galaxy. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
 
+<details>
+
 ### Fixed
 * Possible crash to desktop on death
 
@@ -85,6 +87,8 @@ Adds a number of mods that provide some visual, audio and gameplay improvements/
 * STARQUEEN 5 - Starfield Female Skin Textures (SFST) Lace underwear (base mod remains)
 * PEAK - Enemy Combat AI
 * Skip Intro
+
+</details>
 
 ## Version 1.4.1
 **This update is save-safe.**
