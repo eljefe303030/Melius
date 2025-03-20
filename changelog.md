@@ -17,6 +17,10 @@ Running commentary of what I am planning for the next version.
 ## Version 2.0
 **This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
 
+**Updating to version 2.0. It is recommended to install into a new folder, as there are significant changes. If you upgrade instead, do not use the old profiles, instead use one of the two new profiles. Remember to copy across the Shattered Space files (as described below) if you have them.**
+
+**If you are struggling for drive space, delete your installation folder but not your downloads folder and treat it as a new installation. Backup your save games first, so you can revert to the previous version later if you so desire.**
+
 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed separate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style based on Ascension instead of Royal Galaxy. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
 
 <details>
