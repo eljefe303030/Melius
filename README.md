@@ -188,7 +188,15 @@ Any modifications you make to the modlist, other than the optional mods listed a
 * [Starfield Performance BOOST](https://www.nexusmods.com/starfield/mods/290) has been used to update the low, medium, high and ultra graphic settings profiles. To use these, select the profile you need. If the profile you want to use is already selected, select another one and then select the one you want e.g. if you want to use the 'high' profile and that is already selected, choose a different one and then select 'high' to enable it.
 
 # Recommended Settings
+**Gameplay Options**
+* Damage options - if you are finding it difficult, reduce the damage for a while until you level up/gain perks
+* Cost based mods settings:
+![settings cost based mods](https://github.com/user-attachments/assets/567db3ab-2152-429f-8386-723a048791a9)
+* Other settings:
+![Settings 3](https://github.com/user-attachments/assets/f247587c-21a7-451d-8d6a-2bb3c0b8b583)
+**Display**
 * Brightness set to 2.62 and contrast to 0.90
+* Sharpening 75%
 * Film Grain Intensity set to zero
 
 ## Note for Content Creators
