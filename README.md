@@ -194,6 +194,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 ![settings cost based mods](https://github.com/user-attachments/assets/567db3ab-2152-429f-8386-723a048791a9)
 * Other settings:
 ![Settings 3](https://github.com/user-attachments/assets/f247587c-21a7-451d-8d6a-2bb3c0b8b583)
+
 **Display**
 * Brightness set to 2.62 and contrast to 0.90
 * Sharpening 75%
