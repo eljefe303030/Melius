@@ -13,6 +13,24 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
 
+### Updated
+* Human Damage
+* POI Variations - No More Duplicates
+* POI Cooldown - Fewer repeated POIs
+  
+### Added
+* Clear Glass for Lodge
+* Pit Crew
+* VanillA-Plus -- Apparel Unlocked (RTFP)
+* Cost Of Living - Simple Taxes
+* Cost Of Spacing
+* Real Fuel - Immersive Exploration
+* Spacefaring Economy - RTFP
+* Cassiopeia Papyrus Extender
+* Notifications Number and display duration increased and 60 120FPS Hud Fix
+* Dynamic Repair Bill - A ship repair cost modifier
+* Dynamic Medical Bill - A doctor heal cost modifier
+
 
 ## Version 2.0
 **This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
