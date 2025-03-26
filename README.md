@@ -47,7 +47,7 @@ Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://ne
 
 Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list.
 
-I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. However, please be aware that this is my first Wabbajack list I have shared, I have tested this as much as possible but there is a risk this might not work for everyone. I will endeavour to provide support in fixing any teething issues but I am just one person who has a full time job and life outside of doing this.
+I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. I have tested this as much as possible. I will endeavour to provide support in fixing any issues but I am just one person who has a full time job and life outside of doing this.
 
 ## Modlist
 
