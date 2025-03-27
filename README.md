@@ -199,7 +199,6 @@ Any modifications you make to the modlist, other than the optional mods listed a
 
 **Display**
 * Brightness set to 2.62 and contrast to 0.90
-* Sharpening 75%
 * Film Grain Intensity set to zero
 
 ## Note for Content Creators
