@@ -232,7 +232,7 @@ It is recommended that before updating to save the game whilst you are in space,
 Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
 ![NoDelete prefix](https://github.com/user-attachments/assets/e9d88441-20be-45a2-a4dc-ad59a7a9a385)
 
-Updating is the same process as installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
+Updating is the same process as installing the list. Make sure your paths are the same. 
 
 ### Shattered Space DLC
 If you have the Shattered Space DLC, copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
