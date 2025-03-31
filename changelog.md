@@ -15,8 +15,10 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Human Damage
+* El Jefe Combat AI
 * POI Variations - No More Duplicates
 * POI Cooldown - Fewer repeated POIs
+* Hair Overhaul
   
 ### Added
 * Clear Glass for Lodge
@@ -24,7 +26,6 @@ Running commentary of what I am planning for the next version.
 * VanillA-Plus -- Apparel Unlocked (RTFP)
 * Cost Of Living - Simple Taxes
 * Cost Of Spacing
-* Real Fuel - Immersive Exploration
 * Spacefaring Economy - RTFP
 * Cassiopeia Papyrus Extender
 * Notifications Number and display duration increased and 60 120FPS Hud Fix
