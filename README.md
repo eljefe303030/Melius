@@ -215,7 +215,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 2.0 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Changed profiles in MO2 to make them more user friendly i.e. removed separate profiles for DLC and non-DLC. Added an additional profile with a more hardcore gameplay style based on Ascension instead of Royal Galaxy. Changed Immersive Landing Ramps mod to an optional mod and therefore hopefully forcing new users to read the ReadMe before enabling and not get stuck with not knowing how to open the landing ramp.
 
-**This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
+**This version will need a new game. Updating to this version with an existing save can cause save game corruption.**
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
