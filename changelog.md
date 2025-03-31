@@ -33,7 +33,7 @@ Running commentary of what I am planning for the next version.
 
 
 ## Version 2.0
-**This version will need a new save. Updating to this version with an existing save can cause save game corruption.**
+**This version will need a new game. Updating to this version with an existing save can cause save game corruption.**
 
 **Updating to version 2.0. It is recommended to install into a new folder, as there are significant changes. If you upgrade instead, do not use the old profiles, instead use one of the two new profiles. Remember to copy across the Shattered Space files (as described in the Readme) if you have them.**
 
