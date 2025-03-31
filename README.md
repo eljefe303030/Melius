@@ -221,7 +221,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Updating the Modlist
 
-Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new save after certain updates.
+Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new game after certain updates.
 
 **Updating to version 2.0. It is recommended to install into a new folder, as there are significant changes. If you upgrade instead, do not use the old profiles, instead use one of the two new profiles. Remember to copy across the Shattered Space files (as described below) if you have them.**
 
