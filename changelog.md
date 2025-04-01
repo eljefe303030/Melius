@@ -13,6 +13,8 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
 
+<details>
+
 ### Updated
 * Human Damage
 * El Jefe Combat AI
@@ -34,6 +36,7 @@ Running commentary of what I am planning for the next version.
 * Stew - Manual Reload
 * Flight Camera Fix
 
+</details>
 
 ## Version 2.0
 **This version will need a new game. Updating to this version with an existing save can cause save game corruption.**
