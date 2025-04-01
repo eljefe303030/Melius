@@ -21,6 +21,7 @@ Running commentary of what I am planning for the next version.
 * POI Variations - No More Duplicates
 * POI Cooldown - Fewer repeated POIs
 * Hair Overhaul
+* Galactic Mesh Fixes
   
 ### Added
 * Clear Glass for Lodge
