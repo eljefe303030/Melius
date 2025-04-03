@@ -22,6 +22,7 @@ Running commentary of what I am planning for the next version.
 * POI Cooldown - Fewer repeated POIs
 * Hair Overhaul
 * Galactic Mesh Fixes
+* Show Date When Waking Up
   
 ### Added
 * Clear Glass for Lodge
@@ -36,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * Dynamic Medical Bill - A doctor heal cost modifier
 * Stew - Manual Reload
 * Flight Camera Fix
+* Toggle Quest Markers with Scanner and Ship HUD
 
 </details>
 
