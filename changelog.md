@@ -38,6 +38,7 @@ Running commentary of what I am planning for the next version.
 * Stew - Manual Reload
 * Flight Camera Fix
 * Toggle Quest Markers with Scanner and Ship HUD
+* Immersive Shell Casings
 
 </details>
 
