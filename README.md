@@ -210,6 +210,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
+4. If you have an issue where crew or companions freeze, try updating the [Landing Animations Reloaded](https://www.nexusmods.com/starfield/mods/7569) mod to the latest version, using the instructions on the mod page.
 
 ## Changelog
 
