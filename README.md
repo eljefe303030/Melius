@@ -211,6 +211,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
 4. If you have an issue where crew or companions freeze, try updating the [Landing Animations Reloaded](https://www.nexusmods.com/starfield/mods/7569) mod to the latest version, using the instructions on the mod page.
+5. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
 
 ## Changelog
 
