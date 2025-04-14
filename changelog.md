@@ -50,6 +50,10 @@ Running commentary of what I am planning for the next version.
 * Move or Disable XP Bar
 * Manual Weapon Stance
 
+### Removed
+* Londinion Revamped
+* Upgraded Companions
+  
 </details>
 
 ## Version 2.0
