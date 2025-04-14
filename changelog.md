@@ -23,7 +23,9 @@ Running commentary of what I am planning for the next version.
 * Hair Overhaul
 * Galactic Mesh Fixes
 * Show Date When Waking Up
-* Landing Animation Reloaded (LAR)
+* Starfield Engine Fixes - SFSE
+* Cassiopeia Papyrus Extender
+* Compact Mission UI
   
 ### Added
 * Clear Glass for Lodge
@@ -49,6 +51,8 @@ Running commentary of what I am planning for the next version.
 * Revelation - Main Quest Overhaul
 * Move or Disable XP Bar
 * Manual Weapon Stance
+* Compact Ship Builder UI
+* Compact Build Menu UI
 
 ### Removed
 * Londinion Revamped
