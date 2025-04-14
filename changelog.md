@@ -53,6 +53,7 @@ Running commentary of what I am planning for the next version.
 * Manual Weapon Stance
 * Compact Ship Builder UI
 * Compact Build Menu UI
+* Commitment
 
 ### Removed
 * Londinion Revamped
