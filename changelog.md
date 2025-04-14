@@ -23,6 +23,7 @@ Running commentary of what I am planning for the next version.
 * Hair Overhaul
 * Galactic Mesh Fixes
 * Show Date When Waking Up
+* Landing Animation Reloaded (LAR)
   
 ### Added
 * Clear Glass for Lodge
@@ -44,6 +45,10 @@ Running commentary of what I am planning for the next version.
 * Desolation - POI Overhaul
 * Dark Universe - Black Sea
 * Alternative Cockpit Access From Ladders
+* Starware Search Engine - SFSE
+* Revelation - Main Quest Overhaul
+* Move or Disable XP Bar
+* Manual Weapon Stance
 
 </details>
 
