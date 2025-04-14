@@ -53,6 +53,8 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Londinion Revamped
 * Upgraded Companions
+* Pilot Seat Access From Ladders
+* Landing Animation Reloaded (LAR)
   
 </details>
 
