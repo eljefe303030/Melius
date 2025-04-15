@@ -33,8 +33,6 @@ Running commentary of what I am planning for the next version.
 * VanillA-Plus -- Apparel Unlocked (RTFP)
 * Cassiopeia Papyrus Extender
 * Notifications Number and display duration increased and 60 120FPS Hud Fix
-* Dynamic Repair Bill - A ship repair cost modifier
-* Dynamic Medical Bill - A doctor heal cost modifier
 * Stew - Manual Reload
 * Flight Camera Fix
 * Toggle Quest Markers with Scanner and Ship HUD
