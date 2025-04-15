@@ -24,7 +24,6 @@ Running commentary of what I am planning for the next version.
 * Galactic Mesh Fixes
 * Show Date When Waking Up
 * Starfield Engine Fixes - SFSE
-* Cassiopeia Papyrus Extender
 * Compact Mission UI
   
 ### Added
@@ -40,6 +39,7 @@ Running commentary of what I am planning for the next version.
 * Starvival - Immersive Survival Addon
 * Move or Disable XP Bar
 * Desolation - POI Overhaul
+* Dark Universe - Overtime
 * Dark Universe - Black Sea
 * Alternative Cockpit Access From Ladders
 * Starware Search Engine - SFSE
@@ -49,6 +49,7 @@ Running commentary of what I am planning for the next version.
 * Compact Ship Builder UI
 * Compact Build Menu UI
 * Commitment
+* Dynamic Inventory Models - SFSE
 
 ### Removed
 * Londinion Revamped
