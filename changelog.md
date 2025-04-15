@@ -31,9 +31,6 @@ Running commentary of what I am planning for the next version.
 * Clear Glass for Lodge
 * Pit Crew
 * VanillA-Plus -- Apparel Unlocked (RTFP)
-* Cost Of Living - Simple Taxes
-* Cost Of Spacing
-* Spacefaring Economy - RTFP
 * Cassiopeia Papyrus Extender
 * Notifications Number and display duration increased and 60 120FPS Hud Fix
 * Dynamic Repair Bill - A ship repair cost modifier
