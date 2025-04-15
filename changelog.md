@@ -44,7 +44,6 @@ Running commentary of what I am planning for the next version.
 * Alternative Cockpit Access From Ladders
 * Starware Search Engine - SFSE
 * Revelation - Main Quest Overhaul
-* Move or Disable XP Bar
 * Manual Weapon Stance
 * Compact Ship Builder UI
 * Compact Build Menu UI
