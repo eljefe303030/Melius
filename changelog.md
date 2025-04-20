@@ -12,6 +12,7 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
+**This version will need a new game.**
 
 <details>
 
@@ -36,7 +37,7 @@ Running commentary of what I am planning for the next version.
 * Flight Camera Fix
 * Toggle Quest Markers with Scanner and Ship HUD
 * Immersive Shell Casings
-* Starvival - Immersive Survival Addon
+* Starvival - Immersive Survival Addon **requires Shattered Space DLC**
 * Move or Disable XP Bar
 * Desolation - POI Overhaul
 * Dark Universe - Overtime
