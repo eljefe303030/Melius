@@ -56,6 +56,7 @@ Running commentary of what I am planning for the next version.
 * Upgraded Companions
 * Pilot Seat Access From Ladders
 * Landing Animation Reloaded (LAR)
+* Skill Fixes
   
 </details>
 
