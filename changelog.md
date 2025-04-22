@@ -26,6 +26,7 @@ Running commentary of what I am planning for the next version.
 * Show Date When Waking Up
 * Starfield Engine Fixes - SFSE
 * Compact Mission UI
+* Pause Menu Melius
   
 ### Added
 * Clear Glass for Lodge
