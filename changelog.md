@@ -51,6 +51,7 @@ Running commentary of what I am planning for the next version.
 * Compact Build Menu UI
 * Commitment
 * Dynamic Inventory Models - SFSE
+* 60 FPS - Smooth UI
 
 ### Removed
 * Londinion Revamped
