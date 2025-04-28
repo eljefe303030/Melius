@@ -171,7 +171,7 @@ Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed 
 ### Modifications to the modlist
 Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Discord server.
 
-Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updaing mods can include mods no longer functioning at intened to the whole mod list not working.
+Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updaing mods can include mods no longer functioning at intended to the whole mod list not working.
 
 ## Gameplay Guide
 
