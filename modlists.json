@@ -1,7 +1,7 @@
 [
   {
     "title": "Melius",
-    "description": "Melius is a Starfield Wabbajack modlist originally based on JaeDL's excellent Starborn Royalty but now also has an optional profile based on Ascension - Gameplay Overhaul. Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods. Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list.",
+    "description": "Melius is a Starfield Wabbajack modlist originally based on JaeDL\u0027s excellent Starborn Royalty but now also has an optional profile based on Ascension - Gameplay Overhaul. Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods. Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list.",
     "author": "eljefe",
     "maintainers": [
       "github/eljefe303030"
@@ -26,23 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/melius720.webp",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_21f52028-fc14-4536-b84c-145064f8640b",
+      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_42593e68-4868-4288-b16f-f6a610058438",
       "machineURL": "melius",
-      "discordURL": "https://discord.gg/ZyakMg7CGN",
-      "websiteURL": "https://www.nexusmods.com/starfield/mods/12658"
+      "discordURL": "https://discord.gg/ZyakMg7CGN"
     },
     "download_metadata": {
-      "Hash": "BpNsYOCbHrc=",
-      "Size": 2614886,
-      "NumberOfArchives": 414,
-      "SizeOfArchives": 142703495146,
-      "NumberOfInstalledFiles": 4860,
-      "SizeOfInstalledFiles": 143884212792,
-      "TotalSize": 286587707938
+      "Hash": "z51Z4PCRY70=",
+      "Size": 2231821,
+      "NumberOfArchives": 436,
+      "SizeOfArchives": 143233834582,
+      "NumberOfInstalledFiles": 5209,
+      "SizeOfInstalledFiles": 144372107811
     },
-    "version": "2.0",
+    "version": "2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-19T21:42:47.789157Z",
+    "dateUpdated": "2025-04-28T21:02:04.25085Z",
     "repositoryName": ""
   }
 ]
