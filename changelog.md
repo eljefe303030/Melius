@@ -1,6 +1,6 @@
 # Changelog
 
-* [Version 2.1 (released TBC)](#version21)
+* [Version 2.1 (released 28/04/2025)](#version21)
 * [Version 2.0 (released 19/03/2025)](#version-20)
 * [Version 1.4.1 (released 14/02/2025)](#version-141)
 * [Version 1.4.0 (released 03/02/2025)](#version-140)
@@ -13,7 +13,7 @@
 
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
-**This version will need a new game.**
+
 
 ## Version 2.1
 **This version will need a new game.**
