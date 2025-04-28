@@ -1,5 +1,6 @@
 # Changelog
 
+* [Version 2.1 (released TBC)](#version21)
 * [Version 2.0 (released 19/03/2025)](#version-20)
 * [Version 1.4.1 (released 14/02/2025)](#version-141)
 * [Version 1.4.0 (released 03/02/2025)](#version-140)
@@ -13,6 +14,13 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version.
 **This version will need a new game.**
+
+## Version 2.1
+**This version will need a new game.**
+
+**Updating to version 2.x from 1.x. It is recommended to install into a new folder, as there are significant changes. If you upgrade instead, do not use the old profiles, instead use one of the two new profiles. Remember to copy across the Shattered Space files (as described in the Readme) if you have them.**
+
+Adds a number of mods that provide some visual, audio and gameplay improvements/changes. More POIs, missions and more varied POIs. Added Starvival to the Melius Hardcore profile, Starvival requires the Shattered Space DLC but both profiles can be played without the DLC. This version will need a new game.
 
 <details>
 
