@@ -27,6 +27,7 @@ Running commentary of what I am planning for the next version.
 * Starfield Engine Fixes - SFSE
 * Compact Mission UI
 * Pause Menu Melius
+* Baka Achievement Enabler (SFSE)
   
 ### Added
 * Clear Glass for Lodge
