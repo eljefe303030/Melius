@@ -303,7 +303,7 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * The mod authors for all their hard work, skill and imagination.
 * The Wabbajack team for making a tool that makes this possible.
 * [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing. 
-* Rainman for beta testing.
+* Rainman for beta testing and mod suggestions.
 * Pyke Lermon, EccentricMeat, Sithishade and anyone else on my Discord server for mod suggestions
 * Anyone who tries this list.
 
