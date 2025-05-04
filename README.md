@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.nexusmods.com/starfield/mods/12658">Nexus Page</a> |
   <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
-  <a href="https://loadorderlibrary.com/lists/melius-2">~~Full Modlist~~</a> |
+  <a href="https://loadorderlibrary.com/lists/melius-2">Full Modlist</a>
   <a href="https://github.com/eljefe303030/Melius/blob/main/changelog.md">Changelog</a>
  </p>
 
