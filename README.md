@@ -49,6 +49,8 @@ Stability, a list that works irrespective of whether you have the Shattered Spac
 
 I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. I have tested this as much as possible and I will endeavour to provide support in fixing any issues but I am just one person who has a full time job and life outside of doing this.
 
+*Please note, the loadorder library site is currently out of date, as the website is having some issues*
+
 ## Modlist
 
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
