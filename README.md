@@ -305,7 +305,8 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * [Seb263](https://www.nexusmods.com/starfield/users/825950) for the [Responsive Grabbing](https://www.nexusmods.com/starfield/mods/289) ini setting.
 * The mod authors for all their hard work, skill and imagination.
 * The Wabbajack team for making a tool that makes this possible.
-* [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing. 
+* [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing.
+* Padi for being the Discord guru and making the Melius server what it is.
 * Rainman for beta testing and mod suggestions.
 * Pyke Lermon, EccentricMeat, Sithishade and anyone else on my Discord server for mod suggestions
 * Anyone who tries this list.
