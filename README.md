@@ -247,7 +247,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 4. If you have an issue where crew or companions freeze, try updating the [Landing Animations Reloaded](https://www.nexusmods.com/starfield/mods/7569) mod to the latest version, using the instructions on the mod page. **(Version 2.0 only of Melius only)**
 5. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
 6. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) mod is enabled by default, if you use an Xbox controller, untick this mod in the *optional* section in the left hand pane of MO2. This will be disabled by default in the next release.
-7. If you get false contraband notifications, update to the latest version of Starvival and make sure Starfarer is disabled in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off])
+7. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). If you still have this issue, update to the latest version of Starvival and make sure Starfarer is disabled.
 
 ## Changelog
 
