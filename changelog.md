@@ -12,8 +12,34 @@
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
 ## Version x (release date: T-minus whenever it feels right)
-Running commentary of what I am planning for the next version.
+Running commentary of what I am planning for the next version. *This is very unlikely to be released until after the next Starfield update.*
 
+Adds some bug fixes and adds mods that provide some visual and gameplay improvments.
+
+<details>
+  
+### Fixes
+* headshots in Gorefield no longer results in heads exploding everytime.
+
+### Updated
+* Starfield Engine Fixes - SFSE
+* Ascension - Gameplay Overhaul
+* Gorefield - A Starfield Gore Framework
+* Galactic Mesh Fixes
+
+### Added
+* Betamax's Outpost Framework
+* Starfield String Sharpener - A Font Overhaul
+* Sprint Stuttering Fix
+* Where Did the Lights Go
+* Ryujin Radiant Quest Enhancements - Access
+* Vanguard Mission Board Radiants
+* Weapon Retexture - Razerback fix
+* Apotheosis - Powers Overhaul
+* Ship Inventory
+* Individual Ship Crew
+
+</details>
 
 ## Version 2.1
 **This version will need a new game.**
