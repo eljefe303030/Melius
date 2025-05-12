@@ -14,7 +14,7 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. *This is very unlikely to be released until after the next Starfield update.*
 
-Adds some bug fixes and adds mods that provide some visual and gameplay improvments.
+Adds some bug fixes and adds mods that provide some visual and gameplay improvements.
 
 <details>
   
@@ -26,6 +26,7 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvme
 * Ascension - Gameplay Overhaul
 * Gorefield - A Starfield Gore Framework
 * Galactic Mesh Fixes
+* Starvival
 
 ### Added
 * Betamax's Outpost Framework
@@ -38,6 +39,7 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvme
 * Apotheosis - Powers Overhaul
 * Ship Inventory
 * Individual Ship Crew
+* Richer Merchants (optional)
 
 </details>
 
