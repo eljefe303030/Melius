@@ -27,6 +27,7 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvem
 * Gorefield - A Starfield Gore Framework
 * Galactic Mesh Fixes
 * Starvival
+* Starware Search Engine - SFSE
 
 ### Added
 * Betamax's Outpost Framework
