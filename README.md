@@ -249,6 +249,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 7. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). If you still have this issue, update to the latest version of Starvival and make sure Starfarer is disabled.
 8. After going through Unity, Starvival will turn itself off and reset all of its settings. Turn Starvival back on and make your changes to settings. NPCs might have missing body parts. Save game, exit and reload will fix this.
 9. Starvival boostpacks needs fuel will enable you to use boostpack when out of fuel. This will be fixes in the next release of Melius. There is a patch available in the meantime from the hotfixes channel in the Melius Discord server.
+10. Some NPCs dialogue lines may be spoken all at once. This will be fixed in the next release of Melius. There is a fix in the meantime in the hotfixes channel of the Melius Discord server.
 
 ## Changelog
 
