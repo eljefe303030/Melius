@@ -20,7 +20,7 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvem
   
 ### Fixes
 * Headshots in Gorefield no longer results in heads exploding everytime.
-* Starvival system 'Boostpacks need fuel' working as intended, mainly not being able to use boostpacks when zero fuel.
+* Starvival system 'Boostpacks need fuel' working as intended, mainly not being able to use boostpacks when you have zero fuel.
 * NPCs audio dialogue being delivered simultaneously.
 
 ### Updated
