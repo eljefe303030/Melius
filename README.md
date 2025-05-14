@@ -248,7 +248,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 6. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) mod is enabled by default, if you use an Xbox controller, untick this mod in the *optional* section in the left hand pane of MO2. This will be disabled by default in the next release.
 7. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). If you still have this issue, update to the latest version of Starvival and make sure Starfarer is disabled.
 8. After going through Unity, Starvival will turn itself off and reset all of its settings. Turn Starvival back on and make your changes to settings. NPCs might have missing body parts. Save game, exit and reload will fix this.
-9. Starvival boostpacks needs fuel will enable you to use boostpack when out of fuel, as needs patch to work with Ascension.
+9. Starvival boostpacks needs fuel will enable you to use boostpack when out of fuel. This will be fixes in the next release of Melius. There is a patch available in the meantime from the hotfixes channel in the Melius Discord server.
 
 ## Changelog
 
