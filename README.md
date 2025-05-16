@@ -193,7 +193,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Click on 
 ### Modifications to the modlist
 Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Discord server.
 
-Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updating mods can include mods no longer functioning at intended to the whole mod list not working.
+Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updating mods can include mods no longer functioning as intended, to the whole mod list not working.
 
 ## Gameplay Guide
 
