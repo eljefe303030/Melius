@@ -11,7 +11,7 @@
   <a href="https://github.com/eljefe303030/Melius/blob/main/changelog.md">Changelog</a>
 
 <p align="center">
-  <a href="https://ko-fi.com/eljefe303030">Ko-Fi</a>
+  <a href="https://ko-fi.com/eljefe303030">Ko-fi</a>
   
  </p>
 
