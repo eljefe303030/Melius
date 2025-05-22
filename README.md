@@ -47,7 +47,7 @@
 </details>
 
 # **IMPORTANT**
-Starfield has just received an update. If you have updated to the latest version and are not on version 1.14.74.0, you **will not** be able to use this list. This modlist will be updated to work with the latest verdion but this will take time.
+Starfield has just received an update. If you have updated to the latest version and are not on version 1.14.74.0, you **will not** be able to use this list. This modlist will be updated to work with the latest verdion but thission  take time.
  
 # Preamble
 Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) but now also has an optional profile based on [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) and [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
