@@ -46,7 +46,7 @@
 
 </details>
 
-**IMPORTANT**
+# **IMPORTANT**
 Starfield has just received an update. If you have updated to the latest version and are not on version 1.14.74.0, you **will not** be able to use this list. This modlist will be updated to work with the latest verdion but this will take time.
  
 # Preamble
