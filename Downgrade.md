@@ -2,13 +2,13 @@
 
 **1**) Open "Run" menu (Windows Key + R)
 
-**2**) Type: steam://open/console/
+**2**) Type: `steam://open/console/`
 
-**3**) Type: download_depot 1716740 1716741 751978938301675949
+**3**) Type: `download_depot 1716740 1716741 751978938301675949`
 
 It will take a while to download the file, it will let you know once it has completed.
 
-**4**) Type: download_depot 1716740 1716742 7986310915959292882
+**4**) Type: `download_depot 1716740 1716742 7986310915959292882`
 
 It will take a while to download the file, it will let you know once it has completed.
 
