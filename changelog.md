@@ -12,7 +12,7 @@
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
 ## Version x (release date: T-minus whenever it feels right)
-Running commentary of what I am planning for the next version. *This is very unlikely to be released until after the next Starfield update.*
+Running commentary of what I am planning for the next version. *This release will take a while before it is released, as mods need updating to work with the new version*
 
 Adds some bug fixes and adds mods that provide some visual and gameplay improvements.
 
