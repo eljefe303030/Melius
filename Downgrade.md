@@ -19,3 +19,5 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716741
 and
 
 C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
+
+**6**) You will now be able to install this modlist as normal.
