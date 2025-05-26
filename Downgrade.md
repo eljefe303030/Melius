@@ -14,6 +14,8 @@ It will take a while to download the file, it will let you know once it has comp
 
 It will take a while to download the file, it will let you know once it has completed.
 
+![Downgrade complete 2](https://github.com/user-attachments/assets/0637bfe1-c5ef-4a7b-bcc4-13b8067f2795)
+
 **5**) Copy the contents of the following folders to your Steam Starfield folder (the folder with the Starfield exe in it)
 
 .......\Steam\steamapps\content\app_1716740\depot_1716741
