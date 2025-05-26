@@ -6,7 +6,7 @@
 
 **3**) Type: `download_depot 1716740 1716741 751978938301675949`
 
-It will take a while to download the file, it will let you know once it has completed.
+It will take a while to download the file, it will let you know once it has completed:
 
 ![Downgrade complete 1](https://github.com/user-attachments/assets/094fd31f-01d0-48df-87f0-b75181844c16)
 
