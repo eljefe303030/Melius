@@ -16,10 +16,10 @@ It will take a while to download the file, it will let you know once it has comp
 
 **5**) Copy the contents of the following folders to your Steam Starfield folder (the folder with the Starfield exe in it)
 
-C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716741
+.......\Steam\steamapps\content\app_1716740\depot_1716741
 
 and
 
-C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
+........\Steam\steamapps\content\app_1716740\depot_1716742
 
 **6**) You will now be able to install this modlist as normal.
