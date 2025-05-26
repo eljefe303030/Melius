@@ -8,6 +8,8 @@
 
 It will take a while to download the file, it will let you know once it has completed.
 
+![Downgrade complete 1](https://github.com/user-attachments/assets/094fd31f-01d0-48df-87f0-b75181844c16)
+
 **4**) Type: `download_depot 1716740 1716742 7986310915959292882`
 
 It will take a while to download the file, it will let you know once it has completed.
