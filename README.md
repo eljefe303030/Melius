@@ -73,7 +73,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 2. Fully disable OneDrive and any other programs that affect user file areas.
 3. Reinstall Starfield into a location that is not Program Files. Somewhere like C:\Games is a good location. You MUST have the latest Steam version of Starfield, version 1.14.74.0 and it MUST be a clean install.
 4. Set Starfield to not automatically update.
-- Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
+  - Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
 6. Language set to English. You can check translations of the mods on NexusMods but I cannot support you with that.
 7. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
 
