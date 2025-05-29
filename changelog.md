@@ -50,7 +50,7 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Starfield String Sharpener - A Font Overhaul
 * Apotheosis - Powers Overhaul
 
-## Need 1.15.216 Update
+### Need 1.15.216 Update
 * Sprint Stuttering Fix
 * Luma - Native HDR and more
 * Starfield Shader Injector and ReShade Helper
