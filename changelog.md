@@ -39,6 +39,9 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Weapon Retexture - Razerback fix
 * Richer Merchants (optional)
 
+### Removed
+* Starfield Performance BOOST
+
 ### Removed - Need 1.15.216 Update
 * Dark Universe - Black Sea
 * Stew - Manual Reload
