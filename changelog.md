@@ -14,14 +14,14 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. *This release will take a while before it is released, as mods need updating to work with the new version*
 
-Adds some bug fixes and adds mods that provide some visual and gameplay improvements.
+Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods that provide some visual and gameplay improvements.
 
 <details>
   
 ### Fixes
 * Headshots in Gorefield no longer results in heads exploding everytime.
 * Starvival system 'Boostpacks need fuel' working as intended, mainly not being able to use boostpacks when you have zero fuel.
-* NPCs audio dialogue being delivered simultaneously.
+* Fixed NPCs audio dialogue being delivered simultaneously.
 
 ### Updated
 * Starfield Engine Fixes - SFSE
@@ -33,19 +33,28 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvem
 
 ### Added
 * Betamax's Outpost Framework
-* Starfield String Sharpener - A Font Overhaul
-* Sprint Stuttering Fix
 * Where Did the Lights Go
 * Ryujin Radiant Quest Enhancements - Access
 * Vanguard Mission Board Radiants
 * Weapon Retexture - Razerback fix
-* Apotheosis - Powers Overhaul
+* Richer Merchants (optional)
+
+### Removed
+
+##
+* Dark Universe - Black Sea
+
+### Considering
 * Ship Inventory
 * Individual Ship Crew
-* Richer Merchants (optional)
+* Starfield String Sharpener - A Font Overhaul
+* Apotheosis - Powers Overhaul
+
+## Need 1.15.216 Update
+* Sprint Stuttering Fix
 * Luma - Native HDR and more
 * Starfield Shader Injector and ReShade Helper
-
+      
 </details>
 
 ## Version 2.1
