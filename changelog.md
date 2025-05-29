@@ -39,9 +39,7 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Weapon Retexture - Razerback fix
 * Richer Merchants (optional)
 
-### Removed
-
-### Need 1.15.216 Update
+### Removed - Need 1.15.216 Update
 * Dark Universe - Black Sea
 
 ### Considering
@@ -50,7 +48,7 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Starfield String Sharpener - A Font Overhaul
 * Apotheosis - Powers Overhaul
 
-### Need 1.15.216 Update
+### Considering - Need 1.15.216 Update
 * Sprint Stuttering Fix
 * Luma - Native HDR and more
 * Starfield Shader Injector and ReShade Helper
