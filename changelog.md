@@ -29,7 +29,18 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Gorefield - A Starfield Gore Framework
 * Galactic Mesh Fixes
 * Starvival
-* Starware Search Engine - SFSE
+* KZ Mantis 2.0
+* Auto Unlock SFSE
+* Baka Achievement Enabler (SFSE)
+* Melius Main Menu music replacer
+* Show XP on Loading Screens
+* Faster Favorites Menu
+* Scanner Closest Path Highlight Improvements
+* Baka Quick Full Saves
+* Baka Quit Game Fix
+* Extended Activation and NPC Interaction Distance
+* Simple Offence Suppression SFSE
+* Smart Aiming SFSE - Third to First Person (Updated)
 
 ### Added
 * Betamax's Outpost Framework
@@ -38,7 +49,10 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Vanguard Mission Board Radiants
 * Weapon Retexture - Razerback fix
 * Richer Merchants (optional)
-
+* Baka Console EditorIDs
+* powerofthree's Tweaks SFSE
+* Gravity Affects Weight (SFSE) (optional)
+  
 ### Removed
 * Starfield Performance BOOST
 
@@ -52,6 +66,7 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Cassiopeia Papyrus Extender
 * Console Command Runner Updated
 * Real Time Form Patcher (SFSE)
+* Alternative Cockpit Access From Ladders
 
 ### Considering
 * Ship Inventory
