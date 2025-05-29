@@ -14,6 +14,8 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. *This release will take a while before it is released, as mods need updating to work with the new version*
 
+**This version will need a new game.**
+
 Updated to work with latest Starfield update (1.15.216). Adds some bug fixes and adds mods that provide some visual and gameplay improvements.
 
 <details>
