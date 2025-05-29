@@ -41,6 +41,14 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 
 ### Removed - Need 1.15.216 Update
 * Dark Universe - Black Sea
+* Stew - Manual Reload
+* Stop Staring at Me - Less NPC Headtracking (plus CCR)
+* Manual Weapon Stance
+* Starware Search Engine - SFSE
+* Dynamic Inventory Models - SFSE
+* Cassiopeia Papyrus Extender
+* Console Command Runner Updated
+* Real Time Form Patcher (SFSE)
 
 ### Considering
 * Ship Inventory
