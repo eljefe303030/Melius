@@ -57,6 +57,9 @@ Works with latest Starfield update (1.15.216). Adds some bug fixes and adds mods
 * Starfield Performance BOOST
 
 ### Removed - Need 1.15.216 Update
+* Real Time Form Patcher (SFSE)
+* Console Command Runner Updated
+* Cassiopeia Papyrus Extender
 * Dark Universe - Black Sea
 * Stew - Manual Reload
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
