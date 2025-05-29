@@ -45,7 +45,6 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvem
 * Richer Merchants (optional)
 * Luma - Native HDR and more
 * Starfield Shader Injector and ReShade Helper
-* Where Did the Lights Go
 
 </details>
 
