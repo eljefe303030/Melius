@@ -52,8 +52,6 @@ No major changes will take place in this update, as this is designed to get the 
 ### Added
 * Betamax's Outpost Framework
 * Where Did the Lights Go
-* Ryujin Radiant Quest Enhancements - Access
-* Vanguard Mission Board Radiants
 * Weapon Retexture - Razerback fix
 * Richer Merchants (optional)
 * Baka Console EditorIDs
@@ -61,6 +59,9 @@ No major changes will take place in this update, as this is designed to get the 
 * Gravity Affects Weight (SFSE) (optional)
 * Pilot Seat Access From Ladders
 * HBI Breakable Wine Glass Bottle
+* Better LilyPads
+* HPE Better Rifle Fire Smoke Effects
+* Baka Disable My Games Folder
   
 ### Removed
 * Starfield Performance BOOST
@@ -81,6 +82,8 @@ No major changes will take place in this update, as this is designed to get the 
 * Individual Ship Crew
 * Starfield String Sharpener - A Font Overhaul
 * Apotheosis - Powers Overhaul
+* Ryujin Radiant Quest Enhancements - Access
+* Vanguard Mission Board Radiants
 
 ### Considering - Need 1.15.216 Update
 * Sprint Stuttering Fix
