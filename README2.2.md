@@ -60,7 +60,7 @@ I created this list based on my personal preferences and I'm sharing this so oth
 
 ## Modlist
 
-The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
+~The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)~
 
 ## Requirements
 * I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS.
