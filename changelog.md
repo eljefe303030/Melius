@@ -37,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * Dynamic Inventory Models - SFSE
 * Real Time Form Patcher (SFSE)
 * Alternative Cockpit Access From Ladders
+* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
 
 </details>
 
@@ -107,19 +108,7 @@ No major changes will take place in this update, as this is designed to get the 
 * Dynamic Inventory Models - SFSE
 * Real Time Form Patcher (SFSE)
 * Alternative Cockpit Access From Ladders
-
-### Considering
-* Ship Inventory
-* Individual Ship Crew
-* Starfield String Sharpener - A Font Overhaul
-* Apotheosis - Powers Overhaul
-* Ryujin Radiant Quest Enhancements - Access
-* Vanguard Mission Board Radiants
-
-### Considering - Need 1.15.216 Update
-* Sprint Stuttering Fix
-* Luma - Native HDR and more
-* Starfield Shader Injector and ReShade Helper
+* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
       
 </details>
 
