@@ -60,6 +60,7 @@ No major changes will take place in this update, as this is designed to get the 
 * powerofthree's Tweaks SFSE
 * Gravity Affects Weight (SFSE) (optional)
 * Pilot Seat Access From Ladders
+* HBI Breakable Wine Glass Bottle
   
 ### Removed
 * Starfield Performance BOOST
