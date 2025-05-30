@@ -42,7 +42,7 @@ Running commentary of what I am planning for the next version.
 
 </details>
 
-## Version 2.2 (release date soon)
+## Version 2.2
 
 **This version will need a new game.**
 
