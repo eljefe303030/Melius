@@ -64,6 +64,7 @@ No major changes will take place in this update, as this is designed to get the 
 * Baka Disable My Games Folder
 * Player Eyes Stuck at the Dialogue Target Bug Fix - SFSE
 * Less Creepy Crowd NPCs - Reduced Staring and Headtracking
+* Mission Boards Tablet (all factions)
   
 ### Removed
 * Starfield Performance BOOST
