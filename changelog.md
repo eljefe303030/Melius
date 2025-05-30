@@ -45,6 +45,9 @@ No major changes will take place in this update, as this is designed to get the 
 * Extended Activation and NPC Interaction Distance
 * Simple Offence Suppression SFSE
 * Smart Aiming SFSE - Third to First Person (Updated)
+* Console Command Runner Updated
+* Starware Search Engine - SFSE
+* Address Library for SFSE Plugins
 
 ### Added
 * Betamax's Outpost Framework
@@ -56,22 +59,19 @@ No major changes will take place in this update, as this is designed to get the 
 * Baka Console EditorIDs
 * powerofthree's Tweaks SFSE
 * Gravity Affects Weight (SFSE) (optional)
+* Pilot Seat Access From Ladders
   
 ### Removed
 * Starfield Performance BOOST
 
 ### Removed - Need 1.15.216 Update
 * Real Time Form Patcher (SFSE)
-* Console Command Runner Updated
 * Cassiopeia Papyrus Extender
 * Dark Universe - Black Sea
 * Stew - Manual Reload
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
 * Manual Weapon Stance
-* Starware Search Engine - SFSE
 * Dynamic Inventory Models - SFSE
-* Cassiopeia Papyrus Extender
-* Console Command Runner Updated
 * Real Time Form Patcher (SFSE)
 * Alternative Cockpit Access From Ladders
 
