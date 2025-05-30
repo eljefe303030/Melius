@@ -62,6 +62,8 @@ No major changes will take place in this update, as this is designed to get the 
 * Better LilyPads
 * HPE Better Rifle Fire Smoke Effects
 * Baka Disable My Games Folder
+* Player Eyes Stuck at the Dialogue Target Bug Fix - SFSE
+* Less Creepy Crowd NPCs - Reduced Staring and Headtracking
   
 ### Removed
 * Starfield Performance BOOST
