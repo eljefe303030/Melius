@@ -12,7 +12,35 @@
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
 ## Version x (release date: T-minus whenever it feels right)
-Running commentary of what I am planning for the next version. *This release will take a while before it is released, as mods need updating to work with the new version of Starfield (1.15.216)*
+Running commentary of what I am planning for the next version. 
+
+<details>
+
+### Considering
+* Ship Inventory
+* Individual Ship Crew
+* Starfield String Sharpener - A Font Overhaul
+* Apotheosis - Powers Overhaul
+* Ryujin Radiant Quest Enhancements - Access
+* Vanguard Mission Board Radiants
+
+### Considering - Need 1.15.216 Update
+* Sprint Stuttering Fix
+* Luma - Native HDR and more
+* Starfield Shader Injector and ReShade Helper
+* Real Time Form Patcher (SFSE)
+* Cassiopeia Papyrus Extender
+* Dark Universe - Black Sea
+* Stew - Manual Reload
+* Stop Staring at Me - Less NPC Headtracking (plus CCR)
+* Manual Weapon Stance
+* Dynamic Inventory Models - SFSE
+* Real Time Form Patcher (SFSE)
+* Alternative Cockpit Access From Ladders
+
+</details>
+
+## Version 2.2 (release date soon)
 
 **This version will need a new game.**
 
