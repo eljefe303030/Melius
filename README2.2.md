@@ -167,7 +167,7 @@ Choose which profile you want to use but do not change profile mid playthrough, 
 | Paranoid treatment | Tweaks - Intoxication - Addiction | Disable |
 | Provision/morale system | Tweaks - Crew Morale | Disable |
 | Spaceship Systems | Systems | Enable |
-~| Cassiopeia | Tweaks - Spaceship Systems - Other | Enable | Calculates fuel usage accurately |~
+| Cassiopeia | Tweaks - Spaceship Systems - Other | Enable | Calculates fuel usage accurately |
 
 8. Various mods to change the transitions and animations to make them more immersive and less annoying
 8. [Rabbit’s suite of mods](https://next.nexusmods.com/profile/RabbitDoesStuff?gameId=4187) to make area lighting more realistic and playable i.e. not having to walk around in the dark when there are lights around you!
