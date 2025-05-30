@@ -1,6 +1,6 @@
 # Changelog
 
-* [Version 2.2 (released TBC)[#version-22)
+* [Version 2.2 (released TBC)][#version-22)
 * [Version 2.1 (released 28/04/2025)](#version-21)
 * [Version 2.0 (released 19/03/2025)](#version-20)
 * [Version 1.4.1 (released 14/02/2025)](#version-141)
