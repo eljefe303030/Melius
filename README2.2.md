@@ -254,8 +254,13 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-2.2 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Added Starvival to the Melius Hardcore profile, Starvival requires the Shattered Space DLC but both profiles can be played without the DLC.
+Version 2.2
+
 **This version will need a new game.**
+
+Updated to work with latest Starfield update (1.15.216). Adds some bug fixes and adds mods that provide some visual and gameplay improvements. 
+
+No major changes will take place in this update, as this is designed to get the list working with 1.15.216. The version after this is planned to be a major update.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
