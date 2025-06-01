@@ -46,9 +46,6 @@
 
 </details>
 
-# **IMPORTANT**
-Starfield has just received an update to version 1.15.216.0. If you have updated to the latest version and are not on version 1.14.74.0, you **will not be able to use this list**. This modlist will be updated to work with the latest version but this will take time. You can [downgrade to the previous version](https://github.com/eljefe303030/Melius/blob/main/Downgrade.md) in the meantime to be able to install this list.
- 
 # Preamble
 Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) but now also has an optional profile based on [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) and [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
@@ -56,11 +53,9 @@ Stability, a list that works irrespective of whether you have the Shattered Spac
 
 I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. I have tested this as much as possible and I will endeavour to provide support in fixing any issues but I am just one person who has a full time job and life outside of doing this.
 
-*Please note, the loadorder library site is currently out of date, as the website is having some issues*
-
 ## Modlist
 
-~The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)~
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
 
 ## Requirements
 * I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS.
