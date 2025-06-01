@@ -78,6 +78,7 @@ No major changes will take place in this update, as this is designed to get the 
 * Console Command Runner Updated
 * Starware Search Engine - SFSE
 * Address Library for SFSE Plugins
+* Dynamic Inventory Models - SFSE
 
 ### Added
 * Betamax's Outpost Framework
@@ -106,7 +107,6 @@ No major changes will take place in this update, as this is designed to get the 
 * Stew - Manual Reload
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
 * Manual Weapon Stance
-* Dynamic Inventory Models - SFSE
 * Real Time Form Patcher (SFSE)
 * Alternative Cockpit Access From Ladders
 * Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
