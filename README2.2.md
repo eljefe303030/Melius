@@ -228,7 +228,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Other settings:
 ![Screenshot 2025-04-20 200648](https://github.com/user-attachments/assets/384a1908-f63b-4782-ad32-66dbd379a3a6)
 ![Screenshot 2025-04-20 201058](https://github.com/user-attachments/assets/b2fd6cbb-b60b-45bb-9163-1c91d3bebdd0)
-![Settings Gorefield](https://github.com/user-attachments/assets/817ccc11-de3e-49a2-95c7-b4661cdc3bd0)
+![Settings Gorefield](https://github.com/user-attachments/assets/90697f14-009c-43b3-bae8-3247f5470069)
 ![Screenshot 2025-04-20 201124](https://github.com/user-attachments/assets/00f24c5b-29c7-4ae3-832f-271e3e9f399c)
 
 **Display**
