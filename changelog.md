@@ -79,6 +79,7 @@ No major changes will take place in this update, as this is designed to get the 
 * Starware Search Engine - SFSE
 * Address Library for SFSE Plugins
 * Dynamic Inventory Models - SFSE
+* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
 
 ### Added
 * Betamax's Outpost Framework
@@ -109,7 +110,6 @@ No major changes will take place in this update, as this is designed to get the 
 * Manual Weapon Stance
 * Real Time Form Patcher (SFSE)
 * Alternative Cockpit Access From Ladders
-* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
       
 </details>
 
