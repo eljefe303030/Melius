@@ -248,7 +248,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus, especially if you have added the HD Overhaul mod. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
 4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
-6. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). If you still have this issue, update to the latest version of Starvival and make sure Starfarer is disabled.
+6. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). 
 7. After going through Unity, Starvival will turn itself off and reset all of its settings. Turn Starvival back on and make your changes to settings. NPCs might have missing body parts. Save game, exit and reload will fix this.
 
 ## Changelog
