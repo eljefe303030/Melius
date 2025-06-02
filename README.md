@@ -194,8 +194,7 @@ Within the left hand pane of MO2 there is a section for optional mods. Click on 
 17. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
 
 ### Manuel Installations
-1. [Vanilla Landing Animations](https://www.moddb.com/mods/vanilla-landing-animations) mod that restores the default landing animations for every landing at major cities and settlements by setting discovery of the landing zone to undiscovered, therefore it works best with new game or ng+.
-2. Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
+1. Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
 
 ### Modifications to the modlist
 Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Discord server.
