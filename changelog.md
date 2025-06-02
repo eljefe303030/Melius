@@ -48,7 +48,7 @@ Running commentary of what I am planning for the next version.
 
 Updated to work with latest Starfield update (1.15.216). Adds some bug fixes and adds mods that provide some visual and gameplay improvements. 
 
-No major changes will take place in this update, as this is designed to get the list working with 1.15.216. The version after this is planned to be a major update.
+No major changes in this update, as this is designed to get the list working with 1.15.216. The version after this is planned to be a major update.
 
 <details>
   
