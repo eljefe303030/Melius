@@ -46,17 +46,12 @@
 
 </details>
 
-# **IMPORTANT**
-Starfield has just received an update to version 1.15.216.0. If you have updated to the latest version and are not on version 1.14.74.0, you **will not be able to use this list**. This modlist will be updated to work with the latest version but this will take time. You can [downgrade to the previous version](https://github.com/eljefe303030/Melius/blob/main/Downgrade.md) in the meantime to be able to install this list.
- 
 # Preamble
 Melius is a Starfield Wabbajack modlist originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) but now also has an optional profile based on [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) and [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
 
 Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list. Note: Starvival will only be enabled if you have the DLC.
 
 I created this list based on my personal preferences and I'm sharing this so others can have a modded version of Starfield, without having to spend the time I did trying out different mods and working out the load order etc. I have tested this as much as possible and I will endeavour to provide support in fixing any issues but I am just one person who has a full time job and life outside of doing this.
-
-*Please note, the loadorder library site is currently out of date, as the website is having some issues*
 
 ## Modlist
 
@@ -66,12 +61,12 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * I have tested this on both a AMD 3600/AMD Radeon RX 580 and AMD 5700X3D/AMD 7800 XT and on both systems it works well without any noticeable drops in FPS.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
-* You need the latest Steam version (1.14.74.0) of the game.
+* You need the latest Steam version (1.15.216) of the game.
 
 ## Pre-installation Steps
 1. Install [Microsoft .NET v8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) and [Microsoft Visual C++ 2019 Runtime](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 2. Fully disable OneDrive and any other programs that affect user file areas.
-3. Reinstall Starfield into a location that is not Program Files. Somewhere like C:\Games is a good location. You MUST have the latest Steam version of Starfield, version 1.14.74.0 and it MUST be a clean install.
+3. Reinstall Starfield into a location that is not Program Files. Somewhere like C:\Games is a good location. You MUST have the latest Steam version of Starfield, version 1.15.216 and it MUST be a clean install.
 4. Set Starfield to not automatically update.
     - Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
 6. Language set to English. You can check translations of the mods on NexusMods but I cannot support you with that.
@@ -167,31 +162,36 @@ Choose which profile you want to use but do not change profile mid playthrough, 
 | Paranoid treatment | Tweaks - Intoxication - Addiction | Disable |
 | Provision/morale system | Tweaks - Crew Morale | Disable |
 | Spaceship Systems | Systems | Enable |
-| Cassiopeia | Tweaks - Spaceship Systems - Other | Enable | Calculates fuel usage accurately |
+| ~Cassiopeia~ | ~Tweaks - Spaceship Systems - Other~ | ~Enable~ | ~Calculates fuel usage accurately~ |
 
 8. Various mods to change the transitions and animations to make them more immersive and less annoying
 8. [Rabbit’s suite of mods](https://next.nexusmods.com/profile/RabbitDoesStuff?gameId=4187) to make area lighting more realistic and playable i.e. not having to walk around in the dark when there are lights around you!
 10. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples. **only included in Melius Hardcore profile**
 11. [Simple Immersive Helmets](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.
 12. [Commitment (Keep Divorce Options)](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. **only included in Melius Hardcore profile**
+13. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the next of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off. Turn off headshot effects in the settings to avoid this.
+
     
 ## Optional Mods
 
 Within the left hand pane of MO2 there is a section for optional mods. Click on the mod you want to enable and it will highlight it in the right hand pane. Put a tick next to it in the right hand pane to enable it: 
 1. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more. **not recommended for the Melius Hardcore profile**
-2. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section. 
-3. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) highly recommended you enable this, changes the landing ramps for your spaceships to manual control. Read the mod page before enabling to see how it works.
-4. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
-5. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
-6. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
-7. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
-8. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy. **do not use with the Melius Hardcore profile**
-9. [ReShade](https://reshade.me/) - adds visual effects that increase the contrast between light and dark. Does have some FPS impact. Can cause some visual effects to get stuck, if this happens, reload your save. Worth the downsides in my opinion. Enabled by default, to disable untick next to it in the left hand pane, in the *'Optional'* section. 
-10. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed. **do not use with the Melius Hardcore profile**
-11. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the next of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off. Turn off headshot effects in the settings to avoid this.
-12. [SKK Fast Start New Game (Starfield)](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. If you use this mod, read the mod pages for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) as the items you need for these mods will need to be acquired within the game for the mods to be useable. When you start a new game with this mod the Ships Controls mod screen will appear, press the 'tab' key to go out of this screen and to continue. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.
-13. [Smart Aiming SFSE - Third to First Person](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-14. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
+2. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+3. [Fast Travel To Unknown](https://www.nexusmods.com/starfield/mods/6663) Allows player to fast travel to undiscovered POI on surface map or from scanner mode. **disabled by default in the Hardcore profile** Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+4. [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+5. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) highly recommended you enable this, changes the landing ramps for your spaceships to manual control. Read the mod page before enabling to see how it works.
+6. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
+7. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
+8. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
+9. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
+10. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy. **do not use with the Melius Hardcore profile**
+11. [ReShade](https://reshade.me/) - adds visual effects that increase the contrast between light and dark. Does have some FPS impact. Enabled by default, to disable untick next to it in the left hand pane, in the *'Optional'* section.
+12. [Richer Merchants](https://www.nexusmods.com/starfield/mods/1143) Increases the amount of credits, ammunition, and resources held by merchants. (2x, 3x, 5x, 10x, 25x, 50x, 10,000x)
+13. [Richer Merchants - Ascension Patch](https://www.nexusmods.com/starfield/mods/13560) patches Richer Merchants to work with Ascension. **Only enable this mod on the Hardcore profile and if using Richer Merchants.**
+14. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed. **do not use with the Melius Hardcore profile**
+15. [SKK Fast Start New Game (Starfield)](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. If you use this mod, read the mod pages for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) as the items you need for these mods will need to be acquired within the game for the mods to be useable. When you start a new game with this mod the Ships Controls mod screen will appear, press the 'tab' key to go out of this screen and to continue. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.
+16. [Smart Aiming SFSE - Third to First Person](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+17. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
 
 ### Manuel Installations
 1. [Vanilla Landing Animations](https://www.moddb.com/mods/vanilla-landing-animations) mod that restores the default landing animations for every landing at major cities and settlements by setting discovery of the landing zone to undiscovered, therefore it works best with new game or ng+.
@@ -220,11 +220,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming. Headshot multiplier is set to x20 which means headshots are deadly for you and most enemies, some bosses might take 2 or 3 headshots to kill them. If you want to change this, download the latest version of the mod, which give you a choice of headshot multiplier. Make sure to place it in the correct position in the right hand pane and disable the old version.E.g. if you select a x10 multiplier, it will look like below.
 ![Human Damage load order](https://github.com/user-attachments/assets/aa06ad59-fdd0-4d71-8d8d-a886d8c90a48)
 * [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars or steath meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
-* [Starfield Performance BOOST](https://www.nexusmods.com/starfield/mods/290) has been used to update the low, medium, high and ultra graphic settings profiles. To use these, select the profile you need. If the profile you want to use is already selected, select another one and then select the one you want e.g. if you want to use the 'high' profile and that is already selected, choose a different one and then select 'high' to enable it.
-* [Stew - Manual Reload](https://www.nexusmods.com/starfield/mods/4451) Stops the player automatically reloading when running out of clip ammo.
 * [Toggle Quest Markers with Scanner and Ship HUD](https://www.nexusmods.com/starfield/mods/50200) Simple immersion mod that toggles the Floating Quest Marker on or off with your hand scanner or spaceship HUD.
 * [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds.
-* [Manual Weapon Stance](https://www.nexusmods.com/starfield/mods/13627) Adds a customizable hotkey to raise or lower your weapon at will. No more automatic lowering—you’re in full control. Works in both first and third person. Lightweight, immersive, and highly compatible. *[For those of you who are using a controller, follow these steps](https://github.com/eljefe303030/Melius/blob/main/MWS%20Xbox%20Controller%20layout%20instructions.md)*
 
 # Recommended Settings
 **Gameplay Options**
@@ -232,6 +229,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Other settings:
 ![Screenshot 2025-04-20 200648](https://github.com/user-attachments/assets/384a1908-f63b-4782-ad32-66dbd379a3a6)
 ![Screenshot 2025-04-20 201058](https://github.com/user-attachments/assets/b2fd6cbb-b60b-45bb-9163-1c91d3bebdd0)
+![Settings Gorefield](https://github.com/user-attachments/assets/90697f14-009c-43b3-bae8-3247f5470069)
 ![Screenshot 2025-04-20 201124](https://github.com/user-attachments/assets/00f24c5b-29c7-4ae3-832f-271e3e9f399c)
 
 **Display**
@@ -250,18 +248,19 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 2. The larger your inventory contents, the more lag you will experience when coming in and out of menus, especially if you have added the HD Overhaul mod. I do not know a fix for this except stashing excess inventory (including ammo) into a safe container.
 3. The Random NPC Height mod can cause clipping for female NPCs and furniture.
-4. If you have an issue where crew or companions freeze, try updating the [Landing Animations Reloaded](https://www.nexusmods.com/starfield/mods/7569) mod to the latest version, using the instructions on the mod page. **(Version 2.0 only of Melius only)**
-5. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
-6. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) mod is enabled by default, if you use an Xbox controller, untick this mod in the *optional* section in the left hand pane of MO2. This will be disabled by default in the next release.
-7. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). If you still have this issue, update to the latest version of Starvival and make sure Starfarer is disabled.
-8. After going through Unity, Starvival will turn itself off and reset all of its settings. Turn Starvival back on and make your changes to settings. NPCs might have missing body parts. Save game, exit and reload will fix this.
-9. Starvival boostpacks needs fuel will enable you to use boostpack when out of fuel. This will be fixes in the next release of Melius. There is a patch available in the meantime from the hotfixes channel in the Melius Discord server.
-10. Some NPCs dialogue lines may be spoken all at once. This will be fixed in the next release of Melius. There is a fix in the meantime in the hotfixes channel of the Melius Discord server.
+4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
+6. If you get false contraband notifications, turn off Starfarer in Starvival's settings (Configuration Book >>> Tweaks >>> Spaceship Systems >>> Other >>> Starfarer Mode [Off]). 
+7. After going through Unity, Starvival will turn itself off and reset all of its settings. Turn Starvival back on and make your changes to settings. NPCs might have missing body parts. Save game, exit and reload will fix this.
 
 ## Changelog
 
-2.1 Adds a number of mods that provide some visual, audio and gameplay improvements/changes. Added Starvival to the Melius Hardcore profile, Starvival requires the Shattered Space DLC but both profiles can be played without the DLC.
+Version 2.2
+
 **This version will need a new game.**
+
+Updated to work with latest Starfield update (1.15.216). Adds some bug fixes and adds mods that provide some visual and gameplay improvements. 
+
+No major changes will take place in this update, as this is designed to get the list working with 1.15.216. The version after this is planned to be a major update.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
@@ -314,10 +313,10 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * [Seb263](https://www.nexusmods.com/starfield/users/825950) for the [Responsive Grabbing](https://www.nexusmods.com/starfield/mods/289) ini setting.
 * The mod authors for all their hard work, skill and imagination.
 * The Wabbajack team for making a tool that makes this possible.
-* [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing.
+* ElminsterAU for xEdit.
+* [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for a massive amount of contribution including writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing.
 * Padi for being the Discord guru and making the Melius server what it is.
-* Rainman for beta testing and mod suggestions.
-* Pyke Lermon, EccentricMeat, Sithishade and anyone else on my Discord server for mod suggestions
+* Pyke Lermon, EccentricMeat, Sithishade, Ross, DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
 * Anyone who tries this list.
 
 
