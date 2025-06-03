@@ -83,21 +83,21 @@ No major changes in this update, as this is designed to get the list working wit
 * Starware Search Engine - SFSE
 
 ### Added
-* Betamax's Outpost Framework
-* Where Did the Lights Go
-* Weapon Retexture - Razerback fix
-* Richer Merchants (optional)
 * Baka Console EditorIDs
-* powerofthree's Tweaks SFSE
-* Gravity Affects Weight (SFSE) (optional)
-* Pilot Seat Access From Ladders
-* HBI Breakable Wine Glass Bottle
-* Better LilyPads
-* HPE Better Rifle Fire Smoke Effects
 * Baka Disable My Games Folder
-* Player Eyes Stuck at the Dialogue Target Bug Fix - SFSE
+* Betamax's Outpost Framework
+* Better LilyPads
+* Gravity Affects Weight (SFSE) (optional)
+* HBI Breakable Wine Glass Bottle
+* HPE Better Rifle Fire Smoke Effects
 * Less Creepy Crowd NPCs - Reduced Staring and Headtracking
 * Mission Boards Tablet (all factions)
+* Pilot Seat Access From Ladders
+* Player Eyes Stuck at the Dialogue Target Bug Fix - SFSE
+* Richer Merchants (optional)
+* Weapon Retexture - Razerback fix
+* Where Did the Lights Go
+* powerofthree's Tweaks SFSE
   
 ### Removed
 * Starfield Performance BOOST
