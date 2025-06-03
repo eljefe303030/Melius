@@ -59,28 +59,28 @@ No major changes in this update, as this is designed to get the list working wit
 * Fixed NPCs audio dialogue being delivered simultaneously.
 
 ### Updated
-* Starfield Engine Fixes - SFSE
+* Address Library for SFSE Plugins
 * Ascension - Gameplay Overhaul
-* Gorefield - A Starfield Gore Framework
-* Galactic Mesh Fixes
-* Starvival
-* KZ Mantis 2.0
+* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
 * Auto Unlock SFSE
 * Baka Achievement Enabler (SFSE)
-* Melius Main Menu music replacer
-* Show XP on Loading Screens
-* Faster Favorites Menu
-* Scanner Closest Path Highlight Improvements
 * Baka Quick Full Saves
 * Baka Quit Game Fix
+* Console Command Runner Updated
+* Dynamic Inventory Models - SFSE
 * Extended Activation and NPC Interaction Distance
+* Faster Favorites Menu
+* Galactic Mesh Fixes
+* Gorefield - A Starfield Gore Framework
+* KZ Mantis 2.0
+* Melius Main Menu music replacer
+* Scanner Closest Path Highlight Improvements
+* Show XP on Loading Screens
 * Simple Offence Suppression SFSE
 * Smart Aiming SFSE - Third to First Person (Updated)
-* Console Command Runner Updated
+* Starfield Engine Fixes - SFSE
+* Starvival
 * Starware Search Engine - SFSE
-* Address Library for SFSE Plugins
-* Dynamic Inventory Models - SFSE
-* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
 
 ### Added
 * Betamax's Outpost Framework
