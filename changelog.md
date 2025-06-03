@@ -1,3 +1,4 @@
+![banner](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
 # Changelog
 
 * [Version 2.2 (released soon)](#version-22)
