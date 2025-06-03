@@ -109,7 +109,6 @@ No major changes in this update, as this is designed to get the list working wit
 * Stew - Manual Reload
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
 * Manual Weapon Stance
-* Real Time Form Patcher (SFSE)
 * Alternative Cockpit Access From Ladders
       
 </details>
