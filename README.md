@@ -1,4 +1,5 @@
 # **Melius**
+![Melius logo](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
 ![MeliusPause720](https://github.com/user-attachments/assets/db6c5804-591d-4977-8edd-6eaeceb566d2)
 
 <p align="center">
