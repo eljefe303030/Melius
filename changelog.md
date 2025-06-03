@@ -103,13 +103,13 @@ No major changes in this update, as this is designed to get the list working wit
 * Starfield Performance BOOST
 
 ### Removed - Need 1.15.216 Update
-* Real Time Form Patcher (SFSE)
+* Alternative Cockpit Access From Ladders
 * Cassiopeia Papyrus Extender
 * Dark Universe - Black Sea
+* Manual Weapon Stance
+* Real Time Form Patcher (SFSE)
 * Stew - Manual Reload
 * Stop Staring at Me - Less NPC Headtracking (plus CCR)
-* Manual Weapon Stance
-* Alternative Cockpit Access From Ladders
       
 </details>
 
