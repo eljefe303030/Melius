@@ -316,6 +316,7 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for a massive amount of contribution including writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing.
 * Padi for being the Discord guru and making the Melius server what it is.
 * Pyke Lermon, EccentricMeat, Sithishade, Ross, DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
+* [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
 * Anyone who tries this list.
 
 
