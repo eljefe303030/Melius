@@ -220,7 +220,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 ![Human Damage load order](https://github.com/user-attachments/assets/aa06ad59-fdd0-4d71-8d8d-a886d8c90a48)
 * [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars or steath meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Toggle Quest Markers with Scanner and Ship HUD](https://www.nexusmods.com/starfield/mods/50200) Simple immersion mod that toggles the Floating Quest Marker on or off with your hand scanner or spaceship HUD.
-* [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds.
+* [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds. Press 'q' in the starmap to use.
 
 # Recommended Settings
 **Gameplay Options**
