@@ -98,7 +98,7 @@ The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod 
 
 Melius uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game.
 ### If you have the Shattered Space DLC
-Copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Steam\steamapps\common\Starfield\Data
+Copy the following 5 files from your Starfield Steam installation folder folder e.g. from C:\Games\Steam\steamapps\common\Starfield\Data
 
 1. ShatteredSpace - Main01.ba2
 2. ShatteredSpace - Main02.ba2
