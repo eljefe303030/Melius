@@ -169,7 +169,7 @@ Choose which profile you want to use but do not change profile mid playthrough, 
 10. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples. **only included in Melius Hardcore profile**
 11. [Simple Immersive Helmets](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.
 12. [Commitment (Keep Divorce Options)](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. **only included in Melius Hardcore profile**
-13. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the next of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off. Turn off headshot effects in the settings to avoid this.
+13. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the necks of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off. Turn off headshot effects in the settings to avoid this.
 
     
 ## Optional Mods
