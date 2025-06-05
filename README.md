@@ -75,7 +75,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 ## Using Wabbajack
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
 2. Create the installation folder e.g. C:\Melius
-4. Create the mod download folder e.g. C:\Melius mod downloads. The download folder can be on a different drive. This can be deleted after the installation has completed but is not advised, as if you want to update or reinstall, you'll need to redownload all the mods again.
+4. Create the mod download folder e.g. C:\Melius Mod Downloads. The download folder can be on a different drive. This can be deleted after the installation has completed but is not advised, as if you want to update or reinstall, you'll need to redownload all the mods again.
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
 7. Make sure you are logged into Nexus. Click on the gear icon in the bottom left hand corner and click login to Nexus Mods.
