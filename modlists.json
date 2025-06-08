@@ -7,8 +7,9 @@
       "github/eljefe303030"
     ],
     "game": "starfield",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Visual Improvements",
       "Balanced",
       "Improved Combat",
