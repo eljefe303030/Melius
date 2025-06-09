@@ -79,7 +79,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
 7. Make sure you are logged into Nexus. Click on the gear icon in the bottom left hand corner and click login to Nexus Mods.
-8. Browse the Starfield modlists to choose Melius. You may need to filter by *non featured* lists.
+8. Browse the Starfield modlists to choose Melius.
 9. Choose the Mod Installation Location and Downloads Location paths you set earlier for the installation and mod download folders.
 10. Click the **Install** button to start the installation.
 11. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
