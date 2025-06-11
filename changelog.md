@@ -16,9 +16,12 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+This will be a major update and will require a new game, it will not be save safe.
+
 <details>
 
 ### Considering
+* Serenity of Stars - Gameplay Overhaul
 * Ship Inventory
 * Individual Ship Crew
 * Starfield String Sharpener - A Font Overhaul
