@@ -235,7 +235,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Brightness set to 2.62 and contrast to 0.90
 * Motion Blur - off
 * VSync - off
-* Sharpening 25%
+* Sharpening 25% (if using frame generation, such as FSR or DLSS)
+* Disable frame generation if you get crashes
 * Film Grain Intensity set to zero
 
 ## Note for Content Creators
