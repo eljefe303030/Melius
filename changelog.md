@@ -16,7 +16,7 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-This will be a major update and will require a new game, it will not be save safe. This will no longer have two profiles and instead one profile based on the [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) mod. I have to make the decison to make having Shatterd Space a s a requirement, as too many mods need this. On the plus side, it will make installation of the modlist easier (no more having to manually copy accross files).
+This will be a major update and will require a new game, it will not be save safe. This will no longer have two profiles and instead one profile based on the [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) mod. I have had to make the decison to make having Shatterd Space a s a requirement, as too many mods need this. On the plus side, it will make installation of the modlist easier (no more having to manually copy accross files).
 
 I've done some tyding up of how optional mods work, again making it easier for you to find and enable them. Everything will be done in the left hand window of MO2 now.
 
