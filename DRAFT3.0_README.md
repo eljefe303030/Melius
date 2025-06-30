@@ -204,12 +204,13 @@ Do not update any mods within this mod list. Reason being is that mods have been
 **Gameplay Options**
 * Damage options - if you are finding it difficult, reduce the damage for a while until you gain better equipment/gain perks
 * Other settings:
-![Settings1](https://github.com/user-attachments/assets/e667f1fc-45ab-4568-acf2-92129dbf1032)
+![Settings1](https://github.com/user-attachments/assets/bd38f3fe-1b1c-4c7f-ae60-6f9c07a638c4)
 ![Settings2](https://github.com/user-attachments/assets/07c3ffe3-977b-41a6-9774-86007df8a528)
-
+![Settings3](https://github.com/user-attachments/assets/4d3293de-f005-438f-9601-a012573e8d06)
 
 **Display**
 * Brightness set to 2.62 and contrast to 0.90
+* Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * Motion Blur - off
 * VSync - off
 * Sharpening 25% (if using frame generation, such as FSR or DLSS)
@@ -224,7 +225,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
-5. Using SKK Fast Start, when you start a new game, your ship flys off by itself, use the..........
+5. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and your ship flys off by itself **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable. Use the [remote control in your weapons inventory](https://www.nexusmods.com/starfield/mods/9406?tab=description) to get your ship back.**
 
 ## Changelog
 
