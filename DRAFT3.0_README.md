@@ -272,6 +272,7 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * Anyone who tries this list.
 
 **Supporters**
+
 Thank you so much for supporting me.
 * 8Bit
 * Jordan
