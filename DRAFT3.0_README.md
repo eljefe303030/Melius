@@ -139,7 +139,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **06.1 USER INTERFACE**
 1. [Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478) Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.
 2. [No Legendary Pickup Notification](https://www.nexusmods.com/starfield/mods/5687) Removes the additional rare/epic/legendary item card notification, which pops up when you pick up an rare/epic/legendary item.
-3. [Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297) This mod will remove the circle cursor from the game and replace it with the regular pointer cursor. **enabled by default, recommened to disable if playing with controller**
+3. [Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297) This mod will remove the circle cursor from the game and replace it with the regular pointer cursor. **enabled by default, recommended to disable if playing with controller**
 4. [Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588) This mod patches native game functions so you can disable messages you don't like. **read the mod page description on how to configure**
 
 **06.1a USER INTERFACE - ULTRA WIDESCREEN**
@@ -151,7 +151,7 @@ Selection of Ultra Widescreen mods
 2. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence. *recommended to use in conjunction with the mod below - Satisfying Headshots - Sound Overhaul*
 3. [Satisfying Headshots - Sound Overhaul](https://www.nexusmods.com/starfield/mods/3823) You now hear the clanging of the bullet hitting the helmets of your foes. *recommended to use in conjunction with the mod above - No Headshot and Crit Sounds*
 4. [No Hit Confirmation Sound](https://www.nexusmods.com/starfield/mods/3938) no projectile hit confirmation sfx (thud).
-5. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the soundeffect played when gaining XP ingame.
+5. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the sound effect played when gaining XP in game.
 6. [Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664) Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.
 
 **09.1 LUT RESOURCES**
@@ -166,14 +166,14 @@ Selection of Ultra Widescreen mods
 1. [Vanilla Flashlight Improved - Bright](https://www.nexusmods.com/starfield/mods/701) It's the vanilla flashlight, but better! Enjoy a larger, brighter beam without the ugly banding artifacts. **enabling this mod will replace the default flashlight mod [Luxor's Realistic Flashlight - HD](https://www.nexusmods.com/starfield/mods/11036)**
 
 **34.1 IMMERSION**
-1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Enabled by default. Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The mod below and related patches will auto disable themsleves once you start the game after disabling this mod**
+1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Enabled by default. Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The mod below and related patches will auto disable themselves once you start the game after disabling this mod**
 2. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
 
 **35.1 WEATHER**
 1. [Royal Weathers - Fantasy Add-On](https://www.nexusmods.com/starfield/mods/7946) some beautiful, potentially not lore-friendly weather on moons and locations without atmosphere.
 
 **49.1 GENERAL COMBAT**
-1. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned、deserted、forgottened places are doubled.
+1. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned, deserted, forgotten places are doubled.
 
 **64 LO SENSITIVE - ALTERNATIVE START**
 1. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable.Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, your ship will take off by itself, use the [remote control in your weapons inventory](https://www.nexusmods.com/starfield/mods/9406?tab=description) to get your ship back.**
@@ -196,8 +196,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * [Leave No Witnesses](https://www.nexusmods.com/starfield/mods/12000) Reworks player bounties so that killing all witnesses to a crime you commit in space removes the bounties incurred while committing that crime.
 * [Landing Bay Cargo Access](https://www.nexusmods.com/starfield/mods/11972) Adds an interactive cargo panel to each landing bay module, allowing you to access your ship's cargo hold remotely - at your ship, but outside your ship. If the cargo panel doesn't show up on your ship, you may have to refresh your ship's landing bay cell by modifying your ship in the ship builder.
 * [Polyamory - Remove single romance limit](https://www.nexusmods.com/starfield/mods/10687) Removes the restriction on multiple companion romances.
-* [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming. Headshot multiplier is set to x10 which means headshots are deadly for you and most enemies, some bosses might take 2 or 3 headshots to kill them. If you want to change this, right click the mod and choose reinstall, which give you a choice of headshot multiplier (x2 is vanilla). Make sure to place it in the correct position in the right hand pane, immeidatley below the El Jefe Combat AI mod.
-* [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars or steath meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
+* [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming. Headshot multiplier is set to x10 which means headshots are deadly for you and most enemies, some bosses might take 2 or 3 headshots to kill them. If you want to change this, right click the mod and choose reinstall, which give you a choice of headshot multiplier (x2 is vanilla). Make sure to place it in the correct position in the right hand pane, immediately below the El Jefe Combat AI mod.
+* [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars or stealth meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds. Press 'q' in the starmap to use.
 * [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) overhauls the gameplay in many ways. Additional control keys - Sensor Array mod for helmets adds Night Vision. Default key to activate is "N". There is a new menu to swap attachments (ammo, muzzle, scope and firing mode) without the need of a workbench. Default key to bring up the menu is "B"
 
@@ -234,7 +234,7 @@ Version 3.0
 
 **This version will need a new game.**
 
-Complete rewrite of the mod list. This is a major update and will require a new game, it will not be save safe. This will no longer have two profiles and instead one profile based on the [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) mod. I have had to make the decison to make having Shattered Space as a requirement, as too many mods need this. On the plus side, it will make installation of the modlist easier (no more having to manually copy across files). Starvival will no longer be used and instead replaced with several other mods that cover some of the systems.
+Complete rewrite of the mod list. This is a major update and will require a new game, it will not be save safe. This will no longer have two profiles and instead one profile based on the [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) mod. I have had to make the decision to make having Shattered Space as a requirement, as too many mods need this. On the plus side, it will make installation of the modlist easier (no more having to manually copy across files). Starvival will no longer be used and instead replaced with several other mods that cover some of the systems.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
@@ -270,7 +270,3 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * Pyke Lermon, EccentricMeat, Sithishade, 0Bek, DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
 * [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
 * Anyone who tries this list.
-
-
-
-
