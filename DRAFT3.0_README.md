@@ -142,6 +142,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 4. [Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588) This mod patches native game functions so you can disable messages you don't like. **read the mod page description on how to configure**
 
 **06.1a USER INTERFACE - ULTRA WIDESCREEN**
+
 Selection of Ultra Widescreen mods
 
 **08.1 AUDIO & MUSIC**
