@@ -270,3 +270,10 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * Pyke Lermon, EccentricMeat, Sithishade, 0Bek, DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
 * [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
 * Anyone who tries this list.
+
+**Supporters**
+Thank you so much for supporting me.
+* 8Bit
+* Jordan
+
+
