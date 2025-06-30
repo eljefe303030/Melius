@@ -241,7 +241,7 @@ Adds some bug fixes and adds mods that provide some visual and gameplay improvem
 
 Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new game after certain updates.
 
-**Updating to version 3.x. It is required to install into a new folder, as there are significant changes.
+**Updating to version 3.x. It is required to install into a new folder, as there are significant changes.**
 
 It is recommended that before updating to save the game whilst you are in space, doing nothing, sat in the cockpit, doing zero speed.
 
@@ -260,14 +260,13 @@ If the update has removed any mods, you'll get the following message, choose 'Ye
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
 ## Credits and Thanks
-* JaeDL for permission to use Starborn Royalty as a basis for this list.
 * [Seb263](https://www.nexusmods.com/starfield/users/825950) for the [Responsive Grabbing](https://www.nexusmods.com/starfield/mods/289) ini setting.
 * The mod authors for all their hard work, skill and imagination.
 * The Wabbajack team for making a tool that makes this possible.
 * ElminsterAU for xEdit.
-* [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for a massive amount of contribution including writing the Manual Weapon Stance controller settings guide, mod suggestions and beta testing.
-* Padi for being the Discord guru and making the Melius server what it is.
-* Pyke Lermon, EccentricMeat, Sithishade, Ross, DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
+* [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for a massive amount of contribution too much to list here.
+* Padi for being the Discord guru and making the Melius server what it is. DrukenReaps for moderating the server and keeping everyone in line, including myself.
+* Pyke Lermon, EccentricMeat, Sithishade, 0Bek, DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
 * [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
 * Anyone who tries this list.
 
