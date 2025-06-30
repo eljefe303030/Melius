@@ -147,22 +147,37 @@ Selection of Ultra Widescreen mods
 
 **08.1 AUDIO & MUSIC**
 1. [Faded Memories - Ambient Music Overhaul](https://www.nexusmods.com/starfield/mods/6778) Replaces the combat, exploration, dungeon, and (most of) the city music with music by Nyghttones for a darker atmosphere.
-2. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence.
-3. 
-14. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more. **not recommended for the Melius Hardcore profile**
-15. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-16. [Fast Travel To Unknown](https://www.nexusmods.com/starfield/mods/6663) Allows player to fast travel to undiscovered POI on surface map or from scanner mode. **disabled by default in the Hardcore profile** Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-17. [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-18. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) highly recommended you enable this, changes the landing ramps for your spaceships to manual control. Read the mod page before enabling to see how it works.
-19. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
-20. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
-21. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
-22. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
-23. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy. **do not use with the Melius Hardcore profile**
-24. [ReShade](https://reshade.me/) - adds visual effects that increase the contrast between light and dark. Does have some FPS impact. Enabled by default, to disable untick next to it in the left hand pane, in the *'Optional'* section.
-25. [Richer Merchants](https://www.nexusmods.com/starfield/mods/1143) Increases the amount of credits, ammunition, and resources held by merchants. (2x, 3x, 5x, 10x, 25x, 50x, 10,000x)
-26. [Richer Merchants - Ascension Patch](https://www.nexusmods.com/starfield/mods/13560) patches Richer Merchants to work with Ascension. **Only enable this mod on the Hardcore profile and if using Richer Merchants.**
-27. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed. **do not use with the Melius Hardcore profile**
+2. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence. *recommended to use in conjunction with the mod below - Satisfying Headshots - Sound Overhaul*
+3. [Satisfying Headshots - Sound Overhaul](https://www.nexusmods.com/starfield/mods/3823) You now hear the clanging of the bullet hitting the helmets of your foes. *recommended to use in conjunction with the mod above - No Headshot and Crit Sounds*
+4. [No Hit Confirmation Sound](https://www.nexusmods.com/starfield/mods/3938) no projectile hit confirmation sfx (thud).
+5. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the soundeffect played when gaining XP ingame.
+6. [Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664) Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.
+
+**09.1 LUT RESOURCES**
+1. [Gravity LUT - No Color Filters](https://www.nexusmods.com/starfield/mods/1871) Alternative LUT, "hand crafted to deliver true to life colors and luminance." **only enable one LUT mod at a time**
+2. [Stellar LUT - High Contrast Color Filters](https://www.nexusmods.com/starfield/mods/1072) Custom LUT created using ARRI Log 3 conversion and includes AgX color management for crisp, accurate color and gamut. Hand crafted, per-location LUTs for the perfect balance. **only enable one LUT mod at a time**
+
+**19.1 MESHES & TEXTURES - ARMOR & WEAPONS**
+1. [Varuun Spacesuit Remade - Replacer - Dark Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a dark visor. **use this mod OR the mod below, not both**
+2. [Varuun Spacesuit Remade - Replacer - Red Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a red visor. **use this mod OR the mod below, not both**
+
+**22.1 MESHES & TEXTURES - FX**
+1. [Vanilla Flashlight Improved - Bright](https://www.nexusmods.com/starfield/mods/701) It's the vanilla flashlight, but better! Enjoy a larger, brighter beam without the ugly banding artifacts. **enabling this mod will replace the default flashlight mod [Luxor's Realistic Flashlight - HD](https://www.nexusmods.com/starfield/mods/11036)**
+
+**34.1 IMMERSION**
+1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Enabled by default. Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The mod below and related patches will auto disable themsleves once you start the game after disabling this mod**
+2. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
+
+**35.1 WEATHER**
+1. [Royal Weathers - Fantasy Add-On](https://www.nexusmods.com/starfield/mods/7946) some beautiful, potentially not lore-friendly weather on moons and locations without atmosphere.
+
+**49.1 GENERAL COMBAT**
+1. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned、deserted、forgottened places are doubled.
+
+**64 LO SENSITIVE - ALTERNATIVE START**
+1. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for these mods will need to be acquired within the game for the mods to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, your ship will take off by itself, use the [remote control in your weapons inventory](https://www.nexusmods.com/starfield/mods/9406?tab=description) to get your ship back.**
+
+  
 28. [SKK Fast Start New Game (Starfield)](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. If you use this mod, read the mod pages for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) as the items you need for these mods will need to be acquired within the game for the mods to be useable. When you start a new game with this mod the Ships Controls mod screen will appear, press the 'tab' key to go out of this screen and to continue. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.
 29. [Smart Aiming SFSE - Third to First Person](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
 30. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
