@@ -32,6 +32,7 @@
   * [Starting Mod Organizer 2](#starting-mod-organizer-2)
 * [Important mods you should know about](#important-mods-you-should-know-about)
 * [Optional Mods](#optional-mods)
+  * [Manuel Installations](#manuel-installations)
   * [Modifications to the modlist](#modifications-to-the-modlist)
 * [Gameplay Guide](#gameplay-guide)
 * [Recommended Settings](#recommended-settings)
@@ -233,7 +234,7 @@ Version 3.0
 
 **This version will need a new game.**
 
-Adds some bug fixes and adds mods that provide some visual and gameplay improvements. 
+Complete rewrite of the mod list. 
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
