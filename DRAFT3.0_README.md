@@ -127,24 +127,44 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
     
 ## Optional Mods
 
-Within the left hand pane of MO2 there is a section for optional mods. Click on the mod you want to enable and it will highlight it in the right hand pane. Put a tick next to it in the right hand pane to enable it: 
-1. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more. **not recommended for the Melius Hardcore profile**
-2. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-3. [Fast Travel To Unknown](https://www.nexusmods.com/starfield/mods/6663) Allows player to fast travel to undiscovered POI on surface map or from scanner mode. **disabled by default in the Hardcore profile** Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-4. [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-5. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) highly recommended you enable this, changes the landing ramps for your spaceships to manual control. Read the mod page before enabling to see how it works.
-6. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
-7. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
-8. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
-9. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
-10. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy. **do not use with the Melius Hardcore profile**
-11. [ReShade](https://reshade.me/) - adds visual effects that increase the contrast between light and dark. Does have some FPS impact. Enabled by default, to disable untick next to it in the left hand pane, in the *'Optional'* section.
-12. [Richer Merchants](https://www.nexusmods.com/starfield/mods/1143) Increases the amount of credits, ammunition, and resources held by merchants. (2x, 3x, 5x, 10x, 25x, 50x, 10,000x)
-13. [Richer Merchants - Ascension Patch](https://www.nexusmods.com/starfield/mods/13560) patches Richer Merchants to work with Ascension. **Only enable this mod on the Hardcore profile and if using Richer Merchants.**
-14. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed. **do not use with the Melius Hardcore profile**
-15. [SKK Fast Start New Game (Starfield)](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. If you use this mod, read the mod pages for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) as the items you need for these mods will need to be acquired within the game for the mods to be useable. When you start a new game with this mod the Ships Controls mod screen will appear, press the 'tab' key to go out of this screen and to continue. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.
-16. [Smart Aiming SFSE - Third to First Person](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
-17. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
+Within the left hand pane of MO2 there are several separator sections marked as 'OPTIONAL', you can also use the filter box to search for optional mods. Click on the empty tickbox to the left of the mod you want to enable and a tick will appear, this mod is now enabled: 
+
+**01.1a CORE MODS - SFSE PLUGINS**
+1. [Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.
+2. [Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. **note, some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.**
+3. [Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight.
+4. [Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release.
+
+**06.1 USER INTERFACE**
+1. [Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478) Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.
+2. [No Legendary Pickup Notification](https://www.nexusmods.com/starfield/mods/5687) Removes the additional rare/epic/legendary item card notification, which pops up when you pick up an rare/epic/legendary item.
+3. [Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297) This mod will remove the circle cursor from the game and replace it with the regular pointer cursor. **enabled by default, recommened to disable if playing with controller**
+4. [Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588) This mod patches native game functions so you can disable messages you don't like. **read the mod page description on how to configure**
+
+**06.1a USER INTERFACE - ULTRA WIDESCREEN**
+Selection of Ultra Widescreen mods
+
+**08.1 AUDIO & MUSIC**
+1. [Faded Memories - Ambient Music Overhaul](https://www.nexusmods.com/starfield/mods/6778) Replaces the combat, exploration, dungeon, and (most of) the city music with music by Nyghttones for a darker atmosphere.
+2. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence.
+3. 
+14. [Doubled Enemy Numbers](https://www.nexusmods.com/starfield/mods/6030) doubles the number of enemies. Royal Galaxy already increases enemies by 1.5 but use this if you want even more. **not recommended for the Melius Hardcore profile**
+15. [DualSense - PS5 Icons](https://www.nexusmods.com/starfield/mods/215) use this if you use a PS5 controller. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+16. [Fast Travel To Unknown](https://www.nexusmods.com/starfield/mods/6663) Allows player to fast travel to undiscovered POI on surface map or from scanner mode. **disabled by default in the Hardcore profile** Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+17. [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+18. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) highly recommended you enable this, changes the landing ramps for your spaceships to manual control. Read the mod page before enabling to see how it works.
+19. [Legendary Module Recycler](https://www.nexusmods.com/starfield/mods/6074) great mod that give you the ability to remove modules from legendary weapons and spacesuits etc. This can make you overpowered if not used responsibly.
+20. [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) Enable if using NPC Height Variation Mod.
+21. [NPC Height Variation Mod](https://www.nexusmods.com/starfield/mods/7466) Varies NPC heights but can cause clipping of female NPCs and furniture.
+22. [NPC Female Height Patch](https://www.nexusmods.com/starfield/mods/12812) Enable if using NPC Height Variation Mod.
+23. [Royal Recycler Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) not essential but recommend if you use Legendary Module Recycler, as this keeps the text changes from Royal Galaxy. **do not use with the Melius Hardcore profile**
+24. [ReShade](https://reshade.me/) - adds visual effects that increase the contrast between light and dark. Does have some FPS impact. Enabled by default, to disable untick next to it in the left hand pane, in the *'Optional'* section.
+25. [Richer Merchants](https://www.nexusmods.com/starfield/mods/1143) Increases the amount of credits, ammunition, and resources held by merchants. (2x, 3x, 5x, 10x, 25x, 50x, 10,000x)
+26. [Richer Merchants - Ascension Patch](https://www.nexusmods.com/starfield/mods/13560) patches Richer Merchants to work with Ascension. **Only enable this mod on the Hardcore profile and if using Richer Merchants.**
+27. [Royal - Hard Mode Patch](https://www.nexusmods.com/starfield/mods/10581?tab=files) All Starborn, Creature, and Terrormorphs have slightly harder level scaling, damage, and movement speed. Player HP gain per level reduced to 15. 0.85x leveling speed. **do not use with the Melius Hardcore profile**
+28. [SKK Fast Start New Game (Starfield)](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. If you use this mod, read the mod pages for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) and [Hide Show Helmet And Spacesuit Switch](https://www.nexusmods.com/starfield/mods/12324) as the items you need for these mods will need to be acquired within the game for the mods to be useable. When you start a new game with this mod the Ships Controls mod screen will appear, press the 'tab' key to go out of this screen and to continue. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.
+29. [Smart Aiming SFSE - Third to First Person](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Enable this mod by putting a tick next to it in the left hand pane, in the *'Optional'* section.
+30. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) alternative and brighter flashlight. If you use this, make sure you disable the default flashlight 'Luxor's realistic Flashlight HD'.
 
 ### Manuel Installations
 1. Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough.
