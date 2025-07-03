@@ -115,15 +115,14 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 6. [Rabbit’s suite of mods](https://next.nexusmods.com/profile/RabbitDoesStuff?gameId=4187) to make area lighting more realistic and playable i.e. not having to walk around in the dark when there are lights around you!
 7. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples.
 8. [Simple Immersive Helmets](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.
-9. [Commitment (Keep Divorce Options)](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef.
-10. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning.
-11. Multiple mods that remove the change of coming across the same POIs all the time.
-12. [Deadly Hazards](https://www.nexusmods.com/starfield/mods/5800) Overhauls and fixes Starfield's environmental gameplay systems.
-13. [Vitality - Sustenance Overhaul](https://www.nexusmods.com/starfield/mods/10536) This mod replaces the Sustenance system with a more gradual one, that includes sleep mechanics.
-14. [Real Fuel - Immersive Exploration](https://www.nexusmods.com/starfield/mods/13306) Introduces Fuel usage mechanics to travel in Starfield in a lightweight and immersive manner.
-15. [TN's Realistic Oxygen Meter](https://www.nexusmods.com/starfield/mods/9827) This mod overhauls the oxygen meter to work like a suit O2 meter. This is similar to other space games, and like the Subnautica series, but it is balanced for the speed of Starfield's gameplay.
-16. [Better Boarding Encounters (BBE)](https://www.nexusmods.com/starfield/mods/13964) and [Enemies Boarding My Ship](https://www.nexusmods.com/starfield/mods/13999) Spices up docking encounters with surprise boarding, occasional hazards, and cut pirate dialogue! Enemies actively try to dock onto your ship during combat in order to board it. In space combat, there is now a constant risk of being boarded yourself. The risk increases with the interests of the factions and the condition of your ship.
-17. [New Atlantis Awaits](https://www.nexusmods.com/starfield/mods/13614) Explore a revitalized version of New Atlantis with New Atlantis Awaits. This mod brings a complete overhaul to the city, enhancing its layout, architecture, and overall atmosphere.
+9. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning.
+10. Multiple mods that remove the change of coming across the same POIs all the time.
+11. [Deadly Hazards](https://www.nexusmods.com/starfield/mods/5800) Overhauls and fixes Starfield's environmental gameplay systems.
+12. [Vitality - Sustenance Overhaul](https://www.nexusmods.com/starfield/mods/10536) This mod replaces the Sustenance system with a more gradual one, that includes sleep mechanics.
+13. [Real Fuel - Immersive Exploration](https://www.nexusmods.com/starfield/mods/13306) Introduces Fuel usage mechanics to travel in Starfield in a lightweight and immersive manner.
+14. [TN's Realistic Oxygen Meter](https://www.nexusmods.com/starfield/mods/9827) This mod overhauls the oxygen meter to work like a suit O2 meter. This is similar to other space games, and like the Subnautica series, but it is balanced for the speed of Starfield's gameplay.
+15. [Better Boarding Encounters (BBE)](https://www.nexusmods.com/starfield/mods/13964) and [Enemies Boarding My Ship](https://www.nexusmods.com/starfield/mods/13999) Spices up docking encounters with surprise boarding, occasional hazards, and cut pirate dialogue! Enemies actively try to dock onto your ship during combat in order to board it. In space combat, there is now a constant risk of being boarded yourself. The risk increases with the interests of the factions and the condition of your ship.
+16. [New Atlantis Awaits](https://www.nexusmods.com/starfield/mods/13614) Explore a revitalized version of New Atlantis with New Atlantis Awaits. This mod brings a complete overhaul to the city, enhancing its layout, architecture, and overall atmosphere.
     
 ## Optional Mods
 
