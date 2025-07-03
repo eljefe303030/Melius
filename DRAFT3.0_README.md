@@ -152,7 +152,7 @@ Selection of Ultra Widescreen mods
 4. [No Hit Confirmation Sound](https://www.nexusmods.com/starfield/mods/3938) no projectile hit confirmation sfx (thud).
 5. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the sound effect played when gaining XP in game.
 6. [Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664) Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.
-7. [Starfield Epic Theme Menu Replacer by CJMusic](https://www.nexusmods.com/starfield/mods/2810) Replaces The Main Menu Theme with the "Starfield Epic Theme" composed by CJMusic.
+7. [Starfield Epic Theme Menu Replacer by CJMusic](https://www.nexusmods.com/starfield/mods/2810) Replaces The Main Menu Theme with the "Starfield Epic Theme" composed by CJMusic. **you'll also need to disable the mod 'Melius - Main Menu Music [MELIUS DEFAULT]' in '08 AUDIO & MUSIC'**
 
 **09.1 LUT RESOURCES**
 1. [Gravity LUT - No Color Filters](https://www.nexusmods.com/starfield/mods/1871) Alternative LUT, "hand crafted to deliver true to life colors and luminance." **only enable one LUT mod at a time**
