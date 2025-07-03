@@ -211,7 +211,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Motion Blur - off
 * VSync - off
 * Sharpening 25% (if using frame generation, such as FSR or DLSS)
-* Disable frame generation if you get crashes
+* Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed.
 * Film Grain Intensity set to zero
 
 ## Note for Content Creators
