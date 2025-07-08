@@ -52,7 +52,7 @@ Stability and balanced gameplay that is challenging but rewarding are key aims o
 
 ## Modlist
 
-The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-2)
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-3)
 
 ## Requirements
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well without any noticeable drops in FPS.
