@@ -104,7 +104,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 > 3. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
 
 > [!IMPORTANT]
-> 4. After starting the game for the first time, the sound and elements of thf user interface will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+> 4. After starting the game for the first time, the sound and elements of the user interface will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
 
 ## Important mods you should know about
 
