@@ -149,8 +149,8 @@ Selection of Ultra Widescreen mods
 
 **7.1 MENU & LOADING SCREENS**
 
-1. [Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860)
-2. [Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232)
+1. [Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860) Original Melius main menu background of an animated starfield. **you'll need to disable the mod 'Melius Main Menu Replacer [0Bek version]**
+2. [Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232) Original Melius pause menu background. **you'll need to disable the mod 'Melius Pause Menu Background Replacer [0Bek version]**
 
 **08.1 AUDIO & MUSIC**
 1. [Faded Memories - Ambient Music Overhaul](https://www.nexusmods.com/starfield/mods/6778) Replaces the combat, exploration, dungeon, and (most of) the city music with music by Nyghttones for a darker atmosphere.
@@ -160,6 +160,7 @@ Selection of Ultra Widescreen mods
 5. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the sound effect played when gaining XP in game.
 6. [Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664) Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.
 7. [Starfield Epic Theme Menu Replacer by CJMusic](https://www.nexusmods.com/starfield/mods/2810) Replaces The Main Menu Theme with the "Starfield Epic Theme" composed by CJMusic. **you'll also need to disable the mod 'Melius - Main Menu Music [MELIUS DEFAULT]' in '08 AUDIO & MUSIC'**
+8. [Vanilla Plus Main Theme - Into the Starfield](https://www.nexusmods.com/starfield/mods/14312?tab=files) An epic version of the Starfield main theme, "Into the Starfield". Perfect for that vanilla+ modded playthrough! **you'll also need to disable the mod 'Melius - Main Menu Music [MELIUS DEFAULT]' in '08 AUDIO & MUSIC'**
 
 **09.1 LUT RESOURCES**
 1. [Gravity LUT - No Color Filters](https://www.nexusmods.com/starfield/mods/1871) Alternative LUT, "hand crafted to deliver true to life colors and luminance." **only enable one LUT mod at a time**
