@@ -147,6 +147,11 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 
 Selection of Ultra Widescreen mods
 
+**7.1 MENU & LOADING SCREENS**
+
+1. [Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860)
+2. [Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232)
+
 **08.1 AUDIO & MUSIC**
 1. [Faded Memories - Ambient Music Overhaul](https://www.nexusmods.com/starfield/mods/6778) Replaces the combat, exploration, dungeon, and (most of) the city music with music by Nyghttones for a darker atmosphere.
 2. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence. *recommended to use in conjunction with the mod below - Satisfying Headshots - Sound Overhaul*
