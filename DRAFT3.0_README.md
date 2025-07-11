@@ -67,7 +67,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 4. Set Starfield to not automatically update.
     - Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
 6. Language set to English. You can check translations of the mods on NexusMods but I cannot support you with that.
-7. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
+7. Start Starfield via Steam once, get to the main menu and exit the game. After this step, you will be starting the game through Steam anymore.
 
 ## Using Wabbajack
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
@@ -102,9 +102,10 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 > [!IMPORTANT]
 > 3. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a few minutes to start, this is normal.
+4. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
 
 > [!IMPORTANT]
-> 4. After starting the game for the first time, the sound and elements of the user interface will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+> 4. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
 
 ## Important mods you should know about
 
