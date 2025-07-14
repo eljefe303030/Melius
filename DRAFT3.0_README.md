@@ -236,6 +236,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
 5. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
+6. Frane rates can drop drastically whilst in the console command prompt. Currently testing which mod is causing this, if you find out, please let us know on the Discord server.
 
 ## Changelog
 
