@@ -183,6 +183,7 @@ Selection of Ultra Widescreen mods
 
 **49.1 GENERAL COMBAT**
 1. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned, deserted, forgotten places are doubled.
+2. [Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603) choose one of the lower multipler here if you want headshots to you and enemies to do less damage.
 
 **64 LO SENSITIVE - ALTERNATIVE START**
 1. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When fisrt starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, the ship control menu will pop up, tab to close this and continue.**
