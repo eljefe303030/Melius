@@ -58,7 +58,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well without any noticeable drops in FPS.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
-* You need the latest Steam version (1.15.216) of the game and the Shattered Space DLC.
+* You need the latest Steam version (1.15.222) of the game and the Shattered Space DLC.
 
 ## Pre-installation Steps
 1. Install [Microsoft .NET v8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) and [Microsoft Visual C++ 2019 Runtime](https://aka.ms/vs/16/release/vc_redist.x64.exe).
