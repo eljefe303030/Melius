@@ -25,6 +25,8 @@ Running commentary of what I am planning for the next version.
 
 I've done some tidying up of how optional mods work, again making it easier for you to find and enable them. Everything will be done in the left hand window of MO2 now.
 
+I'm not listing the changes, as there are too many, consider this a new mod list.
+
 ## Version 2.2
 
 **This version will need a new game.**
