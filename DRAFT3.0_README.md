@@ -211,6 +211,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show enemy health bars or stealth meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds. Press 'q' in the starmap to use.
 * [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) overhauls the gameplay in many ways. Additional control keys - Sensor Array mod for helmets adds Night Vision. Default key to activate is "N". There is a new menu to swap attachments (ammo, muzzle, scope and firing mode) without the need of a workbench. Default key to bring up the menu is "B"
+* [Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE](https://www.nexusmods.com/starfield/mods/7432) Lets you determine under what conditions your Spacesuit is hidden. Also aims to fix some of the relevent vanilla bugs. Mod page gives instructions on how you can change the mod's settings.
 
 # Recommended Settings
 **Gameplay Options**
