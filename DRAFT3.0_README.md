@@ -67,7 +67,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 4. Set Starfield to not automatically update.
     - Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
 6. Language set to English. You can check translations of the mods on NexusMods but I cannot support you with that.
-7. Start Starfield via Steam once, get to the main menu and exit the game. After this step, you will be starting the game through Steam anymore.
+7. Start Starfield via Steam once, get to the main menu and exit the game. After this step, you will not be starting the game through Steam anymore.
 
 ## Using Wabbajack
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
