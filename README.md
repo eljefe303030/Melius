@@ -17,7 +17,7 @@
 
 ## Please read ALL of this document before installing/playing the list.
 
-**IMPORTANT** Starfield has just updated and it is currently not possible to install this list with the latest version. Either wait until mods have been updated and I've released a new version or follow the [downgrade instructions](https://github.com/eljefe303030/Melius/blob/main/Downgrade%20to%201.15.216.md) and then install.
+**IMPORTANT** Starfield has just updated and it is currently not possible to install this list with the latest version. It will be updated and back on Wabbajack as soon as possible.
 
 # Contents List
 
