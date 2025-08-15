@@ -119,7 +119,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 8. [Simple Immersive Helmets](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.
 9. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning.
 10. Multiple mods that remove the chance of coming across the same POIs all the time.
-11. [Deadly Hazards](https://www.nexusmods.com/starfield/mods/5800) Overhauls and fixes Starfield's environmental gameplay systems.
+11. [Deadly Hazards](https://www.nexusmods.com/starfield/mods/5800) Overhauls and fixes Starfield's environmental gameplay systems. If you have a yellow part of your health bar, it's environmental damage and needs to be healed.
 12. [Vitality - Sustenance Overhaul](https://www.nexusmods.com/starfield/mods/10536) This mod replaces the Sustenance system with a more gradual one, that includes sleep mechanics.
 13. [Real Fuel - Immersive Exploration](https://www.nexusmods.com/starfield/mods/13306) Introduces Fuel usage mechanics to travel in Starfield in a lightweight and immersive manner.
 14. [Real O2](https://www.nexusmods.com/starfield/mods/12303) A lightweight, highly compatible revamp of the O2 system in Starfield. Oxygen is now a limited resource in zero-atmosphere environments, and must be managed carefully.
