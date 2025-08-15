@@ -130,10 +130,11 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 Within the left hand pane of MO2 there are several separator sections marked as 'OPTIONAL', you can also use the filter box to search for optional mods. Click on the empty tickbox to the left of the mod you want to enable and a tick will appear, this mod is now enabled: 
 
 **01.1a CORE MODS - SFSE PLUGINS**
-1. [Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. **note, some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.**
-2. [Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.
-3. [Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight.
-4. [Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release.
+1. [Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE](https://www.nexusmods.com/starfield/mods/7432) Lets you determine under what conditions your Spacesuit is hidden. Also aims to fix some of the relevent vanilla bugs. **enabling this mod will pretty much make 'Fast Spacesuit Deployment Kit' mod redundant, as it takes away the manual control of when your spacedit is displayed.**
+2. [Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. **note, some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.**
+3. [Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.
+4. [Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight.
+5. [Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release.
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
 1. [Commitment](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. Locks you out of other factions based on your decisions. Enable all 3 commitment mods. **needs to be enabled before starting your game or before NG+**
@@ -169,10 +170,12 @@ Selection of Ultra Widescreen mods
 
 **19.1 MESHES & TEXTURES - ARMOR & WEAPONS**
 1. [Varuun Spacesuit Remade - Replacer - Dark Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a dark visor. **use this mod OR the mod below, not both**
-2. [Varuun Spacesuit Remade - Replacer - Red Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a red visor. **use this mod OR the mod below, not both**
+2. [Varuun Spacesuit Remade - Replacer - Red Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a red visor. **use this mod OR the mod above, not both**
 
 **22.1 MESHES & TEXTURES - FX**
-1. [Vanilla Flashlight Improved - Bright](https://www.nexusmods.com/starfield/mods/701) It's the vanilla flashlight, but better! Enjoy a larger, brighter beam without the ugly banding artifacts. **enabling this mod will replace the default flashlight mod [Luxor's Realistic Flashlight - HD](https://www.nexusmods.com/starfield/mods/11036)**
+1. [Luxor's Realistic Flashlight - HD](https://www.nexusmods.com/starfield/mods/11036) Realistic flashlight texture, does not light up areas as much as other flashlight mods but provides more atmosphere. **enabling this mod will replace the default flashlight mod**
+2. [Subtle Flashlight - Less Wide - Yellow Spec](https://www.nexusmods.com/starfield/mods/11018) This mod makes the vanilla flashlight less intense and helps illuminate wider area without all the specular mess hitting your eyes. **enabling this mod will replace the default flashlight mod**
+3. [Vanilla Flashlight Improved - Bright](https://www.nexusmods.com/starfield/mods/701) It's the vanilla flashlight, but better! Enjoy a larger, brighter beam without the ugly banding artifacts. **enabling this mod will replace the default flashlight mod**
 
 **34.1 IMMERSION**
 1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
