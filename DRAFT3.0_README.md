@@ -244,7 +244,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
 5. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
 6. Crosshairs for some weapons are unavailable and will need a patch to bring them back.
-7. Mods labelled *(NEEDS UPDATING BEFORE USING)* are currently not compatible with Starfield version 1.15.222 and the latest SFSE and therefore will need updating to their latest versions when/if they get updated.
+7. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
 
 ## Changelog
 
