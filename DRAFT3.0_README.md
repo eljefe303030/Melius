@@ -55,7 +55,7 @@ Stability and balanced gameplay that is challenging but rewarding are key aims o
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-3)
 
 ## Requirements
-* I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Without frame generation I get around 45fps in New Atlantis and 120 with frame generation, most other areas I get around 60fsp without frame generation and 160fsp with frame generation. Personannly I find playing without frame generation provides the best experiance for me.
+* I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Without frame generation I get around 45fps in New Atlantis and 120 with frame generation, most other outside areas I get around 60fsp without frame generation and 160fsp with frame generation (much higher fsp indoors). Personannly I find playing without frame generation provides the best experiance for me.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
 * You need the latest Steam version (1.15.222) of the game and the Shattered Space DLC.
