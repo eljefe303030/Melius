@@ -228,7 +228,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 ![Settings3](https://github.com/user-attachments/assets/4d3293de-f005-438f-9601-a012573e8d06)
 
 **Display**
-* Contrast set to 90 then adjust brightness to whatever value means you cannot see the logo in the Display options screen (mine is 2.53 but yours may differ)
+* Contrast set to 90 then adjust brightness to whatever value you prefer, I have mine set to 2.62.
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * Motion Blur - off
 * VSync - off
