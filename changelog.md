@@ -1,7 +1,7 @@
 ![banner](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
 # Changelog
 
-* [Version 3.0 (released TBC))](#version-30)
+* [Version 3.0 (released 19/08/2025)](#version-30)
 * [Version 2.2 (released 02/06/2025)](#version-22)
 * [Version 2.1 (released 28/04/2025)](#version-21)
 * [Version 2.0 (released 19/03/2025)](#version-20)
@@ -18,8 +18,6 @@
 Running commentary of what I am planning for the next version. 
 
 ## Version 3.0
-
-*Yet to be released*
 
 **This is a major update and will require a new game, it will not be save safe.** This will no longer have two profiles and instead one profile based on the [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) mod. I have had to make the decision to make having Shattered Space as a requirement, as too many mods need this. On the plus side, it will make installation of the modlist easier (no more having to manually copy across files). Starvival will no longer be used and instead replaced with several other mods that cover some of the systems.
 
