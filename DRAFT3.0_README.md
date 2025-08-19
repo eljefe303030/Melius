@@ -224,9 +224,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Damage options - if you are finding it difficult, reduce the damage for a while until you gain better equipment/gain perks
 * Other settings:
 ![Settings1](https://github.com/user-attachments/assets/bd38f3fe-1b1c-4c7f-ae60-6f9c07a638c4)
-![Settings2](https:/![Settings3](https://github.com/user-attachments/assets/842af7dc-cb03-41c7-b721-72262d4c4af9)
-/github.com/user-attachments/assets/07c3ffe3-977b-41a6-9774-86007df8a528)
-
+![Settings2](https://github.com/user-attachments/assets/e312ece5-6354-43eb-8f42-dcc951112d4e)
+![Settings3](https://github.com/user-attachments/assets/392ffcbf-5412-4360-b27b-72bb8275ca14)
 
 **Display**
 * Contrast set to 90 then adjust brightness to whatever value you prefer, I have mine set to 2.62.
