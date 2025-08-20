@@ -18,7 +18,7 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-## Version 3.0.1 (to be released soon)
+## Version 3.0.1
 Very small hotfix that is safe game safe from 3.0.
 
 * Updated Serenity of Stars, as alternate ammunition crafting granted the player the required materials instead of consuming them. No other changes
