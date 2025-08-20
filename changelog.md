@@ -23,7 +23,7 @@ Very small hotfix that is safe game safe from 3.0.
 
 * Updated Serenity of Stars, as alternate ammunition crafting granted the player the required materials instead of consuming them.
 * Removed powerofthree's Tweaks SFSE
-* No other changes
+* Added ammo to the weapons inventory screen
 
 ## Version 3.0
 
