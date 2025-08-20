@@ -303,6 +303,8 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
 Thank you so much for supporting me.
 * 8Bit
-* Jordan
+* mustardwhisper
+* whiskyjvck
+* povel
 
 
