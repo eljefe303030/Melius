@@ -254,7 +254,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.0.1 is a hotfix release that is sfa egamne safe if coming from 3.0
+3.0.1 is a hotfix release that is save game safe if coming from version 3.0. However, I'd recommend just updating [Serenity of Stars](https://www.nexusmods.com/starfield/mods/13465) and disabling [powerofthree's Tweaks SFSE](https://www.nexusmods.com/starfield/mods/3621) if you are already on 3.0, as that will be much quicker for you.
 
 Version 3.0
 
