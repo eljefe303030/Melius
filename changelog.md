@@ -1,7 +1,7 @@
 ![banner](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
 # Changelog
 
-* [Version 3.0.1 (released 20/08/2025)]9#version-301)
+* [Version 3.0.1 (released 20/08/2025)](#version-301)
 * [Version 3.0 (released 19/08/2025)](#version-30)
 * [Version 2.2 (released 02/06/2025)](#version-22)
 * [Version 2.1 (released 28/04/2025)](#version-21)
