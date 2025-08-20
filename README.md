@@ -50,6 +50,8 @@ Melius is a Starfield Wabbajack mod list based on [melik173's](https://next.nexu
 
 Stability and balanced gameplay that is challenging but rewarding are key aims of this list. 
 
+Combat is much more challenging than vanilla Starfield. Headshots are more deadly for the player and enemies. When first starting the game it is advised to concentrate on non-combat missions to build experience, acquire better equipment and perks before taking on groups of better trained factions. For example, fighting Va’ruun will be more challenging than Spacers, use of cover and the need to retreat will be more important than before.
+
 ## Modlist
 
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-3)
