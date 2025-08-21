@@ -18,6 +18,16 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Fixes
+* Eit clothiers not selling items
+* Sharper fonts
+* Brighter flashlight as default
+* Lower headshot multiplier as default
+  
+### Updated
+* New Atlantis Awaits
+* Melius Reshade
+
 ## Version 3.0.1
 Very small hotfix that is safe game safe from 3.0.
 
