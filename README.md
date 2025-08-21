@@ -249,7 +249,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
 4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
 5. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
-6. Crosshairs for some weapons are unavailable and will need a patch to bring them back.
+6. Eit Clothiers - not able buy things but instead there is a box you can get items from. This is a bug in the New Atlantis Awaits mod. The mod has been updated to fix this and that will be included in the next release.
 7. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
 8. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
 
