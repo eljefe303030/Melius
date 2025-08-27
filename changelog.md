@@ -26,6 +26,7 @@ Running commentary of what I am planning for the next version.
 * Tweaked ini settings for performannce and stability
 * Updated ReadMe to include recommended settings for pagefile to reduce chance of CTDs.
 * Crash related to SFCP and Acculander landing gear.
+* General performance improvements and bug fixes, especially in New Atlantis by changing performance demanding mods to optional mods.
   
 ### Updated
 * New Atlantis Awaits
