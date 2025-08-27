@@ -31,6 +31,10 @@ Running commentary of what I am planning for the next version.
 * Melius Reshade
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
+* Dark Universe - Overtime
+
+### Added
+* DUO - Focus
 
 ## Version 3.0.1
 Very small hotfix that is safe game safe from 3.0.
