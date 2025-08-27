@@ -39,6 +39,8 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * DUO - Focus
+* SFSE ASI Loader Updated
+* Disk Cache Enabler
 
 ### Removed
 * Stay Put REDUX - No More Flying Clutter
