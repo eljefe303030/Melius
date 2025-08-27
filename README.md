@@ -268,7 +268,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 6. Eit Clothiers - not able buy things but instead there is a box you can get items from. This is a bug in the New Atlantis Awaits mod. The mod has been updated to fix this and that will be included in the next release.
 7. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
 8. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
-9. Some people are reporting infinate loading screens in New Atlantis, a possible solution is to leave New Atlantis, save and exit the game, then disable the two mods New Atlantis Awaits and Positively New Atlantis. Please feedback in the Discord Support channel if this does or doesn't fix the issue for you.
+9. Some people are reporting infinite loading screens in New Atlantis, a possible solution is to leave New Atlantis, save and exit the game, then disable the two mods New Atlantis Awaits and Positively New Atlantis. Please feedback in the Discord Support channel if this does or doesn't fix the issue for you.
 
 
 ## Changelog
