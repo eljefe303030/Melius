@@ -32,6 +32,8 @@ Running commentary of what I am planning for the next version.
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
 * Dark Universe - Overtime
+* Galactic Mesh Fixes
+* Betamax's Outpost Framework
 
 ### Added
 * DUO - Focus
