@@ -29,6 +29,8 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * New Atlantis Awaits
 * Melius Reshade
+* Serenity of Stars
+* Starfield Engine Fixes - SFSE
 
 ## Version 3.0.1
 Very small hotfix that is safe game safe from 3.0.
