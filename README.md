@@ -72,12 +72,12 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 7. Start Starfield via Steam once, get to the main menu and exit the game. After this step, you will not be starting the game through Steam anymore.
 8. *Optional but recommended*: adjust your pagefile to at least 20gb but recommended to 40gb. Some people have reported this can prevent crashes to desktop (CTDs), if you are getting them, set your pagefile. To do this:
 
-*Right click the Start Button
-*Click System
-*Click Advanced Systems Settings
-*On the Advanced tab, click Settings in the Performance section
-*On the Advanced tab, click the Change button
-*Set the Initial Size and Maximum Size to 40000 or if you are struggling for drive space, to at least 20000.
+a) Right click the Start Button
+b) Click System
+c) Click Advanced Systems Settings
+d) On the Advanced tab, click Settings in the Performance section
+e) On the Advanced tab, click the Change button
+f) Set the Initial Size and Maximum Size to 40000 or if you are struggling for drive space, to at least 20000.
 
 ## Using Wabbajack
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
