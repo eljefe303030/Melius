@@ -203,6 +203,9 @@ Selection of Ultra Widescreen mods
 **35.1 WEATHER**
 1. [Royal Weathers - Fantasy Add-On](https://www.nexusmods.com/starfield/mods/7946) some beautiful, potentially not lore-friendly weather on moons and locations without atmosphere.
 
+**40.1 FIXED AREA EDITS - CITIES & TOWNS & SETTLEMENTS**
+1. a selection of mods that add a significant amount of visual imporvements to New Atlantis. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommond these mods*
+
 **49.1 GENERAL COMBAT**
 1. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned, deserted, forgotten places are doubled.
 2. [Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603) choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.
