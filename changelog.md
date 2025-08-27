@@ -23,6 +23,8 @@ Running commentary of what I am planning for the next version.
 * Sharper fonts
 * Brighter flashlight as default
 * Lower headshot multiplier as default
+* Tweaked ini settings for performannce and stability
+* Updated ReadMe to include recommended settings for pagefile to reduce chance of CTDs.
   
 ### Updated
 * New Atlantis Awaits
