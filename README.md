@@ -73,10 +73,15 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 8. *Optional but recommended*: adjust your pagefile to at least 20gb but recommended to 40gb. Some people have reported this can prevent crashes to desktop (CTDs), if you are getting them, set your pagefile. To do this:
 
 a) Right click the Start Button
+
 b) Click System
+
 c) Click Advanced Systems Settings
+
 d) On the Advanced tab, click Settings in the Performance section
+
 e) On the Advanced tab, click the Change button
+
 f) Set the Initial Size and Maximum Size to 40000 or if you are struggling for drive space, to at least 20000.
 
 ## Using Wabbajack
