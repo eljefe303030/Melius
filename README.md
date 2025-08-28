@@ -279,17 +279,9 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.0.1 is a hotfix release that is save game safe if coming from version 3.0. However, I'd recommend just updating [Serenity of Stars](https://www.nexusmods.com/starfield/mods/13465) and disabling [powerofthree's Tweaks SFSE](https://www.nexusmods.com/starfield/mods/3621) if you are already on 3.0, as that will be much quicker for you.
-
-Version 3.0
-
-**This version will need a new game.**
-
-Complete rewrite of the mod list. This is a major update and will require a new game, it will not be save safe. This will no longer have two profiles and instead one profile based on the [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) mod. I have had to make the decision to make having Shattered Space as a requirement, as too many mods need this. On the plus side, it will make installation of the modlist easier (no more having to manually copy across files). Starvival will no longer be used and instead replaced with several other mods that cover some of the systems.
+3.0.2 **This version will need a new game.** Hotfix release to address some CTDs and infinite loading screens that some people reported, especially in New Atlantis. If you are not having any issues, there is little reason to update to this version.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
-
-
 
 ## Updating the Modlist
 
