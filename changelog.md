@@ -44,6 +44,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Stay Put REDUX - No More Flying Clutter
+* More Immersive Landings And Takeoffs
 
 ## Version 3.0.1
 Very small hotfix that is safe game safe from 3.0.
