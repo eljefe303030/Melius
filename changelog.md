@@ -18,6 +18,9 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+**This version will need a new game.**
+Hotfix release to address some CTDs and infinite loading screens that some people reported. If you are not having any issues, there is little reason to update to this version.
+
 ### Fixes
 * Eit clothiers not selling items
 * Sharper fonts
