@@ -24,6 +24,8 @@ Running commentary of what I am planning for the next version.
 **This version will need a new game.**
 Hotfix release to address some CTDs and infinite loading screens that some people reported. If you are not having any issues, there is little reason to update to this version.
 
+<details>
+
 ### Fixes
 * Eit clothiers not selling items
 * Sharper fonts
@@ -51,6 +53,8 @@ Hotfix release to address some CTDs and infinite loading screens that some peopl
 ### Removed
 * Stay Put REDUX - No More Flying Clutter
 * More Immersive Landings And Takeoffs
+
+</details>
 
 ## Version 3.0.1
 Very small hotfix that is safe game safe from 3.0.
