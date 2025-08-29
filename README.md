@@ -259,7 +259,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Motion Blur - off
 * VSync - off
 * Sharpening 0%
-* Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed.
+* Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade. 
 * Film Grain Intensity set to zero
 
 ## Note for Content Creators
