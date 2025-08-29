@@ -258,7 +258,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * Motion Blur - off
 * VSync - off
-* Sharpening 25% (if using frame generation, such as FSR or DLSS)
+* Sharpening 0%
 * Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed.
 * Film Grain Intensity set to zero
 
