@@ -324,5 +324,6 @@ Thank you so much for supporting me.
 * whiskyjvck
 * povel
 * HawkDigital
+* Hieronymos
 
 
