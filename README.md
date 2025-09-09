@@ -216,7 +216,7 @@ Selection of Ultra Widescreen mods
 
 **66.1 ANIMATION - GENERAL**
 1. [Manual Weapon Stance](https://www.nexusmods.com/starfield/mods/13627) Adds a customizable hotkey to raise or lower your weapon at will. No more automatic lowering—you’re in full control. Works in both first and third person. Lightweight, immersive, and highly compatible.
-[Instructions for Xbox Controller layout](https://github.com/eljefe303030/Melius/blob/main/MWS%20Xbox%20Controller%20layout%20instructions.md) *Some users have reported lags related to using this mod, I have not but your experiance may vary*
+[Instructions for Xbox Controller layout](https://github.com/eljefe303030/Melius/blob/main/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) *Some users have reported lags related to using this mod, I have not but your experiance may vary*
 
 **67.1 ANIMATION - SPACECRAFT & VEHICLES**
 1. [Landing Animation Reloaded (LAR)](https://www.nexusmods.com/starfield/mods/7569) Always plays the landing animation when landing on a planet. *Can produce some delay in loading screens*
