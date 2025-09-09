@@ -15,12 +15,11 @@ For those of you who are using a controller (Xbox Controller Layout in this Tuto
 
 3. Select “Edit Layout”:
 
-<img width="800" height="280" alt="3 edit layout" src="https://github.com/user-attachments/assets/fadf6744-704e-4c54-8fd1-f7cd82e84a61" />
+<img width="800" height="161" alt="3 buttons" src="https://github.com/user-attachments/assets/2bead5de-ccd7-440c-bd0f-c1ee36efb50b" />
 
 4. Click on the cogwheel icon next to “A Button” and select “Add extra command”:
 
-<img width="279" height="338" alt="4 add extra" src="https://github.com/user-attachments/assets/b088ba1b-3090-4864-909d-467a2ff3489f" />
-<img width="800" height="501" alt="5 select keyboard" src="https://github.com/user-attachments/assets/a56f668c-2a1c-4b07-b99d-f50fc0057ed8" />
+<img width="800" height="161" alt="3 buttons" src="https://github.com/user-attachments/assets/3fc60db9-755b-40dc-bd56-31ea9494e716" />
 
 5.Select “Keyboard” in the upper panel and click “X” on the virtual keyboard:
 
