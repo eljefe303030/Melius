@@ -10,21 +10,21 @@ For those of you who are using a controller (Xbox Controller Layout in this Tuto
 
 2. Select “Controller” in the left panel and “Enable Steam Input” in the right panel. Click on “Controller Configurator” after that:
 
-![unnamed](https://github.com/user-attachments/assets/a2d4fac7-64e8-40a8-bf38-ca4fc9533351)
-![unnamed](https://github.com/user-attachments/assets/85f56663-7313-41f0-97b7-66b42b425622)
+<img width="800" height="571" alt="2 controller" src="https://github.com/user-attachments/assets/630709eb-3839-4425-9def-6ea34e6fe4af" />
+<img width="800" height="161" alt="3 buttons" src="https://github.com/user-attachments/assets/e6284a2f-5a7f-475b-b0ab-b9008c2b2d9b" />
 
 3. Select “Edit Layout”:
 
-![unnamed](https://github.com/user-attachments/assets/d8cfbee9-9fda-4191-aa14-d84f9c4d3fde)
+<img width="800" height="280" alt="3 edit layout" src="https://github.com/user-attachments/assets/fadf6744-704e-4c54-8fd1-f7cd82e84a61" />
 
 4. Click on the cogwheel icon next to “A Button” and select “Add extra command”:
 
-![unnamed](https://github.com/user-attachments/assets/c2890d96-0203-4b5e-8f93-cc754c54d9ef)
-![unnamed](https://github.com/user-attachments/assets/b99d9fe0-8443-45bb-bf2f-112240ac245a)
+<img width="279" height="338" alt="4 add extra" src="https://github.com/user-attachments/assets/b088ba1b-3090-4864-909d-467a2ff3489f" />
+<img width="800" height="501" alt="5 select keyboard" src="https://github.com/user-attachments/assets/a56f668c-2a1c-4b07-b99d-f50fc0057ed8" />
 
 5.Select “Keyboard” in the upper panel and click “X” on the virtual keyboard:
 
-![unnamed](https://github.com/user-attachments/assets/44dd19b8-19db-4bb1-a828-76e4e5372773)
+<img width="800" height="264" alt="6 buttons2" src="https://github.com/user-attachments/assets/21b38067-6e81-423e-8de5-6f0fde075a76" />
 
 6. Click on the cogwheel icon next to “X Key”and change “Regular Press to” to “Double Press”:
 
