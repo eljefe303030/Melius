@@ -20,15 +20,16 @@ For those of you who are using a controller (Xbox Controller Layout in this Tuto
 4. Click on the cogwheel icon next to “A Button” and select “Add extra command”:
 
 <img width="800" height="161" alt="3 buttons" src="https://github.com/user-attachments/assets/c462af61-2629-48c7-a7c6-292a07ddea39" />
+<img width="279" height="338" alt="4 add extra" src="https://github.com/user-attachments/assets/6be3f2c8-2b11-441a-88c2-eb31cfc0d38d" />
 
 5.Select “Keyboard” in the upper panel and click “X” on the virtual keyboard:
 
-<img width="800" height="264" alt="6 buttons2" src="https://github.com/user-attachments/assets/21b38067-6e81-423e-8de5-6f0fde075a76" />
+<img width="800" height="501" alt="5 select keyboard" src="https://github.com/user-attachments/assets/77bf6b4f-e020-42ee-8a83-6fd540a6d40f" />
 
 6. Click on the cogwheel icon next to “X Key”and change “Regular Press to” to “Double Press”:
 
-![unnamed](https://github.com/user-attachments/assets/158a86db-5c76-46c1-976a-2881611f881b)
-![unnamed](https://github.com/user-attachments/assets/c6178378-6563-4e12-8fd8-dc2db6adba6c)
+<img width="800" height="264" alt="6 buttons2" src="https://github.com/user-attachments/assets/a8748850-105c-4acb-a063-483eea3d5a35" />
+<img width="562" height="432" alt="7 regular press" src="https://github.com/user-attachments/assets/7827567b-fafd-4eeb-9008-252e64a1ff0b" />
 
 When using this method you just need to time your inputs when using inventory menus to avoid triggering the X key instead of the A Button. Other than that, it basically just works. ;) Remember to reset these settings should you choose to disable the mod or play vanilla.
 
