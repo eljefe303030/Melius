@@ -11,7 +11,7 @@ For those of you who are using a controller (Xbox Controller Layout in this Tuto
 2. Select “Controller” in the left panel and “Enable Steam Input” in the right panel. Click on “Controller Configurator” after that:
 
 <img width="800" height="571" alt="2 controller" src="https://github.com/user-attachments/assets/630709eb-3839-4425-9def-6ea34e6fe4af" />
-<img width="800" height="161" alt="3 buttons" src="https://github.com/user-attachments/assets/e6284a2f-5a7f-475b-b0ab-b9008c2b2d9b" />
+<img width="508" height="27" alt="2 controller 2" src="https://github.com/user-attachments/assets/fe317530-37e9-4e8a-8d52-34e55f2b3f5f" />
 
 3. Select “Edit Layout”:
 
