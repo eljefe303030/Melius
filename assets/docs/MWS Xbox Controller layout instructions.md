@@ -6,7 +6,7 @@ For those of you who are using a controller (Xbox Controller Layout in this Tuto
 
 1. Right click your Starfield game in the library and select “Properties”:
 
-https://github.com/eljefe303030/Melius/blob/main/assets/images/MWS%20Xbox%20Controller%20layout%20instructions/1%20properties.png
+assets/images/MWS Xbox Controller layout instructions/1 properties.png
 
 2. Select “Controller” in the left panel and “Enable Steam Input” in the right panel. Click on “Controller Configurator” after that:
 
