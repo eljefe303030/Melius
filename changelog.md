@@ -19,6 +19,12 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+Readjusted fauna and robot health.
+
+### Updated
+* Serenity of Stars
+* Real Fuel - Immersive Exploration
+
 ## Version 3.0.2
 
 **This version will need a new game.**
