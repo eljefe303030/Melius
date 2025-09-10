@@ -315,6 +315,7 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * Padi for being the Discord guru and making the Melius server what it is. DrukenReaps for moderating the server and keeping everyone in line, including myself.
 * Pyke Lermon, EccentricMeat, Sithishade, [0Bek](https://next.nexusmods.com/profile/0Bek), DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
 * [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
+* NeuroticNinjah for creating the Melius MO2 splash screen.
 * Anyone who tries this list.
 
 **Supporters**
