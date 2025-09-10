@@ -19,12 +19,20 @@
 ## Version x (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-Readjusted fauna and robot health.
+### Fixes
+* Balancing and consistency of enemies and equipment.
 
 ### Updated
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
+
+### Added
+* Melius MO2 splash screen - created by NeuroticNinjah
+
+### Removed
+* Dark Universe Overtime More Credits
+
 
 ## Version 3.0.2
 
