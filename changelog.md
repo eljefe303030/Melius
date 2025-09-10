@@ -22,8 +22,8 @@ Running commentary of what I am planning for the next version.
 Readjusted fauna and robot health.
 
 ### Updated
-* Serenity of Stars
 * Real Fuel - Immersive Exploration
+* Serenity of Stars
 * Starfield Engine Fixes - SFSE
 
 ## Version 3.0.2
