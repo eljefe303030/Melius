@@ -23,6 +23,7 @@ Running commentary of what I am planning for the next version.
 * Balancing and consistency of enemies and equipment.
 
 ### Updated
+* Cassiopeia Papyrus Extender
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
