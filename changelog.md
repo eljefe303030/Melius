@@ -25,6 +25,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Cassiopeia Papyrus Extender
 * Heart of Cydonia
+* Heller Had A Shower CLEAN Version
 * New Atlantis Awaits
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
