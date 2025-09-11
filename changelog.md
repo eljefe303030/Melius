@@ -24,6 +24,7 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Cassiopeia Papyrus Extender
+* Heart of Cydonia
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
