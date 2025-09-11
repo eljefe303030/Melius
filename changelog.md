@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
+* Supervisor Lin Clean
 
 ### Added
 * Melius MO2 splash screen - created by NeuroticNinjah
