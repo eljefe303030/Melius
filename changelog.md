@@ -37,7 +37,6 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Dark Universe Overtime More Credits
-* Trainwreck - A Crash Logger
 
 ## Version 3.0.2
 
