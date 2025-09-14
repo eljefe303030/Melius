@@ -54,6 +54,8 @@ Hotfix release to address some CTDs and infinite loading screens that some peopl
 * Updated ReadMe to include recommended settings for pagefile to reduce chance of CTDs.
 * Crash related to SFCP and Acculander landing gear.
 * General performance improvements and bug fixes, especially in New Atlantis by changing performance demanding mods to optional mods.
+* Some instances of graphical artifacts with Nvidia cards and ReShade. Thanks to deconstructor666 for the additional settings.
+* Additional mod Ecliptic helmets from not showing.
   
 ### Updated
 * New Atlantis Awaits
@@ -63,6 +65,7 @@ Hotfix release to address some CTDs and infinite loading screens that some peopl
 * Dark Universe - Overtime
 * Galactic Mesh Fixes
 * Betamax's Outpost Framework
+* Melius ReShade
 
 ### Added
 * DUO - Focus
