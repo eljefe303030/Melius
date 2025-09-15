@@ -38,10 +38,12 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Melius MO2 splash screen - created by NeuroticNinjah
+* Peak Performance
 
 ### Removed
 * Clothing and Spacesuit Fixes - CSF
 * Dark Universe Overtime More Credits
+* Vitality
 
 ## Version 3.0.2
 
