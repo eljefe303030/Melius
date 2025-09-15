@@ -281,6 +281,37 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 8. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
 9. Some people are reporting infinite loading screens in New Atlantis, a possible solution is to leave New Atlantis, save and exit the game, then disable the two mods New Atlantis Awaits and Positively New Atlantis. Please feedback in the Discord Support channel if this does or doesn't fix the issue for you.
 
+## Troubleshooting
+
+1. If you have strange visual effects, reset your shader cache:
+   
+**AMD**
+* Open AMD Software: Right-click on your desktop and select "AMD Software: Adrenalin Edition" or open it from the Start menu. 
+* Navigate to Graphics Settings: Click the Gaming tab at the top, then select the Graphics subtab. 
+* Find the Reset Option: Scroll all the way to the bottom of the graphics settings page. 
+* Perform the Reset: Locate the Reset Shader Cache option and click the Perform Reset button next to it. 
+* Confirm: Click OK when prompted to confirm the action.
+
+**Nvidia**
+1. Disable the cache: 
+* Open the NVIDIA Control Panel, go to Manage 3D Settings > Global Settings. 
+* Scroll down and find Shader Cache Size, then change the setting from the dropdown menu to Disabled. 
+* Click Apply and close the NVIDIA Control Panel. 
+2. Delete the cache files: 
+* Press Windows Key + R to open the Run dialog. 
+* Type %USERPROFILE%\\AppData\\Local\\ and press Enter. 
+* Open the NVIDIA folder, then open the GLCache folder and delete all the files and folders inside. 
+* Go back to the %USERPROFILE%\\AppData\\Local\\ folder. 
+* Find and open the NVIDIA Corporation folder. 
+* Open the NV_Cache folder and delete all its contents. 
+* Next, open the Run dialog again (Windows Key + R) and type %LOCALAPPDATA% (or just %APPDATA%) and press Enter. 
+* Go to Local > NVIDIA > DXCache. 
+* Delete all files inside the DXCache folder. 
+3. Re-enable and restart: 
+* Open the NVIDIA Control Panel again. 
+* Go to Manage 3D Settings > Global Settings. 
+* Set Shader Cache Size back to its desired setting (or you can re-enable it). 
+* Click Apply and then restart your PC. 
 
 ## Changelog
 
