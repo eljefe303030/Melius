@@ -23,6 +23,7 @@ Running commentary of what I am planning for the next version.
 * Balancing and consistency of enemies and equipment.
 * Some instances of graphical artifacts with Nvidia cards and ReShade. Thanks to deconstructor666 for the additional settings.
 * Additional mod Ecliptic helmets from not showing.
+* Missing Neon Entertainer textures.
 
 ### Updated
 * Cassiopeia Papyrus Extender
