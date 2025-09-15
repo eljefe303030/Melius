@@ -39,6 +39,7 @@ Running commentary of what I am planning for the next version.
 * Melius MO2 splash screen - created by NeuroticNinjah
 
 ### Removed
+* Clothing and Spacesuit Fixes - CSF
 * Dark Universe Overtime More Credits
 
 ## Version 3.0.2
