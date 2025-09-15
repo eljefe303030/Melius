@@ -284,7 +284,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Troubleshooting
 
-1. If you have strange visual effects, reset your shader cache:
+1. If you have strange visual effects, such as lights flickering when moving around or artifacting, reset your shader cache:
    
 **AMD**
 * Open AMD Software: Right-click on your desktop and select "AMD Software: Adrenalin Edition" or open it from the Start menu. 
