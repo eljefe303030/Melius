@@ -38,6 +38,7 @@
 * [Recommended Settings](#recommended-settings)
 * [Note for Content Creators](note-for-content-creators)
 * [Known Issues](#known-issues)
+* [Troubleshooting](#troubleshooting)
 * [Changelog](#changelog)
 * [Updating the Modlist](#updating-the-modlist)
 * [Support](#support) 
