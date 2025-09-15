@@ -297,7 +297,8 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 1. Disable the cache: 
 * Open the NVIDIA Control Panel, go to Manage 3D Settings > Global Settings. 
 * Scroll down and find Shader Cache Size, then change the setting from the dropdown menu to Disabled. 
-* Click Apply and close the NVIDIA Control Panel. 
+* Click Apply and close the NVIDIA Control Panel.
+  
 2. Delete the cache files: 
 * Press Windows Key + R to open the Run dialog. 
 * Type %USERPROFILE%\\AppData\\Local\\ and press Enter. 
@@ -307,7 +308,8 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 * Open the NV_Cache folder and delete all its contents. 
 * Next, open the Run dialog again (Windows Key + R) and type %LOCALAPPDATA% (or just %APPDATA%) and press Enter. 
 * Go to Local > NVIDIA > DXCache. 
-* Delete all files inside the DXCache folder. 
+* Delete all files inside the DXCache folder.
+  
 3. Re-enable and restart: 
 * Open the NVIDIA Control Panel again. 
 * Go to Manage 3D Settings > Global Settings. 
