@@ -41,8 +41,8 @@ Running commentary of what I am planning for the next version.
 * Peak Performance
 
 ### Removed
-* Clothing and Spacesuit Fixes - CSF
 * Dark Universe Overtime More Credits
+* Light in the Dark - New Atlantis
 * Vitality
 
 ## Version 3.0.2
