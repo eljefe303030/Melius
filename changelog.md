@@ -37,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * Supervisor Lin Clean
 
 ### Added
+* FA - Ultimate Andreja Makeover - Kiss of the Serpent
 * Melius MO2 splash screen - created by NeuroticNinjah
 * Peak Performance
 
