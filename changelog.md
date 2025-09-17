@@ -38,9 +38,13 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Cyber Ops Outfit
+* Extended Facial Sculpting
 * FA - Ultimate Andreja Makeover - Kiss of the Serpent
+* KZ Techno-Corporate Repository
 * Melius MO2 splash screen - created by NeuroticNinjah
 * Peak Performance
+* Sexy AF - Mark I Space Suit Retex
+* Standalone Patterned Dress
 * Varuun Cyber Runner
 
 ### Removed
