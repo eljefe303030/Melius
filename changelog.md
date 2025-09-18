@@ -42,6 +42,7 @@ Running commentary of what I am planning for the next version.
 * FA - Ultimate Andreja Makeover - Kiss of the Serpent
 * KZ Techno-Corporate Repository
 * Melius MO2 splash screen - created by NeuroticNinjah
+* NPC Height Variation Toolkit
 * Peak Performance
 * Sexy AF - Mark I Space Suit Retex
 * Standalone Patterned Dress
