@@ -37,15 +37,30 @@ Running commentary of what I am planning for the next version.
 * Supervisor Lin Clean
 
 ### Added
+* Better Ship Part Snaps
 * Cyber Ops Outfit
 * Extended Facial Sculpting
 * FA - Ultimate Andreja Makeover - Kiss of the Serpent
+* Graf's Habs - Nova Galactic 1x1s
+* Grav Drive Boosters
 * KZ Techno-Corporate Repository
 * Melius MO2 splash screen - created by NeuroticNinjah
+* No Build Below Bay or Invalid Docker Position or Misaligned Landing Gear Errors
+* No Engine Power Limits
+* No Landing Bay or Docker Limits
+* No Shield Limit
+* No Weapon Power or Count Limits
 * NPC Height Variation Toolkit
+* Outpost Shipbuilder Unlocked ESM
 * Peak Performance
 * Sexy AF - Mark I Space Suit Retex
+* Ship Builder Categories
+* Ship Builder Tolerance Tweaks
 * Standalone Patterned Dress
+* Stroud Premium Edition
+* TN's Class M (and Starborn Guardian) Ship Building
+* TN's Ship Modifications All in One
+* TN's Space Mining and Salvage
 * Varuun Cyber Runner
 
 ### Removed
