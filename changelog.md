@@ -24,6 +24,7 @@ Running commentary of what I am planning for the next version.
 * Some instances of graphical artifacts with Nvidia cards and ReShade. Thanks to deconstructor666 for the additional settings.
 * Additional mod Ecliptic helmets from not showing.
 * Missing Neon Entertainer textures.
+* SIH not working with the KZ Mantis mod.
 
 ### Updated
 * Cassiopeia Papyrus Extender
