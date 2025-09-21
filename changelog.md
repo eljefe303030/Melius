@@ -36,6 +36,7 @@ Running commentary of what I am planning for the next version.
 * Serenity of Stars
 * Starfield Engine Fixes - SFSE
 * Supervisor Lin Clean
+* Zoom for Perfect Landing
 
 ### Added
 * Better Ship Part Snaps
