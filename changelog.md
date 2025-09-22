@@ -28,6 +28,7 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Cassiopeia Papyrus Extender
+* El Jefe Combat AI
 * Favorites Menu Extended - SFSE
 * Heart of Cydonia
 * Heller Had A Shower CLEAN Version
