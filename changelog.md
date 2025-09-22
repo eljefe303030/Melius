@@ -41,6 +41,7 @@ Running commentary of what I am planning for the next version.
 * Zoom for Perfect Landing
 
 ### Added
+* Auto Hide HUD and Widgets - SFSE
 * Better Ship Part Snaps
 * Cyber Ops Outfit
 * Extended Facial Sculpting
