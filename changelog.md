@@ -69,6 +69,7 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Dark Universe Overtime More Credits
 * Light in the Dark - New Atlantis
+* Milkdrinker's Lightweight Melee Overhaul
 * Vitality
 
 ## Version 3.0.2
