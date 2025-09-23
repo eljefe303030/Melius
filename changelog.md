@@ -25,6 +25,7 @@ Running commentary of what I am planning for the next version.
 * Additional mod Ecliptic helmets from not showing.
 * Missing Neon Entertainer textures.
 * SIH not working with the KZ Mantis mod.
+* Bug that caused weapons to not work in ships or on land if taking off/landing in 3rd person view.
 
 ### Updated
 * Cassiopeia Papyrus Extender
