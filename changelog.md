@@ -51,6 +51,7 @@ Running commentary of what I am planning for the next version.
 * Grav Drive Boosters
 * KZ Techno-Corporate Repository
 * Melius MO2 splash screen - created by NeuroticNinjah
+* More Immersive Landings And Takeoffs
 * No Build Below Bay or Invalid Docker Position or Misaligned Landing Gear Errors
 * No Engine Power Limits
 * No Landing Bay or Docker Limits
