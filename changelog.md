@@ -75,6 +75,8 @@ Running commentary of what I am planning for the next version.
 * Dark Universe Overtime More Credits
 * Light in the Dark - New Atlantis
 * Milkdrinker's Lightweight Melee Overhaul
+* Starfield Epic Theme Menu Replacer by CJMusic
+* Vanilla Plus Main Theme - Into the Starfield
 * Vitality
 
 ## Version 3.0.2
