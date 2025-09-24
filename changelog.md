@@ -21,11 +21,12 @@ Running commentary of what I am planning for the next version.
 
 ### Fixes
 * Balancing and consistency of enemies and equipment.
-* Some instances of graphical artifacts with Nvidia cards and ReShade. Thanks to deconstructor666 for the additional settings.
+* Some instances of graphical artifacts with Nvidia cards and ReShade. (Thanks to deconstructor666 for the additional settings.)
 * Additional mod Ecliptic helmets from not showing.
 * Missing Neon Entertainer textures.
 * SIH not working with the KZ Mantis mod.
 * Bug that caused weapons to not work in ships or on land if taking off/landing in 3rd person view.
+* Persistent crash when scrolling through BMX outpost items when hitting the "Local Fauna Pad" building (Thanks to Arkangel for the fix)
 
 ### Updated
 * Cassiopeia Papyrus Extender
