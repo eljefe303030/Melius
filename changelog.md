@@ -60,7 +60,6 @@ Running commentary of what I am planning for the next version.
 * No Weapon Power or Count Limits
 * NPC Height Variation Toolkit
 * Outpost Shipbuilder Unlocked ESM
-* Peak Performance
 * Sexy AF - Mark I Space Suit Retex
 * Ship Builder Categories
 * Ship Builder Tolerance Tweaks
@@ -78,7 +77,6 @@ Running commentary of what I am planning for the next version.
 * Milkdrinker's Lightweight Melee Overhaul
 * Starfield Epic Theme Menu Replacer by CJMusic
 * Vanilla Plus Main Theme - Into the Starfield
-* Vitality
 
 ## Version 3.0.2
 
