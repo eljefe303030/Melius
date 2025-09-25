@@ -40,6 +40,7 @@ Running commentary of what I am planning for the next version.
 * New Atlantis Awaits
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
+* Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * Supervisor Lin Clean
 * Zoom for Perfect Landing
