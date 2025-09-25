@@ -34,6 +34,7 @@ Running commentary of what I am planning for the next version.
 * Favorites Menu Extended - SFSE
 * Heart of Cydonia
 * Heller Had A Shower CLEAN Version
+* Melius Main Menu music replacer
 * Melius ReShade
 * New Atlantis Awaits
 * Real Fuel - Immersive Exploration
