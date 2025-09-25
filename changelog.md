@@ -71,6 +71,7 @@ Running commentary of what I am planning for the next version.
 * TN's Ship Modifications All in One
 * TN's Space Mining and Salvage
 * Undelayed Menus
+* Ultimate Shipyards Unlocked
 * Varuun Cyber Runner
 
 ### Removed
