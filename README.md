@@ -200,7 +200,7 @@ Selection of Ultra Widescreen mods
 1. [Royal Weathers - Fantasy Add-On](https://www.nexusmods.com/starfield/mods/7946) some beautiful, potentially not lore-friendly weather on moons and locations without atmosphere.
 
 **40.1 FIXED AREA EDITS - CITIES & TOWNS & SETTLEMENTS**
-1. a selection of mods that add a significant amount of visual imporvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommond these mods*
+1. a selection of mods that add a significant amount of visual imporvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommond these mods*
 
 **43.1 OUTPOST BUILDING**
 1. [Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890) Allows you to build most outpost/ship objects with credits instead of resources.
@@ -213,7 +213,7 @@ Selection of Ultra Widescreen mods
 5. [Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096) Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you. **enabled by default**
 
 **58.1 BEAUTY & APPEARANCE**
-1. [NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466) A mod that realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Inlcuded patch that fix an issue if playing with a female character, in third person and when aiming down sights. **characters can clip furniture when using this mod e.g. when sitting or leaning at desks.
+1. [NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466) A mod that realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Inlcuded patch that fix an issue if playing with a female character, in third person and when aiming down sights. **characters can clip furniture when using this mod e.g. when sitting or leaning at desks.**
 
 **64 LO SENSITIVE - ALTERNATIVE START**
 1. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When fisrt starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pops up, tab to close this and continue.**
