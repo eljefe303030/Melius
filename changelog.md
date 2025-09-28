@@ -59,6 +59,7 @@ Running commentary of what I am planning for the next version.
 * No Build Below Bay or Invalid Docker Position or Misaligned Landing Gear Errors
 * No Engine Power Limits
 * No Landing Bay or Docker Limits
+* No Rescale on Interact
 * No Shield Limit
 * No Weapon Power or Count Limits
 * NPC Height Variation Toolkit
