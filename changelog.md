@@ -49,6 +49,7 @@ Running commentary of what I am planning for the next version.
 ### Added
 * Auto Hide HUD and Widgets - SFSE
 * Better Ship Part Snaps
+* Complete Weather Overhaul
 * Cyber Ops Outfit
 * Extended Facial Sculpting
 * FA - Ultimate Andreja Makeover - Kiss of the Serpent
@@ -82,6 +83,8 @@ Running commentary of what I am planning for the next version.
 * Dark Universe Overtime More Credits
 * Light in the Dark - New Atlantis
 * Milkdrinker's Lightweight Melee Overhaul
+* Northern Lights - Aurora Borealis
+* Royal Weathers
 * Starfield Epic Theme Menu Replacer by CJMusic
 * Vanilla Plus Main Theme - Into the Starfield
 
