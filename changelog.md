@@ -73,6 +73,7 @@ Running commentary of what I am planning for the next version.
 * TN's Class M (and Starborn Guardian) Ship Building
 * TN's Ship Modifications All in One
 * TN's Space Mining and Salvage
+* Toggle Quest Markers with Scanner and Ship HUD
 * Undelayed Menus
 * Ultimate Shipyards Unlocked
 * Varuun Cyber Runner
