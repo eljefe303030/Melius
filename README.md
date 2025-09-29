@@ -114,8 +114,9 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 ### Starting Mod Organizer 2
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
 2. You can safely ignore any missing masters error messages. Any mods than depend on the Constellation or Old Mars skins that you get with the Premium Edition of Starfield will be automatically disabled the first time you run the list. If you have the Constellation and Old Mars skins, copy the files over to the Stock Game/Data folder before starting the list for the first time.
-   
-![Premium Edition files](https://github.com/user-attachments/assets/260ccf00-9c27-40e7-8179-1e5d1b7a6b7d)
+
+   ![Premium Edition files1](https://github.com/user-attachments/assets/8f32cb9c-7b39-4df2-9f65-0f3a92d333a0)
+   ![Premium Edition files2](https://github.com/user-attachments/assets/d0829801-533a-4e1e-8111-26b78fa91300)
 
 4. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
