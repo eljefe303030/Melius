@@ -28,6 +28,7 @@ Running commentary of what I am planning for the next version.
 * Bug that caused weapons to not work in ships or on land if taking off/landing in 3rd person view.
 * Persistent crash when scrolling through BMX outpost items when hitting the "Local Fauna Pad" building (Thanks to Arkangel for the fix)
 * Weapon sound mismatches (Thanks to Arkangel for the fix)
+* GC's Realistic Scope files overwritten (Thanks to Arkangel for the fix)
 
 ### Updated
 * Cassiopeia Papyrus Extender
