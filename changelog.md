@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 * Persistent crash when scrolling through BMX outpost items when hitting the "Local Fauna Pad" building (Thanks to Arkangel for the fix)
 * Weapon sound mismatches (Thanks to Arkangel for the fix)
 * GC's Realistic Scope files overwritten (Thanks to Arkangel for the fix)
+* Load order mistake for Mk17
 
 ### Updated
 * Cassiopeia Papyrus Extender
@@ -82,11 +83,13 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Dark Universe Overtime More Credits
+* Gravity LUT (True to Life Color - ACES LUTs)
 * Light in the Dark - New Atlantis
 * Milkdrinker's Lightweight Melee Overhaul
 * Northern Lights - Aurora Borealis
 * Royal Weathers
 * Starfield Epic Theme Menu Replacer by CJMusic
+* Stellar LUT (Custom LUTs - AgX Color)
 * Vanilla Plus Main Theme - Into the Starfield
 
 ## Version 3.0.2
