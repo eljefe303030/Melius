@@ -179,10 +179,6 @@ Selection of Ultra Widescreen mods
 5. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the sound effect played when gaining XP in game.
 6. [Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664) Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.
 
-**09.1 LUT RESOURCES**
-1. [Gravity LUT - No Color Filters](https://www.nexusmods.com/starfield/mods/1871) Alternative LUT, "hand crafted to deliver true to life colors and luminance." **only enable one LUT mod at a time**
-2. [Stellar LUT - High Contrast Color Filters](https://www.nexusmods.com/starfield/mods/1072) Custom LUT created using ARRI Log 3 conversion and includes AgX color management for crisp, accurate color and gamut. Hand crafted, per-location LUTs for the perfect balance. **only enable one LUT mod at a time**
-
 **19.1 MESHES & TEXTURES - ARMOR & WEAPONS**
 1. [Varuun Spacesuit Remade - Replacer - Dark Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a dark visor. **use this mod OR the mod below, not both**
 2. [Varuun Spacesuit Remade - Replacer - Red Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a red visor. **use this mod OR the mod above, not both**
