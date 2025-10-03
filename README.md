@@ -191,6 +191,9 @@ Selection of Ultra Widescreen mods
 **40.1 FIXED AREA EDITS - CITIES & TOWNS & SETTLEMENTS**
 1. a selection of mods that add a significant amount of visual imporvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommond these mods*
 
+**44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
+1. a selection of mods that remove the limits for engine power, shield and weapons. Using these mods makes building more unique and bigger spaceships easier but could be considered cheating and can result in overpowered spaceships.
+
 **43.1 OUTPOST BUILDING**
 1. [Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890) Allows you to build most outpost/ship objects with credits instead of resources.
 
