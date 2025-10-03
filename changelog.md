@@ -59,6 +59,7 @@ Running commentary of what I am planning for the next version.
 * FA - Ultimate Andreja Makeover - Kiss of the Serpent
 * Graf's Habs - Nova Galactic 1x1s
 * Grav Drive Boosters
+* Grav Jump Reanimated
 * KZ Techno-Corporate Repository
 * Melius MO2 splash screen - created by NeuroticNinjah
 * More Immersive Landings And Takeoffs
@@ -89,6 +90,7 @@ Running commentary of what I am planning for the next version.
 * Light in the Dark - New Atlantis
 * Luxor's realistic Flashlight HD
 * Milkdrinker's Lightweight Melee Overhaul
+* More Dramatic Grav Jumps
 * Non-Blinding Flashlight
 * Northern Lights - Aurora Borealis
 * Royal Weathers
