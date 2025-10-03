@@ -32,6 +32,7 @@ Running commentary of what I am planning for the next version.
 * Load order mistake for Mk17
 
 ### Updated
+* Betamax's Outpost Framework
 * Cassiopeia Papyrus Extender
 * El Jefe Combat AI
 * Favorites Menu Extended - SFSE
