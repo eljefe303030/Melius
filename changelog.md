@@ -85,11 +85,14 @@ Running commentary of what I am planning for the next version.
 * Dark Universe Overtime More Credits
 * Gravity LUT (True to Life Color - ACES LUTs)
 * Light in the Dark - New Atlantis
+* Luxor's realistic Flashlight HD
 * Milkdrinker's Lightweight Melee Overhaul
+* Non-Blinding Flashlight
 * Northern Lights - Aurora Borealis
 * Royal Weathers
 * Starfield Epic Theme Menu Replacer by CJMusic
 * Stellar LUT (Custom LUTs - AgX Color)
+* Subtle Flashlight
 * Vanilla Plus Main Theme - Into the Starfield
 
 ## Version 3.0.2
