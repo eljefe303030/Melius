@@ -49,6 +49,7 @@ Running commentary of what I am planning for the next version.
 ### Added
 * Auto Hide HUD and Widgets - SFSE
 * Better Ship Part Snaps
+* Chargen Presets - curated by Bhaeron
 * Complete Weather Overhaul
 * Cyber Ops Outfit
 * Extended Facial Sculpting
