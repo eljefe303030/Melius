@@ -45,6 +45,7 @@ Running commentary of what I am planning for the next version.
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * Supervisor Lin Clean
+* The Well Enhanced
 * Zoom for Perfect Landing
 
 ### Added
