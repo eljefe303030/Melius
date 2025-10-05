@@ -54,6 +54,7 @@ Running commentary of what I am planning for the next version.
 * Better Ship Part Snaps
 * Bone Brigade Recolor for Cutterhead
 * Chargen Presets - curated by Bhaeron
+* Class M recolors
 * Complete Weather Overhaul
 * Cyber Ops Outfit
 * Extended Facial Sculpting
@@ -61,6 +62,7 @@ Running commentary of what I am planning for the next version.
 * Graf's Habs - Nova Galactic 1x1s
 * Grav Drive Boosters
 * Grav Jump Reanimated
+* Interstellar Traffic
 * KZ Techno-Corporate Repository
 * Luxor's Galaxy 8k
 * Melius MO2 splash screen - created by NeuroticNinjah
