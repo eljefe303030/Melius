@@ -83,6 +83,7 @@ Running commentary of what I am planning for the next version.
 * Ship Builder Tolerance Tweaks
 * Standalone Patterned Dress
 * Stroud Premium Edition
+* Supply Mission Fix
 * TN's Class M (and Starborn Guardian) Ship Building
 * TN's Ship Modifications All in One
 * TN's Space Mining and Salvage
