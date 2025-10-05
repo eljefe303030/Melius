@@ -40,6 +40,7 @@ Running commentary of what I am planning for the next version.
 * Heller Had A Shower CLEAN Version
 * Melius Main Menu music replacer
 * Melius ReShade
+* More NPCs Have Routines and Stores Have Schedules
 * New Atlantis Awaits
 * Real Fuel - Immersive Exploration
 * Serenity of Stars
