@@ -69,6 +69,7 @@ Running commentary of what I am planning for the next version.
 * No Rescale on Interact
 * No Shield Limit
 * No Weapon Power or Count Limits
+* NAT Car Retexture
 * NPC Height Variation Toolkit
 * Outpost Shipbuilder Unlocked ESM
 * Praedy's SF clothes
