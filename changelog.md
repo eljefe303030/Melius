@@ -62,6 +62,7 @@ Running commentary of what I am planning for the next version.
 * Grav Drive Boosters
 * Grav Jump Reanimated
 * KZ Techno-Corporate Repository
+* Luxor's Galaxy 8k
 * Melius MO2 splash screen - created by NeuroticNinjah
 * More Immersive Landings And Takeoffs
 * No Build Below Bay or Invalid Docker Position or Misaligned Landing Gear Errors
