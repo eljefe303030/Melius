@@ -71,6 +71,7 @@ Running commentary of what I am planning for the next version.
 * No Weapon Power or Count Limits
 * NPC Height Variation Toolkit
 * Outpost Shipbuilder Unlocked ESM
+* Praedy's SF clothes
 * Sexy AF - Mark I Space Suit Retex
 * Ship Builder Categories
 * Ship Builder Tolerance Tweaks
