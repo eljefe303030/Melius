@@ -46,6 +46,7 @@ Running commentary of what I am planning for the next version.
 * Serenity of Stars
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
+* Stay in Your Space
 * Supervisor Lin Clean
 * The Well Enhanced
 * Zoom for Perfect Landing
@@ -53,6 +54,7 @@ Running commentary of what I am planning for the next version.
 ### Added
 * Auto Hide HUD and Widgets - SFSE
 * Better Ship Part Snaps
+* Blue Jellyfish for NAT Station Lake Windows
 * Bone Brigade Recolor for Cutterhead
 * Chargen Presets - curated by Bhaeron
 * Class M recolors
@@ -78,6 +80,7 @@ Running commentary of what I am planning for the next version.
 * NPC Height Variation Toolkit
 * Outpost Shipbuilder Unlocked ESM
 * Praedy's SF clothes
+* Save Game Thumbnails - SFSE
 * Sexy AF - Mark I Space Suit Retex
 * Ship Builder Categories
 * Ship Builder Tolerance Tweaks
