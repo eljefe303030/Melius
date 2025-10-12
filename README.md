@@ -263,6 +263,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Film Grain Intensity set to zero
 
 **Enabling Enemy Healthbars**
+
 [This guide by AldmerExile takes you step by step through the process](https://github.com/eljefe303030/Melius/blob/main/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius).pdf). *note, you need to enter the console commands each time*
 
 ## Note for Content Creators
