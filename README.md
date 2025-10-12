@@ -47,7 +47,7 @@
 </details>
 
 # Preamble
-Melius is a Starfield Wabbajack mod list based on [melik173's](https://next.nexusmods.com/profile/melik173?gameId=4187) excellent [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465), which imitates Requiem and Requiem - 3BFTweaks for Skyrim. Melius includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
+Melius is a Starfield Wabbajack mod list based on [melik173's](https://next.nexusmods.com/profile/melik173?gameId=4187) excellent [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465), which imitates Requiem and Requiem - 3BFTweaks for Skyrim and applies this to Starfield. Melius includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
 
 Stability and balanced gameplay that is challenging but rewarding are key aims of this list. 
 
