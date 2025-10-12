@@ -81,7 +81,6 @@ Running commentary of what I am planning for the next version.
 * Outpost Shipbuilder Unlocked ESM
 * Praedy's SF clothes
 * Save Game Thumbnails - SFSE
-* Sexy AF - Mark I Space Suit Retex
 * Ship Builder Categories
 * Ship Builder Tolerance Tweaks
 * Standalone Patterned Dress
