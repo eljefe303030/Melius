@@ -96,6 +96,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Dark Universe Overtime More Credits
+* Enhanced Lights and FX
 * Gravity LUT (True to Life Color - ACES LUTs)
 * Light in the Dark - New Atlantis
 * Luxor's realistic Flashlight HD
