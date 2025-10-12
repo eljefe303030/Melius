@@ -262,6 +262,9 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade. 
 * Film Grain Intensity set to zero
 
+**Enabling Enemy Healthbars**
+[This guide by AldmerExile takes you step by step through the process](https://github.com/eljefe303030/Melius/blob/main/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius).pdf). *note, you need to enter the console commands each time*
+
 ## Note for Content Creators
 
 Some of the added music in the list cannot be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend either disabling the mod PopcornTime or disabling in-game music by lowering the volume to 0% in the audio settings.
