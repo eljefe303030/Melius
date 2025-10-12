@@ -80,7 +80,6 @@ Running commentary of what I am planning for the next version.
 * NPC Height Variation Toolkit
 * Outpost Shipbuilder Unlocked ESM
 * Praedy's SF clothes
-* Save Game Thumbnails - SFSE
 * Ship Builder Categories
 * Ship Builder Tolerance Tweaks
 * Standalone Patterned Dress
