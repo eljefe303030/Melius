@@ -338,6 +338,16 @@ If you get a message like the below, choose 'No'
 If the update has removed any mods, you'll get the following message, choose 'Yes'
 ![Content not present](https://github.com/user-attachments/assets/d66fafc1-2c54-4adf-9b72-a52b55667c1b)
 
+## FAQ (Frequnetly Asked Questions)
+Q. I have a yellow bit in my health bar and am unable to get full health.
+A. This is enviornmental Damage, you will need to see a doctor or use nanobot injectors to heal this. You will get a random amount of environmental damage when starting the game withut using SKK fast start.
+
+Q. Is this modlist compatible with Watchtower.
+A. Not out of the box, as weapons and armours will be vastly underpowered and need balancing. However, if you reinstall the mod Serenity of Stars and choose the Watchtower patch, the balancing should be done.
+
+Q. All my launches and landings (along with grav jumps) are switching to cockpit (first person)? Any way to change that to 3rd person?
+A. Right click the More Immersive Landings And Takeoffs mod in the left hand window, choose reinstall and change the options in the installer to what you want. For grav jumps, download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version.
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
