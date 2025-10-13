@@ -41,6 +41,7 @@
 * [Troubleshooting](#troubleshooting)
 * [Changelog](#changelog)
 * [Updating the Modlist](#updating-the-modlist)
+* [FAQ (Frequently Asked Questions)](#faq-frequently-asked-questions)
 * [Support](#support) 
 * [Credits and Thanks](#credits-and-thanks)
 
@@ -338,7 +339,7 @@ If you get a message like the below, choose 'No'
 If the update has removed any mods, you'll get the following message, choose 'Yes'
 ![Content not present](https://github.com/user-attachments/assets/d66fafc1-2c54-4adf-9b72-a52b55667c1b)
 
-## FAQ (Frequnetly Asked Questions)
+## FAQ (Frequently Asked Questions)
 Q. I have a yellow bit in my health bar and am unable to get full health.
 A. This is enviornmental Damage, you will need to see a doctor or use nanobot injectors to heal this. You will get a random amount of environmental damage when starting the game withut using SKK fast start.
 
