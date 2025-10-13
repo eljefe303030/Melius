@@ -1,7 +1,7 @@
 [
   {
     "title": "Melius",
-    "description": "Melius is a Starfield Wabbajack mod list based on melik173's excellent Serenity of Stars - Gameplay Overhaul and includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. Stability and balanced gameplay that is challenging but rewarding are key aims of this list.",
+    "description": "Melius is a Starfield Wabbajack mod list based on melik173\u0027s excellent Serenity of Stars - Gameplay Overhaul and includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. Stability and balanced gameplay that is challenging but rewarding are key aims of this list.",
     "author": "eljefe",
     "maintainers": [
       "github/eljefe303030"
@@ -25,25 +25,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/melius720.webp",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Melius 3.0.2.wabbajack_736d5fcd-0e29-4408-bc7b-21abbb4ded45",
+      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_9bae8847-ed05-4d57-abd4-2c6d53397d70",
       "machineURL": "melius",
       "discordURL": "https://discord.gg/ZyakMg7CGN",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "GIueMZka3A0=",
-      "Size": 108331153,
-      "NumberOfArchives": 594,
-      "SizeOfArchives": 175302773439,
-      "NumberOfInstalledFiles": 14908,
-      "SizeOfInstalledFiles": 190572713813,
-      "TotalSize": 365875487252
+      "Hash": "hJWNPuwng6s=",
+      "Size": 14846692,
+      "NumberOfArchives": 637,
+      "SizeOfArchives": 177102760150,
+      "NumberOfInstalledFiles": 14672,
+      "SizeOfInstalledFiles": 192137052920,
+      "TotalSize": 369239813070
     },
-    "version": "3.0.2",
+    "version": "3.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-28T19:55:39.0348591Z",
+    "dateUpdated": "2025-10-13T18:36:29.444235Z",
     "repositoryName": ""
   }
-
 ]
-
