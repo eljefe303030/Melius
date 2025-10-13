@@ -315,7 +315,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.0.2 **This version will need a new game.** Hotfix release to address some CTDs and infinite loading screens that some people reported, especially in New Atlantis. If you are not having any issues, there is little reason to update to this version.
+3.0.3 **This version shuld not need a new game.** General bug fixes and improvments. Adds a number of mods related to ship building, UI, clothing and armours.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
@@ -323,7 +323,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new game after certain updates.
 
-**Updating to version 3.x. It is required to install into a new folder, as there are significant changes.**
+**Updating to version 3.x from 2.x. It is required to install into a new folder, as there are significant changes.**
 
 It is recommended that before updating to save the game whilst you are in space, doing nothing, sat in the cockpit, doing zero speed.
 
