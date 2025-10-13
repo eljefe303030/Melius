@@ -352,6 +352,10 @@ A. Not out of the box, as weapons and armours will be vastly underpowered and ne
 
 A. Right click the More Immersive Landings And Takeoffs mod in the left hand window, choose reinstall and change the options in the installer to what you want. For grav jumps, download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version.
 
+**Q. How do I enable enemy health bars?**
+
+A. [Follow these instructions](https://github.com/eljefe303030/Melius/blob/main/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius).pdf). The console command will need to be entered each game.
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
