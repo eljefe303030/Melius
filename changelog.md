@@ -23,7 +23,7 @@ Running commentary of what I am planning for the next version.
 ## Version 3.0.3
 
 **This version should not need a new game.**
-General bug fixes and improvments. Adds a number of mods related to ship building, UI, clothing and armours.
+General bug fixes and improvements. Adds a number of mods related to ship building, UI, clothing and armours.
 
 <details>
 
