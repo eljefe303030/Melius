@@ -16,8 +16,15 @@
 * [Version 1.1 (released 11/12/2024)](#version-11)
 * [Version 1.0 (released 04/12/2024)](#version-10)
 
-## Version 3.0.3 (release date: T-minus whenever it feels right)
+## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
+
+## Version 3.0.3
+
+**This version should not need a new game.**
+General bug fixes and improvments. Adds a number of mods related to ship building, UI, clothing and armours.
+
+<details>
 
 ### Fixes
 * Balancing and consistency of enemies and equipment.
@@ -108,6 +115,8 @@ Running commentary of what I am planning for the next version.
 * Stellar LUT (Custom LUTs - AgX Color)
 * Subtle Flashlight
 * Vanilla Plus Main Theme - Into the Starfield
+
+</details>
 
 ## Version 3.0.2
 
