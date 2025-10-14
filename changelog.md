@@ -29,9 +29,10 @@ Running commentary of what I am planning for the next version.
 
 ## Version 3.0.4
 
-<details>
+**Save game safe if updating from 3.0.2 or above**
+This is a hotfix update that fixes FPS drops for some people related to ReShade and also increases contrast levels.
 
-This is a hotfix update that fixes FPS drops for some people related to ReShade and also increases contrast levels. 
+<details>
 
 ### Updated
 * Melius Reshade
