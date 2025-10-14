@@ -316,7 +316,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.0.3 **This version shuld not need a new game.** General bug fixes and improvements. Adds a number of mods related to ship building, UI, clothing and armours.
+3.0.4 **This version is save safe.** Performance improvment and visual changes.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
