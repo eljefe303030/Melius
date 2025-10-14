@@ -20,6 +20,16 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Updated
+* Melius Reshade
+
+### Added
+* Non-Blinding Flashlight
+
+### Removed
+* NAT Car Retexture
+* Vanilla Flashlight Improved (VFI)
+
 ## Version 3.0.3
 
 **This version should not need a new game.**
