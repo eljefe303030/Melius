@@ -30,9 +30,13 @@ Running commentary of what I am planning for the next version.
 ## Version 3.0.4
 
 **Save game safe if updating from 3.0.2 or above**
+
 This is a hotfix update that fixes FPS drops for some people related to ReShade and also increases contrast levels.
 
 <details>
+
+### Fixes
+* FPS drops when playing at high FPS
 
 ### Updated
 * Melius Reshade
@@ -49,6 +53,7 @@ This is a hotfix update that fixes FPS drops for some people related to ReShade 
 ## Version 3.0.3
 
 **This version should not need a new game.**
+
 General bug fixes and improvements. Adds a number of mods related to ship building, UI, clothing and armours.
 
 <details>
