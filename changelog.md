@@ -31,6 +31,8 @@ Running commentary of what I am planning for the next version.
 
 <details>
 
+This is a hotfix update that fixes FPS drops for some people related to ReShade and also increases contrast levels. 
+
 ### Updated
 * Melius Reshade
 
