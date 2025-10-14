@@ -21,9 +21,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-<details>
-
 ## Version 3.0.4
+
+<details>
 
 ### Updated
 * Melius Reshade
