@@ -21,6 +21,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Fixed
+* load order issue that stopped the mod 'Craft Adhesive from Vacuum Tape' from working.
+
+### Updated
+* ReShade
+
 ## Version 3.0.4
 
 <details>
