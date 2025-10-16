@@ -25,24 +25,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/melius720.webp",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_c3bb6314-f22e-48e3-b8be-c4bf8f65fed3",
+      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_d4ddeb6b-8a26-452b-a2ab-daad81dad679",
       "machineURL": "melius",
       "discordURL": "https://discord.gg/ZyakMg7CGN",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "o1xgbhOxqco=",
-      "Size": 14833453,
+      "Hash": "KwdpWcXkVfo=",
+      "Size": 6331712,
       "NumberOfArchives": 634,
-      "SizeOfArchives": 177093664389,
-      "NumberOfInstalledFiles": 14659,
-      "SizeOfInstalledFiles": 192132381614,
-      "TotalSize": 369226046003
+      "SizeOfArchives": 176482489303,
+      "NumberOfInstalledFiles": 14518,
+      "SizeOfInstalledFiles": 191339876536,
+      "TotalSize": 367822365839
     },
-    "version": "3.0.4",
+    "version": "3.0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-14T08:16:53.9527301Z",
+    "dateUpdated": "2025-10-16T15:43:30.8755371Z",
     "repositoryName": ""
   }
-
 ]
