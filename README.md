@@ -15,6 +15,8 @@
   
  </p>
 
+## Important. 16/10/25 I'm aware the list is currently down due to a mod being removed from Nexus. I'll get it recompiled and back up working ASAP, hopefully tonight.
+
 ## Please read ALL of this document before installing/playing the list.
 
 # Contents List
