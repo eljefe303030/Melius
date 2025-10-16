@@ -25,6 +25,7 @@ Running commentary of what I am planning for the next version.
 ## Version 3.0.5
 
 **Save game safe if updating from 3.0.2 or above**
+
 This is a hotfix release, as a mod removed from Nexus was prevent the installation from completing.
 
 <details>
