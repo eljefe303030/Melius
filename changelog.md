@@ -1,6 +1,7 @@
 ![banner](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
 # Changelog
 
+* [Version 3.0.5 (released 13/10/2025)](#version-305)
 * [Version 3.0.4 (released 13/10/2025)](#version-304)
 * [Version 3.0.3 (released 13/10/2025)](#version-303)
 * [Version 3.0.2 (released 28/08/2025)](#version-302)
@@ -21,11 +22,24 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 3.0.5
+
+**Save game safe if updating from 3.0.2 or above**
+This is a hotfix release, as a mod removed from Nexus was prevent the installation from completing.
+
+<details>
+
 ### Fixed
 * load order issue that stopped the mod 'Craft Adhesive from Vacuum Tape' from working.
+* Installation erro related to mod benig removed from Nexus.
 
 ### Updated
 * ReShade
+
+### Removed
+* Popcorntime
+
+</details>
 
 ## Version 3.0.4
 
