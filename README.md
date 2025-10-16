@@ -15,8 +15,6 @@
   
  </p>
 
-## Important. 16/10/25 I'm aware the list is currently down due to a mod being removed from Nexus. I'll get it recompiled and back up working ASAP, hopefully tonight.
-
 ## Please read ALL of this document before installing/playing the list.
 
 # Contents List
@@ -318,7 +316,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.0.4 **This version is save safe.** Performance improvment and visual changes.
+3.0.5 **This version is save safe.** Hotfix that fixes installation error related to a mod being removed from Nexus.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
