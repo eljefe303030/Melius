@@ -32,7 +32,7 @@ This is a hotfix release, as a mod removed from Nexus was prevent the installati
 
 ### Fixed
 * load order issue that stopped the mod 'Craft Adhesive from Vacuum Tape' from working.
-* Installation erro related to mod benig removed from Nexus.
+* Installation error related to mod being removed from Nexus.
 
 ### Updated
 * ReShade
