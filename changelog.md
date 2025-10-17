@@ -30,6 +30,7 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Roleplayers' Alternate Start
+* Starfield Display Revamp
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
