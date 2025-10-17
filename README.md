@@ -151,6 +151,8 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 
 Within the left hand pane of MO2 there are several separator sections marked as 'OPTIONAL', you can also use the filter box to search for optional mods. Click on the empty tickbox to the left of the mod you want to enable and a tick will appear, this mod is now enabled: 
 
+<details>
+
 **01.1a CORE MODS - SFSE PLUGINS**
 1. [Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE](https://www.nexusmods.com/starfield/mods/7432) Lets you determine under what conditions your Spacesuit is hidden. Also aims to fix some of the relevent vanilla bugs. **enabling this mod will pretty much make 'Fast Spacesuit Deployment Kit' mod redundant, as it takes away the manual control of when your spacedit is displayed.**
 2. [Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. **note, some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.**
@@ -223,6 +225,8 @@ Selection of Ultra Widescreen mods
 
 **67.1 ANIMATION - SPACECRAFT & VEHICLES**
 1. [Landing Animation Reloaded (LAR)](https://www.nexusmods.com/starfield/mods/7569) Always plays the landing animation when landing on a planet. *Can produce some delay in loading screens*
+
+</details>
   
 ### Manuel Installations
 1. Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough. Place the plugin for this mod at the top of the load order in the right hand window.
