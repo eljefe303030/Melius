@@ -350,7 +350,7 @@ A. Not out of the box, as weapons and armours will be vastly underpowered and ne
 
 **Q. All my launches and landings (along with grav jumps) are switching to cockpit (first person)? Any way to change that to 3rd person?**
 
-A. Right click the More Immersive Landings And Takeoffs mod in the left hand window, choose reinstall and change the options in the installer to what you want. For grav jumps, download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version. Finally, delete the 'shiproot.agx' file from the More Visualized Docking mod which is in the following patch: `\mods\More Visualized Docking - Vanilla Enhanced & Default Speed\meshes\animtextdata\tables\graphs`.
+A. Right click the More Immersive Landings And Takeoffs mod in the left hand window, choose reinstall and change the options in the installer to what you want. For grav jumps, download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version. Finally, delete the 'shiproot.agx' file from the More Visualized Docking mod which is in the following path: `\mods\More Visualized Docking - Vanilla Enhanced & Default Speed\meshes\animtextdata\tables\graphs`.
 
 **Q. How do I enable enemy health bars?**
 
