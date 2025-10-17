@@ -22,6 +22,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Updated
+* ReShade
+
 ### Added
 * Roleplayers' Alternate Start
 
