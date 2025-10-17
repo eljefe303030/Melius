@@ -249,6 +249,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * [Leave No Witnesses](https://www.nexusmods.com/starfield/mods/12000) This mod removes the 30-second time limit and tracks all crimes you commit against ships, so that it is now possible to commit piracy or outright murder against ships in space and suffer no bounty - as long as you leave no witnesses.
 * Both the Shattered Space and Trackers Alliance quests have been delayed to start at more appropriate times. Settings for these are in the main game options.
 * [More NPCs Have Routines and Stores Have Schedules](https://www.nexusmods.com/starfield/mods/12140) Adds daily routines to 75 named NPCs, and 12 unnamed NPCs across major cities and settlements, who didn't already have schedules in vanilla. Many stores now have business hours, and employ robots to work the night shift.
+* [The Gang's All Here - Multiple Companions and Crew](https://www.nexusmods.com/starfield/mods/7469) Allows you to have multiple companions and crew follow you and a control terminal to rule them all. 
 
 # Recommended Settings
 **Gameplay Options**
