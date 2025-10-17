@@ -231,7 +231,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
 * [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
 * [Short Temple Puzzles](https://www.nexusmods.com/starfield/mods/1139) changes the number of puzzles to 3.
-* [Build Outpost Items with Credits](https://www.nexusmods.com/starfield/mods/11890) Allows you to build all outpost/ship objects with credits instead of resources.
+* [Immersive Driving - SFSE](https://www.nexusmods.com/starfield/mods/11253) Collection of a few immersive land vehicle features; Visible Body, Smart Aim, Panorama View, Rear View, Exit Anywhere, Companion Chatter. Key bindings are: Rear View 'Q', Companion Chatter 'V'.
 * [Sit To Add Ship to Fleet](https://www.nexusmods.com/starfield/mods/6493) Sit in pilot seat to add captured ship to your fleet. No need to make it your home ship.
 * [Leave No Witnesses](https://www.nexusmods.com/starfield/mods/12000) Reworks player bounties so that killing all witnesses to a crime you commit in space removes the bounties incurred while committing that crime.
 * [Landing Bay Cargo Access](https://www.nexusmods.com/starfield/mods/11972) Adds an interactive cargo panel to each landing bay module, allowing you to access your ship's cargo hold remotely - at your ship, but outside your ship. If the cargo panel doesn't show up on your ship, you may have to refresh your ship's landing bay cell by modifying your ship in the ship builder.
