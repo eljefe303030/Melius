@@ -22,6 +22,11 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Added
+* Roleplayers' Alternate Start
+
+### Removed
+
 ## Version 3.0.5
 
 **Save game safe if updating from 3.0.2 or above**
@@ -61,7 +66,8 @@ This is a hotfix update that fixes FPS drops for some people related to ReShade 
 
 ### Removed
 * NAT Car Retexture
-* Vanilla Flashlight Improved (VFI)
+* Vanilla Flashlight Improved (V* hhhhhhhh
+* FI)
 
 </details>
 
