@@ -30,6 +30,8 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Roleplayers' Alternate Start
+* SavrenX Crisp Flora V2.1
+* SavrenX Stone
 * Starfield Display Revamp
 
 ### Removed
