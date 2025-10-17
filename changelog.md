@@ -23,7 +23,7 @@
 Running commentary of what I am planning for the next version. 
 
 ### Updated
-* ReShade
+* Melius ReShade
 
 ### Added
 * Roleplayers' Alternate Start
