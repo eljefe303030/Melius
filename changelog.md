@@ -30,6 +30,7 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Baka Achievement Enabler (SFSE)
+* Preview Spaceship Interior
 * Roleplayers' Alternate Start
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
