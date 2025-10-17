@@ -31,6 +31,7 @@ Running commentary of what I am planning for the next version.
 ### Added
 * Baka Achievement Enabler (SFSE)
 * Betamax's Ammo Bench
+* New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
 * Roleplayers' Alternate Start
 * SavrenX Crisp Flora V2.1
