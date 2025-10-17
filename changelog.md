@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 * Melius ReShade
 
 ### Added
+* Baka Achievement Enabler (SFSE)
 * Roleplayers' Alternate Start
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
@@ -36,6 +37,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
+* Starfield Achievement Enabler
 
 ## Version 3.0.5
 
