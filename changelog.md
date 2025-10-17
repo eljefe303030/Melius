@@ -26,6 +26,7 @@ Running commentary of what I am planning for the next version.
 * Roleplayers' Alternate Start
 
 ### Removed
+* Craft Adhesive from Vacuum Tape
 
 ## Version 3.0.5
 
@@ -66,8 +67,7 @@ This is a hotfix update that fixes FPS drops for some people related to ReShade 
 
 ### Removed
 * NAT Car Retexture
-* Vanilla Flashlight Improved (V* hhhhhhhh
-* FI)
+* Vanilla Flashlight Improved (VFI)
 
 </details>
 
