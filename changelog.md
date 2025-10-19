@@ -31,7 +31,6 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Baka Achievement Enabler (SFSE)
-* Munitions Expansion Framework - Vanilla Weapons Patch
 * New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
 * Roleplayers' Alternate Start
