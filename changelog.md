@@ -26,11 +26,12 @@ Running commentary of what I am planning for the next version.
 * PDY modules wrongly appearing in the shipbuilder
 
 ### Updated
+* El Jefe Combat AI
 * Melius ReShade
 
 ### Added
 * Baka Achievement Enabler (SFSE)
-* Betamax's Ammo Bench
+* Munitions Expansion Framework - Vanilla Weapons Patch
 * New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
 * Roleplayers' Alternate Start
