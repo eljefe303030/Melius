@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * El Jefe Combat AI
 * Melius ReShade
+* NPC Female Height Patch
 
 ### Added
 * Baka Achievement Enabler (SFSE)
