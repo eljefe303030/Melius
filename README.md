@@ -371,7 +371,7 @@ A. Right click the More Immersive Landings And Takeoffs mod in the left hand win
 
 **Q. How do I enable enemy health bars?**
 
-A. [Follow these instructions](https://github.com/eljefe303030/Melius/blob/main/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius).pdf). The console command will need to be entered each game.
+A. [Follow these instructions](https://github.com/eljefe303030/Melius/blob/2ea64e7bb2c0a5a58bcf5ef94bcf7e18112571d3/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius)v2.pdf).
 
 **Q. I'm dying too easily, how do I change the difficulty?**
 
