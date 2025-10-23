@@ -189,6 +189,9 @@ Selection of Ultra Widescreen mods
 1. [Varuun Spacesuit Remade - Replacer - Dark Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a dark visor. **use this mod OR the mod below, not both**
 2. [Varuun Spacesuit Remade - Replacer - Red Visor](https://www.nexusmods.com/starfield/mods/7254) Changes the Va'ruun Spacesuit to have a red visor. **use this mod OR the mod above, not both**
 
+**22.1 MESHES & TEXTURES - FX**
+1. [Subtle Flashlight - Blue (No Specular) - Narrower](https://www.nexusmods.com/starfield/mods/11018?tab=files) Alternative flashlight that is brighter than the default one included in the list.
+
 **34.1 IMMERSION**
 1. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) Landing ramps need to be opened and closed by you now. If the Landing Ramp Remote is not in your inventory, get it from Henrik Zuran at Apex Electronics in the Well area of New Atlantis. Equip it as a favourite for ease. Vasco can be asked to open and close the ramp once he has been assigned to your crew.
 2. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
