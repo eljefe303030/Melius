@@ -36,6 +36,7 @@ Running commentary of what I am planning for the next version.
 ### Added
 * Astrogate
 * Baka Achievement Enabler (SFSE)
+* Constellation Fleet Uniforms
 * Craftable Primers And Diodes
 * New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
