@@ -40,6 +40,7 @@ Running commentary of what I am planning for the next version.
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
 * Starfield Display Revamp
+* Subtle Flashlight - Blue (No Specular) - Narrower (optional mod)
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
