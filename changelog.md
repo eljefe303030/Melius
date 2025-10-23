@@ -31,8 +31,10 @@ Running commentary of what I am planning for the next version.
 * El Jefe Combat AI
 * Melius ReShade
 * NPC Female Height Patch
+* Starfield Engine Fixes - SFSE
 
 ### Added
+* Astrogate
 * Baka Achievement Enabler (SFSE)
 * New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
