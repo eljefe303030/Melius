@@ -38,6 +38,7 @@ Running commentary of what I am planning for the next version.
 * Baka Achievement Enabler (SFSE)
 * Constellation Fleet Uniforms
 * Craftable Primers And Diodes
+* High-Resolution Planet Textures
 * New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
 * Roleplayers' Alternate Start
