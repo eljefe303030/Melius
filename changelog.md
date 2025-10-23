@@ -34,7 +34,7 @@ Running commentary of what I am planning for the next version.
 * Starfield Engine Fixes - SFSE
 
 ### Added
-* Astrogate
+* Astrogate (optional mod)
 * Baka Achievement Enabler (SFSE)
 * Constellation Fleet Uniforms
 * Craftable Primers And Diodes
