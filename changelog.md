@@ -48,6 +48,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * Rosie Tannehill - Additional Doctor Voiced Dialogue
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
+* Ship Power Control Tweaks
 * Starfield Display Revamp
 * Subtle Flashlight - Blue (No Specular) - Narrower (optional mod)
 
