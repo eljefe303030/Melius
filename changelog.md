@@ -45,6 +45,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * New Workbenches Essential Framework NWEF
 * Preview Spaceship Interior
 * Roleplayers' Alternate Start
+* Rosie Tannehill - Additional Doctor Voiced Dialogue
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
 * Starfield Display Revamp
