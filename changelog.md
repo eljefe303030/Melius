@@ -31,6 +31,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 
 ### Updated
 * El Jefe Combat AI
+* Keelo's Sleek Ship HUD
 * Melius ReShade
 * NPC Female Height Patch
 * Starfield Engine Fixes - SFSE
