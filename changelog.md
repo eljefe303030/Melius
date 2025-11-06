@@ -22,6 +22,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors.
+
 ### Fixed
 * PDY modules wrongly appearing in the shipbuilder
 * Too many items listed in the Industrial Workbench, which caused lag when opening the workbench. Items are now distributed between additional textiler, armorer, and fabrication tables.
