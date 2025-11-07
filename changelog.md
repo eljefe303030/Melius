@@ -46,6 +46,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * El Jefe Space Combat AI
 * High-Resolution Planet Textures
 * New Workbenches Essential Framework NWEF
+* Not Yet Shattered Space
 * Preview Spaceship Interior
 * Roleplayers' Alternate Start
 * Rosie Tannehill - Additional Doctor Voiced Dialogue
@@ -58,6 +59,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
+* Shattered Space Delayed Start
 * Starfield Achievement Enabler
 
 ## Version 3.0.5
