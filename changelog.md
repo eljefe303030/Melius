@@ -35,6 +35,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * Melius ReShade
 * New Atlantis Awaits
 * NPC Female Height Patch
+* ReShade
 * Starfield Engine Fixes - SFSE
 
 ### Added
