@@ -287,7 +287,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 **Enabling Enemy Healthbars**
 
-[This guide by AldmerExile takes you step by step through the process](https://github.com/eljefe303030/Melius/blob/main/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius).pdf).
+[This guide by AldmerExile takes you step by step through the process]([https://github.com/eljefe303030/Melius/blob/main/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius).pdf](https://github.com/eljefe303030/Melius/blob/2ea64e7bb2c0a5a58bcf5ef94bcf7e18112571d3/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius)v2.pdf)).
 
 ## Note for Content Creators
 
