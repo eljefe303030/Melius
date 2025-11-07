@@ -60,6 +60,10 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
+* Eyebrows Redone
+* Female Eyelashes HD
+* Luxor's Lip Wrinkles HD
+* Luxor's Freckles HD
 * Shattered Space Delayed Start
 * Starfield Achievement Enabler
 
