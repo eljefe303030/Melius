@@ -45,6 +45,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * Craftable Primers And Diodes
 * El Jefe Space Combat AI
 * High-Resolution Planet Textures
+* Luxor's Makeup and Appearance HD
 * New Workbenches Essential Framework NWEF
 * Not Yet Shattered Space
 * Preview Spaceship Interior
