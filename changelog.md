@@ -53,6 +53,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * Ship Power Control Tweaks
 * Starfield Display Revamp
 * Subtle Flashlight - Blue (No Specular) - Narrower (optional mod)
+* True House - Astral Lounge Music Replacer
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
