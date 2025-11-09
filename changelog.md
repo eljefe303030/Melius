@@ -49,7 +49,7 @@ Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors
 * New Workbenches Essential Framework NWEF
 * Not Yet Shattered Space
 * Preview Spaceship Interior
-* Roleplayers' Alternate Start
+* Roleplayers' Alternate Start (optional mod)
 * Rosie Tannehill - Additional Doctor Voiced Dialogue
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
