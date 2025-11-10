@@ -32,7 +32,7 @@
   * [Starting Mod Organizer 2](#starting-mod-organizer-2)
 * [Important mods you should know about](#important-mods-you-should-know-about)
 * [Optional Mods](#optional-mods)
-  * [Manuel Installations](#manuel-installations)
+  * [Manual Installations](#manual-installations)
   * [Modifications to the modlist](#modifications-to-the-modlist)
 * [Gameplay Guide](#gameplay-guide)
 * [Recommended Settings](#recommended-settings)
@@ -232,7 +232,7 @@ Selection of Ultra Widescreen mods
 
 </details>
   
-### Manuel Installations
+### Manual Installations
 1. Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough. Place the plugin for this mod at the top of the load order in the right hand window.
 
 ### Modifications to the modlist
