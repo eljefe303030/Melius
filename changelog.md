@@ -22,7 +22,7 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors.
+Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons.
 
 ### Fixed
 * PDY modules wrongly appearing in the shipbuilder
@@ -30,12 +30,14 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * An issue if playing with a female character, in third person and when aiming down sights, whilst using the NPC Height Variation Toolkit. (thanks to Kilonova24 for spotting my error).
 
 ### Updated
+* Cassiopeia Papyrus Extender
 * El Jefe Combat AI
 * Keelo's Sleek Ship HUD
 * Melius ReShade
 * New Atlantis Awaits
 * NPC Female Height Patch
 * ReShade
+* Serenity of Stars - Gameplay Overhaul
 * Starfield Engine Fixes - SFSE
 
 ### Added
@@ -56,6 +58,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Ship Power Control Tweaks
 * Starfield Display Revamp
 * Subtle Flashlight - Blue (No Specular) - Narrower (optional mod)
+* Titanfall 2 Weapon Pack
 * True House - Astral Lounge Music Replacer
 
 ### Removed
