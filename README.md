@@ -390,6 +390,10 @@ A. You can safely ignore this error message. There are some patches for optional
 
 A. It is dark by design to give the game more immersion, you cannot see at night without a light in real life. However, if you really want to see the light, change the following line in the `StarfieldCustom.ini` file (loacated in the `\profiles\Melius` folder) from `bUseSecondarySun=0` to `bUseSecondarySun=1`
 
+**Q. My vehicle is not spawning when i land and remains where i took off.**
+
+A. The Roverhaul mod requires enough space in your cargo hold. Make space or change the option in the Gameplay settings menu.
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
