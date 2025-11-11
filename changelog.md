@@ -56,6 +56,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
 * Ship Power Control Tweaks
+* Slightly Darker Nights
 * Starfield Display Revamp
 * Subtle Flashlight - Blue (No Specular) - Narrower (optional mod)
 * Titanfall 2 Weapon Pack
