@@ -30,7 +30,9 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * An issue if playing with a female character, in third person and when aiming down sights, whilst using the NPC Height Variation Toolkit. (thanks to Kilonova24 for spotting my error).
 
 ### Updated
+* Bigger Systems - Expanded Star Maps
 * Cassiopeia Papyrus Extender
+* Console Command Runner Updated
 * El Jefe Combat AI
 * Keelo's Sleek Ship HUD
 * Melius ReShade
@@ -41,31 +43,41 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Starfield Engine Fixes - SFSE
 
 ### Added
+* ALIEN Inspired fonts
 * Astrogate (optional mod)
 * Baka Achievement Enabler (SFSE)
+* Battleground Niira
 * Constellation Fleet Uniforms
 * Craftable Primers And Diodes
 * El Jefe Space Combat AI
 * High-Resolution Planet Textures
+* Icy Moon - Porrima IV-d
+* Infested Londinion
 * Luxor's Makeup and Appearance HD
+* Mossy Plateau
 * New Workbenches Essential Framework NWEF
 * Not Yet Shattered Space
 * Preview Spaceship Interior
+* Real Sandy Deserts
 * Roleplayers' Alternate Start (optional mod)
 * Rosie Tannehill - Additional Doctor Voiced Dialogue
 * SavrenX Crisp Flora V2.1
 * SavrenX Stone
 * Ship Power Control Tweaks
 * Slightly Darker Nights
+* Snowy Volcanic Biome
 * Starfield Display Revamp
 * Subtle Flashlight - Blue (No Specular) - Narrower (optional mod)
 * Titanfall 2 Weapon Pack
 * True House - Astral Lounge Music Replacer
+* Vibrant Volcanic Biome
+* Working Water Coolers
 
 ### Removed
 * Craft Adhesive from Vacuum Tape
 * Eyebrows Redone
 * Female Eyelashes HD
+* Flight Camera Fix
 * Luxor's Lip Wrinkles HD
 * Luxor's Freckles HD
 * Shattered Space Delayed Start
