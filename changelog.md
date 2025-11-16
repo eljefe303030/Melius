@@ -36,6 +36,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * El Jefe Combat AI
 * Keelo's Sleek Ship HUD
 * Melius ReShade
+* Munitions Expansion Framework
 * New Atlantis Awaits
 * NPC Female Height Patch
 * ReShade
