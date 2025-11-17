@@ -54,10 +54,12 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * High-Resolution Planet Textures
 * Icy Moon - Porrima IV-d
 * Infested Londinion
+* Lazarus Awakened
 * Luxor's Makeup and Appearance HD
 * Mossy Plateau
 * New Workbenches Essential Framework NWEF
 * Not Yet Shattered Space
+* No More Idiotic Landings
 * Preview Spaceship Interior
 * Real Sandy Deserts
 * Roleplayers' Alternate Start (optional mod)
