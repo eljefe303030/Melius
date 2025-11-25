@@ -77,9 +77,9 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Slightly Darker Nights
 * Snowy Volcanic Biome
 * Starfield Display Revamp
-* Vanilla Flashlight Improved (VFI)
 * Titanfall 2 Weapon Pack
 * True House - Astral Lounge Music Replacer
+* Vanilla Flashlight Improved (VFI)
 * Vibrant Volcanic Biome
 * Working Water Coolers
 
