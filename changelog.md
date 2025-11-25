@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 3.1.0 (currently in beta testing, see Discord server for download)](#version-310)
 * [Version 3.0.5 (released 16/10/2025)](#version-305)
 * [Version 3.0.4 (released 14/10/2025)](#version-304)
 * [Version 3.0.3 (released 13/10/2025)](#version-303)
@@ -28,7 +29,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 3.1.0 
+**(currently in beta testing, see Discord server for download)**
+
 Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons and outfits.
+
+<details>
 
 ### Fixed
 * PDY modules wrongly appearing in the shipbuilder
@@ -93,6 +99,8 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Luxor's Freckles HD
 * Shattered Space Delayed Start
 * Starfield Achievement Enabler
+
+</details>
 
 ## Version 3.0.5
 
