@@ -88,6 +88,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Eyebrows Redone
 * Female Eyelashes HD
 * Flight Camera Fix
+* FOMOD Plus
 * Luxor's Lip Wrinkles HD
 * Luxor's Freckles HD
 * Shattered Space Delayed Start
