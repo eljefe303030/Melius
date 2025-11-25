@@ -1,4 +1,4 @@
-![banner](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
+![banner](https://github.com/eljefe303030/Melius/blob/228934cd62b5708225aaf5cbcf9b3cc40ac874a7/assets/images/Melius%20banner.webp)
 # Changelog
 
 ## Version History
