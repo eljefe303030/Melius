@@ -28,7 +28,7 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons.
+Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons and outfits.
 
 ### Fixed
 * PDY modules wrongly appearing in the shipbuilder
