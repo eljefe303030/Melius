@@ -264,6 +264,9 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * [More NPCs Have Routines and Stores Have Schedules](https://www.nexusmods.com/starfield/mods/12140) Adds daily routines to 75 named NPCs, and 12 unnamed NPCs across major cities and settlements, who didn't already have schedules in vanilla. Many stores now have business hours, and employ robots to work the night shift.
 * [The Gang's All Here - Multiple Companions and Crew](https://www.nexusmods.com/starfield/mods/7469) Allows you to have multiple companions and crew follow you and a control terminal to rule them all.
 * [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820) Swap between multiple preconfigured power presets, or customize your own. Set a default power preset for your ship. Quickly select your ship's power systems. You will need to either enable the Stealth preset (`]}` key) before grav jumping or as soon as you arrive to avoid detection by enemies. Keys '1 to 6' select the different ship systems, `9` selects a combat preset, `0` balanced preset, `[{` escape preset, see the mod page for full details and how you can customise the presets and keys.
+* [New Workbenches Essential Framework NWEF](https://www.nexusmods.com/starfield/mods/8024) Seperate workbenches called Fabrication (for ammo), Textiles (for outfits/clothes) and Armorer (for armour). Reduces lag and clutter in the Industrial Workbench.
+* [Not Yet Shattered Space](https://www.nexusmods.com/starfield/mods/14112) Delays Shattered space starting until a configurable point in the main quest.
+* [Working Water Coolers](https://www.nexusmods.com/starfield/mods/13503) Replaces nearly all water coolers and sinks in the world with working versions.
 
 # Recommended Settings
 **Gameplay Options**
