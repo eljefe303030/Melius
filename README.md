@@ -1,5 +1,5 @@
 # **Melius**
-![Melius logo](https://github.com/eljefe303030/Melius/blob/main/Melius%20banner.webp)
+![Melius logo]([https://github.com/eljefe303030/Melius/blob/main/assets/imagesMelius%20banner.webp](https://github.com/eljefe303030/Melius/blob/80ef279772736b740a9aca09a0ea66ef2bc23e0b/assets/images/Melius%20banner.webp))
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
