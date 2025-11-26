@@ -176,8 +176,12 @@ Selection of Ultra Widescreen mods
 
 **7.1 MENU & LOADING SCREENS**
 
-1. [Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860) Original Melius main menu background of an animated starfield. **you'll need to disable the mod 'Melius Main Menu Replacer [0Bek version]**
-2. [Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232) Original Melius pause menu background. **you'll need to disable the mod 'Melius Pause Menu Background Replacer [0Bek version]**
+1. [Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860) Original Melius main menu background of an animated starfield.
+2. [Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232) Original Melius pause menu background.
+
+**07.1a MENU & LOADING SCREENS - ULTRA WIDESCREEN**
+
+Selection of Ultra Widescreen mods for menu and loading screens 
 
 **08.1 AUDIO & MUSIC**
 1. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence. *recommended to use in conjunction with the mod below - Satisfying Headshots - Sound Overhaul*
