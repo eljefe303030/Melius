@@ -40,7 +40,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * PDY modules wrongly appearing in the shipbuilder
 * Too many items listed in the Industrial Workbench, which caused lag when opening the workbench. Items are now distributed between additional textiler, armorer, and fabrication tables.
 * An issue if playing with a female character, in third person and when aiming down sights, whilst using the NPC Height Variation Toolkit. (thanks to Kilonova24 for spotting my error).
-* Balanced how dark nights are the effectiveness of your flashlight.
+* Balanced how dark nights are and the effectiveness of your flashlight.
 
 ### Updated
 * Bigger Systems - Expanded Star Maps
