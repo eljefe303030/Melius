@@ -97,6 +97,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Flight Camera Fix
 * FOMOD Plus
 * Interstellar Traffic
+* Lore-Friendly Starfield Loading Screens
 * Luxor's Lip Wrinkles HD
 * Luxor's Freckles HD
 * Shattered Space Delayed Start
