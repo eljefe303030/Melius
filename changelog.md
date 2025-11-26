@@ -102,6 +102,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Luxor's Freckles HD
 * Shattered Space Delayed Start
 * Starfield Achievement Enabler
+* Weapon Sound Fixes
 
 </details>
 
