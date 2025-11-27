@@ -146,6 +146,42 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 11. Selection of economy mods to add balance to the game and make money more valuable; [Cost Of Living - Simple Taxes](https://www.nexusmods.com/starfield/mods/12136), [Cost Of Spacing](https://www.nexusmods.com/starfield/mods/11726), [Spacefaring Economy](https://www.nexusmods.com/starfield/mods/12022) and [Variable Contraband Prices - Redux](https://www.nexusmods.com/starfield/mods/12205).
 12. Selection of mods that improves the shipbuilding aspect of the game and add new parts and habs. You can now make and use Class M ships.
 13. [TN's Space Mining and Salvage](https://www.nexusmods.com/starfield/mods/6331) Mining out in space is more challenging and more rewarding now. The asteroids will take special mining lasers you unlock with the geology perk, which deals good damage to asteroids, but not to anything else. They can also be used for salvaging. Many junk items can be taken to the Industrial Workbench and Salvaged into usable items. They will show up on the recipe list when they are in your inventory (Not your ship's).
+14. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The following settings have been changed from the default, most are self explanitary, see mod page for more deatailed descriptions:
+
+<details>
+bEngineLoadOptimizer=1
+bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1
+
+bGameplayOptionDisableXPModifiersBonus=1
+bGameplayOptionDisableXPModifiersPenalty=1
+
+bCanUseAnyFurnitureInZeroG=1
+bDataMenuShowGameDateAndPlanetTimescale=1
+
+bShowPlanetTemperatureInGalaxyStarMapMenu=1
+
+bUseAnyWeaponInHandscanner=1
+
+bPapyrusArrayNoLimit=1
+
+bLoadingScreenOptions=1
+
+bPhotoModeActorsAllowNonCompanions=1
+
+bDisableWeaponSheatheInDialogues=1
+
+bEyeContactNPCHello=1
+bEyeContactNPCHelloDisallowWhileSprinting=1
+bEyeContactNPCHelloDisallowWhileRunning=1
+
+bBA2Counter=1
+bBA2CountLog=0 (change to 1 if need to see the log)
+
+bDynamicFlightCameraDistance=1
+
+bDisableForcedHomeshipChangeOnPurchase=1
+
+</details>
     
 ## Optional Mods
 
@@ -226,7 +262,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 **64 LO SENSITIVE - ALTERNATIVE START**
 > [!IMPORTANT]
 > Select only one alternative start mod.
->1. [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094) An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits.
+>1. [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094) An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits. **Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beinging, as you won't have the required licence or perk.**
 >2. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pops up, tab to close this and continue.**
 
 **66.1 ANIMATION - GENERAL**
@@ -304,12 +340,10 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Known Issues
 
-1. The mod Weapon Sound Fixes has the side effect of controller vibration for Maelstrom, Grendel and some other weapons being low to non-existent.
-4. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
-5. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
-6. If you experience strange visual artifacts or flickering, press the 'end' key. This will be fixed in the next release.
-7. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
-8. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
+1. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping in both the preview and in game views. Choose a different combination of outfits if this occurs.
+2. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
+3. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
+4. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
 
 ## Troubleshooting
 
