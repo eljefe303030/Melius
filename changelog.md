@@ -30,7 +30,7 @@
 Running commentary of what I am planning for the next version. 
 
 ## Version 3.1.0 
-**(currently in beta testing, see Discord server for download)**
+**Save game safe if updating from 3.0.2 or above**
 
 Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons and outfits.
 
