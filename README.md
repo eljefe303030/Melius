@@ -150,7 +150,8 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 
 <details>
 `bEngineLoadOptimizer=1`
-bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1
+  
+`bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1`
 
 bGameplayOptionDisableXPModifiersBonus=1
 bGameplayOptionDisableXPModifiersPenalty=1
