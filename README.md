@@ -72,7 +72,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
     - Right click Starfield in Steam, click Properties, disable *'Enable the Steam overlay while in-game'*.
 6. Language set to English. You can check translations of the mods on NexusMods but I cannot support you with that.
 7. Start Starfield via Steam once, get to the main menu and exit the game. After this step, you will not be starting the game through Steam anymore.
-8. *Optional but recommended*: adjust your pagefile to at least 20gb but recommended to 40gb. Some people have reported this can prevent crashes to desktop (CTDs), if you are getting them, set your pagefile. To do this:
+8. *Optional but recommended*: adjust your pagefile to at least 20GB but recommended to 40GB, up to 80GB if you have the space to be sure. Some people have reported this can prevent crashes to desktop (CTDs), if you are getting them, set your pagefile. To do this:
 
       a) Right click the Start Button
 
