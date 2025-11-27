@@ -388,7 +388,8 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.1.0 
+3.1.0
+
 **Save game safe if updating from 3.0.2 or above**
 
 Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons and outfits.
