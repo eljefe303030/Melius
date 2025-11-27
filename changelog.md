@@ -100,6 +100,7 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Lore-Friendly Starfield Loading Screens
 * Luxor's Lip Wrinkles HD
 * Luxor's Freckles HD
+* Remove EXP from gameplay options (Starfield Engine Fixes does this)
 * Shattered Space Delayed Start
 * Starfield Achievement Enabler
 * Weapon Sound Fixes
