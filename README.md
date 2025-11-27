@@ -149,7 +149,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 14. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The following settings have been changed from the default, most are self explanitary, see mod page for more deatailed descriptions:
 
 <details>
-`bEngineLoadOptimizer=1
+`bEngineLoadOptimizer=1`
 bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1
 
 bGameplayOptionDisableXPModifiersBonus=1
