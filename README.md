@@ -388,7 +388,10 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Changelog
 
-3.0.5 **This version is save safe.** Hotfix that fixes installation error related to a mod being removed from Nexus.
+3.1.0 
+**Save game safe if updating from 3.0.2 or above**
+
+Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons and outfits.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
