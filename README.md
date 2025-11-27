@@ -146,7 +146,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 11. Selection of economy mods to add balance to the game and make money more valuable; [Cost Of Living - Simple Taxes](https://www.nexusmods.com/starfield/mods/12136), [Cost Of Spacing](https://www.nexusmods.com/starfield/mods/11726), [Spacefaring Economy](https://www.nexusmods.com/starfield/mods/12022) and [Variable Contraband Prices - Redux](https://www.nexusmods.com/starfield/mods/12205).
 12. Selection of mods that improves the shipbuilding aspect of the game and add new parts and habs. You can now make and use Class M ships.
 13. [TN's Space Mining and Salvage](https://www.nexusmods.com/starfield/mods/6331) Mining out in space is more challenging and more rewarding now. The asteroids will take special mining lasers you unlock with the geology perk, which deals good damage to asteroids, but not to anything else. They can also be used for salvaging. Many junk items can be taken to the Industrial Workbench and Salvaged into usable items. They will show up on the recipe list when they are in your inventory (Not your ship's).
-14. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The following settings have been changed from the default, most are self explanitary, see mod page for more deatailed descriptions:
+14. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The following settings have been changed from the default, most are self explanatory, see mod page for more detailed descriptions:
 
 <details>
   
@@ -246,7 +246,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 3. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
 
 **40.1 FIXED AREA EDITS - CITIES & TOWNS & SETTLEMENTS**
-1. a selection of mods that add a significant amount of visual imporvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommond these mods*
+1. a selection of mods that add a significant amount of visual improvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommend these mods*
 
 **43.1 OUTPOST BUILDING**
 1. [Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890) Allows you to build most outpost/ship objects with credits instead of resources.
@@ -269,7 +269,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 **64 LO SENSITIVE - ALTERNATIVE START**
 > [!IMPORTANT]
 > Select only one alternative start mod.
->1. [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094) An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits. **Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beinging, as you won't have the required licence or perk.**
+>1. [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094) An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits. **Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk.**
 >2. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pops up, tab to close this and continue.**
 
 **66.1 ANIMATION - GENERAL**
@@ -446,7 +446,7 @@ A. The Roverhaul mod requires enough space in your cargo hold. Make space or cha
 
 **Q. I get an "invalid file attributes found" error message when launching.**
 
-A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear everytime you launch it. Either remove the symlink or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
+A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear every time you launch it. Either remove the symlink or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
@@ -474,7 +474,3 @@ Thank you so much for supporting me.
 * Hieronymos
 * Yun
 * Bonelord
-
-
-
-
