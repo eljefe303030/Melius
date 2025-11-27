@@ -5,7 +5,7 @@
 
 <details>
 
-* [Version 3.1.0 (currently in beta testing, see Discord server for download)](#version-310)
+* [Version 3.1.0 (released 27/11/2025)](#version-310)
 * [Version 3.0.5 (released 16/10/2025)](#version-305)
 * [Version 3.0.4 (released 14/10/2025)](#version-304)
 * [Version 3.0.3 (released 13/10/2025)](#version-303)
