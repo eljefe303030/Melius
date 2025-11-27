@@ -444,6 +444,10 @@ A. It is dark by design to give the game more immersion, you cannot see at night
 
 A. The Roverhaul mod requires enough space in your cargo hold. Make space or change the option in the Gameplay settings menu.
 
+**Q. I get an "invalid file attributes found" error message when launching.**
+
+A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear everytime you launch it. Either remove the symlink or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
