@@ -154,34 +154,34 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
   
 `bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1`
 
-`bGameplayOptionDisableXPModifiersBonus=1
-bGameplayOptionDisableXPModifiersPenalty=1
+`bGameplayOptionDisableXPModifiersBonus=1`
+`bGameplayOptionDisableXPModifiersPenalty=1`
 
-bCanUseAnyFurnitureInZeroG=1
-bDataMenuShowGameDateAndPlanetTimescale=1
+`bCanUseAnyFurnitureInZeroG=1`
+`bDataMenuShowGameDateAndPlanetTimescale=1`
 
-bShowPlanetTemperatureInGalaxyStarMapMenu=1
+`bShowPlanetTemperatureInGalaxyStarMapMenu=1`
 
-bUseAnyWeaponInHandscanner=1
+`bUseAnyWeaponInHandscanner=1`
 
-bPapyrusArrayNoLimit=1
+`bPapyrusArrayNoLimit=1`
 
-bLoadingScreenOptions=1
+`bLoadingScreenOptions=1`
 
-bPhotoModeActorsAllowNonCompanions=1
+`bPhotoModeActorsAllowNonCompanions=1`
 
-bDisableWeaponSheatheInDialogues=1
+`bDisableWeaponSheatheInDialogues=1`
 
-bEyeContactNPCHello=1
-bEyeContactNPCHelloDisallowWhileSprinting=1
-bEyeContactNPCHelloDisallowWhileRunning=1
+`bEyeContactNPCHello=1`
+`bEyeContactNPCHelloDisallowWhileSprinting=1`
+`bEyeContactNPCHelloDisallowWhileRunning=1`
 
-bBA2Counter=1
-bBA2CountLog=0 (change to 1 if need to see the log)
+`bBA2Counter=1`
+`bBA2CountLog=0` (change to 1 if need to see the log)
 
-bDynamicFlightCameraDistance=1
+`bDynamicFlightCameraDistance=1`
 
-bDisableForcedHomeshipChangeOnPurchase=1`
+`bDisableForcedHomeshipChangeOnPurchase=1`
 
 </details>
     
