@@ -99,7 +99,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 11. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
 12. Once completed, it's installed.
 
-If there are any issues with the installation, start Wabbajack again and it will continue from where it left off.
+If there are any issues with the installation, start Wabbajack again and it will continue from where it left off. **Do not press the retry button, as it can delete the whole installation. Instead, close and restart Wabbajack if there are any installation issues.**
 
 ## Post-installation Steps
 ### Root Builder
