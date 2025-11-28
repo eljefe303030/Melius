@@ -389,7 +389,8 @@ Re-enable and restart:
 
 ### Things generally not working and error messages
 
-Check you antivirus program's log to make sure it's not affecting the list and exclude the list's folder if needed.
+1. Check your antivirus program's log to make sure it's not affecting the list and exclude the list's folder if needed.
+2. Reinstall the list, keeping the same folder locations to reset the list and fix any installation errors. You won't need to download the mods again.
 
 ## Changelog
 
