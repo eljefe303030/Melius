@@ -354,6 +354,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Troubleshooting
 
+# Strange Visual Effects
 1. If you have strange visual effects, such as lights flickering when moving around or artifacting, reset your shader cache:
    
 **AMD**
@@ -364,12 +365,12 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 * Confirm: Click OK when prompted to confirm the action.
 
 **Nvidia**
-1. Disable the cache: 
+Disable the cache: 
 * Open the NVIDIA Control Panel, go to Manage 3D Settings > Global Settings. 
 * Scroll down and find Shader Cache Size, then change the setting from the dropdown menu to Disabled. 
 * Click Apply and close the NVIDIA Control Panel.
   
-2. Delete the cache files: 
+Delete the cache files: 
 * Press Windows Key + R to open the Run dialog. 
 * Type %USERPROFILE%\\AppData\\Local\\ and press Enter. 
 * Open the NVIDIA folder, then open the GLCache folder and delete all the files and folders inside. 
@@ -380,7 +381,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 * Go to Local > NVIDIA > DXCache. 
 * Delete all files inside the DXCache folder.
   
-3. Re-enable and restart: 
+Re-enable and restart: 
 * Open the NVIDIA Control Panel again. 
 * Go to Manage 3D Settings > Global Settings. 
 * Set Shader Cache Size back to its desired setting (or you can re-enable it). 
