@@ -354,7 +354,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 ## Troubleshooting
 
-# Strange Visual Effects
+### Strange Visual Effects
 1. If you have strange visual effects, such as lights flickering when moving around or artifacting, reset your shader cache:
    
 **AMD**
@@ -386,6 +386,10 @@ Re-enable and restart:
 * Go to Manage 3D Settings > Global Settings. 
 * Set Shader Cache Size back to its desired setting (or you can re-enable it). 
 * Click Apply and then restart your PC. 
+
+### Things generally not working and error messages
+
+Check you antivirus program's log to make sure it's not affecting the list and exclude the list's folder if needed.
 
 ## Changelog
 
