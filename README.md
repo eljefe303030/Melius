@@ -465,7 +465,7 @@ A. This is because you have used Vortex and it has created a symlink to your Doc
 
 **Q. How do I disable the conversation camera changes so that it uses the original system?**
 
-A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder. Locate the following 2 lines and add a '#' symbol at the beinging of both lines. Save the ini file. `fDialogueCameraFailsafeFPFOV=100` `fDialogueCameraCollisionRadius=2`
+A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder, locate the following 2 lines and add a '#' symbol at the beginning of both lines `fDialogueCameraFailsafeFPFOV=100` `fDialogueCameraCollisionRadius=2` Save the ini file.
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
