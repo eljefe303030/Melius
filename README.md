@@ -452,17 +452,14 @@ A. Change the difficulty settings in the main game menu and/or choose a lower he
 
 A. You can safely ignore this error message. There are some patches for optional mods, if you don't have these the game will automatically disable the patches when you first run the modlist and the error message will go away.
 
-**Q. How do I make it lighter at night time, I cannot see?**
-
-A. It is dark by design to give the game more immersion, you cannot see at night without a light in real life. However, if you really want to see the light, change the following line in the `StarfieldCustom.ini` file (located in the `\profiles\Melius` folder) from `bUseSecondarySun=0` to `bUseSecondarySun=1`
-
 **Q. My vehicle is not spawning when I land and remains where i took off.**
 
 A. The Roverhaul mod requires enough space in your cargo hold. Make space or change the option in the Gameplay settings menu.
 
 **Q. I get an "invalid file attributes found" error message when launching.**
 
-A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear every time you launch it. Either remove the symlink or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
+A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear every time you launch it. Either remove the symlink by changing the setting below in Vortex or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
+[https://github.com/eljefe303030/Melius/blob/4442e1be733c52220817d3f8d47c0ca5f561facf/assets/images/Symlink.webp]
 
 **Q. How do I disable the conversation camera changes so that it uses the original system?**
 
