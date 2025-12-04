@@ -458,8 +458,9 @@ A. The Roverhaul mod requires enough space in your cargo hold. Make space or cha
 
 **Q. I get an "invalid file attributes found" error message when launching.**
 
-A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear every time you launch it. Either remove the symlink by changing the setting below in Vortex or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
+A. This is because you have used Vortex and it has created a symlink to your Documents folder. You can stil run the list without any issue but the message will appear every time you launch it. Either remove the symlink by changing the setting below in Vortex 
 ![symlink](https://github.com/eljefe303030/Melius/blob/4442e1be733c52220817d3f8d47c0ca5f561facf/assets/images/Symlink.webp)
+or change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDiagnosePlugin>rightpanel:check_fileattributes=false* this won't fix the issue but will stop the error message from appearing.
 
 **Q. How do I disable the conversation camera changes so that it uses the original system?**
 
