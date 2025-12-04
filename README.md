@@ -352,6 +352,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 2. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
 3. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
 4. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
+5. The UI cannot display a 7th digit for cost, with the updated economy, some ships now cost more than 999,999 credits and therefore the last digit is not displayed. If you cannot buy a ship but seem to have enough credits, this will be why.
 
 ## Troubleshooting
 
