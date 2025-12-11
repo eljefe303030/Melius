@@ -29,6 +29,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Updated
+* El Jefe Space Combat AI
+
 ## Version 3.1.0 
 **Save game safe if updating from 3.0.2 or above**
 
