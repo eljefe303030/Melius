@@ -29,6 +29,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Fixed
+* 3rd person view of spaceship being too close
+
 ### Updated
 * El Jefe Space Combat AI
 
