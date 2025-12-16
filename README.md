@@ -481,6 +481,7 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * Pyke Lermon, EccentricMeat, Sithishade, [0Bek](https://next.nexusmods.com/profile/0Bek), DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
 * [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
 * NeuroticNinjah for creating the Melius MO2 splash screen and the top Nexus banner image.
+* [ultramatt](https://www.nexusmods.com/starfield/mods/15126) for their ini settings and visual suggestions.
 * Anyone who tries this list.
 
 **Supporters**
