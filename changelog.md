@@ -38,14 +38,14 @@ Running commentary of what I am planning for the next version.
 * Changed several UI mods to their 120 FPS versions
 
 ### Added
-* Trees Rescaled (VolaticWolf)
-* Cosmic Growth (BlindMatter)
-* Manual Reload Papyrus Edition
-* Space Fog Be Gone
-* Peak Performance - Minimalist Needs
-* Always Play Landing Animations (APLA)
-* Disable Distant Snow
 * 3rd Person Flashlight Fix
+* Always Play Landing Animations (APLA)
+* Cosmic Growth (BlindMatter)
+* Disable Distant Snow
+* Manual Reload Papyrus Edition
+* Peak Performance - Minimalist Needs
+* Space Fog Be Gone
+* Trees Rescaled (VolaticWolf)
 
 ### Removed
 * Vitality - Sustenance Overhaul
