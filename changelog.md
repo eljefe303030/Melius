@@ -31,9 +31,24 @@ Running commentary of what I am planning for the next version.
 
 ### Fixed
 * 3rd person view of spaceship being too close
+* 3rd person flashlight not following aiming down sight
 
 ### Updated
 * El Jefe Space Combat AI
+* Changed several UI mods to their 120 FPS versions
+
+### Added
+* Trees Rescaled (VolaticWolf)
+* Cosmic Growth (BlindMatter)
+* Manual Reload Papyrus Edition
+* Space Fog Be Gone
+* Peak Performance - Minimalist Needs
+* Always Play Landing Animations (APLA)
+* Disable Distant Snow
+* 3rd Person Flashlight Fix
+
+### Removed
+* Vitality - Sustenance Overhaul
 
 ## Version 3.1.0 
 **Save game safe if updating from 3.0.2 or above**
