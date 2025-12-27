@@ -52,6 +52,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Landing Animation Reloaded (LAR)
+* Trees Rescaled
 * Vitality - Sustenance Overhaul
 
 ## Version 3.1.0 
