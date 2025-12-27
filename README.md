@@ -245,9 +245,8 @@ Selection of Ultra Widescreen mods for menu and loading screens
 2. [3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740) Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS) **enabled by default, disable if you only play in 1st person view.**
 
 **34.1 IMMERSION**
-1. [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) Landing ramps need to be opened and closed by you now. If the Landing Ramp Remote is not in your inventory, get it from Henrik Zuran at Apex Electronics in the Well area of New Atlantis. Equip it as a favourite for ease. Vasco can be asked to open and close the ramp once he has been assigned to your crew.
-2. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Enabled by default. Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
-3. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
+1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Enabled by default. Can cause a performance hit of around 5 FPS, disable this if you need those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
+2. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
 
 **40.1 FIXED AREA EDITS - CITIES & TOWNS & SETTLEMENTS**
 1. a selection of mods that add a significant amount of visual improvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommend these mods*
