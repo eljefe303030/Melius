@@ -47,10 +47,12 @@ Running commentary of what I am planning for the next version.
 * Disable Distant Snow
 * Manual Reload Papyrus Edition
 * Peak Performance - Minimalist Needs
+* Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
 
 ### Removed
+* Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
 * Trees Rescaled
 * Vitality - Sustenance Overhaul
