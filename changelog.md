@@ -48,6 +48,7 @@ Running commentary of what I am planning for the next version.
 * Trees Rescaled (VolaticWolf)
 
 ### Removed
+* Landing Animation Reloaded (LAR)
 * Vitality - Sustenance Overhaul
 
 ## Version 3.1.0 
