@@ -34,6 +34,7 @@ Running commentary of what I am planning for the next version.
 * 3rd person flashlight not following aiming down sight
 
 ### Updated
+* El Jefe Combat AI
 * El Jefe Space Combat AI
 * Changed several UI mods to their 120 FPS versions
 
