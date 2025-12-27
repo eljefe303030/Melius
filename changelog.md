@@ -50,6 +50,7 @@ Running commentary of what I am planning for the next version.
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
+* Weapon Workbench Snap Fix
 
 ### Removed
 * Immersive Landing Ramps
