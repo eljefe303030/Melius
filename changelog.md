@@ -34,9 +34,11 @@ Running commentary of what I am planning for the next version.
 * 3rd person flashlight not following aiming down sight
 
 ### Updated
+* Changed several UI mods to their 120 FPS versions
+* Cassiopeia Papyrus Extender
 * El Jefe Combat AI
 * El Jefe Space Combat AI
-* Changed several UI mods to their 120 FPS versions
+* Starfield Engine Fixes - SFSE
 
 ### Added
 * 3rd Person Flashlight Fix
