@@ -432,7 +432,7 @@ A. This is environmental Damage, you will need to see a doctor or use nanobot in
 
 **Q. Is this modlist compatible with Watchtower.**
 
-A. Not out of the box, as weapons and armours will be vastly underpowered and need balancing. However, if you reinstall the mod Serenity of Stars and choose the Watchtower patch, the balancing should be done. The UI needs patching too (this will be built into Melius in the next version but for now [you can follow this guide to patch the UI](https://github.com/eljefe303030/Melius/blob/4acc99ecf152ccd73daa3479f778d5a6f175fe66/assets/docs/Watchtower%20UI%20patching).
+A. Not out of the box, as weapons and armours will be vastly underpowered and need balancing. However, if you reinstall the mod Serenity of Stars and choose the Watchtower patch, the balancing should be done. The UI needs patching too (this will be built into Melius in the next version but for now [you can follow this guide bu umat to patch the UI](https://github.com/eljefe303030/Melius/blob/4acc99ecf152ccd73daa3479f778d5a6f175fe66/assets/docs/Watchtower%20UI%20patching).
 
 **Q. All my launches and landings (along with grav jumps) are switching to cockpit (first person)? Any way to change that to 3rd person?**
 
