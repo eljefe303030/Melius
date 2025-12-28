@@ -257,6 +257,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 **44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
 1. [Astrogate](https://www.nexusmods.com/starfield/mods/9363) Immersive way to fly ships between systems and planets. Choice of FTL and Autopilot. Enable the two related files for best experience. *Read the descriptions of the settings in the main game menu, as some settings have the potential to prevent some quests from starting.* Recommended that you disable the following mods if using this; More Immersive Landings And Takeoffs & More Visualized Docking - Vanilla Enhanced & Default Speed
 2. a selection of mods that remove the limits for engine power, shield and weapons. Using these mods makes building more unique and bigger spaceships easier but could be considered cheating and can result in overpowered spaceships.
+3. [Seizure Of Ships - Take Over Restricted Ships](https://www.nexusmods.com/starfield/mods/5212) This mod removes the restriction on ships' pilot seats, so that you are no longer blocked from commandeering certain ships. **Warning, taking over some restricted ships can break quests or the game as a whole.** 
 
 **49.1 GENERAL COMBAT**
 1. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned, deserted, forgotten places are doubled.
