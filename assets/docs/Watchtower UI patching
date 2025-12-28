@@ -1,0 +1,19 @@
+1. When you want to play Watchtower, this can be done well into a playthrough it does not matter whatsoever, it's just interface flash files:
+
+2. download [BAM](https://www.nexusmods.com/starfield/mods/14468)
+
+3. Open it, Archive>Open Archive>... Find your Watchtower - Main.ba2, select it and open it
+
+4. Uncheck everything
+
+5. Check ONLY interface, then uncheck: "questicons", "uiplaynice.swf", "watchtowergalaxymap.swf" (dont need 'em, theyre uniquely named)
+
+6. Extract, select a clean folder
+
+7. Zip the interface folder up as like "WatchtowerUIFix.zip" (or 7z, doesnt matter)
+
+8. Install this archive in a mod manager, not loose bc then youre overwriting cool mods, ensure it wins all conflicts
+
+9. play some Watchtower!
+
+10. Done playing Watchtower? uninstall the WatchtowerUIFix, back to modded UI
