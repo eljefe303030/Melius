@@ -34,6 +34,7 @@ Running commentary of what I am planning for the next version.
 * 3rd person flashlight not following aiming down sight
 * Mk3 Mantis Backpack incorrectly causing player to become incorrectly over encumbered.
 * Balancing issue with Working Water Coolers providing too much healing.
+* Some ammo missing from the fabrication workbench.
 
 ### Updated
 * Changed several UI mods to their 120 FPS versions
