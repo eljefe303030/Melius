@@ -57,6 +57,7 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
+* Simple Offence Suppression SFSE
 * Trees Rescaled
 * Vitality - Sustenance Overhaul
 
