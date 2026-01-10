@@ -55,12 +55,14 @@ Running commentary of what I am planning for the next version.
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
+* Unofficial Starfield Patch - USFP
 * Weapon Workbench Snap Fix
 
 ### Removed
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
 * Simple Offence Suppression SFSE
+* Starfield Community Patch (SFCP)
 * Trees Rescaled
 * Vitality - Sustenance Overhaul
 
