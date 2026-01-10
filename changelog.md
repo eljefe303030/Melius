@@ -41,6 +41,7 @@ Running commentary of what I am planning for the next version.
 * Cassiopeia Papyrus Extender
 * El Jefe Combat AI
 * El Jefe Space Combat AI
+* Melius ReShade
 * New Workbenches Essential Framework NWEF - Serenity of Stars - patch
 * Starfield Engine Fixes - SFSE
 
