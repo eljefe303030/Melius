@@ -62,6 +62,7 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
+* Manual Weapon Stance
 * Simple Offence Suppression SFSE
 * Starfield Community Patch (SFCP)
 * Trees Rescaled
