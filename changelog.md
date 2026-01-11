@@ -44,11 +44,14 @@ Running commentary of what I am planning for the next version.
 * Melius ReShade
 * New Workbenches Essential Framework NWEF - Serenity of Stars - patch
 * Roleplayers' Alternate Start
+* Serenity of Stars - Gameplay Overhaul
 * Starfield Engine Fixes - SFSE
 * Titanfall 2 Weapon Pack
 
 ### Added
 * 3rd Person Flashlight Fix
+* AKM
+* Alpha AK
 * Always Play Landing Animations (APLA)
 * AUG A3
 * BMX Outpost Framework - Build with Credits Patch
