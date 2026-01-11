@@ -64,6 +64,7 @@ Running commentary of what I am planning for the next version.
 * Landing Animation Reloaded (LAR)
 * Manual Weapon Stance
 * Simple Offence Suppression SFSE
+* Ship Power Allocation Fix - Revert Unwanted Power Changes
 * Starfield Community Patch (SFCP)
 * Trees Rescaled
 * Vitality - Sustenance Overhaul
