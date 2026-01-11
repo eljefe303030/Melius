@@ -52,6 +52,7 @@ Running commentary of what I am planning for the next version.
 * BMX Outpost Framework - Build with Credits Patch
 * Cosmic Growth (BlindMatter)
 * Disable Distant Snow
+* Functional Reflex Sights
 * Manual Reload Papyrus Edition
 * Peak Performance - Minimalist Needs
 * Simple Usable Ship Ramps
