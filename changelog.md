@@ -58,6 +58,7 @@ Running commentary of what I am planning for the next version.
 * Cosmic Growth (BlindMatter)
 * Disable Distant Snow
 * Functional Reflex Sights
+* Hide Buttons Mod Organizer 2 Plugin
 * Manual Reload Papyrus Edition
 * Peak Performance - Minimalist Needs
 * Simple Usable Ship Ramps
