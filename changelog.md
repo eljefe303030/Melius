@@ -43,6 +43,7 @@ Running commentary of what I am planning for the next version.
 * El Jefe Space Combat AI
 * Melius ReShade
 * New Workbenches Essential Framework NWEF - Serenity of Stars - patch
+* Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
 
 ### Added
