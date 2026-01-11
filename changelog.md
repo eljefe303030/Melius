@@ -45,6 +45,7 @@ Running commentary of what I am planning for the next version.
 * New Workbenches Essential Framework NWEF - Serenity of Stars - patch
 * Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
+* Titanfall 2 Weapon Pack
 
 ### Added
 * 3rd Person Flashlight Fix
