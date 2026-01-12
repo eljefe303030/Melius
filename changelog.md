@@ -33,6 +33,7 @@ Running commentary of what I am planning for the next version.
 * Minor bug fixes
 * Optional easier combat
 * New weapons
+* Improved gun combat
 
 ### Fixed
 * 3rd person view of spaceship being too close
