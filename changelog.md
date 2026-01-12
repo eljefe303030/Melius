@@ -54,6 +54,7 @@ Running commentary of what I am planning for the next version.
 * Alpha AK
 * Always Play Landing Animations (APLA)
 * AUG A3
+* Better Locational Damage (optional mod)
 * BMX Outpost Framework - Build with Credits Patch
 * Cosmic Growth (BlindMatter)
 * Disable Distant Snow
