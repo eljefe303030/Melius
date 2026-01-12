@@ -29,9 +29,10 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-Visual improvements
-Minor bug fixes
-Optional easier combat
+* Visual improvements
+* Minor bug fixes
+* Optional easier combat
+* New weapons
 
 ### Fixed
 * 3rd person view of spaceship being too close
