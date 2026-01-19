@@ -70,6 +70,7 @@ Running commentary of what I am planning for the next version.
 * Functional Reflex Sights
 * Gravity LUT (True to Life Color - ACES LUTs)
 * Hide Buttons Mod Organizer 2 Plugin
+* Kezyma's Profile Sync for Mod Organizer
 * Manual Reload Papyrus Edition
 * Peak Performance - Minimalist Needs
 * Praedy's SF lava re-texture
