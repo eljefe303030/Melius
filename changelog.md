@@ -59,6 +59,7 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * 3rd Person Flashlight Fix
+* aGRiNDTerraverseSandboxPatch
 * AKM
 * Alpha AK
 * Always Play Landing Animations (APLA)
