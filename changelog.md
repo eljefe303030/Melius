@@ -35,7 +35,7 @@ Running commentary of what I am planning for the next version.
 * New weapons
 * Improved gun combat
 * Additional MO2 'Performance Friendly' profile
-* Save games are now stored in `\Users\hallm\Documents\My Games\Starfield\Saves`
+* Save games are now stored in `\Users\hallm\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
 
 ### Fixed
 * 3rd person view of spaceship being too close
