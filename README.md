@@ -352,6 +352,7 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 4. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
 5. The UI cannot display a 7th digit for cost, with the updated economy, some ships now cost more than 999,999 credits and therefore the last digit is not displayed. If you cannot buy a ship but seem to have enough credits, this will be why.
 6. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
+7. If you select to sleep/wait for 1 hour, it will only actually sleep/wait for a few minutes. Choose to sleep/wait for a longer period. Values of 2 or more hours will work as intended. The only way to resolve this is to revert back to the incredibly slow vanilla sleep/wait speeds, which I don't want to do!
 
 ## Troubleshooting
 
