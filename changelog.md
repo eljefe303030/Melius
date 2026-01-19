@@ -49,8 +49,11 @@ Running commentary of what I am planning for the next version.
 * El Jefe Space Combat AI
 * Melius ReShade
 * New Workbenches Essential Framework NWEF - Serenity of Stars - patch
+* Preview Spaceship Interior
+* Revelation - Main Quest Overhaul
 * Roleplayers' Alternate Start
 * Serenity of Stars - Gameplay Overhaul
+* Ship Builder Categories
 * Starfield Engine Fixes - SFSE
 * Titanfall 2 Weapon Pack
 
@@ -65,9 +68,12 @@ Running commentary of what I am planning for the next version.
 * Cosmic Growth (BlindMatter)
 * Disable Distant Snow
 * Functional Reflex Sights
+* Gravity LUT (True to Life Color - ACES LUTs)
 * Hide Buttons Mod Organizer 2 Plugin
 * Manual Reload Papyrus Edition
 * Peak Performance - Minimalist Needs
+* Praedy's SF lava re-texture
+* Praedy's SF Milky Way re-texture
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
@@ -75,9 +81,12 @@ Running commentary of what I am planning for the next version.
 * Weapon Workbench Snap Fix
 
 ### Removed
+* CINE FIDELITY LUTS
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
+* Luxor's Galaxy 8k
 * Manual Weapon Stance
+* NAS - NATURAL and ATMOSPHERIC SPACE
 * Simple Offence Suppression SFSE
 * Ship Power Allocation Fix - Revert Unwanted Power Changes
 * Starfield Community Patch (SFCP)
