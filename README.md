@@ -466,6 +466,10 @@ OR change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDi
 
 A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder, locate the following 2 lines and add a '#' symbol at the beginning of both lines `fDialogueCameraFailsafeFPFOV=100` `fDialogueCameraCollisionRadius=2` Save the ini file.
 
+**Q. Can I use a controller?
+
+A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands.
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
