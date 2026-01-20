@@ -88,6 +88,7 @@ Running commentary of what I am planning for the next version.
 * Weapon Workbench Snap Fix
 
 ### Removed
+* ALIEN Inspired fonts
 * CINE FIDELITY LUTS
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
