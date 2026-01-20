@@ -44,6 +44,7 @@ Running commentary of what I am planning for the next version.
 * Balancing issue with Working Water Coolers providing too much healing.
 * Some ammo missing from the fabrication workbench.
 * 7th digit of ship prices being truncated.
+* Ship engine power defaulting to zero.
 
 ### Updated
 * Changed several UI mods to their 120 FPS versions
