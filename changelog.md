@@ -60,6 +60,7 @@ Running commentary of what I am planning for the next version.
 * Titanfall 2 Weapon Pack
 
 ### Added
+* 21x9 Loading Screens
 * 3rd Person Flashlight Fix
 * aGRiNDTerraverseSandboxPatch
 * AKM
@@ -73,6 +74,8 @@ Running commentary of what I am planning for the next version.
 * Functional Reflex Sights
 * Gravity LUT (True to Life Color - ACES LUTs)
 * Hide Buttons Mod Organizer 2 Plugin
+* kine's Bounty Hunter Skin Pack
+* kine's Shock Troop Skin Pack
 * Kezyma's Profile Sync for Mod Organizer
 * Manual Reload Papyrus Edition
 * Peak Performance - Minimalist Needs
