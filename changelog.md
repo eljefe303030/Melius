@@ -43,6 +43,7 @@ Running commentary of what I am planning for the next version.
 * Mk3 Mantis Backpack incorrectly causing player to become incorrectly over encumbered.
 * Balancing issue with Working Water Coolers providing too much healing.
 * Some ammo missing from the fabrication workbench.
+* 7th digit if ship prices being truncated.
 
 ### Updated
 * Changed several UI mods to their 120 FPS versions
