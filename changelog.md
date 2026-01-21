@@ -83,6 +83,7 @@ Running commentary of what I am planning for the next version.
 * Peak Performance - Minimalist Needs
 * Praedy's SF lava re-texture
 * Praedy's SF Milky Way re-texture
+* Scopes Without Overlays
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
