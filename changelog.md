@@ -102,6 +102,7 @@ Running commentary of what I am planning for the next version.
 * Starfield 21x9 Ultrawide Fix LoadingScreens
 * Starfield Community Patch (SFCP)
 * Trees Rescaled
+* Varuun Spacesuit Remade
 * Vitality - Sustenance Overhaul
 
 ## Version 3.1.0 
