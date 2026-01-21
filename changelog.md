@@ -87,6 +87,7 @@ Running commentary of what I am planning for the next version.
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
+* Ultra Minus - Tuned Ultra Quality INI
 * Unofficial Starfield Patch - USFP
 * Weapon Skin Expansion Project (WSEP) - Wasp
 * Weapon Workbench Snap Fix
