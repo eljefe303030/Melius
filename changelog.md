@@ -88,7 +88,9 @@ Running commentary of what I am planning for the next version.
 * Space Fog Be Gone
 * Trees Rescaled (VolaticWolf)
 * Unofficial Starfield Patch - USFP
+* Weapon Skin Expansion Project (WSEP) - Wasp
 * Weapon Workbench Snap Fix
+* X2357's Prime Weapon Skins - AIO
 
 ### Removed
 * ALIEN Inspired fonts
