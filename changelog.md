@@ -62,6 +62,7 @@ Running commentary of what I am planning for the next version.
 * Titanfall 2 Weapon Pack
 
 ### Added
+* 1st Person Flashlight (I can see clearly now the darkness has gone)
 * 21x9 Loading Screens
 * 3rd Person Flashlight Fix
 * aGRiNDTerraverseSandboxPatch
