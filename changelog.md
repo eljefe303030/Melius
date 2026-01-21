@@ -93,11 +93,14 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * ALIEN Inspired fonts
 * CINE FIDELITY LUTS
+* Craftable Weapon Skins - CWS
+* GC's Realistic Scope - Blur or Black Background - Repainted Crosshair - Ultrawide supported
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
 * Luxor's Galaxy 8k
 * Manual Weapon Stance
 * NAS - NATURAL and ATMOSPHERIC SPACE
+* PLAGUE'S OPTICS REIMAGINED
 * Simple Offence Suppression SFSE
 * Ship Power Allocation Fix - Revert Unwanted Power Changes
 * Starfield 21x9 Ultrawide Fix LoadingScreens
@@ -105,6 +108,7 @@ Running commentary of what I am planning for the next version.
 * Trees Rescaled
 * Varuun Spacesuit Remade
 * Vitality - Sustenance Overhaul
+* X2357's Prime Weapon Skins - NovaBlast
 
 ## Version 3.1.0 
 **Save game safe if updating from 3.0.2 or above**
@@ -168,23 +172,19 @@ Game play and visual improvements. More challenging and rewarding spaceship comb
 * Working Water Coolers
 
 ### Removed
-* Craftable Weapon Skins - CWS
 * Craft Adhesive from Vacuum Tape
 * Eyebrows Redone
 * Female Eyelashes HD
 * Flight Camera Fix
 * FOMOD Plus
-* GC's Realistic Scope - Blur or Black Background - Repainted Crosshair - Ultrawide supported
 * Interstellar Traffic
 * Lore-Friendly Starfield Loading Screens
 * Luxor's Lip Wrinkles HD
 * Luxor's Freckles HD
-* PLAGUE'S OPTICS REIMAGINED
 * Remove EXP from gameplay options (Starfield Engine Fixes does this)
 * Shattered Space Delayed Start
 * Starfield Achievement Enabler
 * Weapon Sound Fixes
-* X2357's Prime Weapon Skins - NovaBlast
 
 </details>
 
