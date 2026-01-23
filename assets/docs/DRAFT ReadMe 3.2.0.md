@@ -343,7 +343,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 ## Note for Content Creators
 
-Some of the added music in the list cannot be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend either disabling the mod PopcornTime or disabling in-game music by lowering the volume to 0% in the audio settings.
+Some of the added music in the list might not be allowed to be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend disabling in-game music by lowering the volume to 0% in the audio settings.
 
 ## Known Issues
 
