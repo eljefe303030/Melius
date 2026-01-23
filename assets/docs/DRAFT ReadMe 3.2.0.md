@@ -417,7 +417,7 @@ Re-enable and restart:
 
 Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new game after certain updates.
 
-**Updating to version 3.x from 2.x. It is required to install into a new folder, as there are significant changes.**
+**Updating to version 3.2.0 from previous versions. It is required to install into a new folder, as there are significant changes.**
 
 It is recommended that before updating to save the game whilst you are in space, doing nothing, sat in the cockpit, doing zero speed.
 
