@@ -331,7 +331,6 @@ Do not update any mods within this mod list. Reason being is that mods have been
 **Display**
 * Contrast set to 0.93 then adjust brightness to whatever value you prefer, I have mine set to 2.41.
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
-* Motion Blur - off
 * VSync - off
 * Sharpening 0%
 * Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade. 
