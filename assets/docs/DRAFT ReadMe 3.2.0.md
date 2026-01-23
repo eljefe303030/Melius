@@ -126,14 +126,14 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 4. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 > [!IMPORTANT]
-> 3. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a couple of minutes to start, this is normal.
-5. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
+> 5. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a couple of minutes to start, this is normal.
+6. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
 
 > [!IMPORTANT]
-> 6. When you first start a game the following message will be displayed saying achievements have been disabled, this is not true and achievements will still work, press the 'YES' button to continue:
+> 7. When you first start a game the following message will be displayed saying achievements have been disabled, this is not true and achievements will still work, press the 'YES' button to continue:
 > <img width="999" height="285" alt="image" src="https://github.com/user-attachments/assets/3deae6bd-2806-4313-864c-46a1d7a1fa63" />
 
-> 7. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+> 8. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
 
 ## Important mods you should know about
 
