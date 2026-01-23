@@ -121,6 +121,8 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 
 3. There are two profiles to choose from, the standard 'Melius' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\hallm\Documents\My Games\Starfield\Saves` which enables you to swicth between profiles to find the best for your hardware.
 
+   ![Profiles](https://github.com/eljefe303030/Melius/blob/0d376ae94175e81522c04af8f79bfb1994c3a4a1/assets/images/Profiles.jpg)
+
 4. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 > [!IMPORTANT]
