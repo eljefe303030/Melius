@@ -193,6 +193,8 @@ bActorCollisionMovementSync=1
 bNoPlayerHeadCameraDirection=1
 
 </details>
+
+16. [Ultra Minus - Tuned Ultra Quality INI](https://www.nexusmods.com/starfield/mods/15126) This list uses a the majority of the ini settings from this mod to increase the quality of visuals as much as possible.
     
 ## Optional Mods
 
