@@ -153,43 +153,44 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 
 <details>
   
-`bEngineLoadOptimizer=1`
-  
-`bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1`
+bEngineLoadOptimizer=1
+bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1
 
-`bGameplayOptionDisableXPModifiersBonus=1`
+bGameplayOptionDisableXPModifiersBonus=1
+bGameplayOptionDisableXPModifiersPenalty=1
 
-`bGameplayOptionDisableXPModifiersPenalty=1`
+bCanUseAnyFurnitureInZeroG=1
+bDataMenuShowGameDateAndPlanetTimescale=1
 
-`bCanUseAnyFurnitureInZeroG=1`
+bShowPlanetTemperatureInGalaxyStarMapMenu=1
 
-`bDataMenuShowGameDateAndPlanetTimescale=1`
+bUseAnyWeaponInHandscanner=1
 
-`bShowPlanetTemperatureInGalaxyStarMapMenu=1`
+bPapyrusArrayNoLimit=1
 
-`bUseAnyWeaponInHandscanner=1`
+bLoadingScreenOptions=1
 
-`bPapyrusArrayNoLimit=1`
+bPhotoModeActorsAllowNonCompanions=1
 
-`bLoadingScreenOptions=1`
+bDisableWeaponSheatheInDialogues=1
 
-`bPhotoModeActorsAllowNonCompanions=1`
+bEyeContactNPCHelloDisallowWhileSprinting=1
+bEyeContactNPCHelloDisallowWhileRunning=1
 
-`bDisableWeaponSheatheInDialogues=1`
+bFixNPCMakeupMod=1
 
-`bEyeContactNPCHello=1`
+bBA2Counter=1
+bBA2CountLog=0 (change to 1 if need to see the log)
 
-`bEyeContactNPCHelloDisallowWhileSprinting=1`
+bDynamicFlightCameraDistance=1
+iDynamicFlightCameraDistanceMinLength=20
+iDynamicFlightCameraDistanceMinWidth=20
+fDynamicFlightCameraDistanceExtraOffsetPerMeterLength=1.25
 
-`bEyeContactNPCHelloDisallowWhileRunning=1`
+bDisableForcedHomeshipChangeOnPurchase=1
 
-`bBA2Counter=1`
-
-`bBA2CountLog=0` (change to 1 if need to see the log)
-
-`bDynamicFlightCameraDistance=1`
-
-`bDisableForcedHomeshipChangeOnPurchase=1`
+bActorCollisionMovementSync=1
+bNoPlayerHeadCameraDirection=1
 
 </details>
     
