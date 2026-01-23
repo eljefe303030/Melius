@@ -351,9 +351,7 @@ Some of the added music in the list might not be allowed to be played on YouTube
 2. Using SKK Fast Start, when you start a new game, you don't have access to the landing ramp remote and the ship control menus opens, just tab out of the menu to continue **read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the item you need for this mod will need to be acquired within the game for the mod to be useable**
 3. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load and earlier save.
 4. Starting the game without fast start will produce this error message, this can safely be ignored: ![Enemies Boarding My Ship error message](https://github.com/user-attachments/assets/7d1030ee-4158-4588-ae96-632d5441d75c)
-5. The UI cannot display a 7th digit for cost, with the updated economy, some ships now cost more than 999,999 credits and therefore the last digit is not displayed. If you cannot buy a ship but seem to have enough credits, this will be why.
-6. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
-7. If you select to sleep/wait for 1 hour, it will only actually sleep/wait for a few minutes. Choose to sleep/wait for a longer period. Values of 2 or more hours will work as intended. The only way to resolve this is to revert back to the incredibly slow vanilla sleep/wait speeds, which I don't want to do!
+5. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
 
 ## Troubleshooting
 
@@ -401,11 +399,17 @@ Re-enable and restart:
 
 ## Changelog
 
-**3.1.0**
+**3.2.0**
 
-**Save game safe if updating from 3.0.2 or above**
+**Requires a new game/save**
 
-Game play and visual improvements. More challenging and rewarding spaceship combat. Balanced value of class C/M Stroud reactors, gyros and TNs supplemental reactors. New weapons and outfits.
+* Visual improvements
+* Minor bug fixes
+* Optional easier combat
+* New weapons
+* Improved gun combat
+* Additional MO2 'Performance Friendly' profile
+* Save games are now stored in `\Users\hallm\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
