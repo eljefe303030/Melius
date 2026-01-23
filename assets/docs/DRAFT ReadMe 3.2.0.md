@@ -440,9 +440,9 @@ A. This is environmental Damage, you will need to see a doctor or use nanobot in
 
 A. Not out of the box, as weapons and armours will be vastly underpowered and need balancing. However, if you reinstall the mod Serenity of Stars and choose the Watchtower patch, the balancing should be done. 
 
-**Q. All my launches and landings (along with grav jumps) are switching to cockpit (first person)? Any way to change that to 3rd person?**
+**Q. All my grav jumps are switching to cockpit (first person)? Any way to change that to 3rd person?**
 
-A. Right click the More Immersive Landings And Takeoffs mod in the left hand window, choose reinstall and change the options in the installer to what you want. For grav jumps, download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version. Finally, delete the 'shiproot.agx' file from the More Visualized Docking mod which is in the following path: `\mods\More Visualized Docking - Vanilla Enhanced & Default Speed\meshes\animtextdata\tables\graphs`.
+A. Download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version. 
 
 **Q. How do I enable enemy health bars?**
 
@@ -450,7 +450,7 @@ A. [Follow these instructions](https://github.com/eljefe303030/Melius/blob/2ea64
 
 **Q. I'm dying too easily, how do I change the difficulty?**
 
-A. Change the difficulty settings in the main game menu and/or choose a lower headshop multiplier for the Human Damage mod (currently set to x5, so choose x2).
+A. Change the difficulty settings in the main game menu and/or choose a lower headshop multiplier for the Human Damage mod (currently set to x5, so choose x2). Or read about the Better Locational Damage Mod in the Optional Mods section of this ReadMe.
 
 **Q. MO2 says there are missing masters and "the game will crash unless you install and enable the following plugins."**
 
@@ -470,7 +470,10 @@ OR change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDi
 
 **Q. How do I disable the conversation camera changes so that it uses the original system?**
 
-A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder, locate the following 2 lines and add a '#' symbol at the beginning of both lines `fDialogueCameraFailsafeFPFOV=100` `fDialogueCameraCollisionRadius=2` Save the ini file.
+A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder, locate the following 3 lines and add a '#' symbol at the beginning of both lines `fDialogueCameraFailsafeFPFOV=105`
+`fDialogueCameraPlayerDesiredDist=1.9`
+`fDialogueCameraPlayerTooCloseDist=1.6`
+Save the ini file.
 
 **Q. Can I use a controller?
 
