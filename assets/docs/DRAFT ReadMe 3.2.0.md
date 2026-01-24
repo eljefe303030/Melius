@@ -470,7 +470,7 @@ OR change the following setting within Mod Organizer 2 *Settings>Plugins>BasicDi
 
 **Q. How do I disable the conversation camera changes so that it uses the original system?**
 
-A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder, locate the following 3 lines and add a '#' symbol at the beginning of both lines `fDialogueCameraFailsafeFPFOV=105`
+A. Open the StarfieldCustom.ini file, which is located in the 'profiles' folder, locate the following 3 lines and add a '#' symbol at the beginning of the lines `fDialogueCameraFailsafeFPFOV=105`
 `fDialogueCameraPlayerDesiredDist=1.9`
 `fDialogueCameraPlayerTooCloseDist=1.6`
 Save the ini file.
