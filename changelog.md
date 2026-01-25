@@ -74,6 +74,7 @@ Running commentary of what I am planning for the next version.
 * Better Locational Damage (optional mod)
 * BMX Outpost Framework - Build with Credits Patch
 * Cosmic Growth (BlindMatter)
+* Creations Menu Fix for Font Replacers
 * Disable Distant Snow
 * Functional Reflex Sights
 * Gravity LUT (True to Life Color - ACES LUTs)
