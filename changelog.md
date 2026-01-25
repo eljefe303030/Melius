@@ -58,6 +58,7 @@ Running commentary of what I am planning for the next version.
 * Roleplayers' Alternate Start
 * Serenity of Stars - Gameplay Overhaul
 * Ship Builder Categories
+* Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * Titanfall 2 Weapon Pack
 
