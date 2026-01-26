@@ -323,7 +323,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a vehicle|
 |V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a vehicle|
 |Q|Search in the Galaxy StarMap|Starware Search Engine - SFSE| |
-|]}|Ship stealth preset|Ship Power Control Tweaks|Use before grave jumping to avoid detection on arrival|
+|]}|Ship stealth preset|Ship Power Control Tweaks|Use before grav jumping to avoid detection on arrival|
 |9|Ship combat preset|Ship Power Control Tweaks| |
 |0|Ship balanced preset|Ship Power Control Tweaks| |
 |[{|Ship escape preset|Ship Power Control Tweaks| |
