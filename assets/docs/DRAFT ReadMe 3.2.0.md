@@ -110,7 +110,7 @@ The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod 
 ### Stock Game 
 *For your information only, this step is done automatically* 
 
-Melius uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game.
+Melius uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required to install this list, as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game. If Starfield is updated on Steam, you can continue to play this list (as long as you already had it installed), without it breaking due to updates.
 
 ### Starting Mod Organizer 2
 1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
