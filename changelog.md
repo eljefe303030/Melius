@@ -79,6 +79,7 @@ Running commentary of what I am planning for the next version.
 * Breaking the Bank - Ask Once
 * Cosmic Growth (BlindMatter)
 * Creations Menu Fix for Font Replacers
+* Depleted Uranium Rounds - Visual Bug Fix
 * Disable Distant Snow
 * Functional Reflex Sights
 * Gravity LUT (True to Life Color - ACES LUTs)
