@@ -320,6 +320,13 @@ Do not update any mods within this mod list. Reason being is that mods have been
 |---|---|---|---|
 |N| Active night vision|Serenity of Stars|Need to add sendor array mod to helmets first| 
 |B|Ammo and attachment swapping|Serenity of Stars| |
+|Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a vehicle|
+|V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a vehicle|
+|Q|Search in the Galaxy StarMap|Starware Search Engine - SFSE| |
+|]}|Ship stealth preset|Ship Power Control Tweaks|Use before grave jumping to avoid detection on arrival|
+|9|Ship combat preset|Ship Power Control Tweaks| |
+|0|Ship balanced preset|Ship Power Control Tweaks| |
+|[{|Ship escape preset|Ship Power Control Tweaks| |
 
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
 * [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
