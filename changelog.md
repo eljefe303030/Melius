@@ -74,6 +74,7 @@ Running commentary of what I am planning for the next version.
 * Always Play Landing Animations (APLA)
 * AUG A3
 * Betamax's Functional Decor & Function Decor x Credits Patch
+* Better Buildable Walls and Doors
 * Better Locational Damage (optional mod)
 * BMX Outpost Framework - Build with Credits Patch
 * Breaking the Bank - Ask Once
