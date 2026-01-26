@@ -82,6 +82,8 @@ Running commentary of what I am planning for the next version.
 * Gravity LUT (True to Life Color - ACES LUTs)
 * Hide Buttons Mod Organizer 2 Plugin
 * kine's Bounty Hunter Skin Pack
+* kine's Deep Mining Skin Pack
+* kine's Navigator Skin Pack
 * kine's Shock Troop Skin Pack
 * Kezyma's Profile Sync for Mod Organizer
 * Manual Reload Papyrus Edition
@@ -97,6 +99,7 @@ Running commentary of what I am planning for the next version.
 * Unofficial Starfield Patch - USFP
 * Weapon Skin Expansion Project (WSEP) - Wasp
 * Weapon Workbench Snap Fix
+* X2357's Prime Armor Skins - AIO
 * X2357's Prime Weapon Skins - AIO
 
 ### Removed
