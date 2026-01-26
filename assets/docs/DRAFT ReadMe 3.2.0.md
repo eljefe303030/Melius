@@ -359,6 +359,9 @@ Some of the added music in the list might not be allowed to be played on YouTube
 ### Strange Visual Effects
 1. If you have strange visual effects, such as lights flickering when moving around or artifacting, reset your shader cache:
 
+Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen instructions.
+![Starfield Shader Cache Reset Tool](https://github.com/eljefe303030/Melius/blob/20e279ad065be4002094473f813fc97c8daeb9e1/assets/images/Shader_cache.jpg)
+
 <details>
    
 **AMD**
