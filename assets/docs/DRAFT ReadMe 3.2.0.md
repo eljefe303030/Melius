@@ -105,7 +105,7 @@ If there are any issues with the installation, start Wabbajack again and it will
 ### Root Builder
 *For your information only, this step is done automatically* 
 
-The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running and then removed again after exiting the game.
 
 ### Stock Game 
 *For your information only, this step is done automatically* 
