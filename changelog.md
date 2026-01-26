@@ -47,6 +47,7 @@ Running commentary of what I am planning for the next version.
 * Ship engine power defaulting to zero.
 
 ### Updated
+* Betamax's Outpost Framework
 * Changed several UI mods to their 120 FPS versions
 * Cassiopeia Papyrus Extender
 * El Jefe Combat AI
