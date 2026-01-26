@@ -423,6 +423,8 @@ If you get a message like the below, choose 'No'
 If the update has removed any mods, you'll get the following message, choose 'Yes'
 ![Content not present](https://github.com/user-attachments/assets/d66fafc1-2c54-4adf-9b72-a52b55667c1b)
 
+If you are asked to use saved or current load order, choose current.
+
 ## FAQ (Frequently Asked Questions)
 **Q. I have a yellow bit in my health bar and am unable to get full health.**
 
