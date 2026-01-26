@@ -320,8 +320,9 @@ Do not update any mods within this mod list. Reason being is that mods have been
 |---|---|---|---|
 |N| Active night vision|Serenity of Stars|Need to add sendor array mod to helmets first| 
 |B|Ammo and attachment swapping|Serenity of Stars| |
-|Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a vehicle|
-|V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a vehicle|
+|Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
+|V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a land vehicle|
+|Ctrl|Handbrake|No Vehicle Auto Handbrake - SFSE|Whilst driving a land vehicle
 |Q|Search in the Galaxy StarMap|Starware Search Engine - SFSE| |
 |]}|Ship stealth preset|Ship Power Control Tweaks|Use before grav jumping to avoid detection on arrival|
 |9|Ship combat preset|Ship Power Control Tweaks| |
