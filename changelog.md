@@ -89,6 +89,7 @@ Running commentary of what I am planning for the next version.
 * Scopes Without Overlays
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
+* Starfield Shader Cache Reset
 * Trees Rescaled (VolaticWolf)
 * Ultra Minus - Tuned Ultra Quality INI
 * Unofficial Starfield Patch - USFP
