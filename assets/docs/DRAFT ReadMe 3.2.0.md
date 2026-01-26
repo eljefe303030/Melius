@@ -487,7 +487,7 @@ Save the ini file.
 
 **Q. Can I use a controller?**
 
-A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands.
+A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands, such as the reload key `R`.
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
