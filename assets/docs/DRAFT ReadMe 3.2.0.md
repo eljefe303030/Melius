@@ -317,7 +317,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 ### Additional Key Commands
 
 |Key|Action|Related Mod|Comments|
------
+|-----|---|---|---|
 |N| Active night vision| Serenity of Stars|Need to add sendor array mod to helmets first| 
 
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
