@@ -34,6 +34,7 @@ Running commentary of what I am planning for the next version.
 * Optional easier combat
 * New weapons
 * Improved gun combat
+* Added option to enable TN's version of Place Doors Yourself
 * Additional MO2 'Performance Friendly' profile
 * Save games are now stored in `\Users\hallm\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
 
