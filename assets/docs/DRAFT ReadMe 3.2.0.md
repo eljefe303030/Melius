@@ -314,6 +314,12 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 ## Gameplay Guide
 
+### Additional Key Commands
+
+|Key|Action|Related Mod|Comments|
+-----
+|N| Active night vision| Serenity of Stars|Need to add sendor array mod to helmets first| 
+
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
 * [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
 * [Auto Hide HUD and Widgets - SFSE](https://www.nexusmods.com/starfield/mods/8946) The Hud and Widgets are automatically hidden when not needed. See the mod's page for details on how you can change the behaviour of this mod.
