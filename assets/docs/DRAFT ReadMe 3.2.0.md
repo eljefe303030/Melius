@@ -394,6 +394,9 @@ Some of the added music in the list might not be allowed to be played on YouTube
 
 ## Troubleshooting
 
+### Huge Frame Drops when pressing Esc or Tab key
+1. If you have an Nvidia card, try choosing DLSS preset K. If that doesn't fix it, disable frame gen.
+
 ### Strange Visual Effects
 1. If you have strange visual effects, such as lights flickering when moving around or artifacting, reset your shader cache:
 
