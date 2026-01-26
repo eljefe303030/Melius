@@ -362,40 +362,6 @@ Some of the added music in the list might not be allowed to be played on YouTube
 Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen instructions.
 ![Starfield Shader Cache Reset Tool](https://github.com/eljefe303030/Melius/blob/20e279ad065be4002094473f813fc97c8daeb9e1/assets/images/Shader_cache.jpg)
 
-<details>
-   
-**AMD**
-* Open AMD Software: Right-click on your desktop and select "AMD Software: Adrenalin Edition" or open it from the Start menu. 
-* Navigate to Graphics Settings: Click the Gaming tab at the top, then select the Graphics subtab. 
-* Find the Reset Option: Scroll all the way to the bottom of the graphics settings page. 
-* Perform the Reset: Locate the Reset Shader Cache option and click the Perform Reset button next to it. 
-* Confirm: Click OK when prompted to confirm the action.
-
-**Nvidia**
-Disable the cache: 
-* Open the NVIDIA Control Panel, go to Manage 3D Settings > Global Settings. 
-* Scroll down and find Shader Cache Size, then change the setting from the dropdown menu to Disabled. 
-* Click Apply and close the NVIDIA Control Panel.
-  
-Delete the cache files: 
-* Press Windows Key + R to open the Run dialog. 
-* Type %USERPROFILE%\\AppData\\Local\\ and press Enter. 
-* Open the NVIDIA folder, then open the GLCache folder and delete all the files and folders inside. 
-* Go back to the %USERPROFILE%\\AppData\\Local\\ folder. 
-* Find and open the NVIDIA Corporation folder. 
-* Open the NV_Cache folder and delete all its contents. 
-* Next, open the Run dialog again (Windows Key + R) and type %LOCALAPPDATA% (or just %APPDATA%) and press Enter. 
-* Go to Local > NVIDIA > DXCache. 
-* Delete all files inside the DXCache folder.
-  
-Re-enable and restart: 
-* Open the NVIDIA Control Panel again. 
-* Go to Manage 3D Settings > Global Settings. 
-* Set Shader Cache Size back to its desired setting (or you can re-enable it). 
-* Click Apply and then restart your PC. 
-
-</details>
-
 ### Things generally not working and error messages
 
 1. Check your antivirus program's log to make sure it's not affecting the list and exclude the list's folder if needed.
