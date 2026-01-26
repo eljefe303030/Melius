@@ -76,6 +76,7 @@ Running commentary of what I am planning for the next version.
 * Betamax's Functional Decor & Function Decor x Credits Patch
 * Better Locational Damage (optional mod)
 * BMX Outpost Framework - Build with Credits Patch
+* Breaking the Bank - Ask Once
 * Cosmic Growth (BlindMatter)
 * Creations Menu Fix for Font Replacers
 * Disable Distant Snow
