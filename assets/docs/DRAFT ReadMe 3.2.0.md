@@ -35,6 +35,7 @@
   * [Manual Installations](#manual-installations)
   * [Modifications to the modlist](#modifications-to-the-modlist)
 * [Gameplay Guide](#gameplay-guide)
+  * [Additional Key Commands](#additional-key-commands) 
 * [Recommended Settings](#recommended-settings)
 * [Note for Content Creators](note-for-content-creators)
 * [Known Issues](#known-issues)
