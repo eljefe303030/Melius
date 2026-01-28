@@ -64,6 +64,7 @@ Running commentary of what I am planning for the next version.
 * Starfield Engine Fixes - SFSE
 * Stay in Your Space
 * Titanfall 2 Weapon Pack
+* Winds of Akila
 
 ### Added
 * 1st Person Flashlight (I can see clearly now the darkness has gone)
