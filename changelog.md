@@ -81,7 +81,6 @@ Running commentary of what I am planning for the next version.
 * BMX Outpost Framework - Build with Credits Patch
 * Breaking the Bank - Ask Once
 * Cosmic Growth (BlindMatter)
-* Creations Menu Fix for Font Replacers
 * Depleted Uranium Rounds - Visual Bug Fix
 * Disable Distant Snow
 * Functional Reflex Sights
@@ -89,13 +88,17 @@ Running commentary of what I am planning for the next version.
 * Hide Buttons Mod Organizer 2 Plugin
 * kine's Bounty Hunter Skin Pack
 * kine's Deep Mining Skin Pack
+* kine's Ground Crew Skin Pack
 * kine's Navigator Skin Pack
 * kine's Shock Troop Skin Pack
 * Kezyma's Profile Sync for Mod Organizer
 * Manual Reload Papyrus Edition
+* More Consoles And DJ Booth
+* Nem's Deco Pack
 * Peak Performance - Minimalist Needs
 * Praedy's SF lava re-texture
 * Praedy's SF Milky Way re-texture
+* rbtFONTS - Modern Replacer Collection
 * Scopes Without Overlays
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
@@ -125,6 +128,7 @@ Running commentary of what I am planning for the next version.
 * Simple Offence Suppression SFSE
 * Starfield 21x9 Ultrawide Fix LoadingScreens
 * Starfield Community Patch (SFCP)
+* Starfield String Sharpener - A Font Overhaul
 * Trees Rescaled
 * Varuun Spacesuit Remade
 * Vitality - Sustenance Overhaul
