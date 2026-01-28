@@ -121,7 +121,6 @@ Running commentary of what I am planning for the next version.
 * PLAGUE'S OPTICS REIMAGINED
 * SavrenX HD NPC Optimized
 * Simple Offence Suppression SFSE
-* Ship Power Allocation Fix - Revert Unwanted Power Changes
 * Starfield 21x9 Ultrawide Fix LoadingScreens
 * Starfield Community Patch (SFCP)
 * Trees Rescaled
