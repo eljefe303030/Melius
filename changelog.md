@@ -62,6 +62,7 @@ Running commentary of what I am planning for the next version.
 * Ship Builder Categories
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
+* Stay in Your Space
 * Titanfall 2 Weapon Pack
 
 ### Added
