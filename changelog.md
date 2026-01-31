@@ -48,16 +48,23 @@ Running commentary of what I am planning for the next version.
 * Ship engine power defaulting to zero.
 
 ### Updated
+* AKM
+* Alpha AK
 * Betamax's Outpost Framework
 * Changed several UI mods to their 120 FPS versions
 * Cassiopeia Papyrus Extender
 * El Jefe Combat AI
 * El Jefe Space Combat AI
+* FN SCAR - MK17
+* Functional Reflex Sights
+* Manual Reload Papyrus Edition
 * Melius ReShade
 * New Workbenches Essential Framework NWEF - Serenity of Stars - patch
 * Preview Spaceship Interior
+* Real O2
 * Revelation - Main Quest Overhaul
 * Roleplayers' Alternate Start
+* Scopes Without Overlays
 * Serenity of Stars - Gameplay Overhaul
 * Ship Builder Categories
 * Spacefaring Economy
