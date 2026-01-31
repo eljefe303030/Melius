@@ -50,6 +50,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * AKM
 * Alpha AK
+* AUG A3
 * Betamax's Outpost Framework
 * Changed several UI mods to their 120 FPS versions
 * Cassiopeia Papyrus Extender
