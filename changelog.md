@@ -131,18 +131,24 @@ Running commentary of what I am planning for the next version.
 * CINE FIDELITY LUTS
 * Craftable Weapon Skins - CWS
 * GC's Realistic Scope - Blur or Black Background - Repainted Crosshair - Ultrawide supported
+* Heart of Cydonia
 * Human Activity on Earth - Man-made Points of Interest
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
 * Luxor's Galaxy 8k
 * Manual Weapon Stance
 * NAS - NATURAL and ATMOSPHERIC SPACE
+* New Atlantis Awaits
+* Paradiso Evolved
 * PLAGUE'S OPTICS REIMAGINED
+* Positively New Atlantis
 * SavrenX HD NPC Optimized
 * Simple Offence Suppression SFSE
 * Starfield 21x9 Ultrawide Fix LoadingScreens
 * Starfield Community Patch (SFCP)
 * Starfield String Sharpener - A Font Overhaul
+* The Lodge Improved
+* The Well Enhanced
 * Trees Rescaled
 * Varuun Spacesuit Remade
 * Vitality - Sustenance Overhaul
