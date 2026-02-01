@@ -117,6 +117,7 @@ Running commentary of what I am planning for the next version.
 * Simple Usable Ship Ramps
 * Space Fog Be Gone
 * Starfield Shader Cache Reset
+* TN's Earth's Biomes
 * Trackers Alliance - Fight Or Flight
 * Trackers Primer Magazine Cover Fix
 * Trees Rescaled (VolaticWolf)
