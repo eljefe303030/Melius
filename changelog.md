@@ -52,8 +52,8 @@ Running commentary of what I am planning for the next version.
 * Alpha AK
 * AUG A3
 * Betamax's Outpost Framework
-* Changed several UI mods to their 120 FPS versions
 * Cassiopeia Papyrus Extender
+* Changed several UI mods to their 120 FPS versions
 * El Jefe Combat AI
 * El Jefe Space Combat AI
 * FN SCAR - MK17
@@ -88,6 +88,10 @@ Running commentary of what I am planning for the next version.
 * Better Locational Damage (optional mod)
 * BMX Outpost Framework - Build with Credits Patch
 * Breaking the Bank - Ask Once
+* Chrome Energy Weapon Skins (craftable)
+* Chrome Heavy Weapon Skins (craftable)
+* Chrome Pistol Skins (craftable)
+* Chrome Shotguns and Melee Weapon Skins (craftable)
 * Cosmic Growth (BlindMatter)
 * Depleted Uranium Rounds - Visual Bug Fix
 * Disable Distant Snow
