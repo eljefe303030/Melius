@@ -152,6 +152,7 @@ Running commentary of what I am planning for the next version.
 * Trees Rescaled
 * Varuun Spacesuit Remade
 * Vitality - Sustenance Overhaul
+* Winds of Cydonia
 * X2357's Prime Weapon Skins - NovaBlast
 
 ## Version 3.1.0 
