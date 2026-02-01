@@ -37,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * Added option to enable TN's version of Place Doors Yourself
 * Additional MO2 'Performance Friendly' profile
 * Save games are now stored in `\Users\hallm\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
+* Removed some city overhaul mods due to conflicts with other mods. I will work on adding city overhauls in a future release.
 
 ### Fixed
 * 3rd person view of spaceship being too close
