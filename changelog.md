@@ -107,6 +107,7 @@ Running commentary of what I am planning for the next version.
 * Manual Reload Papyrus Edition
 * More Consoles And DJ Booth
 * Nem's Deco Pack
+* TN's Earth's Biomes
 * Peak Performance - Minimalist Needs
 * Praedy's SF lava re-texture
 * Praedy's SF Milky Way re-texture
@@ -130,6 +131,7 @@ Running commentary of what I am planning for the next version.
 * CINE FIDELITY LUTS
 * Craftable Weapon Skins - CWS
 * GC's Realistic Scope - Blur or Black Background - Repainted Crosshair - Ultrawide supported
+* Human Activity on Earth - Man-made Points of Interest
 * Immersive Landing Ramps
 * Landing Animation Reloaded (LAR)
 * Luxor's Galaxy 8k
