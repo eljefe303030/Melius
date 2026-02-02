@@ -60,7 +60,7 @@ Combat is much more challenging than vanilla Starfield. Headshots are more deadl
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-3)
 
 ## Requirements
-* I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preser provides the best experience for me, much better than FSR (go figure!).
+* I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
 * You need the latest Steam version (1.15.222) of the game and the Shattered Space DLC.
@@ -378,7 +378,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * VSync - off
 * Sharpening 0%
-* Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade. 
+* Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade.
+  * Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).   
 * Film Grain Intensity set to zero
 
 **Enabling Enemy Healthbars**
