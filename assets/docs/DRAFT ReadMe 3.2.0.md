@@ -120,7 +120,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
    ![Premium Edition files1](https://github.com/user-attachments/assets/8f32cb9c-7b39-4df2-9f65-0f3a92d333a0)
    ![Premium Edition files2](https://github.com/user-attachments/assets/d0829801-533a-4e1e-8111-26b78fa91300)
 
-3. There are two profiles to choose from, the standard 'Melius' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\hallm\Documents\My Games\Starfield\Saves` which enables you to swicth between profiles to find the best for your hardware.
+3. There are two profiles to choose from, the standard 'Melius' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\hallm\Documents\My Games\Starfield\Saves` which enables you to switch between profiles to find the best for your hardware.
 
    ![Profiles](https://github.com/eljefe303030/Melius/blob/0d376ae94175e81522c04af8f79bfb1994c3a4a1/assets/images/Profiles.jpg)
 
@@ -278,7 +278,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 
 **43.1 OUTPOST BUILDING**
 1. [Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890) Allows you to build most outpost/ship objects with credits instead of resources.
-2. [BMX Outpost Framework - Build with Credits Patch](https://www.nexusmods.com/starfield/mods/13896) Inlcudes items added in the BMX Outpost Framework to also to be built with credits instead of resources.
+2. [BMX Outpost Framework - Build with Credits Patch](https://www.nexusmods.com/starfield/mods/13896) Includes items added in the BMX Outpost Framework to also to be built with credits instead of resources.
 3. Patches for the above two mods to include more items.
 
 **44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
@@ -288,7 +288,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 4. [TNShipModsAllInOne_NO_PDY_Patch](https://www.nexusmods.com/starfield/mods/6376) Disable this patch if you want to enable TN's version of place doors yourself, which can be found in the 'Utility' category of the Ship Builder. Use with caution, make a save before making alterations to your ship's doors/ladders.
 
 **49.1 GENERAL COMBAT**
-1. [Better Locational Damage](https://www.nexusmods.com/starfield/mods/132860) Adds a mechanic that means a well-placed shot can be deadly. If an enemy isn’t wearing a helmet, a single shot to the head will kill them swiftly and painlessly. Use this mod to make headshots to you produce vanilla levels of damage i.e. you won't die as quickly if on the receiving end of a headshot. **if using, enable the 'Better Locational Damage - Human Damage - Patch' mod too**. **This mod can be enabled mid save but it is recommened to not disable the mod mid save, as redundant scripts can be baked into your save and cause issues, instead if you want to test this on an existing save, do so and then return to the save you made before adding this mod if you want to remove it.**
+1. [Better Locational Damage](https://www.nexusmods.com/starfield/mods/132860) Adds a mechanic that means a well-placed shot can be deadly. If an enemy isn’t wearing a helmet, a single shot to the head will kill them swiftly and painlessly. Use this mod to make headshots to you produce vanilla levels of damage i.e. you won't die as quickly if on the receiving end of a headshot. **if using, enable the 'Better Locational Damage - Human Damage - Patch' mod too**. **This mod can be enabled mid save but it is recommended to not disable the mod mid save, as redundant scripts can be baked into your save and cause issues, instead if you want to test this on an existing save, do so and then return to the save you made before adding this mod if you want to remove it.**
 2. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned, deserted, forgotten places are doubled.
 3. El Jefe Combat AI Stealth Patch. Enabling this will make stealth play more viable but will reduce enemy awareness and therefore make the game easier and less realistic.
 4. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Gorefield gives you a set of gameplay options that allow you to turn on special gory death effects for NPCs. **Recommended to disable the headshot feature of this mod, in the gameplay settings, if using with the mod Better Locational Damage**.
@@ -302,7 +302,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 > [!IMPORTANT]
 > Select only one alternative start mod.
 >1. [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094) An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits. **Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk.**
->2. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pops up, tab to close this and continue.**
+>2. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pop up, tab to close this and continue.**
 
 **72 TOOLS**
 1. [Starfield Shader Cache Reset](https://www.nexusmods.com/starfield/mods/15632) Starfield Shader Cache Reset Tool – safely clears all known shader caches, including pipeline.cache. Use if you have stutters, black textures, and other graphical issues. **[Instructions to use](#strange-visual-effects)**
@@ -324,7 +324,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
-|N| Active night vision|Serenity of Stars|Need to add sendor array mod to helmets first| 
+|N| Active night vision|Serenity of Stars|Need to add sensor array mod to helmets first| 
 |B|Ammo and attachment swapping|Serenity of Stars| |
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
 |V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a land vehicle|
