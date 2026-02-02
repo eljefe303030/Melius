@@ -423,6 +423,7 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 * Improved gun combat
 * Additional MO2 'Performance Friendly' profile
 * Save games are now stored in `\Users\hallm\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
+* Removed some city overhaul mods due to conflicts with other mods. I will work on adding city overhauls in a future release.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
