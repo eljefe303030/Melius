@@ -306,7 +306,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 
 **72 TOOLS**
 1. [Starfield Shader Cache Reset](https://www.nexusmods.com/starfield/mods/15632) Starfield Shader Cache Reset Tool – safely clears all known shader caches, including pipeline.cache. Use if you have stutters, black textures, and other graphical issues. **[Instructions to use](#strange-visual-effects)**
-2. [Ultra Minus - Tuned Ultra Quality INI](https://www.nexusmods.com/starfield/mods/15126) source files that the ini settings used in this list are based on. If you want to use the settings from this mod, follow the instructions on it's Nexus page. **you do not need to enable this unless you want to manually tweak the ini files, only use if you know what you are doing**
+2. [Ultra Minus - Tuned Ultra Quality INI](https://www.nexusmods.com/starfield/mods/15126) source files that the ini settings used in this list are based on. If you want to use the settings from this mod, follow the instructions on it's Nexus page. **You do not need to enable this unless you want to manually tweak the ini files, only use if you know what you are doing!**
 
 </details>
   
