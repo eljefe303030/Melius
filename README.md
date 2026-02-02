@@ -129,8 +129,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 > 5. When you first start a game the following message will be displayed saying achievements have been disabled, this is not true and achievements will still work, press the 'YES' button to continue:
 > <img width="999" height="285" alt="image" src="https://github.com/user-attachments/assets/3deae6bd-2806-4313-864c-46a1d7a1fa63" />
 
-
-> 6. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+6. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
 
 ## Important mods you should know about
 
