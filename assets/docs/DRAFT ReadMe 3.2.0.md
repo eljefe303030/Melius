@@ -361,7 +361,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Other settings:
 ![Settings4](https://github.com/user-attachments/assets/379013e3-e7b1-45b3-9b97-7378f2545912)
 
-Change this to simulated if you disable Real Fuel.
+    * Change this to simulated if you disable Real Fuel.
 
 * Other recommended settings but be aware these will make the game much more challenging and rewarding:
 ![Settings1](https://github.com/user-attachments/assets/c91a2c9f-99a5-46ee-aba2-bdf30dfa07dc)
