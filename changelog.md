@@ -72,6 +72,7 @@ Running commentary of what I am planning for the next version.
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * Stay in Your Space
+* Supply Mission Fix
 * Titanfall 2 Weapon Pack
 * Winds of Akila
 
