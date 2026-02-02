@@ -95,6 +95,8 @@ Running commentary of what I am planning for the next version.
 * Chrome Pistol Skins (craftable)
 * Chrome Shotguns and Melee Weapon Skins (craftable)
 * Cosmic Growth (BlindMatter)
+* Crimson Fleet - Less Fleet More Heat
+* Dark Universe Overtime patch Selective Assignments
 * Depleted Uranium Rounds - Visual Bug Fix
 * Disable Distant Snow
 * Functional Reflex Sights
@@ -103,8 +105,10 @@ Running commentary of what I am planning for the next version.
 * kine's Bounty Hunter Skin Pack
 * kine's Deep Mining Skin Pack
 * kine's Ground Crew Skin Pack
+* kine's Mercenary Skin Pack
 * kine's Navigator Skin Pack
 * kine's Shock Troop Skin Pack
+* kine's Star Roamer Skin Pack
 * Kezyma's Profile Sync for Mod Organizer
 * Manual Reload Papyrus Edition
 * More Consoles And DJ Booth
