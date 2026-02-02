@@ -98,7 +98,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 9. Choose the Mod Installation Location and Downloads Location paths you set earlier for the installation and mod download folders.
 10. Click the **Install** button to start the installation.
 11. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
-12. Once completed, it's installed.
+12. Once completed, it's installed. **It will take a while to install, check your Task Manager to check it is using the CPU or Disk before assuming it has crashed/hung.**
 
 If there are any issues with the installation, including any "Download failed" messages, press the 'retry' button or start Wabbajack again and it will continue from where it left off.
 
