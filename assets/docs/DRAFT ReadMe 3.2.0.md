@@ -235,7 +235,8 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 2. [Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606) SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory. **note, some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.**
 3. [Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks. **enabled by default**
 4. [Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight.
-5. [Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Ini provided to change settings, see mod page for more details.
+5. [Native Ultrawide Menus - SFSE - Resource](https://www.nexusmods.com/starfield/mods/9410) **The Creations menu is not functional while having this mod active (buttons are misaligned)**
+6. [Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Ini provided to change settings, see mod page for more details.
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
 1. [Commitment](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. Locks you out of other factions based on your decisions. Enable all 3 commitment mods. **needs to be enabled before starting your game or before NG+**
@@ -268,19 +269,17 @@ Selection of Ultra Widescreen mods for menu and loading screens
 
 **22.1 MESHES & TEXTURES - FX**
 1. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) Alternative flashlight that has a brighter beam.
-2. [1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890) enable this if you want a wider flashlight beam.
+2. [1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890) enable this if you want a wider flashlight beam. **enabled by default**
 3. [3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740) Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS) **this will overwrite the 1st person flashlight mods**
 
 **34.1 IMMERSION**
 1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
 2. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
 
-**40.1 FIXED AREA EDITS - CITIES & TOWNS & SETTLEMENTS**
-1. a selection of mods that add a significant amount of visual improvements to New Atlantis, includes New Atlantis Awaits, Positivity New Atlantis and related patches. *some users have reported drops in frame rates and infinite loading screens in New Atlantis when using these mods, I myself haven't and highly recommend these mods*
-
 **43.1 OUTPOST BUILDING**
 1. [Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890) Allows you to build most outpost/ship objects with credits instead of resources.
 2. [BMX Outpost Framework - Build with Credits Patch](https://www.nexusmods.com/starfield/mods/13896) Inlcudes items added in the BMX Outpost Framework to also to be built with credits instead of resources.
+3. Patches for the above two mods to include more items.
 
 **44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
 1. [Astrogate](https://www.nexusmods.com/starfield/mods/9363) Immersive way to fly ships between systems and planets. Choice of FTL and Autopilot. Enable the two related files for best experience. *Read the descriptions of the settings in the main game menu, as some settings have the potential to prevent some quests from starting.* Recommended that you disable the following mods if using this; More Immersive Landings And Takeoffs & More Visualized Docking - Vanilla Enhanced & Default Speed
@@ -291,9 +290,10 @@ Selection of Ultra Widescreen mods for menu and loading screens
 **49.1 GENERAL COMBAT**
 1. [Better Locational Damage](https://www.nexusmods.com/starfield/mods/132860) Adds a mechanic that means a well-placed shot can be deadly. If an enemy isn’t wearing a helmet, a single shot to the head will kill them swiftly and painlessly. Use this mod to make headshots to you produce vanilla levels of damage i.e. you won't die as quickly if on the receiving end of a headshot. **if using, enable the 'Better Locational Damage - Human Damage - Patch' mod too**. **This mod can be enabled mid save but it is recommened to not disable the mod mid save, as redundant scripts can be baked into your save and cause issues, instead if you want to test this on an existing save, do so and then return to the save you made before adding this mod if you want to remove it.**
 2. [Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030) enemy numbers in most abandoned, deserted, forgotten places are doubled.
-3. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Gorefield gives you a set of gameplay options that allow you to turn on special gory death effects for NPCs. **Recommended to disable the headshot feature of this mod, in the gameplay settings, if using with the mod Better Locational Damage**.
-4. [Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603) choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.
-5. [Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096) Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you. **enabled by default**
+3. El Jefe Combat AI Stealth Patch. Enabling this will make stealth play more viable but will reduce enemy awareness and therefore make the game easier and less realistic.
+4. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Gorefield gives you a set of gameplay options that allow you to turn on special gory death effects for NPCs. **Recommended to disable the headshot feature of this mod, in the gameplay settings, if using with the mod Better Locational Damage**.
+5. [Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603) choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.
+6. [Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096) Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you. **enabled by default**
 
 **58.1 BEAUTY & APPEARANCE**
 1. [NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466) A mod that realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Included patch that fix an issue if playing with a female character, in third person and when aiming down sights, as well as [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) that disables automatic rescaling of characters on interaction with furniture and terminals so they don't visibly shrink/grow when sitting, standing, operating computers/workstations, etc. **characters can clip furniture when using this mod e.g. when sitting or leaning at desks.**
@@ -303,6 +303,9 @@ Selection of Ultra Widescreen mods for menu and loading screens
 > Select only one alternative start mod.
 >1. [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094) An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits. **Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk.**
 >2. [SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971) Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices. **When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). If you use this mod, read the mod page for [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093) as the items you need for this mod will need to be acquired within the game for the mod to be useable. Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pops up, tab to close this and continue.**
+
+**72 TOOLS**
+[Starfield Shader Cache Reset] Starfield Shader Cache Reset Tool – safely clears all known shader caches, including pipeline.cache. Use if you have stutters, black textures, and other graphical issues. **[see this section for instructions](#strange-visual-effects)
 
 </details>
   
