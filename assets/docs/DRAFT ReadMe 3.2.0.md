@@ -357,7 +357,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 # Recommended Settings
 **Gameplay Options**
-* Damage options - if you are finding it difficult, reduce the damage for a while until you gain better equipment/gain perks
+* Damage options - if you are finding it difficult, reduce the damage for a while until, you gain better equipment/gain perks
 * Other settings:
 ![Settings4](https://github.com/user-attachments/assets/379013e3-e7b1-45b3-9b97-7378f2545912)
 
