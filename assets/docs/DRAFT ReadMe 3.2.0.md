@@ -389,8 +389,6 @@ Some of the added music in the list might not be allowed to be played on YouTube
 1. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping/missing body parts in both the preview and in game views. Choose a different combination of outfits if this occurs.
 2. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load an earlier save.
 3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
-4. Some of the new weapons do not yet have a patch for the Scopes Without Overlays mod. These will be added before the full release of 3.2.0.
-5. The Old Hunting Rifle scopes are invisible. This will be patched before the full release of 3.2.0.
 
 ## Troubleshooting
 
