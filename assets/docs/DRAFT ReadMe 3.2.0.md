@@ -60,7 +60,7 @@ Combat is much more challenging than vanilla Starfield. Headshots are more deadl
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-3)
 
 ## Requirements
-* I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally I find playing without frame generation provides the best experience for me.
+* I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preser provides the best experience for me, much better than FSR (go figure!).
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
 * You need the latest Steam version (1.15.222) of the game and the Shattered Space DLC.
