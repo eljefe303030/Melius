@@ -218,6 +218,7 @@ bDisableForcedHomeshipChangeOnPurchase=1
 
 bActorCollisionMovementSync=1
 
+bNoRandomIdlesDuringDialogues=1
 bNoPlayerHeadCameraDirection=1
 
 </details>
