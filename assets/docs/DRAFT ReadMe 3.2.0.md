@@ -135,6 +135,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 > <img width="999" height="285" alt="image" src="https://github.com/user-attachments/assets/3deae6bd-2806-4313-864c-46a1d7a1fa63" />
 
 8. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+9. The recommended game settings have already been selected for you. See the [Recommended Settings](#recommended-settings) section for more details.
 
 ## Important mods you should know about
 
