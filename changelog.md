@@ -40,6 +40,7 @@ Running commentary of what I am planning for the next version.
 * Removed some city overhaul mods due to conflicts with other mods. I will work on adding city overhauls in a future release.
 
 ### Fixed
+* O2 drain/asphyxiation when holding breath that caused death
 * 3rd person view of spaceship being too close
 * 3rd person flashlight not following aiming down sight
 * Mk3 Mantis Backpack incorrectly causing player to become incorrectly over encumbered.
