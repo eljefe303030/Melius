@@ -363,7 +363,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
     * Change this to simulated if you disable Real Fuel.
 
-* Other recommended settings but be aware these will make the game much more challenging and rewarding:
+* The following other recommended settings are already selected but be aware these will make the game much more challenging and rewarding, you can change if you are finding the game too hard:
 ![Settings1](https://github.com/user-attachments/assets/c91a2c9f-99a5-46ee-aba2-bdf30dfa07dc)
 ![Settings2](https://github.com/user-attachments/assets/998889e4-5cb0-4e72-a47e-9007c9c662e0)
 ![Settings3](https://github.com/user-attachments/assets/a2539e0d-ff88-41c5-944b-ed4bcd6f5b34)
