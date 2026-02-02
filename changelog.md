@@ -128,6 +128,7 @@ Running commentary of what I am planning for the next version.
 * Trees Rescaled (VolaticWolf)
 * Ultra Minus - Tuned Ultra Quality INI
 * Unofficial Starfield Patch - USFP
+* Upscaling Fix 2 - FSR - DLSS - XeSS
 * Weapon Skin Expansion Project (WSEP) - Wasp
 * Weapon Workbench Snap Fix
 * X2357's Prime Armor Skins - AIO
