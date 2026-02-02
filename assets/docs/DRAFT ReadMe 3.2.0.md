@@ -360,8 +360,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * Damage options - if you are finding it difficult, reduce the damage for a while until you gain better equipment/gain perks
 * Other settings:
 ![Settings4](https://github.com/user-attachments/assets/379013e3-e7b1-45b3-9b97-7378f2545912)
-![Settings5](https://github.com/user-attachments/assets/1b4d85e2-b241-4c83-b638-4e2665179168)
-![Settings6](https://github.com/user-attachments/assets/7769bf04-a223-4e15-ac08-f0b7f8e4103c)
+Change this to simulated if you disable Real Fuel.
 
 * Other recommended settings but be aware these will make the game much more challenging and rewarding:
 ![Settings1](https://github.com/user-attachments/assets/c91a2c9f-99a5-46ee-aba2-bdf30dfa07dc)
