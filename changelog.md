@@ -113,6 +113,7 @@ Running commentary of what I am planning for the next version.
 * Kezyma's Profile Sync for Mod Organizer
 * Manual Reload Papyrus Edition
 * More Consoles And DJ Booth
+* More Lore - Nova Galactic Staryard
 * Nem's Deco Pack
 * TN's Earth's Biomes
 * Peak Performance - Minimalist Needs
