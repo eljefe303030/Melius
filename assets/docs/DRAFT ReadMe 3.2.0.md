@@ -350,7 +350,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 * [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming. Headshot multiplier is set to x10 which means headshots are deadly for you and most enemies, some bosses might take 2 or 3 headshots to kill them. If you want to change this, choose a different multiplier from the 49.1 GENERAL COMBAT - OPTIONAL section.
 * [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show stealth meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds. Press 'q' in the starmap to use.
-* [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) overhauls the gameplay in many ways. Additional control keys - Sensor Array mod for helmets adds Night Vision. The default key to activate is "N". There is a new menu to swap attachments (ammo, muzzle, scope and firing mode) without the need of a workbench. The default key to bring up the menu is "B". This mod does not show enemy health bars unless you are in the handscanner mode.
+* [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) overhauls the gameplay in many ways. Additional control keys - Sensor Array mod for helmets adds Night Vision. The default key to activate is "N". There is a new menu to swap attachments (ammo, muzzle, scope and firing mode) without the need of a workbench. The default key to bring up the menu is "B". 
 * [Fast Spacesuit Deployment Kit](https://www.nexusmods.com/starfield/mods/8229) This mod gives you a toolkit that can be called from the Favorite menu, and automatically equip/unequip your current spacesuit. Whether to wear a spacesuit and helmet, now is your call. To use, go straight to Laredo Firearms located at the Akila City, on the front counter, you can see the Fast Spacesuit Deployment Kit. Pick it up (the vendor also sells it), in your inventory, go to the Aid category, and add it to one of your Favorite slots. Whenever you press that hotkey, it will equip/unequip your current spacesuit. If you are wearing a spacesuit, it will remember them when unequipping, so the next time you use the item, it will equip back exactly the last spacesuits you had in your inventory. Nothing will happen if you are not wearing spacesuits or you take the spacesuit out of your inventory after the last unequipping.
 * [Change Your Outfit](https://www.nexusmods.com/starfield/mods/14484) This mod transforms mannequins into fully interactive outfit stations. Instead of just displaying what you’ve stored, you can swap outfits with mannequins on the fly—perfect for players who roleplay different moods, story arcs, or faction allegiances and want to change their look instantly, immersively.
 * [Leave No Witnesses](https://www.nexusmods.com/starfield/mods/12000) This mod removes the 30-second time limit and tracks all crimes you commit against ships, so that it is now possible to commit piracy or outright murder against ships in space and suffer no bounty - as long as you leave no witnesses.
@@ -386,7 +386,7 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 **Enabling Enemy Healthbars**
 
-[This guide by AldmerExile takes you step by step through the process](https://github.com/eljefe303030/Melius/blob/2ea64e7bb2c0a5a58bcf5ef94bcf7e18112571d3/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius)v2.pdf).
+Enable these and other UI elements that have been disabled by using [StarUI Configuator](https://www.nexusmods.com/starfield/mods/5467), which is already installed as part of this list.
 
 ## Note for Content Creators
 
@@ -467,7 +467,7 @@ A. Download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmo
 
 **Q. How do I enable enemy health bars?**
 
-A. [Follow these instructions](https://github.com/eljefe303030/Melius/blob/2ea64e7bb2c0a5a58bcf5ef94bcf7e18112571d3/assets/docs/Enabling%20Enemy%20Healthbars%20(Melius)v2.pdf).
+A. Enable these and other UI elements that have been disabled by using [StarUI Configuator](https://www.nexusmods.com/starfield/mods/5467), which is already installed as part of this list..
 
 **Q. I'm dying too easily, how do I change the difficulty?**
 
