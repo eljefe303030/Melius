@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 3.2.0 (released 06/02/2026)](#version-320)
 * [Version 3.1.0 (released 27/11/2025)](#version-310)
 * [Version 3.0.5 (released 16/10/2025)](#version-305)
 * [Version 3.0.4 (released 14/10/2025)](#version-304)
@@ -29,6 +30,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 3.2.0 
+**Requires a new game/save**
+
 * Visual improvements
 * Minor bug fixes
 * Optional easier combat
@@ -38,6 +42,8 @@ Running commentary of what I am planning for the next version.
 * Additional MO2 'Performance Friendly' profile
 * Save games are now stored in `\Users\YOURUSERNAME\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
 * Removed some city overhaul mods due to conflicts with other mods. I will work on adding city overhauls in a future release.
+
+<details>
 
 ### Fixed
 * O2 drain/asphyxiation when holding breath that caused death
@@ -165,6 +171,8 @@ Running commentary of what I am planning for the next version.
 * Vitality - Sustenance Overhaul
 * Winds of Cydonia
 * X2357's Prime Weapon Skins - NovaBlast
+
+</details>
 
 ## Version 3.1.0 
 **Save game safe if updating from 3.0.2 or above**
