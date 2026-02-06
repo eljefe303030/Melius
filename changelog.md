@@ -151,7 +151,7 @@ Running commentary of what I am planning for the next version.
 * NAT Station Lake Windows
 * New Atlantis Awaits
 * Paradiso Evolved
-* PLAGUE'S OPTICS REIMAGINED
+* OPTICS REIMAGINED
 * Positively New Atlantis
 * SavrenX HD NPC Optimized
 * Simple Offence Suppression SFSE
