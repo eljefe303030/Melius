@@ -30,6 +30,17 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Updated
+* Galactic Mesh Fixes
+* Starfield Engine Fixes - SFSE
+
+### Added
+* kine's Deep Recon Skin Pack
+* kine's Flightsuit Skin Pack
+* Luxor's new Flashlight HD
+* More Lore - Kreet Research Lab
+* More Lore - Legacy of the Mantis
+
 ## Version 3.2.0 
 **This will need a new game/save if coming from 3.1.0 but will be safe save from 3.2.0 Beta and Release Candidate**
 
