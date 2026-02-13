@@ -28,7 +28,13 @@
       "download": "https://authored-files.wabbajack.org/Melius3.2.0.wabbajack_a7215563-e60b-454d-a1fe-c4aaf8f95085",
       "machineURL": "melius",
       "discordURL": "https://discord.gg/ZyakMg7CGN",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": 410083,
+        "slug": "grfmqj",
+        "domainName": "starfield",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "AquIpVEzBcE=",
