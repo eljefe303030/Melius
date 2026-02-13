@@ -31,10 +31,12 @@
 Running commentary of what I am planning for the next version. 
 
 ### Updated
+* Dark Universe Overtime patch Selective Assignments
 * Galactic Mesh Fixes
 * Starfield Engine Fixes - SFSE
 
 ### Added
+* Fixed Phased Time Audio
 * kine's Deep Recon Skin Pack
 * kine's Flightsuit Skin Pack
 * Luxor's new Flashlight HD
