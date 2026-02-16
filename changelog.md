@@ -31,12 +31,16 @@
 Running commentary of what I am planning for the next version. 
 
 ### Updated
+* Astrogate
 * Dark Universe Overtime patch Selective Assignments
 * Galactic Mesh Fixes
+* Resource Descriptions
 * Starfield Engine Fixes - SFSE
 
 ### Added
+* Cutter Tachyon Sound Mod
 * Fixed Phased Time Audio
+* kine's Deepseeker Skin Pack
 * kine's Deep Recon Skin Pack
 * kine's Flightsuit Skin Pack
 * Luxor's new Flashlight HD
