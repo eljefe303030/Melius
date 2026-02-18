@@ -39,9 +39,12 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Cutter Tachyon Sound Mod
+* Dark Universe - Retrograde
+* Dazra Uncut
 * Fixed Phased Time Audio
 * kine's Deepseeker Skin Pack
 * kine's Deep Recon Skin Pack
+* kine's Explorer Skin Pack
 * kine's Flightsuit Skin Pack
 * Luxor's new Flashlight HD
 * More Lore - Kreet Research Lab
