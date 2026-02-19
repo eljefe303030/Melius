@@ -400,6 +400,8 @@ Some of the added music in the list might not be allowed to be played on YouTube
 2. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load an earlier save.
 3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
 4. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
+5. Sarah and other NPCs have a shadowy block in their hairline. Disable the 
+Starfarer's Hairstyles Replacer mod to fix this.
 
 ## Troubleshooting
 
