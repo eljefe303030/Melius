@@ -35,6 +35,7 @@ Running commentary of what I am planning for the next version.
 * Dark Universe Overtime patch Selective Assignments
 * Galactic Mesh Fixes
 * Resource Descriptions
+* Root Builder
 * Starfield Engine Fixes - SFSE
 
 ### Added
