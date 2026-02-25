@@ -30,12 +30,15 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
 
 * Extra spacesuit skins
 * Additional missions
 * Some audio and visual changes/improvements
 * Changed some default game settings
+
+<details>
 
 ### Fixed
 * Crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower
@@ -62,6 +65,8 @@ Running commentary of what I am planning for the next version.
 * Luxor's new Flashlight HD
 * More Lore - Kreet Research Lab
 * More Lore - Legacy of the Mantis
+
+</details>
 
 ## Version 3.2.0 
 **This will need a new game/save if coming from 3.1.0 but will be safe save from 3.2.0 Beta and Release Candidate**
