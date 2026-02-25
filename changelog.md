@@ -30,6 +30,17 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+**Save game safe if updating from 3.1.0 or above**
+
+* Extra spacesuit skins
+* Additional missions
+* Some audio and visual changes/improvements
+* crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
+
+### Fixed
+* Crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower
+* Sarah and other NPCs have a shadowy block in their hairline
+
 ### Updated
 * Astrogate
 * Dark Universe Overtime patch Selective Assignments
