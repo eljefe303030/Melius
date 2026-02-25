@@ -35,7 +35,7 @@ Running commentary of what I am planning for the next version.
 * Extra spacesuit skins
 * Additional missions
 * Some audio and visual changes/improvements
-* crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
+* Changed some default game settings
 
 ### Fixed
 * Crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower
