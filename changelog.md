@@ -5,7 +5,7 @@
 
 <details>
 
-* [Version 3.3.0 (released ??/02/2026)](#version-330)
+* [Version 3.3.0 (released 25/02/2026)](#version-330)
 * [Version 3.2.0 (released 06/02/2026)](#version-320)
 * [Version 3.1.0 (released 27/11/2025)](#version-310)
 * [Version 3.0.5 (released 16/10/2025)](#version-305)
