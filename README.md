@@ -249,8 +249,9 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **06.1 USER INTERFACE**
 1. [Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478) Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.
 2. [Bigger Systems - Expanded Star Maps](https://www.nexusmods.com/starfield/mods/14256) This mod expands the scale of planetary systems on the starmap, creating the illusion of much larger and more realistic distances between celestial bodies. **enabled by default**
-3. [Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297) This mod will remove the circle cursor from the game and replace it with the regular pointer cursor. **enabled by default, recommended to disable if playing with controller**
-4. [Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588) This mod patches native game functions so you can disable messages you don't like. **read the mod page description on how to configure**
+3. No Scanner Circle and Vignette - No Crosshair patch. Removes the crosshair in scanner view. **enabled by default**
+4. [Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297) This mod will remove the circle cursor from the game and replace it with the regular pointer cursor. **enabled by default, recommended to disable if playing with controller**
+5. [Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588) This mod patches native game functions so you can disable messages you don't like. **read the mod page description on how to configure**
 
 **06.1a USER INTERFACE - ULTRA WIDESCREEN**
 
@@ -274,8 +275,9 @@ Selection of Ultra Widescreen mods for menu and loading screens
 
 **22.1 MESHES & TEXTURES - FX**
 1. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) Alternative flashlight that has a brighter beam.
-2. [1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890) enable this if you want a wider flashlight beam. **enabled by default**
-3. [3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740) Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS) **this will overwrite the 1st person flashlight mods**
+2. [1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890) enable this if you want a wider flashlight beam. Has an optional 'less bright' version **enabled by default**
+3. [3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740) Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS). Has an optional 'less bright' version **this will overwrite the 1st person flashlight mods**
+4. [Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984) Provides a nice looking cross type flashlight texture. Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods.
 
 **34.1 IMMERSION**
 1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
