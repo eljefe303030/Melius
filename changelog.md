@@ -30,7 +30,7 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-**Save game safe if updating from 3.1.0 or above**
+**Save game safe if updating from 3.2.0 or above**
 
 * Extra spacesuit skins
 * Additional missions
