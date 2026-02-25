@@ -423,18 +423,16 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-**3.2.0**
+**3.3.0**
 
-**This will need a new game/save if coming from 3.1.0 but will be safe save from 3.2.0 Beta and Release Candidate**
+**Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
 
-* Visual improvements
-* Minor bug fixes
-* Optional easier combat
-* New weapons
-* Improved gun combat
-* Additional MO2 'Performance Friendly' profile
-* Save games are now stored in `\Users\YOURUSERNAME\Documents\My Games\Starfield\Saves` to enable easy switching between profiles
-* Removed some city overhaul mods due to conflicts with other mods. I will work on adding city overhauls in a future release.
+Hotfix release to address a CTD
+
+* Extra spacesuit skins
+* Additional missions
+* Some audio and visual changes/improvements
+* Changed some default game settings
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
