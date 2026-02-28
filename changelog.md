@@ -31,6 +31,10 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+* Lots of new spaceships to buy, see and fight
+* Bug fixes
+* Visual improvements
+
 ### Updated
 * Trackers Alliance - Fight Or Flight
   
