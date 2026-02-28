@@ -31,6 +31,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Updated
+* Trackers Alliance - Fight Or Flight
+  
 ### Added
 * 4k Lightnings (electrical)
 * Busy Space - doubled space encounters
@@ -50,6 +53,9 @@ Running commentary of what I am planning for the next version.
 * UC Vanguard - Expanded Presence
 * Varuun Halepod Material Fix
 * Va'ruun Technical Institute Ship Habs
+
+### Removed
+* High-Resolution Planet Textures
 
 ## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
