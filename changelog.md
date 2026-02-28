@@ -31,6 +31,13 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Added
+* 4k Lightnings (electrical)
+* Graf's Cockpits and Bridges
+* kine's various Skin Pack replacers
+* MASTmast - Gives MAST a radio antenna
+* Medical Pill Bottle Label Retextures
+
 ## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
 
