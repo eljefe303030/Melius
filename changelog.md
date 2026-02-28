@@ -55,6 +55,7 @@ Running commentary of what I am planning for the next version.
 * Ship Vendor Framework (SVF)
 * UC Distribution Center - On Duty
 * UC Vanguard - Expanded Presence
+* Unusual SOS Fix - Quest Completed
 * Varuun Halepod Material Fix
 * Va'ruun Technical Institute Ship Habs
 
