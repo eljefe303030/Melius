@@ -33,6 +33,7 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * 4k Lightnings (electrical)
+* Busy Space - doubled space encounters
 * Community Spaceship Expansion
 * Dialogue Fixes for Shattered Space
 * Graf's Cockpits and Bridges
@@ -40,11 +41,16 @@ Running commentary of what I am planning for the next version.
 * kine's various Skin Pack replacers
 * MASTmast - Gives MAST a radio antenna
 * Medical Pill Bottle Label Retextures
+* No more silly space encounters
 * Paradiso Gift Shop Vendor Fix - Jacquotte Laguerre
+* Planets Redone - MonstrrMagic Texture Series
 * Read Books Without Taking Them
 * Replace the broken drugged animation
 * Ship Vendor Framework (SVF)
+* UC Distribution Center - On Duty
+* UC Vanguard - Expanded Presence
 * Varuun Halepod Material Fix
+* Va'ruun Technical Institute Ship Habs
 
 ## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
