@@ -37,7 +37,6 @@ Running commentary of what I am planning for the next version.
 * Community Spaceship Expansion
 * Dialogue Fixes for Shattered Space
 * Graf's Cockpits and Bridges
-* Graf's Corellian Castoffs - YT1300-Series Ships for Sale
 * kine's various Skin Pack replacers
 * MASTmast - Gives MAST a radio antenna
 * Medical Pill Bottle Label Retextures
