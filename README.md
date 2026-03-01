@@ -157,72 +157,56 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 14. Selection of mods that improves the shipbuilding aspect of the game and add new parts and habs. You can now make and use Class M ships.
 15. [TN's Space Mining and Salvage](https://www.nexusmods.com/starfield/mods/6331) Mining out in space is more challenging and more rewarding now. The asteroids will take special mining lasers you unlock with the geology perk, which deals good damage to asteroids, but not to anything else. They can also be used for salvaging. Many junk items can be taken to the Industrial Workbench and Salvaged into usable items. They will show up on the recipe list when they are in your inventory (Not your ship's).
 16. [Dark Universe Overtime patch Selective Assignments](https://www.nexusmods.com/starfield/mods/15948) Adds options to disable DUO and vanilla missions by category, a roleplay mode that unlocks categories when you have basic skill or background requirements and an option to limit DUO missions that target Crimson Fleet. If your mission board is empty, you don't meet the requirements for the missions. You can tunr off this feature in the game settings but you'll then need to wait 48hr UT (e.g. 2 hrs on Earth's moon Luna), then travel back to the mission board, as changing location matters in certain scenarios. 
-17. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The following settings have been changed from the default, most are self explanatory, see mod page for more detailed descriptions:
+17. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The following settings have been changed from the default, most are self explanatory, see mod page for more detailed descriptions **Note, the settings change how rotate works in Outpost building, instead of using a roate button, move around the object to rotate it. This gives better control**:
 
 <details>
   
-bEngineLoadOptimizer=1
+[Settings]
 
+bEngineLoadOptimizer=1
 bEngineLoadOptimizerActorBackgroundProcessPatchesCompatibilityMode=1
 
-
 bGameplayOptionDisableXPModifiersBonus=1
-
 bGameplayOptionDisableXPModifiersPenalty=1
 
-
 bCanUseAnyFurnitureInZeroG=1
-
 bDataMenuShowGameDateAndPlanetTimescale=1
-
 
 bShowPlanetTemperatureInGalaxyStarMapMenu=1
 
-
 bUseAnyWeaponInHandscanner=1
-
 
 bPapyrusArrayNoLimit=1
 
-
 bLoadingScreenOptions=1
-
 
 bPhotoModeActorsAllowNonCompanions=1
 
-
 bDisableWeaponSheatheInDialogues=1
 
-
 bEyeContactNPCHelloDisallowWhileSprinting=1
-
 bEyeContactNPCHelloDisallowWhileRunning=1
-
 
 bFixNPCMakeupMod=1
 
-
 bBA2Counter=1
-
-bBA2CountLog=0 (change to 1 if need to see the log)
-
+bBA2CountLog=0
+iBA2CountWarningThreshold=250
 
 bDynamicFlightCameraDistance=1
-
 iDynamicFlightCameraDistanceMinLength=20
-
 iDynamicFlightCameraDistanceMinWidth=20
-
 fDynamicFlightCameraDistanceExtraOffsetPerMeterLength=1.25
 
-
 bDisableForcedHomeshipChangeOnPurchase=1
-
 
 bActorCollisionMovementSync=1
 
 bNoRandomIdlesDuringDialogues=1
 bNoPlayerHeadCameraDirection=1
+
+bUnrestrictedBuildModePlacement=0
+bBuildModeItemContinuousRotation=1
 
 </details>
 
