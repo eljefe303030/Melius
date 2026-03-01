@@ -448,7 +448,7 @@ A. This is environmental Damage, you will need to see a doctor or use nanobot in
 
 **Q. How do I rotate objects in the Outpost builder?**
 
-A. The settings in Starfield Engibe Fixes change how rotate works in Outpost building, instead of using a roate button, move around the object to rotate it. This gives better control. If you want to revert back to the old method:
+A. The settings in Starfield Engine Fixes change how rotate works in Outpost building, instead of using a roate button, move around the object to rotate it. This gives better control. If you want to revert back to the old method:
 1. Go to the following path: \mods\-Starfield Engine Fixes - SFSE - Resource - Settings\SFSE\Plugins
 2. Open the file: StarfieldEngineFixesCustom.ini
 3. Go to the bottom line and change it to 'bBuildModeItemContinuousRotation=0' (change the 1 to a 0)
