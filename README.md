@@ -313,6 +313,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 ### Additional Key Commands
 
+Outpost object rotation is now done by moving around the object, instead of using a rotate key.
+
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
 |N| Active night vision|Serenity of Stars|Need to add sensor array mod to helmets first| 
