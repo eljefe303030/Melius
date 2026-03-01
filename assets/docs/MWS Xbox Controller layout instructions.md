@@ -2,7 +2,7 @@
 
 *Thanks to [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for providing the following instructions*
 
-For those of you who are using a controller (Xbox Controller Layout in this Tutorial) and want to use [Manual Weapon Stance](https://www.nexusmods.com/starfield/mods/13627) follow the following steps when playing via steam:
+For those of you who are using a controller (Xbox Controller Layout in this Tutorial) you will need to map certain keys via the virtual keyboard in Steam, including the reload key (R):
 
 1. Right click your Starfield game in the library and select “Properties”:
 
