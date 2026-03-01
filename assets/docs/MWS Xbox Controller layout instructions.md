@@ -19,7 +19,7 @@ For those of you who are using a controller (Xbox Controller Layout in this Tuto
 
 4. Click on the cogwheel icon next to “X Button” and select “Add extra command”:
 
-<img width="800" height="161" alt="3 buttons" src="https://github.com/user-attachments/assets/c462af61-2629-48c7-a7c6-292a07ddea39" />
+(https://github.com/eljefe303030/Melius/blob/6a761c0a1d05cfdfe97d715392efee9dcb4fbfc8/assets/images/MWS%20Xbox%20Controller%20layout%20instructions/Face%20Button%20Behavior.jpg)
 <img width="279" height="338" alt="4 add extra" src="https://github.com/user-attachments/assets/6be3f2c8-2b11-441a-88c2-eb31cfc0d38d" />
 
 5.Select “Keyboard” in the upper panel and click “R” on the virtual keyboard:
