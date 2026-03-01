@@ -446,6 +446,14 @@ If you are asked to use saved or current load order, choose current.
 
 A. This is environmental Damage, you will need to see a doctor or use nanobot injectors to heal this. You will get a random amount of environmental damage when starting the game without using SKK fast start.
 
+**Q. How do I rotate objects in the Outpost builder?**
+
+A. The settings in Starfield Engibe Fixes change how rotate works in Outpost building, instead of using a roate button, move around the object to rotate it. This gives better control. If you want to revert back to the old method:
+1. Go to the following path: \mods\-Starfield Engine Fixes - SFSE - Resource - Settings\SFSE\Plugins
+2. Open the file: StarfieldEngineFixesCustom.ini
+3. Go to the bottom line and change it to 'bBuildModeItemContinuousRotation=0' (change the 1 to a 0)
+4. Reload the game.
+
 **Q. Is this modlist compatible with Watchtower.**
 
 A. Not out of the box, as weapons and armours will be vastly underpowered and need balancing. However, if you reinstall the mod Serenity of Stars and choose the Watchtower patch, the balancing should be done. You may also want to consider adding the [Watchtower x POI Cooldown x Desolation Patch](https://www.nexusmods.com/starfield/mods/15904?tab=files) that "fixes the ABSURD Listening Post POI spawn frequency by limiting ALL Listening Posts to one per system at a time".
