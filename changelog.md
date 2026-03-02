@@ -36,6 +36,7 @@ Running commentary of what I am planning for the next version.
 * Visual improvements
 
 ### Updated
+* Dark Universe - Retrograde
 * Trackers Alliance - Fight Or Flight
   
 ### Added
