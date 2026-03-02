@@ -31,7 +31,7 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-* Lots of new spaceships to buy, see and fight
+* Lots of new spaceships to buy, see, fly and battle with
 * Bug fixes
 * Visual improvements
 
