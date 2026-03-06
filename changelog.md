@@ -38,11 +38,13 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Astrogate
 * Dark Universe - Retrograde
+* Real O2
 * Starfield Engine Fixes - SFSE
 * Trackers Alliance - Fight Or Flight
   
 ### Added
 * 4k Lightnings (electrical)
+* Better Player Map Marker
 * Busy Space - doubled space encounters
 * Community Spaceship Expansion
 * Dialogue Fixes for Shattered Space
