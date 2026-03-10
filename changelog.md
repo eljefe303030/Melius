@@ -36,10 +36,18 @@ Running commentary of what I am planning for the next version.
 * Visual improvements
 
 ### Updated
+* AKM
+* Alpha AK
 * Astrogate
+* AUG A3
 * Dark Universe - Retrograde
+* FN SCAR - MK17
+* Functional Reflex Sights
 * Real O2
+* Scopes Without Overlays
+* Serenity of Stars - Gameplay Overhaul
 * Starfield Engine Fixes - SFSE
+* Titanfall 2 Weapon Pack
 * Trackers Alliance - Fight Or Flight
   
 ### Added
