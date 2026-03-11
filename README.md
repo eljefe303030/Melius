@@ -391,6 +391,7 @@ Some of the added music in the list might not be allowed to be played on YouTube
 4. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower. **fixed in 3.3.0**
 5. Sarah and other NPCs have a shadowy block in their hairline. Disable the Starfarer's Hairstyles Replacer mod to fix this. **Fixed in 3.3.0**
 6. Added spaceships by the mod Community Spaceship Expansion not having working ladders or exit hatches. To fix this, change something in the shipbuilder e.g. add a light or some other small change and it will work as intended. **only affects 3.4.0 BETA***
+7. Mod Preview Spaceship Interior can create a duplicate of the ship you're modifying, save, exit and reload fixes this.
 
 ## Troubleshooting
 
