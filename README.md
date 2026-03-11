@@ -144,7 +144,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
 > [!IMPORTANT]
 > if you are playing the game for the first time, before you travel to Venus in the Old Neighbourhood quest, you will need to reduce all ship power systems to zero, except 1 bar in engines. Otherwise you will be attacked on sight, as the enemy will detect you on arrival.
 3. [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) Overhauls the gameplay in many ways. Read the mod page to understand what is changed and new controls.
-4. [Manual Reload Papyrus Edition](https://www.nexusmods.com/starfield/mods/15743) Disables auto reload. **If using a controller you will need to [map the 'R' key using a virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) or disable this mod.**
+4. [Manual Reload Console Command Runner Updated Edition](https://www.nexusmods.com/starfield/mods/15743) Disables auto reload. **If using a controller you will need to [map the 'R' key using a virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) or disable this mod.**
 5. [StarUI suite of mods](https://next.nexusmods.com/profile/m8r98a4f2/mods?gameId=4187) to change the UI to make it easier and nicer to use.
 6. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples.
 7. Multiple mods that remove the chance of coming across the same POIs all the time.
@@ -317,7 +317,7 @@ Outpost object rotation is now done by moving around the object, instead of usin
 
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
-|R| Reload|Manual Reload Papyrus Edition|For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
+|R| Reload|Manual Reload Console Command Runner Updated Edition|For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
 |N| Active night vision|Serenity of Stars|Need to add sensor array mod to helmets first| 
 |B|Ammo and attachment swapping|Serenity of Stars| |
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
