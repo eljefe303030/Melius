@@ -76,6 +76,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * High-Resolution Planet Textures
+* Preview Spaceship Interior
 
 ## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
