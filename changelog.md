@@ -40,6 +40,7 @@ Running commentary of what I am planning for the next version.
 * Alpha AK
 * Astrogate
 * AUG A3
+* Bedlam - Dungeon Randomizer
 * Dark Universe - Retrograde
 * FN SCAR - MK17
 * Functional Reflex Sights
@@ -57,6 +58,7 @@ Running commentary of what I am planning for the next version.
 * Community Spaceship Expansion
 * Dialogue Fixes for Shattered Space
 * Graf's Cockpits and Bridges
+* Graf's Outpost BioDome
 * Hopetech Ship Hab Expansion (HSHE)
 * kine's Mercury Skin Pack
 * kine's various Skin Pack replacers
@@ -65,11 +67,13 @@ Running commentary of what I am planning for the next version.
 * No more silly space encounters
 * Paradiso Gift Shop Vendor Fix - Jacquotte Laguerre
 * Planets Redone - MonstrrMagic Texture Series
+* Player Ship Fixes
 * Read Books Without Taking Them
 * Replace the broken drugged animation
 * Ship Vendor Framework (SVF)
 * UC Distribution Center - On Duty
 * UC Vanguard - Expanded Presence
+* Unique POI Names
 * Unusual SOS Fix - Quest Completed
 * Varuun Halepod Material Fix
 * Va'ruun Technical Institute Ship Habs
