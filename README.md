@@ -17,7 +17,7 @@
 
 ## Please read ALL of this document before installing/playing the list.
 
-## Important - Starfield is being updated on the 7th April 2026, if you try to install this list after your game has been updated it will not work.
+## Important - [Starfield is being updated on the 7th April 2026](https://bethesda.net/en/game/starfield/article/7IxZSKYwYm1oDr57rXDx4C/starfield-free-lanes-terran-armada), if you try to install this list after your game has been updated it will not work.
 I will update this list to fix this but it will be in May when I will get chance to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.222](https://github.com/eljefe303030/Melius/blob/f3534b69767426527121b6daad485592e729b428/assets/docs/Downgrade%20to%201.15.222.md)
 
 # Contents List
