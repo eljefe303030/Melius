@@ -232,6 +232,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
 1. [Commitment](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. Locks you out of other factions based on your decisions. Enable all 3 commitment mods. **needs to be enabled before starting your game or before NG+**
+2. [No more silly space encounters](https://www.nexusmods.com/starfield/mods/15140) This mod removes some of the silly space encounters, such as Grandma, School class, Tourist bus ship & The Party boat.
    
 **06.1 USER INTERFACE**
 1. [Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478) Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.
@@ -265,7 +266,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 1. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) Alternative flashlight that has a brighter beam.
 2. [1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890) enable this if you want a wider flashlight beam. Has an optional 'less bright' version **enabled by default**
 3. [3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740) Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS). Has an optional 'less bright' version **this will overwrite the 1st person flashlight mods**
-4. [Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984) Provides a nice looking cross type flashlight texture. Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods.
+4. [Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984) Provides a nice looking cross type flashlight texture. Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods. **enabled by default**
 
 **34.1 IMMERSION**
 1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
@@ -290,6 +291,9 @@ Selection of Ultra Widescreen mods for menu and loading screens
 4. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Gorefield gives you a set of gameplay options that allow you to turn on special gory death effects for NPCs. **Recommended to disable the headshot feature of this mod, in the gameplay settings, if using with the mod Better Locational Damage**.
 5. [Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603) choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.
 6. [Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096) Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you. **enabled by default**
+
+**50.1 Space COMBAT**
+1. [Busy Space - doubled space encounters](https://www.nexusmods.com/starfield/mods/5952) This sets various encounter chance settings to double their original settings so space will feel significantly more alive. **enabled by default**
 
 **58.1 BEAUTY & APPEARANCE**
 1. [NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466) A mod that realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Included patch that fix an issue if playing with a female character, in third person and when aiming down sights, as well as [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) that disables automatic rescaling of characters on interaction with furniture and terminals so they don't visibly shrink/grow when sitting, standing, operating computers/workstations, etc. **characters can clip furniture when using this mod e.g. when sitting or leaning at desks.**
