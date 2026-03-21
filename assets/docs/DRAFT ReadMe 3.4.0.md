@@ -245,7 +245,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478)|Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.||Yes|
 |[Bigger Systems - Expanded Star Maps](https://www.nexusmods.com/starfield/mods/14256)|This mod expands the scale of planetary systems on the starmap, creating the illusion of much larger and more realistic distances between celestial bodies.|Enabled by default|Yes|
 |[Favorites Menu Extended - SFSE](https://www.nexusmods.com/starfield/mods/14314)|SFSE mod that let's you have up to 24 Favorite Items.|Does not always work well with controllers.|Yes|
-|No Scanner Circle and Vignette - No Crosshair patch. Removes the crosshair in scanner view.||Enabled by default|Yes|
+|No Scanner Circle and Vignette - No Crosshair patch.|Removes the crosshair in scanner view.||Enabled by default|Yes|
 |[Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297)|Removes the circle cursor from the game and replace it with the regular pointer cursor.|Enabled by default, recommended to disable if playing with controller|Yes|
 |[Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588)|Patches native game functions so you can disable messages you don't like.|Read the mod page description on how to configure|Yes|
 
