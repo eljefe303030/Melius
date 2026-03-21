@@ -264,11 +264,13 @@ Selection of Ultra Widescreen mods
 Selection of Ultra Widescreen mods for menu and loading screens 
 
 **08.1 AUDIO & MUSIC**
-1. [No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414) This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence. *recommended to use in conjunction with the mod below - Satisfying Headshots - Sound Overhaul*
-2. [Satisfying Headshots - Sound Overhaul](https://www.nexusmods.com/starfield/mods/3823) You now hear the clanging of the bullet hitting the helmets of your foes. *recommended to use in conjunction with the mod above - No Headshot and Crit Sounds*
-3. [No Hit Confirmation Sound](https://www.nexusmods.com/starfield/mods/3938) no projectile hit confirmation sfx (thud).
-4. [No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271) This mod disables the sound effect played when gaining XP in game.
-5. [Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664) Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[No Headshot and Crit Sounds](https://www.nexusmods.com/starfield/mods/4414)|This mod removes Headshot and Crit sounds. No more immersion breaking UI sound effects. All crits and headshot sounds replaced with silence.|Recommended to use in conjunction with the mod below - Satisfying Headshots - Sound Overhaul|Yes|
+|[Satisfying Headshots - Sound Overhaul](https://www.nexusmods.com/starfield/mods/3823)|You now hear the clanging of the bullet hitting the helmets of your foes.|Recommended to use in conjunction with the mod above - No Headshot and Crit Sounds|Yes|
+|[No Hit Confirmation Sound](https://www.nexusmods.com/starfield/mods/3938)|No projectile hit confirmation sfx (thud).||Yes|
+|[No XP Soundeffect](https://www.nexusmods.com/starfield/mods/4271)|Disables the sound effect played when gaining XP in game.||Yes|
+|[Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664)|Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.||Yes|
 
 **22.1 MESHES & TEXTURES - FX**
 1. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) Alternative flashlight that has a brighter beam.
