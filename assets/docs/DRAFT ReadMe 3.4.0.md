@@ -234,6 +234,8 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|Ini provided to change settings, see mod page for more details.|Yes|
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
 |[Commitment](https://www.nexusmods.com/starfield/mods/13436)|Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. Locks you out of other factions based on your decisions.|Enable all 3 commitment mods.|Needs to be enabled before starting your game or before NG+|
 |[No more silly space encounters](https://www.nexusmods.com/starfield/mods/15140)|Removes some of the silly space encounters, such as Grandma, School class, Tourist bus ship & The Party boat.||Yes|
    
