@@ -273,10 +273,12 @@ Selection of Ultra Widescreen mods for menu and loading screens
 |[Silent Sounds - Immersive Gameplay - Selective](https://www.nexusmods.com/starfield/mods/664)|Removes Level Up, Location Discover, Mission related, Skill Magazine read and similar sounds. Intended for a more immersive gameplay.||Yes|
 
 **22.1 MESHES & TEXTURES - FX**
-1. [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701) Alternative flashlight that has a brighter beam.
-2. [1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890) enable this if you want a wider flashlight beam. Has an optional 'less bright' version **enabled by default**
-3. [3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740) Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS). Has an optional 'less bright' version **this will overwrite the 1st person flashlight mods**
-4. [Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984) Provides a nice looking cross type flashlight texture. Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods. **enabled by default**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701)|Alternative flashlight that has a brighter beam.||Yes|
+|[1st Person Flashlight - wider beam version](https://www.nexusmods.com/starfield/mods/15890)|Enable this if you want a wider flashlight beam.|Has an optional 'less bright' version **enabled by default**|Yes|
+|[3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740)|Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS).|Has an optional 'less bright' version **this will overwrite the 1st person flashlight mods**|Yes|
+|[Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984)|Provides a nice looking cross type flashlight texture.|Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods. **enabled by default**|Yes|
 
 **34.1 IMMERSION**
 1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
