@@ -247,16 +247,17 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Favorites Menu Extended - SFSE](https://www.nexusmods.com/starfield/mods/14314)|SFSE mod that let's you have up to 24 Favorite Items.|Does not always work well with controllers.|Yes|
 |No Scanner Circle and Vignette - No Crosshair patch. Removes the crosshair in scanner view.||Enabled by default|Yes|
 |[Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297)|Removes the circle cursor from the game and replace it with the regular pointer cursor.|Enabled by default, recommended to disable if playing with controller|Yes|
-|[Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588)|Patches native game functions so you can disable messages you don't like.|Read the mod page description on how to configure|No|
+|[Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588)|Patches native game functions so you can disable messages you don't like.|Read the mod page description on how to configure|Yes|
 
 **06.1a USER INTERFACE - ULTRA WIDESCREEN**
 
 Selection of Ultra Widescreen mods
 
 **7.1 MENU & LOADING SCREENS**
-
-1. [Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860) Original Melius main menu background of an animated starfield.
-2. [Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232) Original Melius pause menu background.
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860)|Original Melius main menu background of an animated starfield.||Yes|
+|[Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232)|Original Melius pause menu background.||Yes|
 
 **07.1a MENU & LOADING SCREENS - ULTRA WIDESCREEN**
 
