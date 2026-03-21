@@ -228,7 +228,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 4. [Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571) Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks. **enabled by default**
 5. [Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048) SFSE plugin that makes gravity affect inventory/carry weight.
 6. [Native Ultrawide Menus - SFSE - Resource](https://www.nexusmods.com/starfield/mods/9410) **The Creations menu is not functional while having this mod active (buttons are misaligned)**
-7. [No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684) **For controller users, you will need to map the 'ctrl' key to your controller**.
+7. [No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684) **For controller users, you will need to map the 'ctrl' key to your controller [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)**.
 8. [Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706) Automatically switch to first person when aiming your weapon, and back to third person upon release. Ini provided to change settings, see mod page for more details.
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
