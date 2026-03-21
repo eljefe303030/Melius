@@ -281,13 +281,17 @@ Selection of Ultra Widescreen mods for menu and loading screens
 |[Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984)|Provides a nice looking cross type flashlight texture.|Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods. **enabled by default**|Yes|
 
 **34.1 IMMERSION**
-1. [Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930) adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you. **Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled**
-2. [Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353) does the same as above but for the DLC.
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930)|Adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.|Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled|Yes|
+|[Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353)|Does the same as above but for the DLC.||Yes|
 
 **43.1 OUTPOST BUILDING**
-1. [Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890) Allows you to build most outpost/ship objects with credits instead of resources.
-2. [BMX Outpost Framework - Build with Credits Patch](https://www.nexusmods.com/starfield/mods/13896) Includes items added in the BMX Outpost Framework to also to be built with credits instead of resources.
-3. Patches for the above two mods to include more items.
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890)|Allows you to build most outpost/ship objects with credits instead of resources.||Yes|
+|[BMX Outpost Framework - Build with Credits Patch](https://www.nexusmods.com/starfield/mods/13896)|Includes items added in the BMX Outpost Framework to also to be built with credits instead of resources.||Yes|
+|Patches for the above two mods to include more items.|||Yes|
 
 **44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
 1. [Astrogate](https://www.nexusmods.com/starfield/mods/9363) Immersive way to fly ships between systems and planets. Choice of FTL and Autopilot. Enable the two related files for best experience. *Read the descriptions of the settings in the main game menu, as some settings have the potential to prevent some quests from starting.* Recommended that you disable the following mods if using this; More Immersive Landings And Takeoffs & More Visualized Docking - Vanilla Enhanced & Default Speed.
