@@ -224,7 +224,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **01.1a CORE MODS - SFSE PLUGINS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Auto Hide HUD and Widgets - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8946)|SFSE plugin that grants you full control over the HUD's visibility.|Yes|
+|[Auto Hide HUD and Widgets - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8946)|SFSE plugin that grants you full control over the HUD's visibility.||Yes|
 |[Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE](https://www.nexusmods.com/starfield/mods/7432)|Lets you determine under what conditions your Spacesuit is hidden. Also aims to fix some of the relevant vanilla bugs.|Enabling this mod will pretty much make 'Fast Spacesuit Deployment Kit' mod redundant, as it takes away the manual control of when your spacesuit is displayed.|Yes|
 |[Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606)|FSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory.|Some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.|Yes|
 |[Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571)|Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.|Enabled by default|Yes|
