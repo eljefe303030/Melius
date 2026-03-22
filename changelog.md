@@ -45,6 +45,7 @@ Running commentary of what I am planning for the next version.
 * FN SCAR - MK17
 * Functional Reflex Sights
 * Real O2
+* Roleplayers' Alternate Start
 * Scopes Without Overlays
 * Serenity of Stars - Gameplay Overhaul
 * Starfield Engine Fixes - SFSE
