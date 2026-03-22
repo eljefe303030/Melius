@@ -250,8 +250,9 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588)|Patches native game functions so you can disable messages you don't like.|Read the mod page description on how to configure|Yes|
 
 **06.1a USER INTERFACE - ULTRA WIDESCREEN**
-
-Selection of Ultra Widescreen mods
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|Selection of Ultra Widescreen mods|||Yes|
 
 **7.1 MENU & LOADING SCREENS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
@@ -260,8 +261,9 @@ Selection of Ultra Widescreen mods
 |[Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232)|Original Melius pause menu background.||Yes|
 
 **07.1a MENU & LOADING SCREENS - ULTRA WIDESCREEN**
-
-Selection of Ultra Widescreen mods for menu and loading screens 
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|Selection of Ultra Widescreen mods for menu and loading screens|||Yes| 
 
 **08.1 AUDIO & MUSIC**
 |Mod|Description|Comments|Safe to enable/disable mid save|
