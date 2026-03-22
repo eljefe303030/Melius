@@ -339,8 +339,10 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Manual Reload](https://www.nexusmods.com/starfield/mods/15743)|Disable auto reload.|For controllers users, you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|No|
 
 **72 TOOLS**
-1. [Starfield Shader Cache Reset](https://www.nexusmods.com/starfield/mods/15632) Starfield Shader Cache Reset Tool – safely clears all known shader caches, including pipeline.cache. Use if you have stutters, black textures, and other graphical issues. **[Instructions to use](#strange-visual-effects)**
-2. [Ultra Minus - Tuned Ultra Quality INI](https://www.nexusmods.com/starfield/mods/15126) source files that the ini settings used in this list are based on. If you want to use the settings from this mod, follow the instructions on it's Nexus page. **You do not need to enable this unless you want to manually tweak the ini files, only use if you know what you are doing!**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Starfield Shader Cache Reset](https://www.nexusmods.com/starfield/mods/15632)|Starfield Shader Cache Reset Tool – safely clears all known shader caches, including pipeline.cache. Use if you have stutters, black textures, and other graphical issues.|[Instructions to use](#strange-visual-effects)|N/A|
+|[Ultra Minus - Tuned Ultra Quality INI](https://www.nexusmods.com/starfield/mods/15126)|Source files that the ini settings used in this list are based on.|If you want to use the settings from this mod, follow the instructions on it's Nexus page. You do not need to enable this unless you want to manually tweak the ini files, only use if you know what you are doing!|N/A|
 
 </details>
   
