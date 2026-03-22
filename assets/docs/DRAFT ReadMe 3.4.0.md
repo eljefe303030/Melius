@@ -313,10 +313,14 @@ Selection of Ultra Widescreen mods for menu and loading screens
 |[Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096)|Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you.|Enabled by default.|Yes|
 
 **50.1 Space COMBAT**
-1. [Busy Space - doubled space encounters](https://www.nexusmods.com/starfield/mods/5952) This sets various encounter chance settings to double their original settings so space will feel significantly more alive. **enabled by default**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Busy Space - doubled space encounters](https://www.nexusmods.com/starfield/mods/5952)|This sets various encounter chance settings to double their original settings so space will feel significantly more alive.|Enabled by default|Yes|
 
 **58.1 BEAUTY & APPEARANCE**
-1. [NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466) A mod that realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Included patch that fix an issue if playing with a female character, in third person and when aiming down sights, as well as [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) that disables automatic rescaling of characters on interaction with furniture and terminals so they don't visibly shrink/grow when sitting, standing, operating computers/workstations, etc. **characters can clip furniture when using this mod e.g. when sitting or leaning at desks.**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466)|Realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Included patch that fix an issue if playing with a female character, in third person and when aiming down sights, as well as [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) that disables automatic rescaling of characters on interaction with furniture and terminals so they don't visibly shrink/grow when sitting, standing, operating computers/workstations, etc.|Characters can clip furniture when using this mod e.g. when sitting or leaning at desks.|Yes|
 
 **64 LO SENSITIVE - ALTERNATIVE START**
 > [!IMPORTANT]
