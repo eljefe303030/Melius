@@ -325,6 +325,7 @@ Selection of Ultra Widescreen mods for menu and loading screens
 **64 LO SENSITIVE - ALTERNATIVE START**
 > [!IMPORTANT]
 > Select only one alternative start mod.
+
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
 |[Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)|An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits.|Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk. If Shattered Space doesn't start when it should, enter the following console command `CompleteQuest 00003448` and then grav jump to a new (non mission) system. Do not use the surgical bed at the start after you have chosen equipment, as it can cause a CTD.|No|
