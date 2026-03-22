@@ -332,7 +332,9 @@ Selection of Ultra Widescreen mods for menu and loading screens
 |[SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971)|Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices.|When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal. When you start a new game with this mod, if the ship control menu will pop up, tab to close this and continue.|No|
 
 **66.1 ANIMATION - GENERAL**
-1. [Manual Reload](https://www.nexusmods.com/starfield/mods/15743) Disable auto reload. **For controllers users, you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Manual Reload](https://www.nexusmods.com/starfield/mods/15743)|Disable auto reload.|For controllers users, you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|No|
 
 **72 TOOLS**
 1. [Starfield Shader Cache Reset](https://www.nexusmods.com/starfield/mods/15632) Starfield Shader Cache Reset Tool – safely clears all known shader caches, including pipeline.cache. Use if you have stutters, black textures, and other graphical issues. **[Instructions to use](#strange-visual-effects)**
