@@ -33,6 +33,8 @@ Running commentary of what I am planning for the next version.
 
 * Lots of new spaceships to buy, see, fly and battle with
 * Bug fixes
+* Improvements to space combat
+* Added armours and clothing (thanks to Evanidus14 for the patches)
 * Visual improvements
 
 ### Updated
@@ -42,6 +44,7 @@ Running commentary of what I am planning for the next version.
 * AUG A3
 * Bedlam - Dungeon Randomizer
 * Dark Universe - Retrograde
+* El Jefe Space Combat AI
 * FN SCAR - MK17
 * Functional Reflex Sights
 * Real O2
@@ -63,6 +66,10 @@ Running commentary of what I am planning for the next version.
 * Hopetech Ship Hab Expansion (HSHE)
 * kine's Mercury Skin Pack
 * kine's various Skin Pack replacers
+* KZ Aggregation of Scraps
+* KZ Meridian Transit Regalia
+* KZ United Colonies Depository
+* KZ Venatorial Frontiers Armory
 * MASTmast - Gives MAST a radio antenna
 * Medical Pill Bottle Label Retextures
 * No more silly space encounters
@@ -71,6 +78,7 @@ Running commentary of what I am planning for the next version.
 * Player Ship Fixes
 * Read Books Without Taking Them
 * Replace the broken drugged animation
+* RTM's Orange Face Fix
 * Ship Vendor Framework (SVF)
 * UC Distribution Center - On Duty
 * UC Vanguard - Expanded Presence
