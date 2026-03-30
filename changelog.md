@@ -54,6 +54,7 @@ Running commentary of what I am planning for the next version.
 * Roleplayers' Alternate Start
 * Scopes Without Overlays
 * Serenity of Stars - Gameplay Overhaul
+* Spacers EIT Z Distributed
 * Starfield Engine Fixes - SFSE
 * Titanfall 2 Weapon Pack
 * Trackers Alliance - Fight Or Flight
