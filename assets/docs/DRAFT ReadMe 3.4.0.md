@@ -330,7 +330,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)|An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits.|Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk. Do not use the surgical bed at the start after you have chosen equipment, as it can cause a CTD.|No|
+|[Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)|An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits.|Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk. Do not use the surgical bed at the start after you have chosen equipment, as it can cause a CTD. Recommended to keep the quest 'One Small Step' completed.|No|
 |[SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971)|Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices.|When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.|No|
 
 **66.1 ANIMATION - GENERAL**
