@@ -47,7 +47,9 @@ Running commentary of what I am planning for the next version.
 * El Jefe Space Combat AI
 * FN SCAR - MK17
 * Functional Reflex Sights
+* Galactic Mesh Fixes
 * Real O2
+* Resupply - Functional Supplies and Decorations
 * Roleplayers' Alternate Start
 * Scopes Without Overlays
 * Serenity of Stars - Gameplay Overhaul
