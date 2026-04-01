@@ -314,11 +314,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603)|Choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.||Yes|
 |[Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096)|Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you.|Enabled by default.|Yes|
 
-**50.1 Space COMBAT**
-|Mod|Description|Comments|Safe to enable/disable mid save|
-|---|---|---|---|
-|[Busy Space - doubled space encounters](https://www.nexusmods.com/starfield/mods/5952)|This sets various encounter chance settings to double their original settings so space will feel significantly more alive.|Enabled by default|Yes|
-
 **58.1 BEAUTY & APPEARANCE**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
