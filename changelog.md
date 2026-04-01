@@ -37,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * Added armours and clothing (thanks to Evanidus14 for the patches)
 * Visual improvements
 * Removed XPL ammo and rocket launchers from Spacers and Crimson Fleet
+* Reduced spaceship docking and looting distance to 55 to make performing these actions more immersive
 
 ### Updated
 * AKM
