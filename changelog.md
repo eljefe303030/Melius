@@ -36,6 +36,7 @@ Running commentary of what I am planning for the next version.
 * Improvements to space combat
 * Added armours and clothing (thanks to Evanidus14 for the patches)
 * Visual improvements
+* Removed XPL ammo and rocket launchers from Spacers and Crimson Fleet
 
 ### Updated
 * AKM
