@@ -319,6 +319,8 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 Outpost object rotation is now done by moving around the object, instead of using a rotate key.
 
+[Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
+
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
 |R| Reload|Manual Reload Console Command Runner Updated Edition|For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
