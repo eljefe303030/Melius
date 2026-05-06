@@ -88,14 +88,17 @@ Running commentary of what I am planning for the next version.
 * Ship Vendor Framework (SVF)
 * UC Distribution Center - On Duty
 * UC Vanguard - Expanded Presence
+* Ultra Rocks and Trees
 * Unique POI Names
 * Unusual SOS Fix - Quest Completed
 * Varuun Halepod Material Fix
 * Va'ruun Technical Institute Ship Habs
 
 ### Removed
+* Cosmic Growth (BlindMatter)
 * High-Resolution Planet Textures
 * Preview Spaceship Interior
+* Trees Rescaled (VolaticWolf)
 
 ## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
