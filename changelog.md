@@ -45,6 +45,7 @@ Running commentary of what I am planning for the next version.
 * Astrogate
 * AUG A3
 * Bedlam - Dungeon Randomizer
+* Better Spaceship Interaction Distance
 * Complete Weather Overhaul
 * Dark Universe - Retrograde
 * El Jefe Space Combat AI
