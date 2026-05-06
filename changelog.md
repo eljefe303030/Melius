@@ -60,6 +60,7 @@ Running commentary of what I am planning for the next version.
 * Starfield Engine Fixes - SFSE
 * Titanfall 2 Weapon Pack
 * Trackers Alliance - Fight Or Flight
+* Ultra Minus - Tuned Ultra Quality INI
   
 ### Added
 * 4k Lightnings (electrical)
