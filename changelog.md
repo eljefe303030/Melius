@@ -39,6 +39,8 @@ Running commentary of what I am planning for the next version.
 * Removed XPL ammo and rocket launchers from Spacers and Crimson Fleet
 * Reduced spaceship docking and looting distance to 55 to make performing these actions more immersive
 * Re-added key commands to rotate objects in outpost builder
+* Changed the fabrication table to ammo workbench
+* Removed extra and redundant ammo workbench
 
 ### Updated
 * AKM
