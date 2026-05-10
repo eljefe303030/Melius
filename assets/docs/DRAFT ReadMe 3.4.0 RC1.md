@@ -302,11 +302,13 @@ Do not update any mods within this mod list. Reason being is that mods have been
 
 ### Additional Key Commands
 
-Outpost object rotation is now done by moving around the object, instead of using a rotate key.
+Outpost object rotation can now be done by moving around the object, as well as using a rotate key.
+
+[Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
 
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
-|R| Reload|Manual Reload Console Command Runner Updated Edition|Optional Mod. For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md). [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)| 
+|R| Reload|Manual Reload Console Command Runner Updated Edition|Optional Mod. For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
 |N| Active night vision|Serenity of Stars|Need to add sensor array mod to helmets first| 
 |B|Ammo and attachment swapping|Serenity of Stars| |
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
