@@ -280,7 +280,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **66.1 ANIMATION - GENERAL**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Manual Reload](https://www.nexusmods.com/starfield/mods/15743)|Disable auto reload.|For controllers users, you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|No|
+|[Manual Reload](https://www.nexusmods.com/starfield/mods/15743)|Disable auto reload.|For controllers users, you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md). [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)|No|
 
 **72 TOOLS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
