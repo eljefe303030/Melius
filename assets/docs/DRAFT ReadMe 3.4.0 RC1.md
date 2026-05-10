@@ -195,7 +195,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Bigger Systems - Expanded Star Maps](https://www.nexusmods.com/starfield/mods/14256)|This mod expands the scale of planetary systems on the starmap, creating the illusion of much larger and more realistic distances between celestial bodies.|Enabled by default|Yes|
 |[Favorites Menu Extended - SFSE](https://www.nexusmods.com/starfield/mods/14314)|SFSE mod that let's you have up to 24 Favorite Items.|Does not always work well with controllers.|Yes|
 |No Scanner Circle and Vignette - No Crosshair patch.|Removes the crosshair in scanner view.|**Enabled by default**|Yes|
-|[Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297)|Removes the circle cursor from the game and replace it with the regular pointer cursor.|Enabled by default, recommended to disable if playing with controller|Yes|
+|[Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297)|Removes the circle cursor from the game and replace it with the regular pointer cursor.|**Enabled by default**, recommended to disable if playing with controller|Yes|
 |[Suppress Message.Show - Disable Tutorials](https://www.nexusmods.com/starfield/mods/11588)|Patches native game functions so you can disable messages you don't like.|Read the mod page description on how to configure|Yes|
 
 **06.1a USER INTERFACE - ULTRA WIDESCREEN**
@@ -261,7 +261,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |El Jefe Combat AI Stealth Patch.|Enabling this will make stealth play more viable but will reduce enemy awareness and therefore make the game easier and less realistic.||Yes|
 |[Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833)|Gorefield gives you a set of gameplay options that allow you to turn on special gory death effects for NPCs.|Recommended to disable the headshot feature of this mod, in the gameplay settings, if using with the mod Better Locational Damage.|Enable mid save but do not disable mid save.|
 |[Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603)|Choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.||Yes|
-|[Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096)|Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you.|Enabled by default.|Yes|
+|[Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096)|Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you.|**Enabled by default**|Yes|
 
 **58.1 BEAUTY & APPEARANCE**
 |Mod|Description|Comments|Safe to enable/disable mid save|
