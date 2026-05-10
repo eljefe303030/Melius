@@ -41,6 +41,7 @@ Running commentary of what I am planning for the next version.
 * Re-added key commands to rotate objects in outpost builder
 * Changed the fabrication table to ammo workbench
 * Removed extra and redundant ammo workbench
+* New Workbenches Essential Framework NWEF - multiple patches updated
 
 ### Updated
 * AKM
@@ -100,6 +101,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Cosmic Growth (BlindMatter)
+* Deadly Ramming and Debris Fields - Ship Collisions Do More Damage
 * High-Resolution Planet Textures
 * Preview Spaceship Interior
 * Trees Rescaled (VolaticWolf)
