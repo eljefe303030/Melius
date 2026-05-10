@@ -418,7 +418,7 @@ Hotfix release to address a CTD
 
 Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new game after certain updates.
 
-**Updating to version 3.2.0 from previous versions. It is required to install into a new folder, as there are significant changes.**
+**Updating to version 3.2.0 or later from previous versions. It is required to install into a new folder, as there are significant changes.**
 
 It is recommended that before updating to save the game whilst you are in space, doing nothing, sat in the cockpit, doing zero speed.
 
@@ -439,14 +439,6 @@ If you are asked to use saved or current load order, choose current.
 **Q. I have a yellow bit in my health bar and am unable to get full health.**
 
 A. This is environmental Damage, you will need to see a doctor or use nanobot injectors to heal this. You will get a random amount of environmental damage when starting the game without using SKK fast start.
-
-**Q. How do I rotate objects in the Outpost builder?**
-
-A. The settings in Starfield Engine Fixes change how rotate works in Outpost building, instead of using a rotate button, move around the object to rotate it. This gives better control. If you want to revert back to the old method:
-1. Go to the following path: \mods\-Starfield Engine Fixes - SFSE - Resource - Settings\SFSE\Plugins
-2. Open the file: StarfieldEngineFixesCustom.ini
-3. Go to the bottom line and change it to 'bBuildModeItemContinuousRotation=0' (change the 1 to a 0)
-4. Reload the game.
 
 **Q. Is this modlist compatible with Watchtower.**
 
@@ -489,7 +481,7 @@ Save the ini file.
 
 **Q. Can I use a controller?**
 
-A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands, such as the reload key `R`.
+A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands, such as the reload key `R`. [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
