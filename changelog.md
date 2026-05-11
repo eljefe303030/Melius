@@ -58,6 +58,7 @@ Running commentary of what I am planning for the next version.
 * Galactic Mesh Fixes
 * Not Yet Shattered Space
 * Real O2
+* ReShade
 * Resupply - Functional Supplies and Decorations
 * Roleplayers' Alternate Start
 * Scopes Without Overlays
