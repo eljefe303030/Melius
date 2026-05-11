@@ -61,6 +61,7 @@ Running commentary of what I am planning for the next version.
 * Roleplayers' Alternate Start
 * Scopes Without Overlays
 * Serenity of Stars - Gameplay Overhaul
+* Sit To Add Ship to Fleet
 * Spacers EIT Z Distributed
 * Starfield Engine Fixes - SFSE
 * Supply Mission Fix
