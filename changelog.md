@@ -63,6 +63,7 @@ Running commentary of what I am planning for the next version.
 * Serenity of Stars - Gameplay Overhaul
 * Spacers EIT Z Distributed
 * Starfield Engine Fixes - SFSE
+* Supply Mission Fix
 * Titanfall 2 Weapon Pack
 * Trackers Alliance - Fight Or Flight
 * Ultra Minus - Tuned Ultra Quality INI
