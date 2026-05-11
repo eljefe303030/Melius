@@ -56,6 +56,7 @@ Running commentary of what I am planning for the next version.
 * FN SCAR - MK17
 * Functional Reflex Sights
 * Galactic Mesh Fixes
+* Not Yet Shattered Space
 * Real O2
 * Resupply - Functional Supplies and Decorations
 * Roleplayers' Alternate Start
