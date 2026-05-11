@@ -402,7 +402,7 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-**3.4.0**
+**3.4.0 RC1**
 
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
 
