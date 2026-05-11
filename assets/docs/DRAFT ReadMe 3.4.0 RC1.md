@@ -18,7 +18,8 @@
 ## Please read ALL of this document before installing/playing the list.
 
 ## Important - Starfield is due to be updated from version 1.16.236, if you try to install this list after your game has been updated, it will not work without [downgrading it first.](https://github.com/eljefe303030/Melius/blob/9916eb47f6a75d71bb571b15b10d5be81831947d/assets/docs/Downgrade%20to%201.16.236.md)
-I will update this list to make it install but it will be in May when I will get chance to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.222](https://github.com/eljefe303030/Melius/blob/f3534b69767426527121b6daad485592e729b428/assets/docs/Downgrade%20to%201.15.222.md) before starting the installation of Melius.
+I will update this list to make it install but until then, to install this list after your game has been updated, you will need to [downgrade it to version 1.16.236](https://github.com/eljefe303030/Melius/blob/9916eb47f6a75d71bb571b15b10d5be81831947d/assets/docs/Downgrade%20to%201.16.236.md) before starting the installation of Melius.
+This version of Melius will downgrade your game to version 1.15.222, whcih is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for xEdit to be updated and a few mods to be updated, as currently I would not be able to produce a stable list that meets the level I require.
 
 # Contents List
 
@@ -66,7 +67,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
-* You need the latest Steam version (1.16.236.0) of the game and the Shattered Space DLC.
+* You need the latest Steam version (1.16.236) of the game and the Shattered Space DLC.
 
 ## Pre-installation Steps
 1. Install [Microsoft .NET v8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) and [Microsoft Visual C++ 2019 Runtime](https://aka.ms/vs/16/release/vc_redist.x64.exe).
