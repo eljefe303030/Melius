@@ -51,7 +51,6 @@ Running commentary of what I am planning for the next version.
 * Bedlam - Dungeon Randomizer
 * Better Spaceship Interaction Distance
 * Chrome Heavy Weapon Skins (craftable)
-* Chrome Pistol Skins (craftable)
 * Chrome Shotguns and Melee Weapon Skins (craftable)
 * Complete Weather Overhaul
 * Dark Universe - Retrograde
