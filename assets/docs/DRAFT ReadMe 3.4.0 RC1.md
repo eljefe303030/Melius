@@ -19,7 +19,7 @@
 
 ## Important - Starfield is due to be updated from version 1.16.236, if you try to install this list after your game has been updated, it will not work without [downgrading it first.](https://github.com/eljefe303030/Melius/blob/9916eb47f6a75d71bb571b15b10d5be81831947d/assets/docs/Downgrade%20to%201.16.236.md)
 I will update this list to make it install but until then, to install this list after your game has been updated, you will need to [downgrade it to version 1.16.236](https://github.com/eljefe303030/Melius/blob/9916eb47f6a75d71bb571b15b10d5be81831947d/assets/docs/Downgrade%20to%201.16.236.md) before starting the installation of Melius.
-This version of Melius will downgrade your game to version 1.15.222, whcih is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for xEdit to be updated and a few mods to be updated, as currently I would not be able to produce a stable list that meets the level I require.
+This version of Melius will downgrade your game to version 1.15.222, which is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for xEdit to be updated and a few mods to be updated, as currently I would not be able to produce a stable list that meets the level I require.
 
 # Contents List
 
