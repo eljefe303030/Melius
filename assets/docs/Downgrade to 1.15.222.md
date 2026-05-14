@@ -1,5 +1,7 @@
 ## Downgrade Starfield to version 1.15.222
 
+Either use [Unofficial Starfield Downgrade Patcher](https://www.nexusmods.com/starfield/mods/16393?tab=description) to downgrade from 1.16.242 -> 1.16.236 -> 1.15.222 or follow the instructions below to manually downgrade.
+
 **1**) Open "Run" menu (Windows Key + R)
 
 **2**) Type: `steam://open/console/`
