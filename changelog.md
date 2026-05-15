@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 3.4.0 (released 15/05/2026)](#version-340)
 * [Version 3.3.0 (released 25/02/2026)](#version-330)
 * [Version 3.2.0 (released 06/02/2026)](#version-320)
 * [Version 3.1.0 (released 27/11/2025)](#version-310)
@@ -31,6 +32,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 3.4.0
+**Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
+
 * Lots of new spaceships to buy, see, fly and battle with
 * Bug fixes
 * Improvements to space combat
@@ -42,6 +46,8 @@ Running commentary of what I am planning for the next version.
 * Changed the fabrication table to ammo workbench
 * Removed extra and redundant ammo workbench
 * New Workbenches Essential Framework NWEF - multiple patches updated
+
+<details>
 
 ### Updated
 * AKM
@@ -109,6 +115,8 @@ Running commentary of what I am planning for the next version.
 * High-Resolution Planet Textures
 * Preview Spaceship Interior
 * Trees Rescaled (VolaticWolf)
+
+</details>
 
 ## Version 3.3.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
