@@ -310,9 +310,7 @@ Outpost object rotation can now be done by moving around the object, as well as 
 * [Landing Bay Cargo Access](https://www.nexusmods.com/starfield/mods/11972) Adds an interactive cargo panel to each landing bay module, allowing you to access your ship's cargo hold remotely - at your ship, but outside your ship. If the cargo panel doesn't show up on your ship, you may have to refresh your ship's landing bay cell by modifying your ship in the ship builder.
 * [Polyamory - Remove single romance limit](https://www.nexusmods.com/starfield/mods/10687) Removes the restriction on multiple companion romances.
 * [Human Damage (Just a Flesh Wound - Bullet in the Head)](https://www.nexusmods.com/starfield/mods/12603) Changes the damage multiple for the different areas of body parts of humans to make the game more fun and rewards better aiming. Headshot multiplier is set to x10 which means headshots are deadly for you and most enemies, some bosses might take 2 or 3 headshots to kill them. If you want to change this, choose a different multiplier from the 49.1 GENERAL COMBAT - OPTIONAL section.
-* [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) has been configured to not show stealth meters for immersion, see the mod page for how to configure this to your tastes. Crosshairs have also been disabled, these can be displayed by changing the game 'interface' setting.
 * [Starware Search Engine - SFSE](https://www.nexusmods.com/starfield/mods/13643) Implements a search engine to the Galaxy StarMap Menu, allowing you to find any location and planet within seconds. Press 'q' in the starmap to use.
-* [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465) overhauls the gameplay in many ways. Additional control keys - Sensor Array mod for helmets adds Night Vision. The default key to activate is "N". There is a new menu to swap attachments (ammo, muzzle, scope and firing mode) without the need of a workbench. The default key to bring up the menu is "B". 
 * [Fast Spacesuit Deployment Kit](https://www.nexusmods.com/starfield/mods/8229) This mod gives you a toolkit that can be called from the Favorite menu, and automatically equip/unequip your current spacesuit. Whether to wear a spacesuit and helmet, now is your call. To use, go straight to Laredo Firearms located at the Akila City, on the front counter, you can see the Fast Spacesuit Deployment Kit. Pick it up (the vendor also sells it), in your inventory, go to the Aid category, and add it to one of your Favorite slots. Whenever you press that hotkey, it will equip/unequip your current spacesuit. If you are wearing a spacesuit, it will remember them when unequipping, so the next time you use the item, it will equip back exactly the last spacesuits you had in your inventory. Nothing will happen if you are not wearing spacesuits or you take the spacesuit out of your inventory after the last unequipping.
 * [Change Your Outfit](https://www.nexusmods.com/starfield/mods/14484) This mod transforms mannequins into fully interactive outfit stations. Instead of just displaying what you’ve stored, you can swap outfits with mannequins on the fly—perfect for players who roleplay different moods, story arcs, or faction allegiances and want to change their look instantly, immersively.
 * [Leave No Witnesses](https://www.nexusmods.com/starfield/mods/12000) This mod removes the 30-second time limit and tracks all crimes you commit against ships, so that it is now possible to commit piracy or outright murder against ships in space and suffer no bounty - as long as you leave no witnesses.
@@ -327,15 +325,6 @@ Outpost object rotation can now be done by moving around the object, as well as 
 # Recommended Settings
 **Gameplay Options**
 * Damage options - if you are finding it difficult, reduce the damage for a while until, you gain better equipment/gain perks
-* Other settings:
-![Settings4](https://github.com/user-attachments/assets/379013e3-e7b1-45b3-9b97-7378f2545912)
-
-    * Change this to simulated if you disable Real Fuel.
-
-* The following other recommended settings are already selected but be aware these will make the game much more challenging and rewarding, you can change if you are finding the game too hard:
-![Settings1](https://github.com/user-attachments/assets/c91a2c9f-99a5-46ee-aba2-bdf30dfa07dc)
-![Settings2](https://github.com/user-attachments/assets/998889e4-5cb0-4e72-a47e-9007c9c662e0)
-![Settings3](https://github.com/user-attachments/assets/a2539e0d-ff88-41c5-944b-ed4bcd6f5b34)
 
 **Display**
 * Contrast set to 0.93 then adjust brightness to whatever value you prefer, I have mine set to 2.41.
@@ -346,10 +335,6 @@ Outpost object rotation can now be done by moving around the object, as well as 
   * Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).   
 * Film Grain Intensity set to zero
 
-**Enabling Enemy Healthbars**
-
-Enable these and other UI elements that have been disabled by using [StarUI Configuator](https://www.nexusmods.com/starfield/mods/5467), which is already installed as part of this list.
-
 ## Note for Content Creators
 
 Some of the added music in the list might not be allowed to be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend disabling in-game music by lowering the volume to 0% in the audio settings.
@@ -357,11 +342,8 @@ Some of the added music in the list might not be allowed to be played on YouTube
 ## Known Issues
 
 1. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping/missing body parts in both the preview and in game views. Choose a different combination of outfits if this occurs.
-2. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load an earlier save.
-3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
+2. 3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
 4. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
-5. Added spaceships by the optional mod Community Spaceship Expansion not having working ladders or exit hatches. To fix this, change something in the shipbuilder e.g. add a light or some other small change and it will work as intended. **only affects 3.4.0 BETA***
-6. Mod Preview Spaceship Interior can create a duplicate of the ship you're modifying, save, exit and reload fixes this. **fixed in 3.4.0**
 
 ## Troubleshooting
 
@@ -381,61 +363,10 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-**3.4.0**
-
-**Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
-
-* Lots of new spaceships to buy, see, fly and battle with
-* Bug fixes
-* Improvements to space combat
-* Added armours and clothing (thanks to Evanidus14 for the patches)
-* Visual improvements
-* Removed XPL ammo and rocket launchers from Spacers and Crimson Fleet
-* Reduced spaceship docking and looting distance to 55 to make performing these actions more immersive
-* Re-added key commands to rotate objects in outpost builder
-* Changed the fabrication table to ammo workbench
-* Removed extra and redundant ammo workbench
-* New Workbenches Essential Framework NWEF - multiple patches updated
-
-[Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
-
-## Updating the Modlist
-
-Before updating the modlist, check the [changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md) and it is advisable to back up your saves first. It will state in the changelog if you need to start a new game after certain updates.
-
-**Updating to version 3.2.0 or later from previous versions. It is required to install into a new folder, as there are significant changes.**
-
-It is recommended that before updating to save the game whilst you are in space, doing nothing, sat in the cockpit, doing zero speed.
-
-Any mods you have added to the list will be deleted and other changes you have made will be overwritten. If you want to keep additional mods you have added, add `[NoDelete]` before the mod name in the left hand pane of MO2.
-![NoDelete prefix](https://github.com/user-attachments/assets/e9d88441-20be-45a2-a4dc-ad59a7a9a385)
-
-Updating is the same process as installing the list. Make sure your paths are the same. 
-
-If you get a message like the below, choose 'No'
-![Missing content](https://github.com/user-attachments/assets/60522711-6dde-46b1-a8e6-c006d28eca17)
-
-If the update has removed any mods, you'll get the following message, choose 'Yes'
-![Content not present](https://github.com/user-attachments/assets/d66fafc1-2c54-4adf-9b72-a52b55667c1b)
-
-If you are asked to use saved or current load order, choose current.
-
 ## FAQ (Frequently Asked Questions)
-**Q. I have a yellow bit in my health bar and am unable to get full health.**
-
-A. This is environmental Damage, you will need to see a doctor or use nanobot injectors to heal this. You will get a random amount of environmental damage when starting the game without using SKK fast start.
-
-**Q. Is this modlist compatible with Watchtower.**
-
-A. Not currently, as Watchtower requires the latest version of Starfield. It will be compatible once Melius gets updated.
-
 **Q. All my grav jumps are switching to cockpit (first person)? Any way to change that to 3rd person?**
 
 A. Download the 3rd person version of [Grav Jump Reanimated](https://www.nexusmods.com/starfield/mods/14528?tab=files) mod and replace the current version. 
-
-**Q. How do I enable enemy health bars?**
-
-A. Enable these and other UI elements that have been disabled by using [StarUI Configuator](https://www.nexusmods.com/starfield/mods/5467), which is already installed as part of this list..
 
 **Q. I'm dying too easily, how do I change the difficulty?**
 
@@ -477,9 +408,6 @@ Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 * ElminsterAU for xEdit.
 * [Bhaeron](https://next.nexusmods.com/profile/Bhaeron?gameId=4187) for a massive amount of contribution, too much to list here.
 * Padi for being the Discord guru and making the Melius server what it is. DrukenReaps and Arkangel for moderating the server and keeping everyone in line, including myself.
-* Pyke Lermon, EccentricMeat, Sithishade, [0Bek](https://next.nexusmods.com/profile/0Bek), DrukenReaps, Chris and anyone else on the Melius Discord server for mod suggestions and contributions.
-* [AvatarV](https://www.youtube.com/@AvatarV/videos) for allowing us to use his amazing in game photos.
-* NeuroticNinjah for creating the Melius MO2 splash screen and the top Nexus banner image.
 * [ultramatt](https://www.nexusmods.com/starfield/mods/15126) for their ini settings and visual suggestions.
 * Anyone who tries this list.
 
