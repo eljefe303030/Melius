@@ -5,7 +5,7 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
 
 <p align="center">
-    <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
+    <a href="https://discord.gg/ZyakMg7CGN">Discord</a>
   
 <p align="center">
   <a href="https://ko-fi.com/eljefe303030">Ko-fi</a>
