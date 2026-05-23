@@ -57,7 +57,7 @@ Combat is much more challenging than vanilla Starfield. Headshots are more deadl
 
 ## Modlist
 
-The full list of mods can be found on 
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/the-hardline-protocol)
 
 ## Requirements
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!). Better still, if you're using an AMD card, use [OptiScaler](https://github.com/optiscaler/OptiScaler) but I cannot offer any support in getting OptiScaler working for you.
