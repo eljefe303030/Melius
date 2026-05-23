@@ -1,5 +1,5 @@
 # **Melius**
-![Melius logo](https://github.com/eljefe303030/Melius/blob/80ef279772736b740a9aca09a0ea66ef2bc23e0b/assets/images/Melius%20banner.webp)
+![THP logo](https://github.com/eljefe303030/Melius/blob/948cc5ed4249f9889d0b1643fb8385deeefe297d/THP/assets/images/THP%20banner.png)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
