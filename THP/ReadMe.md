@@ -15,7 +15,7 @@
 ## Please read ALL of this document before installing/playing the list.
 
 ## Important 
-This version of Melius will downgrade your game to version 1.15.222, which is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for xEdit to be updated and a few mods to be updated, as currently I would not be able to produce a stable list that meets the required level of quality I would expect.
+This is an early version of this list, expect bugs, consistency issues and unbalanced mechanics. Feedback on any aspect of the list is welcome.
 
 # Contents List
 
