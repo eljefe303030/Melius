@@ -63,7 +63,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!). Better still, if you're using an AMD card, use [OptiScaler](https://github.com/optiscaler/OptiScaler) but I cannot offer any support in getting OptiScaler working for you.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
-* You need the latest Steam version (1.16.242) of the game and the Shattered Space DLC.
+* You need the latest Steam version (1.16.242) of the game and both the Shattered Space and Terran Armada DLCs.
 
 ## Pre-installation Steps
 1. Install [Microsoft .NET v8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) and [Microsoft Visual C++ 2019 Runtime](https://aka.ms/vs/16/release/vc_redist.x64.exe).
@@ -89,8 +89,8 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 ## Using Wabbajack
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, e.g. C:\Wabbajack
-2. Create the installation folder e.g. C:\Melius
-4. Create the mod download folder e.g. C:\Melius Mod Downloads. The download folder can be on a different drive. This can be deleted after the installation has completed but is not advised, as if you want to update or reinstall, you'll need to redownload all the mods again.
+2. Create the installation folder e.g. C:\THP
+4. Create the mod download folder e.g. C:\THP Mod Downloads. The download folder can be on a different drive. This can be deleted after the installation has completed but is not advised, as if you want to update or reinstall, you'll need to redownload all the mods again.
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
 7. Make sure you are logged into Nexus. Click on the gear icon in the bottom left hand corner and click login to Nexus Mods.
@@ -120,11 +120,11 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
    ![Premium Edition files1](https://github.com/user-attachments/assets/8f32cb9c-7b39-4df2-9f65-0f3a92d333a0)
    ![Premium Edition files2](https://github.com/user-attachments/assets/d0829801-533a-4e1e-8111-26b78fa91300)
 
-3. There are two profiles to choose from, the standard 'Melius' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\hallm\Documents\My Games\Starfield\Saves` which enables you to switch between profiles to find the best for your hardware.
+3. There are two profiles to choose from, the standard 'Melius' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\YOURUSERNAME\Documents\My Games\Starfield\Saves` which enables you to switch between profiles to find the best for your hardware.
 
    ![Profiles](https://github.com/eljefe303030/Melius/blob/0d376ae94175e81522c04af8f79bfb1994c3a4a1/assets/images/Profiles.jpg)
 
-4. Only launch Melius through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
+4. Only launch THP through MO2 via the 'Starfield SFSE'. **Do not start through Steam or by selecting Starfield in MO2**, as this will result in mods not working.
 ![start SFSE](https://github.com/user-attachments/assets/101caa91-dba3-4620-95ba-1a60a22f48e9)
 > [!IMPORTANT]
 > 5. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a couple of minutes to start, this is normal.
