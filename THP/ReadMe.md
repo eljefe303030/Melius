@@ -176,8 +176,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Auto Hide HUD and Widgets - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8946)|SFSE plugin that grants you full control over the HUD's visibility.||Yes|
 |[Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE](https://www.nexusmods.com/starfield/mods/7432)|Lets you determine under what conditions your Spacesuit is hidden. Also aims to fix some of the relevant vanilla bugs.|Enabling this mod will pretty much make 'Fast Spacesuit Deployment Kit' mod redundant, as it takes away the manual control of when your spacesuit is displayed.|Yes|
 |[Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606)|FSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory.|Some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.|Yes|
-|[Auto Unlock - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/5571)|Auto unlock doors, containers and terminals (including inaccessible) if you have the required perks.|**Enabled by default**|Yes|
-|[Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048)|SFSE plugin that makes gravity affect inventory/carry weight.||Yes|
 |[Native Ultrawide Menus - SFSE - Resource](https://www.nexusmods.com/starfield/mods/9410)||The Creations menu is not functional while having this mod active (buttons are misaligned)|Yes|
 |[No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684)|Disables the auto handbrake, use the 'ctrl' key|For controller users, you will need to map the 'ctrl' key to your controller [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|Yes|
 |[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|Ini provided to change settings, see mod page for more details.|Yes|
@@ -203,12 +201,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |---|---|---|---|
 |Selection of Ultra Widescreen mods|||Yes|
 
-**7.1 MENU & LOADING SCREENS**
-|Mod|Description|Comments|Safe to enable/disable mid save|
-|---|---|---|---|
-|[Melius - Main Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/12860)|Original Melius main menu background of an animated starfield.||Yes|
-|[Melius - Pause Menu Background - MELIUS ORIGINAL](https://www.nexusmods.com/starfield/mods/13232)|Original Melius pause menu background.||Yes|
-
 **07.1a MENU & LOADING SCREENS - ULTRA WIDESCREEN**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
@@ -231,12 +223,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740)|Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS).|Has an optional 'less bright' version **this will overwrite the 1st person flashlight mods**|Yes|
 |[Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984)|Provides a nice looking cross type flashlight texture.|Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods. **enabled by default**|Yes|
 
-**34.1 IMMERSION**
-|Mod|Description|Comments|Safe to enable/disable mid save|
-|---|---|---|---|
-|[Simple Immersive Helmets - 2K](https://www.nexusmods.com/starfield/mods/4930)|Adds an overlay to the screen when wearing a helmet to provide reflections, as you could expect when having glass in front of you.|Can cause a performance hit of around 5 FPS, enable this if you can spare those extra 5 FPS. The related patches will do nothing once you start the game after disabling this mod and can be safely left enabled|Yes|
-|[Simple Immersive Helmets - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/13353)|Does the same as above but for the DLC.||Yes|
-
 **43.1 OUTPOST BUILDING**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
@@ -247,19 +233,14 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Astrogate](https://www.nexusmods.com/starfield/mods/9363)|Immersive way to fly ships between systems and planets. Choice of FTL and Autopilot.|Enable the two related files for best experience. *Read the descriptions of the settings in the main game menu, as some settings have the potential to prevent some quests from starting.* Recommended that you disable the following mods if using this; More Immersive Landings And Takeoffs & More Visualized Docking - Vanilla Enhanced & Default Speed.|No|
-|[Community Spaceship Expansion](https://www.nexusmods.com/starfield/mods/14174)|Adding 46 new unique ships to the ship spawns, with each coming in three variants and for different factions, totalling in over 428 new ships added to the spawns!|Some added spaceships do not having working ladders or exit hatches. To fix this, change something in the shipbuilder e.g. add a light or some other small change and it will work as intended. Ships affected include Corsair III, Dragonfly & The Minuteman. Enable the related patch 'Community Spaceship Expansion - Buyable Ships' to add them to vendors.|Yes but make sure you don't own any of the added ships before disabling|
-|A selection of mods that remove the limits for engine power, shield and weapons. Using these mods makes building more unique and bigger spaceships easier but could be considered cheating and can result in overpowered spaceships.|||Yes but do not disable if you have used this on your ships|
 |[Seizure Of Ships - Take Over Restricted Ships](https://www.nexusmods.com/starfield/mods/5212)|This mod removes the restriction on ships' pilot seats, so that you are no longer blocked from commandeering certain ships.|Warning, taking over some restricted ships can break quests or the game as a whole.|Enable mid save but do not disable mid save.|
 |[TNShipModsAllInOne_NO_PDY_Patch](https://www.nexusmods.com/starfield/mods/6376)|Disable this patch if you want to enable TN's version of place doors yourself, which can be found in the 'Utility' category of the Ship Builder.|Use with caution, make a save before making alterations to your ship's doors/ladders. **enabled by default**|Yes but do not disable if you have used this on your ships|
 
 **49.1 GENERAL COMBAT**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Better Locational Damage](https://www.nexusmods.com/starfield/mods/132860)|Adds a mechanic that means a well-placed shot can be deadly. If an enemy isn’t wearing a helmet, a single shot to the head will kill them swiftly and painlessly.|Use this mod to make headshots to you produce vanilla levels of damage i.e. you won't die as quickly if on the receiving end of a headshot. **if using, enable the 'Better Locational Damage - Human Damage - Patch' mod too**.|Enable mid save but do not disable mid save.|
 |[Doubled Enemy Numbers - No Robots](https://www.nexusmods.com/starfield/mods/6030)|Enemy numbers in most abandoned, deserted, forgotten places are doubled.||Yes|
 |El Jefe Combat AI Stealth Patch.|Enabling this will make stealth play more viable but will reduce enemy awareness and therefore make the game easier and less realistic.||Yes|
-|[Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833)|Gorefield gives you a set of gameplay options that allow you to turn on special gory death effects for NPCs.|Recommended to disable the headshot feature of this mod, in the gameplay settings, if using with the mod Better Locational Damage.|Enable mid save but do not disable mid save.|
 |[Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603)|Choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.||Yes|
 |[Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096)|Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you.|**Enabled by default**|Yes|
 
@@ -291,7 +272,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 </details>
   
 ### Manual Installations
-1. Since version 1.3.0 of this modlist, a lot of HD texture mods have been removed to help reduce the mod list download size and make the list more performance friendly. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough. Place the plugin for this mod at the top of the load order in the right hand window.
+1. If you would like to have the best possible graphics, I highly recommend you use the [Starfield HD Overhaul mod](https://www.nexusmods.com/starfield/mods/5124). This is save safe to add or remove during a playthrough. Place the plugin for this mod at the top of the load order in the right hand window.
 
 ### Modifications to the modlist
 Any modifications you make to the modlist, other than the optional mods listed above, are unsupported. I would be interested to hear if you have any recommendations for mods, let me know in my Discord server.
@@ -309,8 +290,7 @@ Outpost object rotation can now be done by moving around the object, as well as 
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
 |R| Reload|Manual Reload Console Command Runner Updated Edition|Optional Mod. For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
-|N| Active night vision|Serenity of Stars|Need to add sensor array mod to helmets first| 
-|B|Ammo and attachment swapping|Serenity of Stars| |
+|N| Active night vision|NightVision|Need to add sensor array mod to helmets first| 
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
 |V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a land vehicle|
 |Ctrl|Handbrake|No Vehicle Auto Handbrake - SFSE|Optional Mod. Whilst driving a land vehicle.|
