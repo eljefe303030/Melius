@@ -5,11 +5,8 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
 
 <p align="center">
-  <a href="https://www.nexusmods.com/starfield/mods/12658">Nexus Page</a> |
-  <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
-  <a href="https://loadorderlibrary.com/lists/melius-3">Full Modlist</a> |
-  <a href="https://github.com/eljefe303030/Melius/blob/main/changelog.md">Changelog</a>
-
+    <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
+  
 <p align="center">
   <a href="https://ko-fi.com/eljefe303030">Ko-fi</a>
   
