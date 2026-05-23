@@ -49,7 +49,7 @@ This is an early version of this list, expect bugs, consistency issues and unbal
 </details>
 
 # Preamble
-Melius is a Starfield Wabbajack mod list based on [melik173's](https://next.nexusmods.com/profile/melik173?gameId=4187) excellent [Serenity of Stars - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/13465), which imitates Requiem and Requiem - 3BFTweaks for Skyrim and applies this to Starfield. Melius includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
+The Hardline Protocol is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
 
 Stability and balanced gameplay that is challenging but rewarding are key aims of this list. 
 
@@ -57,7 +57,7 @@ Combat is much more challenging than vanilla Starfield. Headshots are more deadl
 
 ## Modlist
 
-The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/melius-3)
+The full list of mods can be found on 
 
 ## Requirements
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!). Better still, if you're using an AMD card, use [OptiScaler](https://github.com/optiscaler/OptiScaler) but I cannot offer any support in getting OptiScaler working for you.
