@@ -51,7 +51,7 @@ This is an early version of this list, expect bugs, consistency issues and unbal
 # Preamble
 The Hardline Protocol is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
 
-Stability and balanced gameplay that is challenging but rewarding are key aims of this list. 
+Stability and balanced gameplay that is challenging but rewarding are key aims of this list. The list is designed to be enjoyable up to the end game. There is more purpose to collect, craft and modify items.
 
 Combat is much more challenging than vanilla Starfield. Headshots are more deadly for the player and enemies. When first starting the game you may wish to choose to concentrate on non-combat missions to build experience, acquire better equipment and perks before taking on groups of better trained factions. For example, fighting Va’ruun will be more challenging than Spacers, use of cover and the need to retreat will be more important than before. The Gameplay Guide section of this ReadMe details how you can change the difficulty significantly by adjusting the Human Damage mod's multiplier and/or you may wish to change the main difficulty settings to your preferred level of challenge. 
 
