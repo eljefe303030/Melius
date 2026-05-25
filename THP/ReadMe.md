@@ -15,7 +15,7 @@
 ## Please read ALL of this document before installing/playing the list.
 
 ## Important 
-This is an early version of this list, expect bugs, consistency issues and unbalanced mechanics. Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon. Feedback on any aspect of the list is welcome.
+This is an early version of this list, expect bugs, consistency issues and unbalanced mechanics. Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon and I'll address this soon. Feedback on any aspect of the list is welcome.
 
 # Contents List
 
