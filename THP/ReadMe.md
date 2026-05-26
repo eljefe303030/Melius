@@ -5,7 +5,10 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
 
 <p align="center">
-    <a href="https://discord.gg/ZyakMg7CGN">Discord</a>
+    <a href="https://www.nexusmods.com/starfield/mods/17249">Nexus Page</a> |
+  <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
+  <a href="https://loadorderlibrary.com/lists/the-hardline-protocol">Full Modlist</a> |
+  <a href="https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md">Changelog</a>
   
 <p align="center">
   <a href="https://ko-fi.com/eljefe303030">Ko-fi</a>
