@@ -94,7 +94,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 5. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program
 6. After the install has completed, run Wabbajack.exe once more
 7. Make sure you are logged into Nexus. Click on the gear icon in the bottom left hand corner and click login to Nexus Mods.
-8. Browse the Starfield modlists to choose Melius.
+8. Browse the Starfield modlists to choose THP.
 9. Choose the Mod Installation Location and Downloads Location paths you set earlier for the installation and mod download folders.
 10. Click the **Install** button to start the installation.
 11. If you have a premium Nexus membership, it will install automatically, if you don't, you will have to click slow download for each and every mod.
@@ -111,10 +111,10 @@ The list uses Kezyma's Root Builder to keep the game root folder clean. Any mod 
 ### Stock Game 
 *For your information only, this step is done automatically* 
 
-Melius uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required to install this list, as the game files are not redistributed). The folder in question is called Stock Game, located at Melius\Stock Game. If Starfield is updated on Steam, you can continue to play this list (as long as you already had it installed), without it breaking due to updates.
+THP uses the Stock Game method. This is essentially a copy of Starfield included with the installation folder. This means that everything is completely separate from your Steam installation of Starfield (which is still required to install this list, as the game files are not redistributed). The folder in question is called Stock Game, located at THP\Stock Game. If Starfield is updated on Steam, you can continue to play this list (as long as you already had it installed), without it breaking due to updates.
 
 ### Starting Mod Organizer 2
-1. Launch ModOrganizer.exe in the Melius installation folder. If you get a popup asking about nxm links. Click Yes.
+1. Launch ModOrganizer.exe in the THP installation folder. If you get a popup asking about nxm links. Click Yes.
 2. You can safely ignore any missing masters error messages. Any mods than depend on the Constellation or Old Mars skins that you get with the Premium Edition of Starfield will be automatically disabled the first time you run the list. If you have the Constellation and Old Mars skins, copy the files over to the Stock Game/Data folder before starting the list for the first time.
 
    ![Premium Edition files1](https://github.com/user-attachments/assets/8f32cb9c-7b39-4df2-9f65-0f3a92d333a0)
