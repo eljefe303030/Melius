@@ -49,7 +49,7 @@ This is an early version of this list, expect bugs, consistency issues and unbal
 </details>
 
 # Preamble
-The Hardline Protocol is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
+The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
 
 Stability and balanced gameplay that is challenging but rewarding are key aims of this list. The list is designed to be enjoyable up to the end game. There is more purpose to collect, craft and modify items.
 
