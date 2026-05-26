@@ -120,7 +120,7 @@ Melius uses the Stock Game method. This is essentially a copy of Starfield inclu
    ![Premium Edition files1](https://github.com/user-attachments/assets/8f32cb9c-7b39-4df2-9f65-0f3a92d333a0)
    ![Premium Edition files2](https://github.com/user-attachments/assets/d0829801-533a-4e1e-8111-26b78fa91300)
 
-3. There are two profiles to choose from, the standard 'Melius' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\YOURUSERNAME\Documents\My Games\Starfield\Saves` which enables you to switch between profiles to find the best for your hardware.
+3. There are two profiles to choose from, the standard 'THP' and the 'Performance Friendly' profiles. Both profiles share the same game saves, which are located in `\Users\YOURUSERNAME\Documents\My Games\Starfield\Saves` which enables you to switch between profiles to find the best for your hardware.
 
    ![Profiles](https://github.com/eljefe303030/Melius/blob/0d376ae94175e81522c04af8f79bfb1994c3a4a1/assets/images/Profiles.jpg)
 
