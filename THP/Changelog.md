@@ -13,6 +13,7 @@
 Running commentary of what I am planning for the next version. 
 
 * Fixed settings for Extremophile and Atmospheric Audio not being set.
+* Disabled CharGenMenu, as started to experiance crashes. Might not be related to the actual mod. I need to investigate further.
 
 ## Version 0.5 Alpha1
 **First release**
