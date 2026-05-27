@@ -133,12 +133,8 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 > 5. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a couple of minutes to start, this is normal.
 6. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
 
-> [!IMPORTANT]
-> 7. When you first start a game the following message will be displayed saying achievements have been disabled, this is not true and achievements will still work, press the 'YES' button to continue:
-> <img width="999" height="285" alt="image" src="https://github.com/user-attachments/assets/3deae6bd-2806-4313-864c-46a1d7a1fa63" />
-
-8. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
-9. The recommended game settings have already been selected for you. See the [Recommended Settings](#recommended-settings) section for more details.
+7. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+8. The recommended game settings have already been selected for you. See the [Recommended Settings](#recommended-settings) section for more details.
 
 ## Important mods you should know about
 
