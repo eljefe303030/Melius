@@ -231,9 +231,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **43.1 OUTPOST BUILDING**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Aurie's Build with Credits - BWC](https://www.nexusmods.com/starfield/mods/11890)|Allows you to build most outpost/ship objects with credits instead of resources.||Yes|
-|[BMX Outpost Framework - Build with Credits Patch](https://www.nexusmods.com/starfield/mods/13896)|Includes items added in the BMX Outpost Framework to also to be built with credits instead of resources.||Yes|
-|Patches for the above two mods to include more items.|||Yes|
+|Selection of mods that allows you to build most items with credits instead of resources|||Yes|
 
 **44.1 SPACECRAFT & VEHICLES - OVERHAULS & MECHANICS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
