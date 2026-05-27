@@ -165,6 +165,7 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 20. [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) A mod for people who want things to feel a little more hands-on, when it comes to your ship, like other popular space sims.
 21. [Balanced Ballistics](https://www.nexusmods.com/starfield/mods/8541) Lightweight rebalance of damage and recoil characteristics for ballistic and laser weapons.
 22. [Apotheosis - Powers Overhaul](https://www.nexusmods.com/starfield/mods/12984) This mod overhauls how the Starborn powers are activated and adds a Starpower perk tree.
+23. [Atmospheric Audio](https://www.nexusmods.com/starfield/mods/16239) This mod runs a detection system in the background that adjusts the audio mix based on where you are. Inside a sealed station or your ship, everything sounds normal. Step outside onto an airless surface and the mix shifts, sounds become muffled, like you're out there in a suit with limited audio feedback. 
  
 ## Optional Mods
 
