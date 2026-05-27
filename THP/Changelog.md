@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 0.5.1 Alpha2 (released 27/05/26)](#version-0.5.1-alpha2)
 * [Version 0.5 Alpha1 (released 26/05/26)](#version-0.5-alpha1)
 
 </details>
@@ -12,8 +13,15 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 0.5.1 Alpha2
+**Bug fixes**
+
+* Fixed random crash on character creation screen
+* Fixed Praedy's SF spacesuits bot working
 * Fixed settings for Extremophile and Atmospheric Audio not being set.
-* Disabled CharGenMenu, as started to experiance crashes at the character creation screen. Might not be related to the actual mod. I need to investigate further.
+
+### Removed
+* Extended Facial Sculpting
 
 ## Version 0.5 Alpha1
 **First release**
