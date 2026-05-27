@@ -163,9 +163,11 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 18. [Starfield Extended - Craftable Quality](https://www.nexusmods.com/starfield/mods/5721) This mod makes weapons and spacesuits quality level craftable like other mods at the weapon and spacesuit benches.
 19. [Flashy(JoeR) - Receiver Failures](https://www.nexusmods.com/starfield/mods/16593) Adds a new gameplay mechanic where your guns could possibly break, rendering them useless until you repair them at a weapons bench.
 20. [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) A mod for people who want things to feel a little more hands-on, when it comes to your ship, like other popular space sims.
-21. [Balanced Ballistics](https://www.nexusmods.com/starfield/mods/8541) Lightweight rebalance of damage and recoil characteristics for ballistic and laser weapons.
-22. [Apotheosis - Powers Overhaul](https://www.nexusmods.com/starfield/mods/12984) This mod overhauls how the Starborn powers are activated and adds a Starpower perk tree.
-23. [Atmospheric Audio](https://www.nexusmods.com/starfield/mods/16239) This mod runs a detection system in the background that adjusts the audio mix based on where you are. Inside a sealed station or your ship, everything sounds normal. Step outside onto an airless surface and the mix shifts, sounds become muffled, like you're out there in a suit with limited audio feedback. 
+21. [Flashy(JoeR) - Hardcore Encumbrance](https://www.nexusmods.com/starfield/mods/16763) Adds "realism-adjacent" modifiers to carry capacity and the effects of encumbrance. 
+22. [Balanced Ballistics](https://www.nexusmods.com/starfield/mods/8541) Lightweight rebalance of damage and recoil characteristics for ballistic and laser weapons.
+23. [Apotheosis - Powers Overhaul](https://www.nexusmods.com/starfield/mods/12984) This mod overhauls how the Starborn powers are activated and adds a Starpower perk tree.
+24. [Atmospheric Audio](https://www.nexusmods.com/starfield/mods/16239) This mod runs a detection system in the background that adjusts the audio mix based on where you are. Inside a sealed station or your ship, everything sounds normal. Step outside onto an airless surface and the mix shifts, sounds become muffled, like you're out there in a suit with limited audio feedback.
+25. [Magic Boost Disabler - Immersive Boost Pack Behavior](https://www.nexusmods.com/starfield/mods/12776) Prevents Boost Packs from magically appearing when your spacesuit is hidden.
  
 ## Optional Mods
 
