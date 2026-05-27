@@ -17,7 +17,7 @@ Running commentary of what I am planning for the next version.
 **Bug fixes**
 
 * Fixed random crash on character creation screen
-* Fixed Praedy's SF spacesuits bot working
+* Fixed Praedy's SF spacesuits not showing
 * Fixed settings for Extremophile and Atmospheric Audio not being set.
 
 ### Updated
