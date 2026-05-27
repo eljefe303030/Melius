@@ -346,6 +346,7 @@ Some of the added music in the list might not be allowed to be played on YouTube
 1. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping/missing body parts in both the preview and in game views. Choose a different combination of outfits if this occurs.
 2. 3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
 4. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
+5. The mod rbtFONTS - Modern Replacer Collection causes crashing when exiting the Creations menu. Please disable it before doing any management of your installed Creations. It has not been reported to cause any issues in gameplay. 
 
 ## Troubleshooting
 
