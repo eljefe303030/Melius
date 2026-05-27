@@ -303,6 +303,7 @@ Outpost object rotation can now be done by moving around the object, as well as 
 |0|Ship balanced preset|Ship Power Control Tweaks| |
 |[{|Ship escape preset|Ship Power Control Tweaks| |
 
+### Other Gameplay Changes To Be Aware Of
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
 * [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
 * [Auto Hide HUD and Widgets - SFSE](https://www.nexusmods.com/starfield/mods/8946) The Hud and Widgets are automatically hidden when not needed. See the mod's page for details on how you can change the behaviour of this mod.
