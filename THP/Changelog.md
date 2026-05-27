@@ -20,6 +20,9 @@ Running commentary of what I am planning for the next version.
 * Fixed Praedy's SF spacesuits bot working
 * Fixed settings for Extremophile and Atmospheric Audio not being set.
 
+### Updated
+* Flashy(JoeR) - Spaceships Plus
+
 ### Removed
 * Extended Facial Sculpting
 
