@@ -20,6 +20,8 @@
 ## Important 
 This is an early version of this list, expect bugs, consistency issues and unbalanced mechanics. This ReadMe is also a draft and will need to be updated. Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon and I'll address this soon. Feedback on any aspect of the list is welcome.
 
+Currently the mod CharGenMenu can cause random crashes when entering the character creation screen. I recommend disabling this mod, especially if you are starting the game without an alternative start mod. You can always ensble the mod later on and visit Enhance to load presets.
+
 # Contents List
 
 <details>
