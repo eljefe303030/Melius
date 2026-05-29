@@ -20,7 +20,7 @@
 ## Important 
 This is an early version of this list, expect bugs, consistency issues and unbalanced mechanics. This ReadMe is also a draft and will need to be updated. Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon and I'll address this soon. Feedback on any aspect of the list is welcome.
 
-Currently the mod CharGenMenu can cause random crashes when entering the character creation screen. I recommend disabling this mod, especially if you are starting the game without an alternative start mod. You can always ensble the mod later on and visit Enhance to load presets.
+Currently the mod CharGenMenu can cause random crashes when entering the character creation screen. I recommend disabling this mod, especially if you are starting the game without an alternative start mod. You can always enable the mod later on and visit Enhance to load presets.
 
 # Contents List
 
@@ -198,6 +198,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |---|---|---|---|
 |[Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478)|Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.||Yes|
 |[Bigger Systems - Expanded Star Maps](https://www.nexusmods.com/starfield/mods/14256)|This mod expands the scale of planetary systems on the starmap, creating the illusion of much larger and more realistic distances between celestial bodies.|**Enabled by default**|Yes|
+|[CharGenMenu](https://www.nexusmods.com/starfield/mods/6850)|Modifies the vanilla CharGenMenu to show numbers, compacts vertical space to show more sliders, adds JSON presets, and more. **Can cause random crashes in the character creation screen. Recommended to keep this mod disabled, especially if you are starting the game without an alternative start mod. You can always enable the mod later on and visit Enhance to load presets.|Yes|
 |[Favorites Menu Extended - SFSE](https://www.nexusmods.com/starfield/mods/14314)|SFSE mod that let's you have up to 24 Favorite Items.|Does not always work well with controllers.|Yes|
 |No Scanner Circle and Vignette - No Crosshair patch.|Removes the crosshair in scanner view.|**Enabled by default**|Yes|
 |[Replace Circle Cursor](https://www.nexusmods.com/starfield/mods/1297)|Removes the circle cursor from the game and replace it with the regular pointer cursor.|**Enabled by default**, recommended to disable if playing with controller|Yes|
