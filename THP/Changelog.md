@@ -17,6 +17,7 @@ Bug fixes, patches and load order improvements.
 
 ### Added
 * Alternate Recoil Animations
+* Castle Rocks Mountain Biome
 * Concept Art Inspired Pirate Gear (Crimson Fleet Retexture)
 * Immersive Pirate Gear - Redone (Crimson Fleet Retexture)
 * Real Frozen Mountains
