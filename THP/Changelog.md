@@ -13,6 +13,27 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+Bug fixes, patches and load order improvements.
+
+### Added
+* Alternate Recoil Animations
+* Concept Art Inspired Pirate Gear (Crimson Fleet Retexture)
+* Immersive Pirate Gear - Redone (Crimson Fleet Retexture)
+* Real Frozen Mountains
+
+### Updated
+* Enemies Boarding My Ship
+* Flashy(JoeR) - Spaceships Plus
+* Scopes Without Overlays
+* The Slayton Solution - A short quest to unlock the SAL-6830 and Naeva's Outfit
+* THP - Delevelled
+
+### Removed
+* Dynamic Prison - Jail System
+* High Quality Mission Boards
+* Item Sorter - Better Weapon and Armor Names - Improved Naming Scheme
+* RTM's Engine Trail Fix
+
 ## Version 0.5.1 Alpha2
 **Bug fixes**
 
