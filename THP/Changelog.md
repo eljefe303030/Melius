@@ -21,13 +21,17 @@ Bug fixes, patches and load order improvements.
 * Concept Art Inspired Pirate Gear (Crimson Fleet Retexture)
 * Immersive Pirate Gear - Redone (Crimson Fleet Retexture)
 * Real Frozen Mountains
+* Volcanic Glacial Plateau - Biome Visual Transformation
 
 ### Updated
+* Cassiopeia Papyrus Extender
 * Enemies Boarding My Ship
 * Flashy(JoeR) - Spaceships Plus
 * Scopes Without Overlays
+* Starfield Engine Fixes - SFSE
 * The Slayton Solution - A short quest to unlock the SAL-6830 and Naeva's Outfit
 * THP - Delevelled
+* Venworks Open World Encounters Overhaul
 
 ### Removed
 * Dynamic Prison - Jail System
