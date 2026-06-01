@@ -28,6 +28,7 @@ Bug fixes, patches and load order improvements.
 * Enemies Boarding My Ship
 * Flashy(JoeR) - Spaceships Plus
 * Scopes Without Overlays
+* SFSE ASI Loader Updated
 * Starfield Engine Fixes - SFSE
 * The Slayton Solution - A short quest to unlock the SAL-6830 and Naeva's Outfit
 * THP - Delevelled
