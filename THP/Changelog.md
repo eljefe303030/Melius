@@ -15,6 +15,9 @@ Running commentary of what I am planning for the next version.
 
 Bug fixes, patches and load order improvements.
 
+### Fixed
+* Missing sounds for airlocks and hatches
+
 ### Added
 * Alternate Recoil Animations
 * Castle Rocks Mountain Biome
