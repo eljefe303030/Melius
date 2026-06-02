@@ -16,6 +16,7 @@ Running commentary of what I am planning for the next version.
 
 
 ## Version 1.0
+**Save game safe**
 Bug fixes, patches and load order improvements.
 
 <details>
