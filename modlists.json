@@ -49,5 +49,45 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-15T17:41:36.1757687Z",
     "repositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Hardcore Protocol",
+    "description": "The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics.",
+    "author": "eljefe",
+    "maintainers": [
+      "github/eljefe303030"
+    ],
+    "game": "starfield",
+    "tags": [
+      "Combat Overhaul",
+      "DLC Required",
+      "Hardcore",
+      "Steam",
+      "Survival",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/eljefe303030/Melius/refs/heads/main/THP/assets/images/THP169.webp",
+      "readme": "https://github.com/eljefe303030/Melius/blob/main/THP/ReadMe.md",
+      "download": "https://authored-files.wabbajack.org/The%20Hardline%20Protocol.1.0.wabbajack_b6913bd6-9423-41b9-ba1c-558902b898fc",
+      "machineURL": "thehardlineprotocol",
+      "discordURL": "https://discord.gg/ZyakMg7CGN"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "cVtHXXHXZPg=",
+      "Size": 18228669,
+      "NumberOfArchives": 731,
+      "SizeOfArchives": 190359491023,
+      "NumberOfInstalledFiles": 12886,
+      "SizeOfInstalledFiles": 203073971414
+    },
+    "version": "1.0"
   }
 ]
+
