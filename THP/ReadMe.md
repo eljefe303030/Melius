@@ -372,12 +372,9 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-**Version 0.5.1 Alpha2**
-
-Bug fixes
-* Fixed random crash on character creation screen
-* Fixed Praedy's SF spacesuits not showing
-* Fixed settings for Extremophile and Atmospheric Audio not being set.
+**Version 1.0**
+**Save game safe**
+Bug fixes, patches and load order improvements.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
 
