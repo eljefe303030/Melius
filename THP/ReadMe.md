@@ -17,11 +17,6 @@
 
 ## Please read ALL of this document before installing/playing the list.
 
-## Important 
-This is an early version of this list, expect bugs, consistency issues and unbalanced mechanics. This ReadMe is also a draft and will need to be updated. Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon and I'll address this soon. Feedback on any aspect of the list is welcome.
-
-Currently the mod CharGenMenu can cause random crashes when entering the character creation screen. I recommend disabling this mod, especially if you are starting the game without an alternative start mod. You can always enable the mod later on and visit Enhance to load presets.
-
 # Contents List
 
 <details>
@@ -59,6 +54,8 @@ The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardco
 Stability and balanced gameplay that is challenging but rewarding are key aims of this list. The list is designed to be enjoyable up to the end game. There is more purpose to collect, craft and modify items.
 
 Combat is much more challenging than vanilla Starfield. Headshots are more deadly for the player and enemies. When first starting the game you may wish to choose to concentrate on non-combat missions to build experience, acquire better equipment and perks before taking on groups of better trained factions. For example, fighting Va’ruun will be more challenging than Spacers, use of cover and the need to retreat will be more important than before. The Gameplay Guide section of this ReadMe details how you can change the difficulty significantly by adjusting the Human Damage mod's multiplier and/or you may wish to change the main difficulty settings to your preferred level of challenge. 
+
+Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon and I'll address this soon. Feedback on any aspect of the list is welcome.
 
 ## Modlist
 
@@ -374,6 +371,7 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 **Version 1.0**
 **Save game safe**
+
 Bug fixes, patches and load order improvements.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
