@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 1.0 (released 02/06/26)](#version-1.0)
 * [Version 0.5.1 Alpha2 (released 27/05/26)](#version-0.5.1-alpha2)
 * [Version 0.5 Alpha1 (released 26/05/26)](#version-0.5-alpha1)
 
@@ -13,8 +14,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+
+## Version 1.0
 Bug fixes, patches and load order improvements.
 
+<details>
+  
 ### Fixed
 * Missing sounds for airlocks and hatches
 
@@ -44,6 +49,8 @@ Bug fixes, patches and load order improvements.
 * Item Sorter - Better Weapon and Armor Names - Improved Naming Scheme
 * RTM's Engine Trail Fix
 
+</details>
+
 ## Version 0.5.1 Alpha2
 **Bug fixes**
 
@@ -51,11 +58,15 @@ Bug fixes, patches and load order improvements.
 * Fixed Praedy's SF spacesuits not showing
 * Fixed settings for Extremophile and Atmospheric Audio not being set.
 
+<details>
+
 ### Updated
 * Flashy(JoeR) - Spaceships Plus
 
 ### Removed
 * Extended Facial Sculpting
+
+</details>
 
 ## Version 0.5 Alpha1
 **First release**
