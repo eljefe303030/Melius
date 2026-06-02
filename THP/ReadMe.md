@@ -371,6 +371,15 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
+**Version 0.5.1 Alpha2**
+
+Bug fixes
+* Fixed random crash on character creation screen
+* Fixed Praedy's SF spacesuits not showing
+* Fixed settings for Extremophile and Atmospheric Audio not being set.
+
+[Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
+
 ## FAQ (Frequently Asked Questions)
 **Q. All my grav jumps are switching to cockpit (first person)? Any way to change that to 3rd person?**
 
