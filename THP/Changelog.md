@@ -36,6 +36,7 @@ Bug fixes, patches and load order improvements.
 
 ### Removed
 * Dynamic Prison - Jail System
+* Faster Airlock and Hatch and Door Animations - Sound Fix
 * High Quality Mission Boards
 * Item Sorter - Better Weapon and Armor Names - Improved Naming Scheme
 * RTM's Engine Trail Fix
