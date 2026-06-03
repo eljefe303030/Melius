@@ -14,6 +14,16 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Added
+* Crevasse Field - Biome Visual Transformation
+* Orbital Defense - Capital Ships (Optimized)
+* Ultrawide 21-9 Cut Scene Image Replacer
+
+### Updated
+* Castle Rocks - Biome Visual Transformation
+
+### Removed
+* 21x9 Loading Screens
 
 ## Version 1.0
 **Save game safe**
