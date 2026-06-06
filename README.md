@@ -377,11 +377,12 @@ Some of the added music in the list might not be allowed to be played on YouTube
 ## Known Issues
 
 1. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping/missing body parts in both the preview and in game views. Choose a different combination of outfits if this occurs.
-2. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load an earlier save.
-3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
-4. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
-5. Added spaceships by the optional mod Community Spaceship Expansion not having working ladders or exit hatches. To fix this, change something in the shipbuilder e.g. add a light or some other small change and it will work as intended. **only affects 3.4.0 BETA***
-6. Mod Preview Spaceship Interior can create a duplicate of the ship you're modifying, save, exit and reload fixes this. **fixed in 3.4.0**
+2. Walter is missing legs! Install the [WalterLowerBodyMaterial mod from the Miscellaneous files section](https://www.nexusmods.com/starfield/mods/13098?tab=files) to fix this.
+3. The quest "legacy's end" if you chose the UC side and at the stage to destroy the crimson defenders, if during the dialogue it appears one of the ships runs into the key and explodes and prevents you from progressing, disable the mod 'Deadly Ramming and Debris Fields - Medium' and load an earlier save.
+4. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
+5. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
+6. Added spaceships by the optional mod Community Spaceship Expansion not having working ladders or exit hatches. To fix this, change something in the shipbuilder e.g. add a light or some other small change and it will work as intended. **only affects 3.4.0 BETA***
+7. Mod Preview Spaceship Interior can create a duplicate of the ship you're modifying, save, exit and reload fixes this. **fixed in 3.4.0**
 
 ## Troubleshooting
 
