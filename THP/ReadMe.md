@@ -302,6 +302,7 @@ Outpost object rotation can now be done by moving around the object, as well as 
 |N| Active night vision|NightVision|Need to add sensor array mod to helmets first| 
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
 |V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a land vehicle|
+|Spacebar|Slow time effect|Immersive Driving - SFSE|Whilst driving a land vehicle|
 |Ctrl|Handbrake|No Vehicle Auto Handbrake - SFSE|Optional Mod. Whilst driving a land vehicle.|
 |Q|Search in the Galaxy StarMap|Starware Search Engine - SFSE| |
 |]}|Ship stealth preset|Ship Power Control Tweaks|Use before grav jumping to avoid detection on arrival|
