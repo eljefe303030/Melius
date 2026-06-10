@@ -17,7 +17,9 @@ Running commentary of what I am planning for the next version.
 ### Added
 * Crevasse Field - Biome Visual Transformation
 * El Jefe Weapons Overhaul
+* Faster Cell Lookup
 * Orbital Defense - Capital Ships (Optimized)
+* Stellar Crafting - Quality Crafting Overhaul
 * Ultrawide 21-9 Cut Scene Image Replacer
 
 ### Updated
@@ -34,6 +36,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * 21x9 Loading Screens
+* Starfield Extended - Craftable Quality
 
 ## Version 1.0
 **Save game safe**
