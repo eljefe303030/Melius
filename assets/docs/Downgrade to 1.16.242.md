@@ -1,6 +1,6 @@
 ## Downgrade Starfield to version 1.16.242
 
-Either use [Unofficial Starfield Downgrade Patcher](https://www.nexusmods.com/starfield/mods/16393?tab=description) to downgrade from 1.16.242 -> 1.16.236 or follow the instructions below to manually downgrade.
+Follow the instructions below to manually downgrade. Note, you do not need to wait for each depot to download before starting the next one, you can download all deports simultaneously.
 
 
 **1**) Open "Run" menu (Windows Key + R)
@@ -16,9 +16,11 @@ It will take a while to download the file, it will let you know once it has comp
 It will take a while to download the file, it will let you know once it has completed.
 
 **5**) Type: `download_depot 1716740 2721670 8614401350451913562`
+
 It will take a while to download the file, it will let you know once it has completed.
 
 **6**) Type: `download_depot 1716740 3763700 2734084571794283201`
+
 It will take a while to download the file, it will let you know once it has completed.
 
 **7**) Copy the contents of the following folders to your Steam Starfield folder (the folder with the Starfield.exe in it)
