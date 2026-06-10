@@ -235,6 +235,11 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[3rd Person Flashlight Fix](https://www.nexusmods.com/starfield/mods/15740)|Fixes the flashlight in 3rd person, so it doesn't point at the floor when aiming down sights (ADS).|Has an optional 'less bright' version **this will overwrite the 1st person flashlight mods**|Yes|
 |[Luxor's new Flashlight HD](https://www.nexusmods.com/starfield/mods/15984)|Provides a nice looking cross type flashlight texture.|Recommended to use with one of the 'Less Bright' 1st Person or 3rd Person flashlight mods. **enabled by default**|Yes|
 
+**25.1 GAMEPLAY - OVERHAULS & MECHANICS**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Grounded Enemies (Ai - No Sponges - Height Variations)](https://www.nexusmods.com/starfield/mods/16957)|A combined overhaul that makes combat faster and the world more believable — trimmed health pools, smarter aggression, and natural size variety across all enemies, with no patching required.|Recommended to use with NPC Height Variation Toolkit (in optional mod section 58.1 BEAUTY & APPEARANCE)|Yes|
+
 **43.1 OUTPOST BUILDING**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
