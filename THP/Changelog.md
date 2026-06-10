@@ -18,6 +18,7 @@ Running commentary of what I am planning for the next version.
 * Crevasse Field - Biome Visual Transformation
 * El Jefe Weapons Overhaul
 * Faster Cell Lookup
+* Grounded Enemies (Ai - No Sponges - Height Variations)
 * Orbital Defense - Capital Ships (Optimized)
 * Stellar Crafting - Quality Crafting Overhaul
 * Ultrawide 21-9 Cut Scene Image Replacer
