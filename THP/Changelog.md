@@ -16,11 +16,22 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Crevasse Field - Biome Visual Transformation
+* El Jefe Weapons Overhaul
 * Orbital Defense - Capital Ships (Optimized)
 * Ultrawide 21-9 Cut Scene Image Replacer
 
 ### Updated
+* Cassiopeia Papyrus Extender
 * Castle Rocks - Biome Visual Transformation
+* Crevasse Field - Biome Visual Transformation
+* Enemies Boarding My Ship
+* Flashy(JoeR) - Spaceships Plus
+* Galactic Mesh Fixes
+* Graf's Habs - Nova Galactic 1x1s
+* Roleplayers' Alternate Start
+* Starfield Engine Fixes - SFSE
+* True Seamless Grav Jumps SFSE
+* Vibrant Volcanic Landscapes - Biome Visual Transformation
 
 ### Removed
 * 21x9 Loading Screens
