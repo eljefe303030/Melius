@@ -23,7 +23,6 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Cassiopeia Papyrus Extender
 * Castle Rocks - Biome Visual Transformation
-* Crevasse Field - Biome Visual Transformation
 * Enemies Boarding My Ship
 * Flashy(JoeR) - Spaceships Plus
 * Galactic Mesh Fixes
