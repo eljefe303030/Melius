@@ -32,6 +32,7 @@ Running commentary of what I am planning for the next version.
 * Graf's Habs - Nova Galactic 1x1s
 * Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
+* Starfield Script Extender (SFSE)
 * True Seamless Grav Jumps SFSE
 * Vibrant Volcanic Landscapes - Biome Visual Transformation
 
