@@ -30,6 +30,7 @@ Running commentary of what I am planning for the next version.
 * Flashy(JoeR) - Spaceships Plus
 * Galactic Mesh Fixes
 * Graf's Habs - Nova Galactic 1x1s
+* No Scanner Circle and Vignette
 * Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
 * Starfield Script Extender (SFSE)
