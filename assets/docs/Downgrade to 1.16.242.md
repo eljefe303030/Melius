@@ -1,5 +1,9 @@
 ## Downgrade Starfield to version 1.16.242
 
+Either use [Unofficial Starfield Downgrade Patcher](https://www.nexusmods.com/starfield/mods/16393?tab=description) to downgrade from 1.16.244 -> 1.16.242
+
+OR
+
 Follow the instructions below to manually downgrade. Note, you do not need to wait for each depot to download before starting the next one, you can download all deports simultaneously.
 
 
