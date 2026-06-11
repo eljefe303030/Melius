@@ -20,7 +20,7 @@
 ## Important 
 
 Starfield is due to be updated on 11th June, if you try to install this list after your game has been updated it will not work.
-I will update this list to make it install but it will take me a while to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.242](https://github.com/eljefe303030/Melius/blob/d6e813f9641d7de770d41fd2fe1ec51f5823aaec/assets/docs/Downgrade%20to%201.16.242.md) before starting the installation of this list.
+I will update this list to make it install but it will take me a while to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.242](https://github.com/eljefe303030/Melius/blob/239b9d148e585d2e169306186b54a632d833466a/assets/docs/Downgrade%20to%201.16.242.md) before starting the installation of this list.
 
 This version of Melius will downgrade your game to version 1.15.222, which is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for xEdit to be updated and a few mods to be updated, as currently I would not be able to produce a stable list that meets the required level of quality I would expect.
 
