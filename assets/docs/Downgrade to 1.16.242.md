@@ -1,5 +1,7 @@
 ## Downgrade Starfield to version 1.16.242
 
+Some people have reported installation errors with the patcher tool, if you get them, use the manual downgrade instructions instead.
+
 Either use [Unofficial Starfield Downgrade Patcher](https://www.nexusmods.com/starfield/mods/16393?tab=description) to downgrade from 1.16.244 -> 1.16.242
 
 OR
