@@ -20,6 +20,8 @@ Running commentary of what I am planning for the next version.
 * Faster Cell Lookup
 * Grounded Enemies (Ai - No Sponges - Height Variations)
 * Orbital Defense - Capital Ships (Optimized)
+* Project Rework - Akila
+* Project Rework - Pluto
 * Stellar Crafting - Quality Crafting Overhaul
 * Ultrawide 21-9 Cut Scene Image Replacer
 
