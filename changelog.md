@@ -32,7 +32,7 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-Updated to install with version 1.16.242.0. Still downgardes to version 1.15.222.0.
+Updated to install with version 1.16.242.0. Still downgrades to version 1.15.222.0.
 
 ### Fixed
 * Walter's legs not showing
