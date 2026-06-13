@@ -40,7 +40,6 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * 21x9 Loading Screens
 * Starfield Extended - Craftable Quality
-* Terran Armada Quest Bug Fixes
 
 ## Version 1.0
 **Save game safe**
