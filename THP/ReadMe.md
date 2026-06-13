@@ -20,7 +20,7 @@
 ## Important 
 
 Starfield is due to be updated on 11th June, if you try to install this list after your game has been updated it will not work.
-I will update this list to make it install but it will take me a while to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.242](https://github.com/eljefe303030/Melius/blob/239b9d148e585d2e169306186b54a632d833466a/assets/docs/Downgrade%20to%201.16.242.md) before starting the installation of this list.
+I will update this list to make it install but it will take me a while to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.242](https://github.com/eljefe303030/Melius/blob/8ce3c9ba817a9838c6ee6a633132b123a4d6d3d5/assets/docs/Downgrade%20to%201.16.242.md) before starting the installation of this list.
 
 # Contents List
 
