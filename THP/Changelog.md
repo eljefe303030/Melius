@@ -24,6 +24,7 @@ Running commentary of what I am planning for the next version.
 * Ultrawide 21-9 Cut Scene Image Replacer
 
 ### Updated
+* Address Library for SFSE Plugins
 * Cassiopeia Papyrus Extender
 * Castle Rocks - Biome Visual Transformation
 * Enemies Boarding My Ship
@@ -33,7 +34,6 @@ Running commentary of what I am planning for the next version.
 * No Scanner Circle and Vignette
 * Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
-* Starfield Script Extender (SFSE)
 * True Seamless Grav Jumps SFSE
 * Vibrant Volcanic Landscapes - Biome Visual Transformation
 
