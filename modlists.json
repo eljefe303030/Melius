@@ -25,7 +25,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/main/melius720.webp",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Melius.3.4.0.wabbajack_fecfcdb9-d792-4ba9-9013-6bde829e9a9d",
+      "download": "https://authored-files.wabbajack.org/Melius.wabbajack_fb443b1b-91e6-4421-8fcf-259ca467a2fe",
       "machineURL": "melius",
       "discordURL": "https://discord.gg/ZyakMg7CGN",
       "websiteURL": "",
@@ -37,28 +37,28 @@
       }
     },
     "download_metadata": {
-      "Hash": "o0fePpv76A0=",
-      "Size": 2169419663,
-      "NumberOfArchives": 759,
-      "SizeOfArchives": 202223421755,
-      "NumberOfInstalledFiles": 264114,
-      "SizeOfInstalledFiles": 224119323385,
-      "TotalSize": 426342745140
+      "Hash": "tv1Jq5KKhrw=",
+      "Size": 2193447301,
+      "NumberOfArchives": 757,
+      "SizeOfArchives": 198616529547,
+      "NumberOfInstalledFiles": 264113,
+      "SizeOfInstalledFiles": 224119185103,
+      "TotalSize": 422735714650
     },
-    "version": "3.4.0",
+    "version": "3.4.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-15T17:41:36.1757687Z",
+    "dateUpdated": "2026-06-13T15:38:26.7386809Z",
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Hardcore Protocol",
-    "description": "The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics.",
+    "description": "The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardcore list that is delevelled, meaning the world doesn\u0027t evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics.",
     "author": "eljefe",
     "maintainers": [
       "github/eljefe303030"
     ],
     "game": "starfield",
+    "official": false,
     "tags": [
       "Combat Overhaul",
       "DLC Required",
@@ -68,26 +68,31 @@
       "Total Overhaul"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/refs/heads/main/THP/assets/images/THP169.webp",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/THP/ReadMe.md",
       "download": "https://authored-files.wabbajack.org/The%20Hardline%20Protocol.1.0.wabbajack_b6913bd6-9423-41b9-ba1c-558902b898fc",
       "machineURL": "thehardlineprotocol",
-      "discordURL": "https://discord.gg/ZyakMg7CGN"
+      "discordURL": "https://discord.gg/ZyakMg7CGN",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "cVtHXXHXZPg=",
       "Size": 18228669,
       "NumberOfArchives": 731,
       "SizeOfArchives": 190359491023,
       "NumberOfInstalledFiles": 12886,
-      "SizeOfInstalledFiles": 203073971414
+      "SizeOfInstalledFiles": 203073971414,
+      "TotalSize": 393433462437
     },
-    "version": "1.0"
+    "version": "1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
-
