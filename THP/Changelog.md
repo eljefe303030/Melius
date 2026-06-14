@@ -16,6 +16,9 @@ Running commentary of what I am planning for the next version.
 
 Updated to work with latest version of Stafield 1.16.244.0
 
+### Fixed
+* Not being able to exit vehicle
+
 ### Added
 * Crevasse Field - Biome Visual Transformation
 * El Jefe Weapons Overhaul
