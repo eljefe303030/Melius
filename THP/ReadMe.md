@@ -168,6 +168,7 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 24. [Atmospheric Audio](https://www.nexusmods.com/starfield/mods/16239) This mod runs a detection system in the background that adjusts the audio mix based on where you are. Inside a sealed station or your ship, everything sounds normal. Step outside onto an airless surface and the mix shifts, sounds become muffled, like you're out there in a suit with limited audio feedback.
 25. [Magic Boost Disabler - Immersive Boost Pack Behavior](https://www.nexusmods.com/starfield/mods/12776) Prevents Boost Packs from magically appearing when your spacesuit is hidden.
 26. [Fast Travel Restrictions](https://www.nexusmods.com/starfield/mods/9155) Fast Travel Restrictions transforms the way you travel in Starfield by removing most forms of instant fast travel and forcing the player to rely on their ship for navigation. Can be turned off/configured in the main game settings.
+27. [HONKCORE - Dynamic Custom HUD Overhaul](https://www.nexusmods.com/starfield/mods/16993) Configurable HUD for Starfield. New Widgets include ECG heartbeat vitals, tactical radar, CBRN threat display, boot sequence and more. Download presets or [make your own](https://relay.samich.dev/)
  
 ## Optional Mods
 
