@@ -18,7 +18,7 @@ Running commentary of what I am planning for the next version.
 ## Version 1.1
 **Should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
-Updated to work with latest version of Stafield 1.16.244.0
+Updated to work with latest version of Starfield 1.16.244.0
 
 <details>
 
