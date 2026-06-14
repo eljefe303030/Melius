@@ -49,11 +49,17 @@ Updated to work with latest version of Stafield 1.16.244.0
 * Flashy(JoeR) - Spaceships Plus
 * Galactic Mesh Fixes
 * Graf's Habs - Nova Galactic 1x1s
+* Immersive Driving - SFSE
+* Native Ultrawide Menus - SFSE
 * No Build Below Bay or Invalid Docker Position or Misaligned Landing Gear Errors
 * No Engine Power Limits
 * No Landing Bay or Docker Limits
 * No Scanner Circle and Vignette
+* No Vehicle Auto Handbrake - SFSE
+* No Vehicle Weapon Aim Oxygen Penalty - SFSE
+* Rename Anyone and Almost Anything
 * Roleplayers' Alternate Start
+* Scanner Closest Path Highlight Improvements
 * Starfield Engine Fixes - SFSE
 * True Seamless Grav Jumps SFSE
 * Vibrant Volcanic Landscapes - Biome Visual Transformation
