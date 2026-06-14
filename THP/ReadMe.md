@@ -17,11 +17,6 @@
 
 ## Please read ALL of this document before installing/playing the list.
 
-## Important 
-
-Starfield is due to be updated on 11th June, if you try to install this list after your game has been updated it will not work.
-I will update this list to make it install but it will take me a while to do this. To install this list after your game has been updated, you will need to [downgrade it to version 1.15.242](https://github.com/eljefe303030/Melius/blob/8ce3c9ba817a9838c6ee6a633132b123a4d6d3d5/assets/docs/Downgrade%20to%201.16.242.md) before starting the installation of this list.
-
 # Contents List
 
 <details>
@@ -70,7 +65,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 * I have tested this on an AMD 5700X3D/AMD 7800 XT and it works well. Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!). Better still, if you're using an AMD card, use [OptiScaler](https://github.com/optiscaler/OptiScaler) but I cannot offer any support in getting OptiScaler working for you.
 * Your computer will need to meet at least the [minimum requirements specified by Bethesda](https://help.bethesda.net/#en/answer/60442)
 * Language set to English.
-* You need the latest Steam version (1.16.242) of the game and both the Shattered Space and Terran Armada DLCs.
+* You need the latest Steam version (1.16.244) of the game and both the Shattered Space and Terran Armada DLCs.
 
 ## Pre-installation Steps
 1. Install [Microsoft .NET v8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) and [Microsoft Visual C++ 2019 Runtime](https://aka.ms/vs/16/release/vc_redist.x64.exe).
