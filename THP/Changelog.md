@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 1.1 (released 14/06/26)](#version-1.1)
 * [Version 1.0 (released 02/06/26)](#version-1.0)
 * [Version 0.5.1 Alpha2 (released 27/05/26)](#version-0.5.1-alpha2)
 * [Version 0.5 Alpha1 (released 26/05/26)](#version-0.5-alpha1)
@@ -14,7 +15,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 1.1
+**I think it is save game safe but there might be issues with upgraded weapons**
+
 Updated to work with latest version of Stafield 1.16.244.0
+
+<details>
 
 ### Fixed
 * Not being able to exit vehicle
@@ -78,6 +84,8 @@ Updated to work with latest version of Stafield 1.16.244.0
 * BetterHUD - Immersive and Dynamic - User Configurable
 * Starfield Extended - Craftable Quality
 * Toggle Quest Markers with Scanner and Ship HUD
+
+</details>
 
 ## Version 1.0
 **Save game safe**
