@@ -32,12 +32,26 @@ Updated to work with latest version of Stafield 1.16.244.0
 
 ### Updated
 * Address Library for SFSE Plugins
+* Astral UI - QuickList and Search Addon
+* Auto Hide HUD and Widgets - SFSE
+* Auto Highlight Outpost Items
+* Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE
+* Auto Transfer Mined and Harvested Resources to Your Ship - SFSE
+* Baka Console EditorIDs
 * Cassiopeia Papyrus Extender
 * Castle Rocks - Biome Visual Transformation
+* Console Command Runner Updated
+* Disk Cache Enabler for SFSE Updated
+* Dynamic Inventory Models - SFSE
 * Enemies Boarding My Ship
+* Extended Activation and NPC Interaction Distance
+* Favorites Menu Extended - SFSE
 * Flashy(JoeR) - Spaceships Plus
 * Galactic Mesh Fixes
 * Graf's Habs - Nova Galactic 1x1s
+* No Build Below Bay or Invalid Docker Position or Misaligned Landing Gear Errors
+* No Engine Power Limits
+* No Landing Bay or Docker Limits
 * No Scanner Circle and Vignette
 * Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
@@ -46,6 +60,7 @@ Updated to work with latest version of Stafield 1.16.244.0
 
 ### Removed
 * 21x9 Loading Screens
+* BetterHUD - Immersive and Dynamic - User Configurable
 * Starfield Extended - Craftable Quality
 
 ## Version 1.0
