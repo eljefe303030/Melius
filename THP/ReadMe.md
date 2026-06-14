@@ -382,10 +382,10 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-**Version 1.0**
-**Save game safe**
+## Version 1.1
+**Should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
-Bug fixes, patches and load order improvements.
+Updated to work with latest version of Stafield 1.16.244.0
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
 
