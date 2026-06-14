@@ -75,24 +75,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/eljefe303030/Melius/refs/heads/main/THP/assets/images/THP169.webp",
       "readme": "https://github.com/eljefe303030/Melius/blob/main/THP/ReadMe.md",
-      "download": "https://authored-files.wabbajack.org/The%20Hardline%20Protocol.1.0.wabbajack_b6913bd6-9423-41b9-ba1c-558902b898fc",
+      "download": "https://authored-files.wabbajack.org/The Hardline Protocol.1.1.wabbajack_1f9cfa7e-c0ff-4035-926b-6d2a0d820c51",
       "machineURL": "thehardlineprotocol",
       "discordURL": "https://discord.gg/ZyakMg7CGN",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "cVtHXXHXZPg=",
-      "Size": 18228669,
-      "NumberOfArchives": 731,
-      "SizeOfArchives": 190359491023,
-      "NumberOfInstalledFiles": 12886,
-      "SizeOfInstalledFiles": 203073971414,
-      "TotalSize": 393433462437
+      "Hash": "YnwxarBbeqk=",
+      "Size": 16809574,
+      "NumberOfArchives": 735,
+      "SizeOfArchives": 190879252131,
+      "NumberOfInstalledFiles": 13013,
+      "SizeOfInstalledFiles": 203789295496,
+      "TotalSize": 394668547627
     },
-    "version": "1.0",
+    "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2026-06-14T19:01:00.5849846Z",
     "repositoryName": ""
   }
 ]
