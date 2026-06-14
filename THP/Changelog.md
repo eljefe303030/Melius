@@ -55,19 +55,27 @@ Updated to work with latest version of Stafield 1.16.244.0
 * No Engine Power Limits
 * No Landing Bay or Docker Limits
 * No Scanner Circle and Vignette
+* No Shield Limit
 * No Vehicle Auto Handbrake - SFSE
 * No Vehicle Weapon Aim Oxygen Penalty - SFSE
 * Rename Anyone and Almost Anything
 * Roleplayers' Alternate Start
 * Scanner Closest Path Highlight Improvements
+* SFSE ASI Loader Updated
+* Ship Builder - Notify Me About Warnings
 * Starfield Engine Fixes - SFSE
+* Starware Search Engine - SFSE
+* Tell Me Your Name - SFSE
 * True Seamless Grav Jumps SFSE
+* Unofficial Starfield Patch - USFP
+* Vendor Inventory Tweaks - Faster Restock
 * Vibrant Volcanic Landscapes - Biome Visual Transformation
 
 ### Removed
 * 21x9 Loading Screens
 * BetterHUD - Immersive and Dynamic - User Configurable
 * Starfield Extended - Craftable Quality
+* Toggle Quest Markers with Scanner and Ship HUD
 
 ## Version 1.0
 **Save game safe**
