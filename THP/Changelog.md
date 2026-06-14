@@ -58,12 +58,14 @@ Updated to work with latest version of Stafield 1.16.244.0
 * No Shield Limit
 * No Vehicle Auto Handbrake - SFSE
 * No Vehicle Weapon Aim Oxygen Penalty - SFSE
+* No Weapon Power or Count Limits
 * Rename Anyone and Almost Anything
 * Roleplayers' Alternate Start
 * Scanner Closest Path Highlight Improvements
 * SFSE ASI Loader Updated
 * Ship Builder - Notify Me About Warnings
 * Starfield Engine Fixes - SFSE
+* Starfield Script Extender (SFSE)
 * Starware Search Engine - SFSE
 * Tell Me Your Name - SFSE
 * True Seamless Grav Jumps SFSE
