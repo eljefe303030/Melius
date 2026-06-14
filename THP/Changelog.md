@@ -30,6 +30,7 @@ Updated to work with latest version of Starfield 1.16.244.0
 * El Jefe Weapons Overhaul
 * Faster Cell Lookup
 * Grounded Enemies (Ai - No Sponges - Height Variations)
+* HONKCORE - Dynamic Custom HUD Overhaul
 * Orbital Defense - Capital Ships (Optimized)
 * Project Rework - Akila
 * Project Rework - Pluto
