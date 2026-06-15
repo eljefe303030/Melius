@@ -15,9 +15,11 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 1.2
 **Save safe from 1.1. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
 Re-enabled some mods that were disabled due to needing an update to work with 1.16.244
+Hopefully fixed an issue that was causing installation errors for some people.
 
 ### Updated
 * El Jefe Weapons Overhaul
