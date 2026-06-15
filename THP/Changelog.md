@@ -22,6 +22,9 @@ Running commentary of what I am planning for the next version.
 * Report Load Order Info - SFSE
 * Swap and Save Weapon and Armor Mods - The Good Ol' Fallout Mods Restored - SFSE
 
+### Removed
+* Terran Armada Quest Bug Fixes
+
 ## Version 1.1
 **Should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
