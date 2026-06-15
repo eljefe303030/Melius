@@ -17,6 +17,8 @@ Running commentary of what I am planning for the next version.
 
 **Save safe from 1.1. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
+Re-enabled some mods that were disabled due to needing an update to work with 1.16.244
+
 ### Updated
 * El Jefe Weapons Overhaul
 * Faster Cell Lookup
