@@ -15,6 +15,13 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Updated
+* El Jefe Weapons Overhaul
+* Faster Cell Lookup
+* No Forced Vehicle Aim Assist - SFSE
+* Report Load Order Info - SFSE
+* Swap and Save Weapon and Armor Mods - The Good Ol' Fallout Mods Restored - SFSE
+
 ## Version 1.1
 **Should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
