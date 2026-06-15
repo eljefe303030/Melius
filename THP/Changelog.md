@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 1.2 (released 15/06/26)](#version-1.2)
 * [Version 1.1 (released 14/06/26)](#version-1.1)
 * [Version 1.0 (released 02/06/26)](#version-1.0)
 * [Version 0.5.1 Alpha2 (released 27/05/26)](#version-0.5.1-alpha2)
@@ -21,6 +22,8 @@ Running commentary of what I am planning for the next version.
 Re-enabled some mods that were disabled due to needing an update to work with 1.16.244
 Hopefully fixed an issue that was causing installation errors for some people.
 
+<details>
+
 ### Updated
 * El Jefe Weapons Overhaul
 * Faster Cell Lookup
@@ -30,6 +33,8 @@ Hopefully fixed an issue that was causing installation errors for some people.
 
 ### Removed
 * Terran Armada Quest Bug Fixes
+
+</details>
 
 ## Version 1.1
 **Should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
