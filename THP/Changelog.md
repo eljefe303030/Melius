@@ -16,6 +16,21 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Fixed
+Upgrade options for spacesuits missing
+
+### Updated
+* Freestar Space Encounter Hostility Fix
+
+### Added
+* Crew Eats Food
+* HelmetToggle
+* KZ United Colonies Depository
+* No Reactor Limit
+* No Vehicle Mouse Steering - SFSE
+* Starfield Memory Fixes
+* Transfer Spaceships Across Universes - SFSE
+
 ## Version 1.2
 **Save safe from 1.1. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
