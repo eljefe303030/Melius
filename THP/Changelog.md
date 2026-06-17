@@ -20,14 +20,20 @@ Running commentary of what I am planning for the next version.
 Upgrade options for spacesuits missing
 
 ### Updated
+* El Jefe Weapons Overhaul
 * Freestar Space Encounter Hostility Fix
 
 ### Added
+* 50 GS
+* ARX-15
 * Crew Eats Food
 * HelmetToggle
+* KBAR-32 (AA BAR-32)
 * KZ United Colonies Depository
 * No Reactor Limit
 * No Vehicle Mouse Steering - SFSE
+* Old Earth Rearmed
+* Rampart-17
 * Starfield Memory Fixes
 * Transfer Spaceships Across Universes - SFSE
 
