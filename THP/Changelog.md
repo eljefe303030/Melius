@@ -20,8 +20,13 @@ Running commentary of what I am planning for the next version.
 Upgrade options for spacesuits missing
 
 ### Updated
+* Astral UI
 * El Jefe Weapons Overhaul
 * Freestar Space Encounter Hostility Fix
+* Roleplayers' Alternate Start
+* Starfield Engine Fixes - SFSE
+* Unofficial Terran Armada Patch
+* Vibrant Volcanic Landscapes - Biome Visual Transformation
 
 ### Added
 * 50 GS
