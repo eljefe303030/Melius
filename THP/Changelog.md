@@ -21,6 +21,7 @@ Upgrade options for spacesuits missing
 
 ### Updated
 * Astral UI
+* Cassiopeia Papyrus Extender
 * El Jefe Weapons Overhaul
 * Freestar Space Encounter Hostility Fix
 * Roleplayers' Alternate Start
