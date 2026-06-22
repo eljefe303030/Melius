@@ -21,11 +21,17 @@ Upgrade options for spacesuits missing
 
 ### Updated
 * Astral UI
+* Baka Quick Full Saves
 * Cassiopeia Papyrus Extender
 * El Jefe Weapons Overhaul
 * Freestar Space Encounter Hostility Fix
+* Grounded Enemies (Ai - No Sponges - Height Variations)
+* Origins - Trait Overhaul
 * Roleplayers' Alternate Start
+* Seizure Of Ships - Take Over Restricted Ships
+* Smart Aiming SFSE - Third to First Person
 * Starfield Engine Fixes - SFSE
+* True Seamless Grav Jumps SFSE
 * Unofficial Terran Armada Patch
 * Vibrant Volcanic Landscapes - Biome Visual Transformation
 
