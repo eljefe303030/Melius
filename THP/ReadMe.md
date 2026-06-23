@@ -186,7 +186,9 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |Ini profile for Deimog for [Immersive Driving - SFSE](https://www.nexusmods.com/starfield/mods/11253?tab=files)||Enable if you are using the Deimog mod|Yes|
 |[Native Ultrawide Menus - SFSE - Resource](https://www.nexusmods.com/starfield/mods/9410)||The Creations menu is not functional while having this mod active (buttons are misaligned)|Yes|
 |[No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684)|Disables the auto handbrake, use the 'ctrl' key|For controller users, you will need to map the 'ctrl' key to your controller [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|Yes|
+|[No Vehicle Mouse Steering - SFSE](https://www.nexusmods.com/starfield/mods/11135)|Disables mouse steering for Land Vehicles|Seperate version included for controller users|Yes|
 |[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|Ini provided to change settings, see mod page for more details.|Yes|
+|[Starfield Memory Fixes](https://www.nexusmods.com/starfield/mods/14925)|The plugin periodically checks Starfield's working set, pagefile usage, and available system RAM. When available system memory falls below the configured threshold, MemoryFixes can request a working set trim through Windows memory management functions.||Yes|
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
@@ -317,6 +319,7 @@ Outpost object rotation can now be done by moving around the object, as well as 
 * Auto saves are disabled by default but can be enabled in the settings menu of the game.
 * [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750) changes quick saves to full saves, which means you will have more saves and will need to periodically delete saves as and when needed.
 * [Auto Hide HUD and Widgets - SFSE](https://www.nexusmods.com/starfield/mods/8946) The Hud and Widgets are automatically hidden when not needed. See the mod's page for details on how you can change the behaviour of this mod.
+* [HelmetToggle](https://www.nexusmods.com/starfield/mods/17353) Adds a hotkey-friendly device that allows you to instantly hide or show your spacesuit helmet without opening menus. When the helmet is hidden, the HUD is automatically hidden as well, creating a more immersive experience. The device can be assigned to your favorites bar and activated like a normal item, making helmet management much faster and more immersive during gameplay.
 * [Short Temple Puzzles](https://www.nexusmods.com/starfield/mods/1139) changes the number of puzzles to 3.
 * [Immersive Driving - SFSE](https://www.nexusmods.com/starfield/mods/11253) Collection of a few immersive land vehicle features; Visible Body, Smart Aim, Panorama View, Rear View, Exit Anywhere, Companion Chatter. **Key bindings are: Rear View 'Q', Companion Chatter 'V'.**
 * [Sit To Add Ship to Fleet](https://www.nexusmods.com/starfield/mods/6493) Sit in pilot seat to add captured ship to your fleet. No need to make it your home ship.
