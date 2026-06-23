@@ -169,6 +169,7 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 25. [Magic Boost Disabler - Immersive Boost Pack Behavior](https://www.nexusmods.com/starfield/mods/12776) Prevents Boost Packs from magically appearing when your spacesuit is hidden.
 26. [Fast Travel Restrictions](https://www.nexusmods.com/starfield/mods/9155) Fast Travel Restrictions transforms the way you travel in Starfield by removing most forms of instant fast travel and forcing the player to rely on their ship for navigation. Can be turned off/configured in the main game settings.
 27. [HONKCORE - Dynamic Custom HUD Overhaul](https://www.nexusmods.com/starfield/mods/16993) Configurable HUD for Starfield. New Widgets include ECG heartbeat vitals, tactical radar, CBRN threat display, boot sequence and more. Download presets or [make your own](https://relay.samich.dev/)
+28. [Transfer Spaceships Across Universes - SFSE](https://www.nexusmods.com/starfield/mods/13449) SFSE plugin that allows you to export and import spaceships (both layout and interior decoration). The mod is Console based, there is no UI, see mode page for usage.
  
 ## Optional Mods
 
