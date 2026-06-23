@@ -131,9 +131,10 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 > [!IMPORTANT]
 > 5. **Do not press the Unlock button** that MO2 displays after clicking run. The game may take a couple of minutes to start, this is normal.
 6. Start a new game. I will not provide support if you use this list on an existing save game, as there could be issues from other mods you used.
+7. On first boot you will get the message 'Generating File Offset Cache'. This will take a few minutes to complete but only runs the first time. If you add mods, it will run again but only for a short period of time for the mods you have added.
 
-7. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
-8. The recommended game settings have already been selected for you. See the [Recommended Settings](#recommended-settings) section for more details.
+8. After starting the game for the first time, the sound, elements of the user interface and other things will not work properly, save the game when you are able to, close the game down and reloading your save will correct this.
+9. The recommended game settings have already been selected for you. See the [Recommended Settings](#recommended-settings) section for more details.
 
 ## Important mods you should know about
 
