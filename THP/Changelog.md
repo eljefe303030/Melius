@@ -16,6 +16,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+Bug fixes
+Added new weapons, all patched and balanced for the mod list.
+
 ### Fixed
 Upgrade options for spacesuits missing
 
