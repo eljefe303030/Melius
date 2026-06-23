@@ -41,6 +41,7 @@ Upgrade options for spacesuits missing
 * Crew Eats Food
 * HelmetToggle
 * KBAR-32 (AA BAR-32)
+* Kriss Vector Gen 2
 * KZ United Colonies Depository
 * No Reactor Limit
 * No Vehicle Mouse Steering - SFSE
