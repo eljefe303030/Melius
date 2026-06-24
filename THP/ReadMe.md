@@ -384,11 +384,11 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-## Version 1.2
-**Save safe from 1.1. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
+## Version 1.3
+**Save safe from 1.1 upwards. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
-Re-enabled some mods that were disabled due to needing an update to work with 1.16.244
-Hopefully fixed an issue that was causing installation errors for some people.
+Bug fixes
+Added new weapons, all patched and balanced for the mod list.
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
 
