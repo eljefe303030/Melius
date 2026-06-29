@@ -17,11 +17,15 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+
+
 Bug fixes and balancing.
 
 ### Updated
 * El Jefe Space Combat AI
 * El Jefe Weapons Overhaul
+* Flashy(JoeR) - Spaceships Plus
+* Real O2
 
 ### Version 1.3
 
