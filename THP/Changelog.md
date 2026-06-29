@@ -17,6 +17,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+Bug fixes and balancing.
+
+### Updated
+* El Jefe Space Combat AI
+* El Jefe Weapons Overhaul
+
 ### Version 1.3
 
 **Save safe from 1.1 upwards. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
