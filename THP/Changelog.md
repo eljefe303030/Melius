@@ -26,6 +26,7 @@ Bug fixes and balancing.
 * El Jefe Weapons Overhaul
 * Flashy(JoeR) - Spaceships Plus
 * NPC Routines Expanded - Robot Vendors
+* Peak Performance - Immersive Needs
 * Real O2
 
 ### Version 1.3
