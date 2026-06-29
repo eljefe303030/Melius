@@ -30,6 +30,7 @@ Bug fixes and balancing.
 * Peak Performance - Immersive Needs
 * Real O2
 * Stroud Premium Edition
+* Va'ruun Technical Institute Ship Habs
 
 ### Version 1.3
 
