@@ -29,6 +29,7 @@ Bug fixes and balancing.
 * NPC Routines Expanded - Robot Vendors
 * Peak Performance - Immersive Needs
 * Real O2
+* Stroud Premium Edition
 
 ### Version 1.3
 
