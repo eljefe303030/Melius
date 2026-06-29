@@ -25,6 +25,7 @@ Bug fixes and balancing.
 * El Jefe Space Combat AI
 * El Jefe Weapons Overhaul
 * Flashy(JoeR) - Spaceships Plus
+* NPC Routines Expanded - Robot Vendors
 * Real O2
 
 ### Version 1.3
