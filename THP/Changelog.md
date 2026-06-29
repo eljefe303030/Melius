@@ -22,6 +22,7 @@ Running commentary of what I am planning for the next version.
 Bug fixes and balancing.
 
 ### Updated
+* Cost Of Spacing
 * El Jefe Space Combat AI
 * El Jefe Weapons Overhaul
 * Flashy(JoeR) - Spaceships Plus
