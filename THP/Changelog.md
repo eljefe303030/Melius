@@ -18,7 +18,6 @@
 Running commentary of what I am planning for the next version. 
 
 
-
 Bug fixes and balancing.
 
 ### Updated
@@ -31,6 +30,9 @@ Bug fixes and balancing.
 * Real O2
 * Stroud Premium Edition
 * Va'ruun Technical Institute Ship Habs
+
+### Added
+* Ship Power Allocation Fix - Revert Unwanted Power Changes
 
 ### Version 1.3
 
