@@ -29,6 +29,7 @@ Bug fixes and balancing.
 * Peak Performance - Immersive Needs
 * Real O2
 * Stroud Premium Edition
+* THP - Delevelled
 * Va'ruun Technical Institute Ship Habs
 
 ### Added
