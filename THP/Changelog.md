@@ -34,6 +34,10 @@ Bug fixes and balancing.
 
 ### Added
 * Ship Power Allocation Fix - Revert Unwanted Power Changes
+* Starfield Smithing
+
+### Removed
+* Stellar Crafting - Quality Crafting Overhaul
 
 ### Version 1.3
 
