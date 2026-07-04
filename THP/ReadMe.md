@@ -171,6 +171,7 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 26. [Fast Travel Restrictions](https://www.nexusmods.com/starfield/mods/9155) Fast Travel Restrictions transforms the way you travel in Starfield by removing most forms of instant fast travel and forcing the player to rely on their ship for navigation. Can be turned off/configured in the main game settings.
 27. [HONKCORE - Dynamic Custom HUD Overhaul](https://www.nexusmods.com/starfield/mods/16993) Configurable HUD for Starfield. New Widgets include ECG heartbeat vitals, tactical radar, CBRN threat display, boot sequence and more. Download presets or [make your own](https://relay.samich.dev/)
 28. [Transfer Spaceships Across Universes - SFSE](https://www.nexusmods.com/starfield/mods/13449) SFSE plugin that allows you to export and import spaceships (both layout and interior decoration). The mod is Console based, there is no UI, see mode page for usage.
+29. [Better Spaceship Interaction Distances](https://www.nexusmods.com/starfield/mods/12641) Changes docking and looting distance to 55. Increases distance you can access the cargo on the ground to 2000.
  
 ## Optional Mods
 
