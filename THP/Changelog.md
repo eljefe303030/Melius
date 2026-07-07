@@ -33,8 +33,14 @@ Bug fixes and balancing.
 * Va'ruun Technical Institute Ship Habs
 
 ### Added
+* AKM
+* Alpha AK
+* AUG A3
+* Decal Fix
+* FN SCAR - MK17
 * Ship Power Allocation Fix - Revert Unwanted Power Changes
-* Starfield Smithing
+* Starfield Smithin
+* Titanfall 2 Weapon Pack
 
 ### Removed
 * Stellar Crafting - Quality Crafting Overhaul
