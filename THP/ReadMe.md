@@ -55,8 +55,6 @@ Stability and balanced gameplay that is challenging but rewarding are key aims o
 
 Combat is much more challenging than vanilla Starfield. Headshots are more deadly for the player and enemies. When first starting the game you may wish to choose to concentrate on non-combat missions to build experience, acquire better equipment and perks before taking on groups of better trained factions. For example, fighting Va’ruun will be more challenging than Spacers, use of cover and the need to retreat will be more important than before. The Gameplay Guide section of this ReadMe details how you can change the difficulty significantly by adjusting the Human Damage mod's multiplier and/or you may wish to change the main difficulty settings to your preferred level of challenge. 
 
-Currently I'm not happy with the balance of weapons i.e. some weapons are potato guns, like the Eon and I'll address this soon. Feedback on any aspect of the list is welcome.
-
 ## Modlist
 
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/the-hardline-protocol)
