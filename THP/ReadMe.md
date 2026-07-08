@@ -271,7 +271,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **50.1 SPACE COMBAT**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|El Jefe Space Combat AI - Detection Buff patch|all enemies have increased detection range. You will need to power down ship systems before grav jumping if you don't want to be detected.|Not recommended for beginners|Yes|
+|El Jefe Space Combat AI - Detection Buff patch|All enemies have increased detection range. You will need to power down ship systems before grav jumping if you don't want to be detected.|Not recommended for beginners|Yes|
 
 **58.1 BEAUTY & APPEARANCE**
 |Mod|Description|Comments|Safe to enable/disable mid save|
