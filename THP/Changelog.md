@@ -32,6 +32,7 @@ Bug fixes and balancing. New weapons added.
 * Flashy(JoeR) - Spaceships Plus
 * NPC Routines Expanded - Robot Vendors
 * Peak Performance - Immersive Needs
+* Project Rework - Akila
 * Real O2
 * Stroud Premium Edition
 * THP - Delevelled
