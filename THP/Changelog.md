@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 1.4 (released 08/07/26)](#version-1.4)
 * [Version 1.3 (released 24/06/26)](#version-1.3)
 * [Version 1.2 (released 15/06/26)](#version-1.2)
 * [Version 1.1 (released 14/06/26)](#version-1.1)
@@ -17,6 +18,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 1.4
+
 **Save safe from 1.1 upwards. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
 
 * Bug fixes and balancing. 
@@ -26,6 +29,8 @@ Running commentary of what I am planning for the next version.
 * Ammo workbench not showing
 * ReShade preset not selected by default
 * Quest NPCs being destroyed by asteroids 
+
+<details>
 
 ### Updated
 * Cost Of Spacing
@@ -52,6 +57,8 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Stellar Crafting - Quality Crafting Overhaul
+
+</details>
 
 ### Version 1.3
 
