@@ -45,7 +45,7 @@ Bug fixes and balancing. New weapons added.
 * Decal Fix
 * FN SCAR - MK17
 * Ship Power Allocation Fix - Revert Unwanted Power Changes
-* Starfield Smithin
+* Starfield Smithing
 * Titanfall 2 Weapon Pack
 
 ### Removed
