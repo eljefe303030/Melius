@@ -244,6 +244,11 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |---|---|---|---|
 |[Grounded Enemies (Ai - No Sponges - Height Variations)](https://www.nexusmods.com/starfield/mods/16957)|A combined overhaul that makes combat faster and the world more believable — trimmed health pools, smarter aggression, and natural size variety across all enemies, with no patching required.|Will make combat easier. Recommended to use with NPC Height Variation Toolkit (in optional mod section 58.1 BEAUTY & APPEARANCE)|Yes|
 
+**34.1 Immersion**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Crew Eats Food](https://www.nexusmods.com/starfield/mods/12100)|Ship crew periodically consume food and drink items from your cargo hold. You get a small XP buff for keeping them fed and a small penalty if they go hungry.||Safe to enable mid save but avoid removing from an existing save.|
+
 **43.1 OUTPOST BUILDING**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
