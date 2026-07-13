@@ -45,12 +45,12 @@ Running commentary of what I am planning for the next version.
 * Bug fixes and balancing. 
 * New weapons added.
 
+<details>
+
 ### Fixes
 * Ammo workbench not showing
 * ReShade preset not selected by default
 * Quest NPCs being destroyed by asteroids 
-
-<details>
 
 ### Updated
 * Cost Of Spacing
