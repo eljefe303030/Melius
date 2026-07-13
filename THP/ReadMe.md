@@ -459,6 +459,10 @@ Save the ini file.
 
 A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands, such as the reload key `R`. [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
 
+**Q. Does this work on Linux**
+
+A. I believe so but the following mods will need to be disabled; True Seamless Grav Jumps SFSE and No Vehicle Auto Handbrake - SFSE - Plugin. I can't provide support in getting this working on Linux but you can try on the Wabbajack Unofficial Linux Help channel.
+
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
 
