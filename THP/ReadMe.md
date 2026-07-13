@@ -461,7 +461,7 @@ A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96d
 
 **Q. Does this work on Linux**
 
-A. I believe so but the following mods will need to be disabled; True Seamless Grav Jumps SFSE and No Vehicle Auto Handbrake - SFSE - Plugin. I can't provide support in getting this working on Linux but you can try on the Wabbajack Unofficial Linux Help channel.
+A. I believe so, use Proton GE 10-34  or if not, the following mods will need to be disabled; True Seamless Grav Jumps SFSE and No Vehicle Auto Handbrake - SFSE - Plugin. I can't provide support in getting this working on Linux but you can try on the Wabbajack Unofficial Linux Help channel.
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
