@@ -19,7 +19,11 @@
 Running commentary of what I am planning for the next version. 
 
 ### Added 
+* Armillary Remeshed and Retextured
 * Customizable Animation Speed Redux
+
+### Updated
+* Alternate Recoil Animations
 
 ### Removed
 * Customisable Animation Speed
