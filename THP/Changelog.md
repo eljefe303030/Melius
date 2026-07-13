@@ -24,6 +24,7 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Alternate Recoil Animations
+* El Jefe Weapons Overhaul
 
 ### Removed
 * Customisable Animation Speed
