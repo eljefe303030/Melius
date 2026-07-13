@@ -18,11 +18,9 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
-Added armour, weapons and clothes
-
-Balancing
-
-Bug fixes
+* Added armour, weapons and clothes
+* Balancing
+* Bug fixes
 
 ### Added 
 * Armillary Remeshed and Retextured
