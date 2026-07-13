@@ -18,18 +18,25 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+Added armour, weapons and clothes
+Balancing
+Bug fixes
+
 ### Added 
 * Armillary Remeshed and Retextured
 * Customizable Animation Speed Redux
 * KZ Aggregation of Scraps
 * KZ Tachyonic Core Arsenal
 
-### Updated
-* Alternate Recoil Animations
-* El Jefe Weapons Overhaul
+### Fixed
+* Missing delevelled patches
 
 ### Removed
 * Customisable Animation Speed
+  
+### Updated
+* Alternate Recoil Animations
+* El Jefe Weapons Overhaul
 
 ## Version 1.4
 
