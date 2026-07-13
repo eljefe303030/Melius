@@ -47,7 +47,7 @@ Running commentary of what I am planning for the next version.
 
 <details>
 
-### Fixes
+### Fixed
 * Ammo workbench not showing
 * ReShade preset not selected by default
 * Quest NPCs being destroyed by asteroids 
