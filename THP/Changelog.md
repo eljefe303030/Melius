@@ -18,6 +18,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Added 
+* Customizable Animation Speed Redux
+
+### Removed
+* Customisable Animation Speed
+
 ## Version 1.4
 
 **Save safe from 1.1 upwards. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
