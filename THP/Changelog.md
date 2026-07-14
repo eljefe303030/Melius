@@ -28,6 +28,7 @@ Running commentary of what I am planning for the next version.
 * KZ Aggregation of Scraps
 * KZ Tachyonic Core Arsenal
 * KZ Techno-Corporate Repository
+* KZ United Colonies Depository
 * KZ Venatorial Frontiers Armory
 
 ### Fixed
