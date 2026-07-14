@@ -27,6 +27,7 @@ Running commentary of what I am planning for the next version.
 * Customizable Animation Speed Redux
 * KZ Aggregation of Scraps
 * KZ Tachyonic Core Arsenal
+* KZ Venatorial Frontiers Armory
 
 ### Fixed
 * Missing delevelled patches
