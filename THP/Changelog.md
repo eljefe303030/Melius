@@ -35,6 +35,7 @@ Running commentary of what I am planning for the next version.
 * Missing delevelled patches
 
 ### Removed
+* Balanced Ballistics
 * Customisable Animation Speed
   
 ### Updated
