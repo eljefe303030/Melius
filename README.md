@@ -181,7 +181,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Gravity Affects Weight - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/3048)|SFSE plugin that makes gravity affect inventory/carry weight.||Yes|
 |[Native Ultrawide Menus - SFSE - Resource](https://www.nexusmods.com/starfield/mods/9410)||The Creations menu is not functional while having this mod active (buttons are misaligned)|Yes|
 |[No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684)|Disables the auto handbrake, use the 'ctrl' key|For controller users, you will need to map the 'ctrl' key to your controller [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|Yes|
-|[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|Ini provided to change settings, see mod page for more details.|Yes|
+|[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|**Disable Scopes Without Overlays if using this.** Ini provided to change settings, see mod page for more details.|Yes|
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
