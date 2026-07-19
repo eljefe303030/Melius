@@ -42,6 +42,7 @@ Running commentary of what I am planning for the next version.
 * Alternate Recoil Animations
 * Console Command Runner Updated
 * El Jefe Weapons Overhaul
+* Starfield Engine Fixes - SFSE
 
 ## Version 1.4
 
