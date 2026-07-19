@@ -40,6 +40,7 @@ Running commentary of what I am planning for the next version.
   
 ### Updated
 * Alternate Recoil Animations
+* Console Command Runner Updated
 * El Jefe Weapons Overhaul
 
 ## Version 1.4
