@@ -21,6 +21,7 @@ Running commentary of what I am planning for the next version.
 * Added armour, weapons and clothes
 * Balancing
 * Bug fixes
+* Improved comabt
 
 ### Added 
 * Armillary Remeshed and Retextured
