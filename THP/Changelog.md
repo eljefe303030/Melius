@@ -45,6 +45,7 @@ Running commentary of what I am planning for the next version.
 * Icy Moon - Porrima IV-d - Biome Visual Transformation
 * POI Variations - No More Duplicates
 * Starfield Engine Fixes - SFSE
+* Va'ruun Technical Institute Ship Habs
 
 ## Version 1.4
 
