@@ -42,6 +42,7 @@ Running commentary of what I am planning for the next version.
 * Alternate Recoil Animations
 * Console Command Runner Updated
 * El Jefe Weapons Overhaul
+* The Gang's All Here - Multiple Companions and Crew
 * Icy Moon - Porrima IV-d - Biome Visual Transformation
 * POI Variations - No More Duplicates
 * Starfield Engine Fixes - SFSE
