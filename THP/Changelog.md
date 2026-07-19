@@ -27,6 +27,7 @@ Running commentary of what I am planning for the next version.
 * Armillary Remeshed and Retextured
 * Customizable Animation Speed Redux
 * KZ Aggregation of Scraps
+* KZ Mantis 2.0
 * KZ Meridian Transit Regalia
 * KZ Tachyonic Core Arsenal
 * KZ Techno-Corporate Repository
