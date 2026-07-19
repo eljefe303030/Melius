@@ -43,6 +43,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Alternate Recoil Animations
 * Console Command Runner Updated
+* El Jefe Combat AI
 * El Jefe Weapons Overhaul
 * El Jefe Space Combat AI
 * The Gang's All Here - Multiple Companions and Crew
