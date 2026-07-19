@@ -19,7 +19,7 @@
 
 ## Important 
 
-This version of Melius will downgrade your game to version 1.15.222, which is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for xEdit to be updated and a few mods to be updated, as currently I would not be able to produce a stable list that meets the required level of quality I would expect.
+This version of Melius will downgrade your game to version 1.15.222, which is the version before the Free Lanes update. I will release a version based on the latest version in due course but first I need to wait for a few mods to be updated, as currently I would not be able to produce a stable list that meets the required level of quality I would expect.
 
 # Contents List
 
