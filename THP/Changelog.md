@@ -24,6 +24,7 @@ Running commentary of what I am planning for the next version.
 * Improved comabt
 
 ### Added 
+* 1stHelmetVisor
 * Armillary Remeshed and Retextured
 * Customizable Animation Speed Redux
 * KZ Aggregation of Scraps
