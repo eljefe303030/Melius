@@ -299,6 +299,8 @@ Any modifications you make to the modlist, other than the optional mods listed a
 
 Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updating mods can include mods no longer functioning as intended, to the whole mod list not working.
 
+[MrFuddyDuddy has created some patches for Creations mods](https://github.com/eljefe303030/Melius/blob/main/assets/docs/Creation%20Patches.md). I do not have these mods and so have not tested them myself. All available in the [Miscellaneous files section of the Melius Nexus page](https://www.nexusmods.com/starfield/mods/12658?tab=files). 
+
 ## Gameplay Guide
 
 ### Additional Key Commands
