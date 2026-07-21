@@ -18,6 +18,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+**This update will require a new game/save**
+
 * Added armour, weapons and clothes
 * Balancing
 * Bug fixes
