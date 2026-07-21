@@ -44,6 +44,8 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Balanced Ballistics
 * Customisable Animation Speed
+* PoI Faction Diversity
+* PoI Faction Diversity - New Hostile Factions
   
 ### Updated
 * Alternate Recoil Animations
