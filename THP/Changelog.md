@@ -38,7 +38,6 @@ Running commentary of what I am planning for the next version.
 * KZ Venatorial Frontiers Armory
 * Rabbit's Real Lights Anchorpoint
 * Rabbit's Real Lights New Babylon
-* Starfield Extended - Craftable Quality
 
 ### Fixed
 * Missing delevelled patches
