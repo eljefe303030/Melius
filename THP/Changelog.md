@@ -5,13 +5,13 @@
 
 <details>
 
-* [Version 1.4 (released 08/07/26)](#version-1.4)
-* [Version 1.3 (released 24/06/26)](#version-1.3)
-* [Version 1.2 (released 15/06/26)](#version-1.2)
-* [Version 1.1 (released 14/06/26)](#version-1.1)
-* [Version 1.0 (released 02/06/26)](#version-1.0)
-* [Version 0.5.1 Alpha2 (released 27/05/26)](#version-0.5.1-alpha2)
-* [Version 0.5 Alpha1 (released 26/05/26)](#version-0.5-alpha1)
+* [Version 1.4 (released 08/07/26)](#version-14)
+* [Version 1.3 (released 24/06/26)](#version-13)
+* [Version 1.2 (released 15/06/26)](#version-12)
+* [Version 1.1 (released 14/06/26)](#version-11)
+* [Version 1.0 (released 02/06/26)](#version-10)
+* [Version 0.5.1 Alpha2 (released 27/05/26)](#version-051-alpha2)
+* [Version 0.5 Alpha1 (released 26/05/26)](#version-05-alpha1)
 
 </details>
 
