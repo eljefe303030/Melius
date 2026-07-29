@@ -47,6 +47,7 @@ Running commentary of what I am planning for the next version.
 * Customisable Animation Speed
 * PoI Faction Diversity
 * PoI Faction Diversity - New Hostile Factions
+* Trainwreck - A Crash Logger
   
 ### Updated
 * Alternate Recoil Animations
