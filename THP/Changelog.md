@@ -61,6 +61,7 @@ Running commentary of what I am planning for the next version.
 * POI Variations - No More Duplicates
 * rbtFONTS
 * Starfield Engine Fixes - SFSE
+* States of Matter - Environment-depending States for Resources
 * THP - Delevelled
 * Va'ruun Technical Institute Ship Habs
 
