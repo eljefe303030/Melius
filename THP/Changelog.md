@@ -41,6 +41,7 @@ Running commentary of what I am planning for the next version.
 * Nova Galactic - Pilot Seat Fix
 * Rabbit's Real Lights Anchorpoint
 * Rabbit's Real Lights New Babylon
+* Ship Vendor Framework (SVF)
 
 ### Fixed
 * Missing delevelled patches
