@@ -57,6 +57,7 @@ Running commentary of what I am planning for the next version.
 * El Jefe Weapons Overhaul
 * El Jefe Space Combat AI
 * The Gang's All Here - Multiple Companions and Crew
+* Graf's Habs - Nova Galactic 1x1s
 * Icy Moon - Porrima IV-d - Biome Visual Transformation
 * POI Variations - No More Duplicates
 * rbtFONTS
