@@ -61,6 +61,7 @@ Running commentary of what I am planning for the next version.
 * Icy Moon - Porrima IV-d - Biome Visual Transformation
 * POI Variations - No More Duplicates
 * rbtFONTS
+* Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
 * States of Matter - Environment-depending States for Resources
 * THP - Delevelled
