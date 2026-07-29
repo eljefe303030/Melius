@@ -21,6 +21,7 @@ Running commentary of what I am planning for the next version.
 **This update will require a new game/save**
 
 * Added armour, weapons and clothes
+* Added Spaceships
 * Balancing
 * Bug fixes
 * Improved comabt
@@ -28,6 +29,7 @@ Running commentary of what I am planning for the next version.
 ### Added 
 * 1stHelmetVisor
 * Armillary Remeshed and Retextured
+* Community Spaceship Expansion
 * Customizable Animation Speed Redux
 * KZ Aggregation of Scraps
 * KZ Mantis 2.0
