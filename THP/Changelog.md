@@ -59,6 +59,7 @@ Running commentary of what I am planning for the next version.
 * The Gang's All Here - Multiple Companions and Crew
 * Icy Moon - Porrima IV-d - Biome Visual Transformation
 * POI Variations - No More Duplicates
+* rbtFONTS
 * Starfield Engine Fixes - SFSE
 * THP - Delevelled
 * Va'ruun Technical Institute Ship Habs
