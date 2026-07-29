@@ -51,6 +51,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Alternate Recoil Animations
 * Console Command Runner Updated
+* Decal Fix
 * El Jefe Combat AI
 * El Jefe Weapons Overhaul
 * El Jefe Space Combat AI
