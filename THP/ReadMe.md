@@ -307,6 +307,8 @@ Any modifications you make to the modlist, other than the optional mods listed a
 
 Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updating mods can include mods no longer functioning as intended, to the whole mod list not working.
 
+Kelishnikov has produced a spreadsheet that shows the pointer handle figures with no Optionals, No Extra Creations, just SKK fast start at the beginning of a new game in THP version 1.4. If you suddenly start getting crashes and you have added additional mods, check your pointer handle figures. You can get the figures via [Starfield Engine Fixes](https://www.nexusmods.com/starfield/mods/10457).	
+
 ## Gameplay Guide
 
 ### Additional Key Commands
@@ -374,9 +376,8 @@ Some of the added music in the list might not be allowed to be played on YouTube
 ## Known Issues
 
 1. Not all the additional clothing combinations are compatible with each other and can cause visual glitches/clipping/missing body parts in both the preview and in game views. Choose a different combination of outfits if this occurs.
-2. 3. The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
-4. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
-5. The mod rbtFONTS - Modern Replacer Collection causes crashing when exiting the Creations menu. Please disable it before doing any management of your installed Creations. It has not been reported to cause any issues in gameplay. 
+2.   The list alters the weight and other attributes of ships parts. When you try to alter any vanilla ships in ship builder, it might say the ship is too heavy and you need to reduce mass or increase grav jump thrust. You can continue to use the ship but if you want to make alterations, you will need to address the mass/thrust issue.
+3. Setting shadow quality to 'Ultra' will cause crash to desktop (CTD) when in the Outpost Builder, especially with large buildings like the Watchtower.
 
 ## Troubleshooting
 
