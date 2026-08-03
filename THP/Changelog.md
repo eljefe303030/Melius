@@ -52,6 +52,7 @@ Running commentary of what I am planning for the next version.
 * PoI Faction Diversity
 * PoI Faction Diversity - New Hostile Factions
 * Trainwreck - A Crash Logger
+* True Seamless Grav Jumps SFSE
   
 ### Updated
 * Alternate Recoil Animations
