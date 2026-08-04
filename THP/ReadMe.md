@@ -307,7 +307,7 @@ Any modifications you make to the modlist, other than the optional mods listed a
 
 Do not update any mods within this mod list. Reason being is that mods have been patched, both by including a patch file and binary patching. Consequences of updating mods can include mods no longer functioning as intended, to the whole mod list not working.
 
-[Kelishnikov has produced a spreadsheet](https://docs.google.com/spreadsheets/d/1EvLcoelOD5FgGUJ0LSCl_1gCDqwwPbHB/edit?usp=drivesdk&ouid=102026282995791747753&rtpof=true&sd=true) that shows the pointer handle figures with no Optionals, No Extra Creations, just SKK fast start at the beginning of a new game in THP version 1.4. If you suddenly start getting crashes and you have added additional mods, check your pointer handle figures. You can get the figures via [Starfield Engine Fixes](https://www.nexusmods.com/starfield/mods/10457).	
+[Kelishnikov has produced a spreadsheet](https://docs.google.com/spreadsheets/d/1EvLcoelOD5FgGUJ0LSCl_1gCDqwwPbHB/edit?usp=drivesdk&ouid=102026282995791747753&rtpof=true&sd=true) that shows the pointer handle figures with no Optionals, No Extra Creations, just SKK fast start at the beginning of a new game in THP version 1.4. If you suddenly start getting crashes and you have added additional mods, check your pointer handle figures. You can get the figures via [Starfield Engine Fixes](https://www.nexusmods.com/starfield/mods/10457) and it's believed you need around 400k to 500k spare to ensure a stable game.
 
 ## Gameplay Guide
 
