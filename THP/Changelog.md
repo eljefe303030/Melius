@@ -39,6 +39,7 @@ Running commentary of what I am planning for the next version.
 * KZ Techno-Corporate Repository
 * KZ United Colonies Depository
 * KZ Venatorial Frontiers Armory
+* Neon - Landing Marker Realignment
 * No More Tears
 * Nova Galactic - Pilot Seat Fix
 * Rabbit's Real Lights Anchorpoint
