@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 ### Added 
 * 1stHelmetVisor
 * Armillary Remeshed and Retextured
+* Aurie's Temple Quest Fixes (Power From Beyond)
 * Community Spaceship Expansion
 * Customizable Animation Speed Redux
 * KZ Aggregation of Scraps
@@ -42,6 +43,7 @@ Running commentary of what I am planning for the next version.
 * Rabbit's Real Lights Anchorpoint
 * Rabbit's Real Lights New Babylon
 * Ship Vendor Framework (SVF)
+* Temple Map Marker Fix
 
 ### Fixed
 * Missing delevelled patches
