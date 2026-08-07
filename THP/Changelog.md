@@ -52,8 +52,9 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Balanced Ballistics
+* Crowd NPC eye Ambient occlusion Fix
 * Customisable Animation Speed
-* PoI Faction Diversity
+* * PoI Faction Diversity
 * PoI Faction Diversity - New Hostile Factions
 * Trainwreck - A Crash Logger
 * True Seamless Grav Jumps SFSE
