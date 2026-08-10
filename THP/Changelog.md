@@ -25,6 +25,7 @@ Running commentary of what I am planning for the next version.
 * Balancing
 * Bug fixes
 * Improved combat
+* Optimisations
 
 ### Added 
 * 1stHelmetVisor
