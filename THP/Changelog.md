@@ -24,7 +24,7 @@ Running commentary of what I am planning for the next version.
 * Added Spaceships
 * Balancing
 * Bug fixes
-* Improved comabt
+* Improved combat
 
 ### Added 
 * 1stHelmetVisor
