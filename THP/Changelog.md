@@ -49,6 +49,7 @@ Running commentary of what I am planning for the next version.
 * Temple Map Marker Fix
 
 ### Fixed
+* Corrupted patches that were created with an earlier version of xEdit
 * Missing delevelled patches
 
 ### Removed
