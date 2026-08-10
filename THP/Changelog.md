@@ -62,6 +62,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Alternate Recoil Animations
 * Console Command Runner Updated
+* Customizable Animation Speed Redux
 * Decal Fix
 * El Jefe Combat AI
 * El Jefe Weapons Overhaul
@@ -72,7 +73,9 @@ Running commentary of what I am planning for the next version.
 * POI Variations - No More Duplicates
 * rbtFONTS
 * ReShade
+* Resupply - Functional Showers Furniture and Supplies
 * Roleplayers' Alternate Start
+* Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * States of Matter - Environment-depending States for Resources
 * THP - Delevelled
