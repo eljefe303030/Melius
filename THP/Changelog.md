@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 1.5 (released 11/08/26)](#version-15)
 * [Version 1.4 (released 08/07/26)](#version-14)
 * [Version 1.3 (released 24/06/26)](#version-13)
 * [Version 1.2 (released 15/06/26)](#version-12)
@@ -18,6 +19,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 1.5
+
 **This update will require a new game/save**
 
 * Added armour, weapons and clothes
@@ -26,6 +29,8 @@ Running commentary of what I am planning for the next version.
 * Bug fixes
 * Improved combat
 * Optimisations
+
+<details>
 
 ### Added 
 * 1stHelmetVisor
@@ -82,6 +87,8 @@ Running commentary of what I am planning for the next version.
 * States of Matter - Environment-depending States for Resources
 * THP - Delevelled
 * Va'ruun Technical Institute Ship Habs
+
+</details>
 
 ## Version 1.4
 
