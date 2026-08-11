@@ -397,11 +397,15 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-## Version 1.4
-**Save safe from 1.1 upwards. If upgrading from 1.0 or below, should be save game safe but there might be issues with upgraded weapons, therefore best to start new game**
+## Version 1.5
+**This update will require a new game/save**
 
-Bug fixes and balancing
-Added new weapons, all patched and balanced for the mod list.
+* Added armour, weapons and clothes
+* Added Spaceships
+* Balancing
+* Bug fixes
+* Improved combat
+* Optimisations
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
 
