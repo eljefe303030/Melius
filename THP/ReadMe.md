@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://www.nexusmods.com/starfield/mods/17249">Nexus Page</a> |
   <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
-  <a href="https://loadorderlibrary.com/lists/the-hardline-protocol">Full Modlist</a> |
+  <a href="https://htmlpreview.github.io/?https://github.com/eljefe303030/Melius/blob/main/lists/thehardlineprotocol.html">Full Modlist</a> |
   <a href="https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md">Changelog</a>
   
 <p align="center">
@@ -500,5 +500,3 @@ Thank you so much for supporting me.
 * wRECk69
 * Kelishnikov
 * Sammy6Toes
-
-[LL](https://htmlpreview.github.io/?https://github.com/eljefe303030/Melius/blob/main/lists/thehardlineprotocol.html)
