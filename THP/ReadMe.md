@@ -8,6 +8,7 @@
     <a href="https://www.nexusmods.com/starfield/mods/17249">Nexus Page</a> |
   <a href="https://discord.gg/ZyakMg7CGN">Discord</a> |
   <a href="https://htmlpreview.github.io/?https://github.com/eljefe303030/Melius/blob/main/lists/thehardlineprotocol.html">Full Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/the-hardline-protocol">Load Order Library</a> |
   <a href="https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md">Changelog</a>
   
 <p align="center">
