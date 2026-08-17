@@ -27,6 +27,7 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Cassiopeia Papyrus Extender
+* El Jefe Weapons Overhaul
 * Old Earth Rearmed
 * Spacefaring Economy
 * Trackers Alliance - Fight Or Flight
