@@ -19,6 +19,22 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Added 
+* Deadly Hazards
+* Dynamo - Streamlined Maintenance
+
+### Updated
+* Cassiopeia Papyrus Extender
+* Old Earth Rearmed
+* Spacefaring Economy
+* Trackers Alliance - Fight Or Flight
+* Va'ruun Technical Institute Ship Habs
+
+### Removed
+* Extremophile - Environmental Gameplay
+* Flashy(JoeR) - Receiver Failures
+* Flashy(JoeR) - Spaceships Plus
+
 ## Version 1.5
 
 **This update will require a new game/save**
