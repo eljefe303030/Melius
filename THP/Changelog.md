@@ -19,6 +19,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+**Save safe if updating from version 1.5 as long as you install [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) and [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601) mods, enable them and then following the instructions on their mod pages to uninstall them. If updating from version 1.4 or below, will require a new game/save**
+
 ### Added 
 * Deadly Hazards
 * Dynamo - Streamlined Maintenance
