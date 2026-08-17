@@ -28,7 +28,7 @@ Running commentary of what I am planning for the next version.
 * Dynamo - Streamlined Maintenance
 
 ### Fixed
-* Ship greetings playing at wrong speed.
+* Ship greetings playing at wrong speed
 
 ### Updated
 * Cassiopeia Papyrus Extender
