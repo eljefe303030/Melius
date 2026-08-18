@@ -25,7 +25,6 @@ Running commentary of what I am planning for the next version.
 
 ### Added 
 * Deadly Hazards
-* Dynamo - Streamlined Maintenance
 
 ### Fixed
 * Ship greetings playing at wrong speed
@@ -41,7 +40,6 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Extremophile - Environmental Gameplay
 * Flashy(JoeR) - Receiver Failures
-* Flashy(JoeR) - Spaceships Plus
 
 ## Version 1.5
 
