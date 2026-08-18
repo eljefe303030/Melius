@@ -24,6 +24,7 @@ Running commentary of what I am planning for the next version.
 * Disable and re-enable Real Fuel via Gameplay Options before updating the list and then reenable after updating.
 * If updating from version 1.4 or below, will require a new game/save
 
+
 * Bug fixes
 
 ### Added 
