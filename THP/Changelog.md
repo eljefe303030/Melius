@@ -38,6 +38,7 @@ Running commentary of what I am planning for the next version.
 * Commitment
 * El Jefe Weapons Overhaul
 * Old Earth Rearmed
+* Real Fuel - Immersive Exploration
 * Spacefaring Economy
 * Trackers Alliance - Fight Or Flight
 * Va'ruun Technical Institute Ship Habs
