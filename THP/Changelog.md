@@ -28,9 +28,15 @@ Running commentary of what I am planning for the next version.
 * Bug fixes
 
 ### Added 
+* Additional Armor Mods
 * Configurable Economy
 * Deadly Hazards
+* Fullbody Spacesuit Upgrade Fix
 * Legendary 4 Star - No VFX and Sounds
+* Luma - Native HDR and more
+* Starfield Shader Injector and ReShade Helper
+* TN's Aid and Ammo Crafting (Enhanced)
+* TN's Textile Perk Restored (Clothing System Overhaul)
 * UC BERETS
 * UC Navy Hazmat Suit
 
