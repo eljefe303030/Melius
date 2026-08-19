@@ -28,7 +28,11 @@ Running commentary of what I am planning for the next version.
 * Bug fixes
 
 ### Added 
+* Configurable Economy
 * Deadly Hazards
+* Legendary 4 Star - No VFX and Sounds
+* UC BERETS
+* UC Navy Hazmat Suit
 
 ### Fixed
 * Ship greetings playing at wrong speed
