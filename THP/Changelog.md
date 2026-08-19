@@ -48,6 +48,7 @@ Running commentary of what I am planning for the next version.
 * Va'ruun Technical Institute Ship Habs
 
 ### Removed
+* Craftable Primers And Diodes
 * Extremophile - Environmental Gameplay
 * Flashy(JoeR) - Receiver Failures
 * Flashy(JoeR) - Spaceships Plus
