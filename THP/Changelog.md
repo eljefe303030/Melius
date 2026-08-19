@@ -20,7 +20,7 @@
 Running commentary of what I am planning for the next version. 
 
 **Save safe if updating from version 1.5 as long as you:**
-* Install [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601) mod, enable in MO2 and then following the instructions on their mod pages to uninstall.
+* Install [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601) and [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) mods, enable in MO2 and then following the instructions on their mod pages to uninstall.
 * Disable and re-enable Real Fuel via Gameplay Options before updating the list and then reenable after updating.
 * If updating from version 1.4 or below, will require a new game/save
 
@@ -44,6 +44,7 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Extremophile - Environmental Gameplay
 * Flashy(JoeR) - Receiver Failures
+* Flashy(JoeR) - Spaceships Plus
 
 ## Version 1.5
 
