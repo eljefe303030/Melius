@@ -35,6 +35,7 @@ Running commentary of what I am planning for the next version.
 
 ### Updated
 * Cassiopeia Papyrus Extender
+* Commitment
 * El Jefe Weapons Overhaul
 * Old Earth Rearmed
 * Spacefaring Economy
