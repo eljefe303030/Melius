@@ -26,6 +26,9 @@ Running commentary of what I am planning for the next version.
 
 ### Main changes
 * Bug fixes
+* More reasons to collect resources and upgrade items
+* Improved visuals, especially in HDR
+* Improved balancing of weapons
 
 ### Added 
 * Additional Armor Mods
