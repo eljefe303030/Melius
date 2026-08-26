@@ -53,6 +53,7 @@ Running commentary of what I am planning for the next version.
 * Cassiopeia Papyrus Extender
 * Commitment
 * El Jefe Weapons Overhaul
+* KBAR-32 (AA BAR-32)
 * Old Earth Rearmed
 * Real Fuel - Immersive Exploration
 * Remove Auto Aim
