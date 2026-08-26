@@ -49,6 +49,7 @@ Running commentary of what I am planning for the next version.
 * Ship greetings playing at wrong speed
 
 ### Updated
+* Aurie's Temple Quest Fixes (Power From Beyond)
 * Cassiopeia Papyrus Extender
 * Commitment
 * El Jefe Weapons Overhaul
