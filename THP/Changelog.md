@@ -56,6 +56,7 @@ Running commentary of what I am planning for the next version.
 * Real Fuel - Immersive Exploration
 * Remove Auto Aim
 * Spacefaring Economy
+* Starfield Engine Fixes - SFSE
 * Trackers Alliance - Fight Or Flight
 * Va'ruun Technical Institute Ship Habs
 
