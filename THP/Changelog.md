@@ -59,6 +59,7 @@ Running commentary of what I am planning for the next version.
 * Remove Auto Aim
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
+* Stroud Premium Edition
 * Trackers Alliance - Fight Or Flight
 * Va'ruun Technical Institute Ship Habs
 
