@@ -54,6 +54,7 @@ Running commentary of what I am planning for the next version.
 * El Jefe Weapons Overhaul
 * Old Earth Rearmed
 * Real Fuel - Immersive Exploration
+* Remove Auto Aim
 * Spacefaring Economy
 * Trackers Alliance - Fight Or Flight
 * Va'ruun Technical Institute Ship Habs
