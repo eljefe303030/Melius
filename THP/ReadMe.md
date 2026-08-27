@@ -1,5 +1,5 @@
 # **The Hardline Protocol**
-![THP logo](https://github.com/eljefe303030/Melius/blob/2efffafa713b0f883cba9bff9bcefe3deb525aa8/THP/assets/images/THP%20banner.webp)
+![THP logo](https://github.com/eljefe303030/Melius/blob/63708cca9d3d8bdc0dd6f4d43d66c964e6d670f7/THP/assets/images/THPBanner.webp)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
