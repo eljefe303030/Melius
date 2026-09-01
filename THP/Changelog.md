@@ -43,6 +43,7 @@ Running commentary of what I am planning for the next version.
 * Natural Hair Colours
 * No Ugly Comm Towers
 * RMB - Expanded Gameplay Options (Scarcity and More)
+* Ship Vendor Fix
 * Starfield Extended - Short 'n Sweet Armor Naming
 * Starfield Extended - Short 'n Sweet Weapon Naming
 * Starfield Shader Injector and ReShade Helper
