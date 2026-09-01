@@ -54,6 +54,7 @@ Running commentary of what I am planning for the next version.
 ### Updated
 * Aurie's Temple Quest Fixes (Power From Beyond)
 * Cassiopeia Papyrus Extender
+* CharGenMenu
 * Commitment
 * El Jefe Weapons Overhaul
 * KBAR-32 (AA BAR-32)
