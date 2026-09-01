@@ -74,6 +74,7 @@ Running commentary of what I am planning for the next version.
 * Extremophile - Environmental Gameplay
 * Flashy(JoeR) - Receiver Failures
 * Flashy(JoeR) - Spaceships Plus
+* Manual Reload Papyrus Edition
 
 ## Version 1.5
 
