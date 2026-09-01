@@ -38,6 +38,7 @@ Running commentary of what I am planning for the next version.
 * Eyewitness Startup Fix
 * Fullbody Spacesuit Upgrade Fix
 * Legendary 4 Star - No VFX and Sounds
+* Legendary Boostpack Stutter Fix
 * Luma - Native HDR and more
 * Natural Hair Colours
 * No Ugly Comm Towers
