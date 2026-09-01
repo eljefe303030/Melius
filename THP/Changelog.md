@@ -66,6 +66,7 @@ Running commentary of what I am planning for the next version.
 * Stroud Premium Edition
 * THP - Delevelled
 * Trackers Alliance - Fight Or Flight
+* True Ragdoll - No Death Animations
 * Va'ruun Technical Institute Ship Habs
 
 ### Removed
