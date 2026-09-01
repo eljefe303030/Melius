@@ -35,10 +35,12 @@ Running commentary of what I am planning for the next version.
 * Configurable Economy
 * Deadly Hazards
 * ELEGANT - Hair Collection
+* Eyewitness Startup Fix
 * Fullbody Spacesuit Upgrade Fix
 * Legendary 4 Star - No VFX and Sounds
 * Luma - Native HDR and more
 * Natural Hair Colours
+* No Ugly Comm Towers
 * RMB - Expanded Gameplay Options (Scarcity and More)
 * Starfield Extended - Short 'n Sweet Armor Naming
 * Starfield Extended - Short 'n Sweet Weapon Naming
