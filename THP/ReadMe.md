@@ -145,7 +145,6 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 4. [Minerals Overhaul](https://www.nexusmods.com/starfield/mods/11894) Changes how mining resources works and feels. More in-depth mining systems. New attachments. Better skill development.
 > [!IMPORTANT]
 > The mod description page says you have to pick up a specific cutter during the intro mission in the Vectera mine, you can ignore this, as I patched this to not be needed.
-4. [Manual Reload Console Command Runner Updated Edition](https://www.nexusmods.com/starfield/mods/15743) Disables auto reload. **If using a controller you will need to [map the 'R' key using a virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) or disable this mod.** [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
 5. [Suit Up - Realistic Armor](https://www.nexusmods.com/starfield/mods/12102) A lightweight, highly compatible rebalance of all armors based on category and function.
 6. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples.
 7. Multiple mods that remove the chance of coming across the same POIs all the time.
@@ -158,7 +157,7 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 14. Selection of mods that improves the shipbuilding aspect of the game and add new parts and habs. You can now make and use Class M ships.
 15. [TN's Space Mining and Salvage](https://www.nexusmods.com/starfield/mods/6331) Mining out in space is more challenging and more rewarding now. The asteroids will take special mining lasers you unlock with the geology perk, which deals good damage to asteroids, but not to anything else. They can also be used for salvaging. Many junk items can be taken to the Industrial Workbench and Salvaged into usable items. They will show up on the recipe list when they are in your inventory (Not your ship's).
 16. [Dark Universe Overtime patch Selective Assignments](https://www.nexusmods.com/starfield/mods/15948) Adds options to disable DUO and vanilla missions by category, a roleplay mode that unlocks categories when you have basic skill or background requirements and an option to limit DUO missions that target Crimson Fleet. If your mission board is empty, you don't meet the requirements for the missions. You can turn off this feature in the game settings but you'll then need to wait 48hr UT (e.g. 2 hrs on Earth's moon Luna), then travel back to the mission board, as changing location matters in certain scenarios. 
-17. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The settings that have been changed are stored in the `StarfieldEngineFixesCustom.ini` file, which is located in the path `\mods\-Starfield Engine Fixes - SFSE - Resource - Settings\SFSE\Plugins`. Most are self explanatory, see mod page for more detailed descriptions **Note, the settings change how rotate works in Outpost building, as well as using a rotate button, you can now move around the object to rotate it. This gives better control. It also disables automatic reloading of weapons, for controller users see later on on how to map the 'R' key, to disable this feature. edit the ini file for and either delete the No Auto Reload line or change the 1 to a 0.**:
+17. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The settings that have been changed are stored in the `StarfieldEngineFixesCustom.ini` file, which is located in the path `\mods\-Starfield Engine Fixes - SFSE - Resource - Settings\SFSE\Plugins`. Most are self explanatory, see mod page for more detailed descriptions **Note, the settings change how rotate works in Outpost building, as well as using a rotate button, you can now move around the object to rotate it. This gives better control. It also disables automatic reloading of weapons.**:
 18. [Starfield Smithing](https://www.nexusmods.com/starfield/mods/15199) Upgrade the Quality Tiers of your weapons with resources and manufacturing components instead of credits. Reroll and install Legendary Effects with X-tech only. Attach Upgrade Modules with a simple Manufacturing component instead of credits.
 19. [Flashy(JoeR) - Receiver Failures](https://www.nexusmods.com/starfield/mods/16593) Adds a new gameplay mechanic where your guns could possibly break, rendering them useless until you repair them at a weapons bench.
 20. [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) A mod for people who want things to feel a little more hands-on, when it comes to your ship, like other popular space sims.
@@ -189,7 +188,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684)|Disables the auto handbrake, use the 'ctrl' key|For controller users, you will need to map the 'ctrl' key to your controller [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|Yes|
 |[No Vehicle Mouse Steering - SFSE](https://www.nexusmods.com/starfield/mods/11135)|Disables mouse steering for Land Vehicles|Seperate version included for controller users|Yes|
 |[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|**Enable the 'Camera Switch Compatibility' within the Scopes Without Overlays section of the Gameplay Options if using this mod.** Ini provided to change settings, see mod page for more details.|Yes|
-|Starfield Engine Fixes - SFSE - Resource - Settings disable auto reload|Enable this to disable the auto reloading of weapons.|[See guide on remapping reload key for controller users](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)|Yes|
 |[Starfield Memory Fixes](https://www.nexusmods.com/starfield/mods/14925)|The plugin periodically checks Starfield's working set, pagefile usage, and available system RAM. When available system memory falls below the configured threshold, MemoryFixes can request a working set trim through Windows memory management functions.||Yes|
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
@@ -286,11 +284,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |[Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)|An alternate start mod designed for roleplayers, fully dynamic, with main quest replacement and dialog edits.|Be careful with options you choose e.g. if you choose a Class C spaceship, you won't be able to fly it at the beginning, as you won't have the required licence or perk. Do not use the surgical bed at the start after you have chosen equipment, as it can cause a CTD. Recommended to keep the quest 'One Small Step' completed.|No|
 |[SKK - Fast Start New Game](https://www.nexusmods.com/starfield/mods/5971)|Fast Start New Game bypasses the Argos-Atlantis tutorials starting new and NG+ games from Lodge, Cydonia, Akila, Neon, Den or random location with full character configuration and some loadout choices.|When first starting a game, don't do anything whilst mods are initialising (notifications appearing in the top right of the screen). Go to you inventory, it will say it is not available, exit out of that screen, a message will say the mod setup has completed and you can then continue as normal.|No|
 
-**66.1 ANIMATION - GENERAL**
-|Mod|Description|Comments|Safe to enable/disable mid save|
-|---|---|---|---|
-|[Manual Reload](https://www.nexusmods.com/starfield/mods/15743)|Disable auto reload.|For controllers users, you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md). [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)|No|
-
 **72 TOOLS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
@@ -319,7 +312,7 @@ Outpost object rotation can now be done by moving around the object, as well as 
 
 |Key|Action|Related Mod|Comments|
 |---|---|---|---|
-|R| Reload|Manual Reload Console Command Runner Updated Edition|Optional Mod. For controllers you will need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
+For controllers you may need to [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md)| 
 |N| Active night vision|NightVision|Need to add sensor array mod to helmets first| 
 |Q|Driving rear view|Immersive Driving - SFSE|Whilst driving a land vehicle|
 |V|Companion Chatter|Immersive Driving - SFSE|Whilst driving a land vehicle|
@@ -463,7 +456,7 @@ Save the ini file.
 
 **Q. Can I use a controller?**
 
-A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands, such as the reload key `R`. [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
+A. Yes, see [these instructions](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md) on how to bind any additional key commands. [Bhaeron has created an Xbox layout you can use.](https://docs.google.com/document/d/1Mg7zZY-9JD-BvFoFrVThjib2StEkkkxGMcHwZ_1NZ60/edit?tab=t.0)
 
 **Q. Does this work on Linux**
 
