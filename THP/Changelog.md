@@ -50,6 +50,7 @@ Running commentary of what I am planning for the next version.
 * TN's Textile Perk Restored (Clothing System Overhaul)
 * UC BERETS
 * UC Navy Hazmat Suit
+* Weapon Swap Stutter Fix
 
 ### Fixed
 * Ship greetings playing at wrong speed
