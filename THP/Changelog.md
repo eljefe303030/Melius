@@ -33,11 +33,13 @@ Running commentary of what I am planning for the next version.
 ### Added 
 * Additional Armor Mods
 * Alex Shadid Hair Fix
+* Clean Reflex Sight Lenses
 * Configurable Economy
 * Deadly Hazards
 * ELEGANT - Hair Collection
 * Eyewitness Startup Fix
 * Fullbody Spacesuit Upgrade Fix
+* HiVis Scope Crosshair Replacement
 * Legendary 4 Star - No VFX and Sounds
 * Legendary Boostpack Stutter Fix
 * Luma - Native HDR and more
