@@ -60,6 +60,7 @@ Running commentary of what I am planning for the next version.
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * Stroud Premium Edition
+* THP - Delevelled
 * Trackers Alliance - Fight Or Flight
 * Va'ruun Technical Institute Ship Habs
 
