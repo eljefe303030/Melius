@@ -39,6 +39,7 @@ Running commentary of what I am planning for the next version.
 * Legendary 4 Star - No VFX and Sounds
 * Luma - Native HDR and more
 * Natural Hair Colours
+* RMB - Expanded Gameplay Options (Scarcity and More)
 * Starfield Extended - Short 'n Sweet Armor Naming
 * Starfield Extended - Short 'n Sweet Weapon Naming
 * Starfield Shader Injector and ReShade Helper
