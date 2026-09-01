@@ -82,7 +82,9 @@ Running commentary of what I am planning for the next version.
 * Extremophile - Environmental Gameplay
 * Flashy(JoeR) - Receiver Failures
 * Flashy(JoeR) - Spaceships Plus
+* Functional Reflex Sights
 * Manual Reload Papyrus Edition
+* Scopes Without Overlays
 
 ## Version 1.5
 
