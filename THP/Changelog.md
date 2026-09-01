@@ -1,4 +1,4 @@
-![banner](https://github.com/eljefe303030/Melius/blob/b83cba3d05382c948a054756fe17c924131f6584/THP/assets/images/THP%20banner.webp)
+![THP logo](https://github.com/eljefe303030/Melius/blob/63708cca9d3d8bdc0dd6f4d43d66c964e6d670f7/THP/assets/images/THPBanner.webp)
 # Changelog
 
 ## Version History
