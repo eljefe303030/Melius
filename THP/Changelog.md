@@ -33,6 +33,7 @@ Running commentary of what I am planning for the next version.
 ### Added 
 * Additional Armor Mods
 * Alex Shadid Hair Fix
+* Allied Assault Rifle AA-15
 * Clean Reflex Sight Lenses
 * Configurable Economy
 * Deadly Hazards
