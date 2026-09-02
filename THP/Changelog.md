@@ -43,6 +43,7 @@ Running commentary of what I am planning for the next version.
 * HiVis Scope Crosshair Replacement
 * Legendary 4 Star - No VFX and Sounds
 * Legendary Boostpack Stutter Fix
+* Lodecs Custom Armory (LCA)
 * Luma - Native HDR and more
 * Natural Hair Colours
 * No Ugly Comm Towers
