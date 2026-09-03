@@ -48,6 +48,7 @@ Running commentary of what I am planning for the next version.
 * Munitions Expansion Framework
 * Natural Hair Colours
 * No Ugly Comm Towers
+* PLAGUE'S OPTICS REIMAGINED
 * RMB - Expanded Gameplay Options (Scarcity and More)
 * Ship Vendor Fix
 * Starfield Extended - Short 'n Sweet Armor Naming
