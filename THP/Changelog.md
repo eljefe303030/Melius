@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 * More reasons to collect resources and upgrade items
 * Improved visuals, especially in HDR
 * Improved balancing of weapons
+* Major rebalance of gameplay, based on Ascension and Serenity of Stars values for NPC health, XP gains and levels of resistance. 
 
 ### Added 
 * Additional Armor Mods
