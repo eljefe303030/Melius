@@ -56,6 +56,7 @@ Running commentary of what I am planning for the next version.
 * Starfield Extended - Short 'n Sweet Armor Naming
 * Starfield Extended - Short 'n Sweet Weapon Naming
 * Starfield Shader Injector and ReShade Helper
+* Starmap Cruise - Jump and Cruise from Starmap
 * TN's Aid and Ammo Crafting (Enhanced)
 * TN's Textile Perk Restored (Clothing System Overhaul)
 * UC BERETS
