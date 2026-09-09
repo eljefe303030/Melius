@@ -30,7 +30,7 @@ Running commentary of what I am planning for the next version.
 * Improved visuals, especially in HDR
 * Improved balancing of weapons
 * Major rebalance of gameplay, based on Ascension and Serenity of Stars values for NPC health, XP gains and levels of resistance.
-* Weapon loadouts for main factions balanced, based on Serenity of Stars method of primary, secondary and melee weapon.
+* Weapon loadouts for main factions balanced, based on Serenity of Stars method of primary, secondary and melee weapon lists.
 
 ### Added 
 * Additional Armor Mods
