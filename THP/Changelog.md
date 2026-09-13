@@ -75,12 +75,16 @@ Running commentary of what I am planning for the next version.
 * El Jefe Weapons Overhaul
 * KBAR-32 (AA BAR-32)
 * Old Earth Rearmed
+* Qwerty's Mini Fixes
 * Real Fuel - Immersive Exploration
 * Remove Auto Aim
+* Ship Vendor Framework (SVF)
 * Spacefaring Economy
 * Starfield Engine Fixes - SFSE
 * Stroud Premium Edition
 * THP - Delevelled
+* TN's Class M (and Starborn Guardian) Ship Building
+* TN's Ship Modifications All in One
 * Trackers Alliance - Fight Or Flight
 * True Ragdoll - No Death Animations
 * Va'ruun Technical Institute Ship Habs
