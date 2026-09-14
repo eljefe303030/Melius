@@ -20,7 +20,7 @@
 Running commentary of what I am planning for the next version. 
 
 **Save safe if updating from version 1.5 as long as you:**
-* Install [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601) and [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) mods, enable in MO2 and then following the instructions on their mod pages to uninstall.
+* Install [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) mods, enable in MO2 and then following the instructions on their mod pages to uninstall.
 * Disable and re-enable Real Fuel via Gameplay Options before updating the list and then reenable after updating.
 * If updating from version 1.4 or below, will require a new game/save
 
@@ -37,7 +37,7 @@ Running commentary of what I am planning for the next version.
 * Allied Assault Rifle AA-15
 * Clean Reflex Sight Lenses
 * Configurable Economy
-* Deadly Hazards
+* Doctors Treat Environmental Damage
 * ELEGANT - Hair Collection
 * Eyewitness Startup Fix
 * Fullbody Spacesuit Upgrade Fix
@@ -56,6 +56,7 @@ Running commentary of what I am planning for the next version.
 * Starfield Extended - Short 'n Sweet Weapon Naming
 * Starfield Shader Injector and ReShade Helper
 * Starmap Cruise - Jump and Cruise from Starmap
+* Suit Protection Restoration Kit (Manageable Environmental Hazards)
 * TN's Aid and Ammo Crafting (Enhanced)
 * TN's Textile Perk Restored (Clothing System Overhaul)
 * UC BERETS
@@ -90,7 +91,6 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Craftable Primers And Diodes
-* Extremophile - Environmental Gameplay
 * Flashy(JoeR) - Receiver Failures
 * Flashy(JoeR) - Spaceships Plus
 * Functional Reflex Sights
