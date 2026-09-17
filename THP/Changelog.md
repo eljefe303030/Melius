@@ -97,6 +97,7 @@ Running commentary of what I am planning for the next version.
 * Craftable Primers And Diodes
 * Flashy(JoeR) - Receiver Failures
 * Flashy(JoeR) - Spaceships Plus
+* Grounded Enemies (Ai - No Sponges - Height Variations)
 * Functional Reflex Sights
 * Manual Reload Papyrus Edition
 * Scopes Without Overlays
