@@ -41,6 +41,7 @@ Running commentary of what I am planning for the next version.
 * Doctors Treat Environmental Damage
 * ELEGANT - Hair Collection
 * Eyewitness Startup Fix
+* Expanded Loading Screen Entries
 * Fullbody Spacesuit Upgrade Fix
 * HiVis Scope Crosshair Replacement
 * Legendary 4 Star - No VFX and Sounds
@@ -52,6 +53,7 @@ Running commentary of what I am planning for the next version.
 * No Ugly Comm Towers
 * PLAGUE'S OPTICS REIMAGINED
 * RMB - Expanded Gameplay Options (Scarcity and More)
+* Ship Colorize Redux
 * Ship Vendor Fix
 * Starfield Extended - Short 'n Sweet Armor Naming
 * Starfield Extended - Short 'n Sweet Weapon Naming
@@ -62,6 +64,7 @@ Running commentary of what I am planning for the next version.
 * TN's Textile Perk Restored (Clothing System Overhaul)
 * UC BERETS
 * UC Navy Hazmat Suit
+* UC ReUniform - United Colonies Faction Uniform Overhaul
 * Weapon Swap Stutter Fix
 
 ### Fixed
