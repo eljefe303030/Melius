@@ -37,6 +37,7 @@ Running commentary of what I am planning for the next version.
 * Allied Assault Rifle AA-15
 * Clean Reflex Sight Lenses
 * Configurable Economy
+* Constellation Member Clothing Retexture
 * Doctors Treat Environmental Damage
 * ELEGANT - Hair Collection
 * Eyewitness Startup Fix
