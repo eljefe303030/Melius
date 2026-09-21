@@ -106,6 +106,7 @@ Running commentary of what I am planning for the next version.
 * No rescale on Interact
 * Scopes Without Overlays
 * Starfield Memory Fixes
+* Swap and Save Weapon and Armor Mods - The Good Ol' Fallout Mods Restored - SFSE
 
 ## Version 1.5
 
