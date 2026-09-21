@@ -105,6 +105,7 @@ Running commentary of what I am planning for the next version.
 * NPC Height Variation Toolkit
 * No rescale on Interact
 * Scopes Without Overlays
+* Starfield Memory Fixes
 
 ## Version 1.5
 
