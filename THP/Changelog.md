@@ -100,6 +100,8 @@ Running commentary of what I am planning for the next version.
 * Grounded Enemies (Ai - No Sponges - Height Variations)
 * Functional Reflex Sights
 * Manual Reload Papyrus Edition
+* NPC Height Variation Toolkit
+* No rescale on Interact
 * Scopes Without Overlays
 
 ## Version 1.5
