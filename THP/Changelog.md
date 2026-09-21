@@ -95,6 +95,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Craftable Primers And Diodes
+* Faster Cell Lookup
 * Flashy(JoeR) - Receiver Failures
 * Flashy(JoeR) - Spaceships Plus
 * Grounded Enemies (Ai - No Sponges - Height Variations)
