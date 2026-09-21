@@ -48,6 +48,7 @@ Running commentary of what I am planning for the next version.
 * Legendary Boostpack Stutter Fix
 * Lodecs Custom Armory (LCA)
 * Luma - Native HDR and more
+* Menu Lag Fix
 * Natural Hair Colours
 * No Ugly Comm Towers
 * PLAGUE'S OPTICS REIMAGINED
