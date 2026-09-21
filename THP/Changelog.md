@@ -94,6 +94,7 @@ Running commentary of what I am planning for the next version.
 * Va'ruun Technical Institute Ship Habs
 
 ### Removed
+* Auto Hide HUD and Widgets - SFSE
 * Craftable Primers And Diodes
 * Faster Cell Lookup
 * Flashy(JoeR) - Receiver Failures
