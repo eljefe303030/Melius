@@ -337,6 +337,8 @@ For controllers you may need to [map the command via the virtual keyboard](https
 * Damage options - if you are finding it difficult, reduce the damage for a while until, you gain better equipment/gain perks
 
 **Display**
+* Set to HDR if you have a HDR capable monitor
+  ![SDR/HDR](https://github.com/eljefe303030/Melius/blob/47c682f81a4dbde901d888f68a7ff4effead827c/THP/assets/images/SDR-HDR%20setting.png)
 * Contrast set to 0.93 then adjust brightness to whatever value you prefer, I have mine set to 2.41.
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * VSync - off
