@@ -62,7 +62,6 @@ Running commentary of what I am planning for the next version.
 * Suit Protection Restoration Kit (Manageable Environmental Hazards)
 * TN's Aid and Ammo Crafting (Enhanced)
 * TN's Textile Perk Restored (Clothing System Overhaul)
-* UC BERETS
 * UC Navy Hazmat Suit
 * UC ReUniform - United Colonies Faction Uniform Overhaul
 * Weapon Swap Stutter Fix
