@@ -50,7 +50,7 @@
 </details>
 
 # Preamble
-The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. 
+The Hardline Protocol (a fork of my other Wabbajack mod list Melius) is a hardcore list that is delevelled, meaning the world doesn't evolve around you, you are just a part of the world. THP includes mods to make the game more immersive, combat more challenging and enjoyable, as well as adding in a number of quality of life mods and mods to improve the aesthetics. Expect fast and deadly combat that requires tactics and strategy to survive. 
 
 Stability and balanced gameplay that is challenging but rewarding are key aims of this list. The list is designed to be enjoyable up to the end game. There is more purpose to collect, craft and modify items.
 
@@ -159,16 +159,15 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 16. [Dark Universe Overtime patch Selective Assignments](https://www.nexusmods.com/starfield/mods/15948) Adds options to disable DUO and vanilla missions by category, a roleplay mode that unlocks categories when you have basic skill or background requirements and an option to limit DUO missions that target Crimson Fleet. If your mission board is empty, you don't meet the requirements for the missions. You can turn off this feature in the game settings but you'll then need to wait 48hr UT (e.g. 2 hrs on Earth's moon Luna), then travel back to the mission board, as changing location matters in certain scenarios. 
 17. [Starfield Engine Fixes - SFSE](https://www.nexusmods.com/starfield/mods/10457) Fixes bugs and adds new features to the game engine. The settings that have been changed are stored in the `StarfieldEngineFixesCustom.ini` file, which is located in the path `\mods\-Starfield Engine Fixes - SFSE - Resource - Settings\SFSE\Plugins`. Most are self explanatory, see mod page for more detailed descriptions **Note, the settings change how rotate works in Outpost building, as well as using a rotate button, you can now move around the object to rotate it. This gives better control. It also disables automatic reloading of weapons.**
 18. [Starfield Smithing](https://www.nexusmods.com/starfield/mods/15199) Upgrade the Quality Tiers of your weapons with resources and manufacturing components instead of credits. Reroll and install Legendary Effects with X-tech only. Attach Upgrade Modules with a simple Manufacturing component instead of credits.
-19. [Flashy(JoeR) - Receiver Failures](https://www.nexusmods.com/starfield/mods/16593) Adds a new gameplay mechanic where your guns could possibly break, rendering them useless until you repair them at a weapons bench.
-20. [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) A mod for people who want things to feel a little more hands-on, when it comes to your ship, like other popular space sims.
-21. [Flashy(JoeR) - Hardcore Encumbrance](https://www.nexusmods.com/starfield/mods/16763) Adds "realism-adjacent" modifiers to carry capacity and the effects of encumbrance. 
-22. [Apotheosis - Powers Overhaul](https://www.nexusmods.com/starfield/mods/12984) This mod overhauls how the Starborn powers are activated and adds a Starpower perk tree.
-23. [Atmospheric Audio](https://www.nexusmods.com/starfield/mods/16239) This mod runs a detection system in the background that adjusts the audio mix based on where you are. Inside a sealed station or your ship, everything sounds normal. Step outside onto an airless surface and the mix shifts, sounds become muffled, like you're out there in a suit with limited audio feedback.
-24. [Magic Boost Disabler - Immersive Boost Pack Behavior](https://www.nexusmods.com/starfield/mods/12776) Prevents Boost Packs from magically appearing when your spacesuit is hidden.
-25. [Fast Travel Restrictions](https://www.nexusmods.com/starfield/mods/9155) Fast Travel Restrictions transforms the way you travel in Starfield by removing most forms of instant fast travel and forcing the player to rely on their ship for navigation. Can be turned off/configured in the main game settings.
-26. [HONKCORE - Dynamic Custom HUD Overhaul](https://www.nexusmods.com/starfield/mods/16993) Configurable HUD for Starfield. New Widgets include ECG heartbeat vitals, tactical radar, CBRN threat display, boot sequence and more. Download presets or [make your own](https://relay.samich.dev/)
-27. [Transfer Spaceships Across Universes - SFSE](https://www.nexusmods.com/starfield/mods/13449) SFSE plugin that allows you to export and import spaceships (both layout and interior decoration). The mod is Console based, there is no UI, see mode page for usage.
-28. [Better Spaceship Interaction Distance](https://www.nexusmods.com/starfield/mods/12641) Changes docking and looting distance to 55. Increases distance you can access the cargo on the ground to 2000.
+19. [Flashy(JoeR) - Hardcore Encumbrance](https://www.nexusmods.com/starfield/mods/16763) Adds "realism-adjacent" modifiers to carry capacity and the effects of encumbrance. 
+20. [Apotheosis - Powers Overhaul](https://www.nexusmods.com/starfield/mods/12984) This mod overhauls how the Starborn powers are activated and adds a Starpower perk tree.
+21. [Atmospheric Audio](https://www.nexusmods.com/starfield/mods/16239) This mod runs a detection system in the background that adjusts the audio mix based on where you are. Inside a sealed station or your ship, everything sounds normal. Step outside onto an airless surface and the mix shifts, sounds become muffled, like you're out there in a suit with limited audio feedback.
+22. [Magic Boost Disabler - Immersive Boost Pack Behavior](https://www.nexusmods.com/starfield/mods/12776) Prevents Boost Packs from magically appearing when your spacesuit is hidden.
+23. [Fast Travel Restrictions](https://www.nexusmods.com/starfield/mods/9155) Fast Travel Restrictions transforms the way you travel in Starfield by removing most forms of instant fast travel and forcing the player to rely on their ship for navigation. Can be turned off/configured in the main game settings.
+24. [HONKCORE - Dynamic Custom HUD Overhaul](https://www.nexusmods.com/starfield/mods/16993) Configurable HUD for Starfield. New Widgets include ECG heartbeat vitals, tactical radar, CBRN threat display, boot sequence and more. Download presets or [make your own](https://relay.samich.dev/)
+25. [Transfer Spaceships Across Universes - SFSE](https://www.nexusmods.com/starfield/mods/13449) SFSE plugin that allows you to export and import spaceships (both layout and interior decoration). The mod is Console based, there is no UI, see mode page for usage.
+26. [Better Spaceship Interaction Distance](https://www.nexusmods.com/starfield/mods/12641) Changes docking and looting distance to 55. Increases distance you can access the cargo on the ground to 2000.
+27. [TN's Textile Perk Restored (Clothing System Overhaul)](https://www.nexusmods.com/starfield/mods/10676) Make clothing more useful and more engaging. Upgrade your clothing, decorate your space suit, and accessorize to your heart's content.
  
 ## Optional Mods
 
@@ -179,16 +178,18 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 **01.1a CORE MODS - SFSE PLUGINS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
 |---|---|---|---|
-|[Auto Hide HUD and Widgets - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8946)|SFSE plugin that grants you full control over the HUD's visibility.||Yes|
 |[Auto Spacesuit Hider - Custom Conditionalizer - Vanilla Bug Fixes - SFSE](https://www.nexusmods.com/starfield/mods/7432)|Lets you determine under what conditions your Spacesuit is hidden. Also aims to fix some of the relevant vanilla bugs.|Enabling this mod will pretty much make 'Fast Spacesuit Deployment Kit' mod redundant, as it takes away the manual control of when your spacesuit is displayed.|Yes|
 |[Auto Transfer Mineral Deposits and Resources - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/8606)|SFSE plugin that automatically transfers mined mineral deposits and harvested resources to your Homeship instead of your inventory.|Some missions require you to gather resources on your person. For these, you will have to go back to your ship to collect the resources.|Yes|
-|[Faster Cell Lookup](https://www.nexusmods.com/starfield/mods/17211)|Generates missing OFST data for plugins for faster cell loading and reduced stutter|I've not noticed any real difference with this enable but some people say it improves things for them|Yes|
 |[Immersive Driving - SFSE](https://www.nexusmods.com/starfield/mods/11253?tab=files) and related ini files||See mod page for configuring, including key mapping|Yes|
 |[Native Ultrawide Menus - SFSE - Resource](https://www.nexusmods.com/starfield/mods/9410)||The Creations menu is not functional while having this mod active (buttons are misaligned)|Yes|
 |[No Vehicle Auto Handbrake - SFSE](https://www.nexusmods.com/starfield/mods/12684)|Disables the auto handbrake, use the 'ctrl' key|For controller users, you will need to map the 'ctrl' key to your controller [map the command via the virtual keyboard](https://github.com/eljefe303030/Melius/blob/96dc3f04f50b2083981c5843a8321bb02447f8fd/assets/docs/MWS%20Xbox%20Controller%20layout%20instructions.md).|Yes|
 |[No Vehicle Mouse Steering - SFSE](https://www.nexusmods.com/starfield/mods/11135)|Disables mouse steering for Land Vehicles|Seperate version included for controller users|Yes|
 |[Smart Aiming - Third to First Person - SFSE - Plugin](https://www.nexusmods.com/starfield/mods/11706)|Automatically switch to first person when aiming your weapon, and back to third person upon release.|**Enable the 'Camera Switch Compatibility' within the Scopes Without Overlays section of the Gameplay Options if using this mod.** Ini provided to change settings, see mod page for more details.|Yes|
-|[Starfield Memory Fixes](https://www.nexusmods.com/starfield/mods/14925)|The plugin periodically checks Starfield's working set, pagefile usage, and available system RAM. When available system memory falls below the configured threshold, MemoryFixes can request a working set trim through Windows memory management functions.||Yes|
+
+**04.1a CORE MODS - QOL TWEAKS**
+|Mod|Description|Comments|Safe to enable/disable mid save|
+|---|---|---|---|
+|[Advanced Hand Scanner](https://www.nexusmods.com/starfield/mods/12692)|Reduces the number of scans required for plants and animals to 4 from 8. It you have a fancy scanner, I'm sure it doesn't need to scan things 8 times. Increases distance scanner works at to 50 (default is 10)||Yes|
 
 **05.1 CORE MODS - QUEST ALTERATIONS**
 |Mod|Description|Comments|Safe to enable/disable mid save|
@@ -201,7 +202,7 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |---|---|---|---|
 |[Better Button Prompts - PS4 - PS5 - Switch](https://www.nexusmods.com/starfield/mods/478)|Enable button prompts for PlayStation DualShock/DualSense Controllers or Nintendo Switch-based controllers with any language.||Yes|
 |[Bigger Systems - Expanded Star Maps](https://www.nexusmods.com/starfield/mods/14256)|This mod expands the scale of planetary systems on the starmap, creating the illusion of much larger and more realistic distances between celestial bodies.|**Enabled by default**|Yes|
-|~~[CharGenMenu](https://www.nexusmods.com/starfield/mods/6850)~~|~~Modifies the vanilla CharGenMenu to show numbers, compacts vertical space to show more sliders, adds JSON presets, and more.~~|~~**Can cause random crashes in the character creation screen. Recommended to keep this mod disabled, especially if you are starting the game without an alternative start mod. You can always enable the mod later on and visit Enhance to load presets.**~~|~~Yes~~|
+|[CharGenMenu](https://www.nexusmods.com/starfield/mods/6850)|Modifies the vanilla CharGenMenu to show numbers, compacts vertical space to show more sliders, adds JSON presets, and more.|**Disable if causes random crashes in the character creation screen. You can always enable the mod later on and visit Enhance to load presets.**|Yes|
 |[CHRONOMARK FieldOS - Dynamic HUD Skin Pack for HONKCORE](https://www.nexusmods.com/starfield/mods/17491)|A tactical HUD skin set for HONKCORE - Dynamic Custom HUD.|**Enabled by default**. Includes patch by Ashkenas/Blackylock that adjusts this to include changes, such as HUD visible in 3rd person and the scanner for enemies works only on scanner mode while on combat.2nd preset enabled by default that disables Stealth Meter (see notes)|Yes|
 |[Favorites Menu Extended - SFSE](https://www.nexusmods.com/starfield/mods/14314)|SFSE mod that let's you have up to 24 Favorite Items.|Does not always work well with controllers.|Yes|
 |No Scanner Circle and Vignette - No Crosshair patch.|Removes the crosshair in scanner view.|**Enabled by default**|Yes|
@@ -264,16 +265,6 @@ Within the left hand pane of MO2 there are several separator sections marked as 
 |El Jefe Combat AI Stealth Patch.|Enabling this will make stealth play more viable but will reduce enemy awareness and therefore make the game easier and less realistic.||Yes|
 |[Human Damage multiplier options](https://www.nexusmods.com/starfield/mods/12603)|Choose a higher/lower multipler here if you want headshots to you and enemies to do more/less damage.||Yes|
 |[Remove Auto Aim](https://www.nexusmods.com/starfield/mods/14096)|Removes the auto aim from the game. When shooting, if you see the red crosshair appearing to correct your aim, that is the auto aim kicking in, this mod simply disables that. Want to get the satisfaction of knowing direct hits are down to your skill and accuracy, then this mod is for you.|**Enabled by default**|Yes|
-
-**50.1 SPACE COMBAT**
-|Mod|Description|Comments|Safe to enable/disable mid save|
-|---|---|---|---|
-|El Jefe Space Combat AI - Detection Buff patch|All enemies have increased detection range. You will need to power down ship systems before grav jumping if you don't want to be detected.|Not recommended for beginners|Yes|
-
-**58.1 BEAUTY & APPEARANCE**
-|Mod|Description|Comments|Safe to enable/disable mid save|
-|---|---|---|---|
-|[NPC Height Variation Toolkit](https://www.nexusmods.com/starfield/mods/7466)|Realistically resizes all human NPCs in the game. NPCs are no longer all the same height. Included patch that fix an issue if playing with a female character, in third person and when aiming down sights, as well as [No Rescale on Interact](https://www.nexusmods.com/starfield/mods/7945) that disables automatic rescaling of characters on interaction with furniture and terminals so they don't visibly shrink/grow when sitting, standing, operating computers/workstations, etc.|Characters can clip furniture when using this mod e.g. when sitting or leaning at desks.|Yes|
 
 **64 LO SENSITIVE - ALTERNATIVE START**
 > [!IMPORTANT]
