@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 2.0 (released 22/09/26)](#version-20)
 * [Version 1.5 (released 11/08/26)](#version-15)
 * [Version 1.4 (released 08/07/26)](#version-14)
 * [Version 1.3 (released 24/06/26)](#version-13)
@@ -19,6 +20,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 2.0
+
 **Recommended to start with a new save but likely to be save safe if updating from version 1.5 as long as you:**
 * Install [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) mods, enable in MO2 and then following the instructions on their mod pages to uninstall.
 * Disable and re-enable Real Fuel via Gameplay Options before updating the list and then reenable after updating.
@@ -29,7 +32,9 @@ Running commentary of what I am planning for the next version.
 * More reasons to collect resources and upgrade items
 * Improved visuals, especially in HDR
 * Improved balancing of weapons
-* Major rebalance of gameplay, based on Ascension and Serenity of Stars values for NPC health, XP gains and levels of resistance.
+* Major rebalance of gameplay, based on Ascension and Serenity of Stars values for NPC health and levels of resistance.
+
+<details>
 
 ### Added 
 * Additional Armor Mods
@@ -106,6 +111,8 @@ Running commentary of what I am planning for the next version.
 * Scopes Without Overlays
 * Starfield Memory Fixes
 * Swap and Save Weapon and Armor Mods - The Good Ol' Fallout Mods Restored - SFSE
+
+</details>
 
 ## Version 1.5
 
