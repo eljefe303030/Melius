@@ -449,7 +449,7 @@ A. I believe so, use Proton GE 10-34  or if not, the following mods will need to
 
 **Q. Is it compatible with Watchtower**
 
-A. Yes but with limitations. You will need to click on the Archives tab in MO2, find the archive `kinggathcreations_spaceship - main.ba2`, right click it and choose extract. Make sure Watchtower is below the User Interface sections in the left window of MO2. I suggest putting it in section `23 DLC SIZED QUESTS`. Armour, weapons and NPCs won't be balanced to the list. I will release a patch for this at some point.
+A. Yes but with limitations. Armour, weapons and NPCs won't be balanced to the list. I will release a patch for this at some point.
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
