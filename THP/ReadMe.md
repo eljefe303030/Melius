@@ -139,8 +139,6 @@ THP uses the Stock Game method. This is essentially a copy of Starfield included
 
 1. [El Jefe Combat AI](https://www.nexusmods.com/starfield/mods/13194) and [Bedlam](https://www.nexusmods.com/starfield/mods/10717) to make combat more fun and interesting
 2. [El Jefe Space Combat AI](https://www.nexusmods.com/starfield/mods/15386) Changes how enemies act, space combat will be more varied and more difficult. All enemies now have increased detection range. You will need to power down ship systems before grav jumping if you don't want to be detected on arrival. Missile seeking strength has been decreased slightly to enable to you to take evasive maneuvers to avoid being hit.
-> [!IMPORTANT]
-> if you are playing the game for the first time, before you travel to Venus in the Old Neighbourhood quest, you will need to reduce all ship power systems to zero, except 1 bar in engines. Otherwise you will be attacked on sight, as the enemy will detect you on arrival.
 3. [THP - Delevelled](https://www.nexusmods.com/starfield/mods/17201) Delevels Starfield so you are placed in the world, it doesn't revolve around you.
 4. [Minerals Overhaul](https://www.nexusmods.com/starfield/mods/11894) Changes how mining resources works and feels. More in-depth mining systems. New attachments. Better skill development.
 > [!IMPORTANT]
