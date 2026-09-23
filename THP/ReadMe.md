@@ -339,13 +339,11 @@ For controllers you may need to [map the command via the virtual keyboard](https
 **Display**
 * Set to HDR if you have a HDR capable monitor
   ![SDR/HDR](https://github.com/eljefe303030/Melius/blob/cc6ca533b1eb6e63426a9f4cee0a37464d256f22/THP/assets/images/SDR-HDR%20settings.png)
-* Contrast set to 0.93 then adjust brightness to whatever value you prefer, I have mine set to 2.41.
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * VSync - off
 * Sharpening 0%
 * Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade.
-  * Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).   
-* Film Grain Intensity set to zero
+  * Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).
 
 ## Note for Content Creators
 
