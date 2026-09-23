@@ -338,6 +338,7 @@ For controllers you may need to [map the command via the virtual keyboard](https
 **Display**
 * Set to HDR if you have a HDR capable monitor
   ![SDR/HDR](https://github.com/eljefe303030/Melius/blob/cc6ca533b1eb6e63426a9f4cee0a37464d256f22/THP/assets/images/SDR-HDR%20settings.png)
+* Contrast to between 60% to 75% depending on how dark you like your darks and your monitor
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * VSync - off
 * Sharpening 0%
