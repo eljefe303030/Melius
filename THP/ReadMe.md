@@ -341,6 +341,7 @@ For controllers you may need to [map the command via the virtual keyboard](https
 * Lower Crowd Density if you need more FPS in busy areas like New Atlantis
 * VSync - off
 * Sharpening 0%
+* Film Grain Intensity 0%
 * Disable frame generation if you get crashes. Otherwise use the correct one for your hardware if needed. Do not use sharpening in both gpu driver and ReShade.
   * Personally, I find playing with the XeSS Quality frame generation preset provides the best experience for me, much better than FSR on an AMD card (go figure!).
 
