@@ -21,6 +21,13 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Removed
+* Ship Vendor Fix
+
+### Updated
+* Qwerty's Mini Fixes
+* Qwerty's Mini Fixes for Shattered Space
+
 ## Version 2.0.1
 
 **Save safe to update from 2.0** 
