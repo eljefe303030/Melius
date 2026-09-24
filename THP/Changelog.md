@@ -20,6 +20,11 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+**Recommended to start with a new save but likely to be save safe if updating from version 1.5 as long as you:**
+* Install [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) mods, enable in MO2 and then following the instructions on their mod pages to uninstall.
+* Disable and re-enable Real Fuel via Gameplay Options before updating the list and then reenable after updating.
+* If updating from version 1.4 or below, will require a new game/save
+
 ### Main Changes
 Hotfix release to fix Ship Service Technicians menu not taking you to the shipbuilder screen and random crash at character creation screen.
 UI improvement
