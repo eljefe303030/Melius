@@ -31,6 +31,9 @@ UI improvement
 * Random crash at character creation screen
 * Ship Service Technicians menu not taking you to the shipbuilder screen
 
+### Removed
+* Disable XP Bar
+
 ## Version 2.0
 
 **Recommended to start with a new save but likely to be save safe if updating from version 1.5 as long as you:**
