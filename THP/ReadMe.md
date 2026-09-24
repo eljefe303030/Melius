@@ -374,18 +374,17 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-## Version 2.0
+## Version 2.0.1
+**Save safe to update from 2.0** 
+
 **Recommended to start with a new save but likely to be save safe if updating from version 1.5 as long as you:**
 * Install [Flashy(JoeR) - Spaceships Plus](https://www.nexusmods.com/starfield/mods/17034) mods, enable in MO2 and then following the instructions on their mod pages to uninstall.
 * Disable and re-enable Real Fuel via Gameplay Options before updating the list and then reenable after updating.
 * If updating from version 1.4 or below, will require a new game/save
 
-### Main changes
-* Bug fixes
-* More reasons to collect resources and upgrade items
-* Improved visuals, especially in HDR
-* Improved balancing of weapons
-* Major rebalance of gameplay, based on Ascension and Serenity of Stars values for NPC health and levels of resistance.
+### Main Changes
+Hotfix release to fix Ship Service Technicians menu not taking you to the shipbuilder screen and random crash at character creation screen.
+UI improvement
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/THP/Changelog.md)
 
