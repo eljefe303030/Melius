@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 2.0.1 (released 24/09/26)](#version-201)
 * [Version 2.0 (released 22/09/26)](#version-20)
 * [Version 1.5 (released 11/08/26)](#version-15)
 * [Version 1.4 (released 08/07/26)](#version-14)
