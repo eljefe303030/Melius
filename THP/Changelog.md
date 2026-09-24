@@ -21,7 +21,11 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Added
+* Mass Matters
+
 ### Removed
+* Flashy(JoeR) - Hardcore Encumbrance
 * Ship Vendor Fix
 
 ### Updated
