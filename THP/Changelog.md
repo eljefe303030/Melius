@@ -20,6 +20,16 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Main Changes
+Hotfix release to fix Ship Service Technicians menu not taking you to the shipbuilder screen
+UI improvement
+
+### Added
+* Enhanced Subtitles
+
+### Fixed
+* Random crash at character creation screen
+
 ## Version 2.0
 
 **Recommended to start with a new save but likely to be save safe if updating from version 1.5 as long as you:**
