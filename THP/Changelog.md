@@ -21,7 +21,7 @@
 Running commentary of what I am planning for the next version. 
 
 ### Main Changes
-Hotfix release to fix Ship Service Technicians menu not taking you to the shipbuilder screen
+Hotfix release to fix Ship Service Technicians menu not taking you to the shipbuilder screen and random crash at character creation screen.
 UI improvement
 
 ### Added
@@ -29,6 +29,7 @@ UI improvement
 
 ### Fixed
 * Random crash at character creation screen
+* Ship Service Technicians menu not taking you to the shipbuilder screen
 
 ## Version 2.0
 
