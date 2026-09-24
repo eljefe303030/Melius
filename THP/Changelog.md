@@ -20,6 +20,8 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 2.0.1
+
 **Save safe to update from 2.0** 
 
 **Recommended to start with a new save but likely to be save safe if updating from version 1.5 as long as you:**
@@ -31,6 +33,8 @@ Running commentary of what I am planning for the next version.
 Hotfix release to fix Ship Service Technicians menu not taking you to the shipbuilder screen and random crash at character creation screen.
 UI improvement
 
+<details>
+
 ### Added
 * Enhanced Subtitles
 
@@ -40,6 +44,8 @@ UI improvement
 
 ### Removed
 * Disable XP Bar
+
+</details>
 
 ## Version 2.0
 
