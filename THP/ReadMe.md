@@ -451,7 +451,7 @@ A. I believe so, use Proton GE 10-34  or if not, the following mods will need to
 
 **Q. Is it compatible with Watchtower**
 
-A. Yes but with limitations. Armour, weapons and NPCs won't be balanced to the list. I will release a patch for this at some point.
+A. Yes, place anywhere in the load order and download the patch from Nexus within the optional files section of the [The Hardline Protocol - Wabbajack Mod List](https://www.nexusmods.com/starfield/mods/17249?tab=files). Thanks to Malakh for their contribution to this.
 
 ## Support
 Use the [Discord server](https://discord.gg/ZyakMg7CGN)
