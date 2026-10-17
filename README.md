@@ -405,21 +405,12 @@ Select and run the 'Starfield Shader Cache Reset Tool' and follow the on-screen 
 
 ## Changelog
 
-**3.4.0**
+**3.4.1**
 
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
 
-* Lots of new spaceships to buy, see, fly and battle with
-* Bug fixes
-* Improvements to space combat
-* Added armours and clothing (thanks to Evanidus14 for the patches)
-* Visual improvements
-* Removed XPL ammo and rocket launchers from Spacers and Crimson Fleet
-* Reduced spaceship docking and looting distance to 55 to make performing these actions more immersive
-* Re-added key commands to rotate objects in outpost builder
-* Changed the fabrication table to ammo workbench
-* Removed extra and redundant ammo workbench
-* New Workbenches Essential Framework NWEF - multiple patches updated
+* Updated to install with version 1.16.242.0. Still downgrades to version 1.15.222.0
+* Fixed Walter's legs not showing
 
 [Full Changelog](https://github.com/eljefe303030/Melius/blob/main/changelog.md)
 
