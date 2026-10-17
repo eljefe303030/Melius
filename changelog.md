@@ -5,6 +5,7 @@
 
 <details>
 
+* [Version 3.4.1 (released 13/06/2026)](#version-341)
 * [Version 3.4.0 (released 15/05/2026)](#version-340)
 * [Version 3.3.0 (released 25/02/2026)](#version-330)
 * [Version 3.2.0 (released 06/02/2026)](#version-320)
@@ -32,10 +33,17 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+## Version 3.4.1
+**Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
+
 Updated to install with version 1.16.242.0. Still downgrades to version 1.15.222.0.
+
+<details>
 
 ### Fixed
 * Walter's legs not showing
+
+</details>
 
 ## Version 3.4.0
 **Save game safe if updating from 3.2.0. Will need a new game if updating from 3.1.0 or older**
