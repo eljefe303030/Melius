@@ -29,10 +29,18 @@ Running commentary of what I am planning for the next version.
 * Ship Vendor Fix
 
 ### Updated
+* 50 GS
+* Complete Weather Overhaul
 * Console Command Runner Updated
+* Cost Of Spacing
+* Immersive Driving - SFSE
+* Kriss Vector Gen 2
+* Menu Lag Fix
+* No Vehicle Mouse Steering - SFSE
 * Qwerty's Mini Fixes
 * Qwerty's Mini Fixes for Shattered Space
 * Starfield Engine Fixes - SFSE
+* TN's Textile Perk Restored (Clothing System Overhaul)
 
 ## Version 2.0.1
 
