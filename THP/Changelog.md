@@ -32,6 +32,7 @@ Running commentary of what I am planning for the next version.
 * Console Command Runner Updated
 * Qwerty's Mini Fixes
 * Qwerty's Mini Fixes for Shattered Space
+* Starfield Engine Fixes - SFSE
 
 ## Version 2.0.1
 
