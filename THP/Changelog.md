@@ -39,7 +39,10 @@ Running commentary of what I am planning for the next version.
 * No Vehicle Mouse Steering - SFSE
 * Qwerty's Mini Fixes
 * Qwerty's Mini Fixes for Shattered Space
+* Resupply - Immersive and Functional Outpost Expansion Pack
 * Starfield Engine Fixes - SFSE
+* Starmap Cruise - Jump and Cruise from Starmap
+* TN's Class M (and Starborn Guardian) Ship Building
 * TN's Textile Perk Restored (Clothing System Overhaul)
 
 ## Version 2.0.1
