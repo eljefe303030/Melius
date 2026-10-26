@@ -29,6 +29,7 @@ Running commentary of what I am planning for the next version.
 * Ship Vendor Fix
 
 ### Updated
+* Console Command Runner Updated
 * Qwerty's Mini Fixes
 * Qwerty's Mini Fixes for Shattered Space
 
