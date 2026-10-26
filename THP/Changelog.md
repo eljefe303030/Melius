@@ -27,6 +27,7 @@ Running commentary of what I am planning for the next version.
 
 ### Removed
 * Flashy(JoeR) - Hardcore Encumbrance
+* Security Checkpoints Dialog Fixes
 * Ship Vendor Fix
 
 ### Updated
