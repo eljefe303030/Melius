@@ -23,6 +23,7 @@ Running commentary of what I am planning for the next version.
 
 ### Added
 * Mass Matters
+* OSF Settings - Mod Configuration Menu (MCM)
 
 ### Removed
 * Flashy(JoeR) - Hardcore Encumbrance
@@ -33,16 +34,22 @@ Running commentary of what I am planning for the next version.
 * Complete Weather Overhaul
 * Console Command Runner Updated
 * Cost Of Spacing
+* The Gang's All Here - Multiple Companions and Crew
+* Graf's Habs - Nova Galactic 1x1s
 * Immersive Driving - SFSE
 * Kriss Vector Gen 2
 * Menu Lag Fix
 * No Vehicle Mouse Steering - SFSE
+* OSF UI - Web Interface Framework
 * Qwerty's Mini Fixes
 * Qwerty's Mini Fixes for Shattered Space
 * Resupply - Immersive and Functional Outpost Expansion Pack
+* Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
 * Starmap Cruise - Jump and Cruise from Starmap
 * TN's Class M (and Starborn Guardian) Ship Building
+* TN's Ship Modifications All in One
+* TN's Space Mining and Salvage
 * TN's Textile Perk Restored (Clothing System Overhaul)
 
 ## Version 2.0.1
