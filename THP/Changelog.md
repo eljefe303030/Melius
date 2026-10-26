@@ -22,6 +22,7 @@
 Running commentary of what I am planning for the next version. 
 
 ### Added
+* AEGIS - Adaptive HUD and Notices
 * Mass Matters
 * OSF Settings - Mod Configuration Menu (MCM)
 
