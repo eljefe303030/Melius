@@ -50,6 +50,7 @@ Running commentary of what I am planning for the next version.
 * Roleplayers' Alternate Start
 * Starfield Engine Fixes - SFSE
 * Starmap Cruise - Jump and Cruise from Starmap
+* THP Delevelled
 * TN's Class M (and Starborn Guardian) Ship Building
 * TN's Ship Modifications All in One
 * TN's Space Mining and Salvage
