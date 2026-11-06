@@ -30,6 +30,7 @@ Running commentary of what I am planning for the next version.
 * Flashy(JoeR) - Hardcore Encumbrance
 * Security Checkpoints Dialog Fixes
 * Ship Vendor Fix
+* VanillA-Plus -- Apparel Unlocked (RTFP)
 
 ### Updated
 * 50 GS
