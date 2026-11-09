@@ -27,9 +27,16 @@ Running commentary of what I am planning for the next version.
 * OSF Settings - Mod Configuration Menu (MCM)
 
 ### Removed
+* Believable Crime Report Radius
 * Flashy(JoeR) - Hardcore Encumbrance
+* Heller Had A Shower CLEAN Version
+* No Legendary Re-Rolls
 * Security Checkpoints Dialog Fixes
+* Shattered Space X-Tech Integration
 * Ship Vendor Fix
+* Slightly Darker Nights
+* Supervisor Lin Clean
+* Trackers Primer Magazine Cover Fix
 * VanillA-Plus -- Apparel Unlocked (RTFP)
 
 ### Updated
