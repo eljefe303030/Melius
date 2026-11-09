@@ -21,6 +21,12 @@
 ## Version X (release date: T-minus whenever it feels right)
 Running commentary of what I am planning for the next version. 
 
+### Main Changes
+* Bug fixes
+* Improved combat AI
+* Major rebalancing of gameplay
+* Removed space magic from clothes e.g. clothes giving extra health or higher chances of research developments
+
 ### Added
 * AEGIS - Adaptive HUD and Notices
 * Mass Matters
