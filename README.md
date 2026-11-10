@@ -41,7 +41,7 @@ This version of Melius will downgrade your game to version 1.15.222, which is th
 * [Gameplay Guide](#gameplay-guide)
   * [Additional Key Commands](#additional-key-commands) 
 * [Recommended Settings](#recommended-settings)
-* [Note for Content Creators](note-for-content-creators)
+* [Note for Content Creators](#note-for-content-creators)
 * [Known Issues](#known-issues)
 * [Troubleshooting](#troubleshooting)
 * [Changelog](#changelog)
