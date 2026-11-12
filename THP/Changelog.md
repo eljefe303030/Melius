@@ -35,7 +35,9 @@ Running commentary of what I am planning for the next version.
 ### Removed
 * Believable Crime Report Radius
 * Flashy(JoeR) - Hardcore Encumbrance
+* Freelanes Spacesuit fixes
 * Heller Had A Shower CLEAN Version
+* Immersive Shell Casings
 * No Legendary Re-Rolls
 * Security Checkpoints Dialog Fixes
 * Shattered Space X-Tech Integration
