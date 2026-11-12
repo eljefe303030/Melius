@@ -52,6 +52,7 @@ Running commentary of what I am planning for the next version.
 * Complete Weather Overhaul
 * Console Command Runner Updated
 * Cost Of Spacing
+* El Jefe Space Combat AI
 * El Jefe Weapons Overhaul
 * The Gang's All Here - Multiple Companions and Crew
 * Graf's Habs - Nova Galactic 1x1s
