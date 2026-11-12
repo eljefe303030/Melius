@@ -55,6 +55,7 @@ Running commentary of what I am planning for the next version.
 * El Jefe Weapons Overhaul
 * The Gang's All Here - Multiple Companions and Crew
 * Graf's Habs - Nova Galactic 1x1s
+* Human Damage
 * Immersive Driving - SFSE
 * Kriss Vector Gen 2
 * Menu Lag Fix
